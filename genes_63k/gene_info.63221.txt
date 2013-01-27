@@ -1,37 +1,37 @@
-63221	6775062	trnT	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20100120
-63221	6775063	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20110101
-63221	6775064	trnE	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20101205
-63221	6775065	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20110101
-63221	6775066	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20110101
-63221	6775067	trnL	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20091202
-63221	6775068	trnS	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20090415
-63221	6775069	trnH	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20100407
-63221	6775070	trnR	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20101205
-63221	6775071	ND4L	-	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20110108
-63221	6775072	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20110101
-63221	6775073	COX3	-	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20100120
-63221	6775074	ATP6	-	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20110101
-63221	6775075	trnG	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20100407
-63221	6775076	ND3	-	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20110101
-63221	6775077	ATP8	-	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20110101
-63221	6775078	trnK	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20100407
-63221	6775079	COX2	-	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20110813
-63221	6775080	trnS	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20090415
-63221	6775081	trnD	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20100120
-63221	6775082	trnY	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20090415
-63221	6775083	COX1	-	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20110319
-63221	6775084	trnC	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20100407
-63221	6775085	16S rRNA	-	-	-	MT	-	l-rRNA	rRNA	-	-	-	-	20090415
-63221	6775086	trnL	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20090415
-63221	6775087	12S rRNA	-	-	-	MT	-	s-rRNA	rRNA	-	-	-	-	20100510
-63221	6775088	trnF	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20090624
-63221	6775089	trnP	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20090415
-63221	6775090	trnV	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20100407
-63221	6775091	trnN	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20100407
-63221	6775092	trnW	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20100407
-63221	6775093	trnA	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20090415
-63221	6775094	ND2	-	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20110101
-63221	6775095	trnQ	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20101205
-63221	6775096	trnM	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20091202
-63221	6775097	trnI	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20100407
-63221	6775098	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20110122
+63221	6775062	trnT	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
+63221	6775063	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20120920
+63221	6775064	trnE	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
+63221	6775065	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20120920
+63221	6775066	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20120920
+63221	6775067	trnL	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
+63221	6775068	trnS	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
+63221	6775069	trnH	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
+63221	6775070	trnR	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
+63221	6775071	ND4L	-	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20120920
+63221	6775072	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20120920
+63221	6775073	COX3	-	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20120920
+63221	6775074	ATP6	-	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20120920
+63221	6775075	trnG	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
+63221	6775076	ND3	-	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20120920
+63221	6775077	ATP8	-	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20120920
+63221	6775078	trnK	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
+63221	6775079	COX2	-	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20130112
+63221	6775080	trnS	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
+63221	6775081	trnD	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
+63221	6775082	trnY	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
+63221	6775083	COX1	-	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20120920
+63221	6775084	trnC	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
+63221	6775085	16S rRNA	-	-	-	MT	-	l-rRNA	rRNA	-	-	-	-	20120920
+63221	6775086	trnL	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
+63221	6775087	12S rRNA	-	-	-	MT	-	s-rRNA	rRNA	-	-	-	-	20120920
+63221	6775088	trnF	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
+63221	6775089	trnP	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
+63221	6775090	trnV	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
+63221	6775091	trnN	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
+63221	6775092	trnW	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
+63221	6775093	trnA	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
+63221	6775094	ND2	-	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20120920
+63221	6775095	trnQ	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
+63221	6775096	trnM	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
+63221	6775097	trnI	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
+63221	6775098	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20121006
