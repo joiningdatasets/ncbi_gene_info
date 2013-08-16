@@ -1,0 +1,13 @@
+32536	2654012	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20120919
+32536	2654013	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20120919
+32536	2654014	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20120919
+32536	2654015	COX2	-	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20120919
+32536	2654016	ATP8	-	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20120919
+32536	2654017	ATP6	-	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20120919
+32536	2654018	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20120919
+32536	2654019	ND2	-	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20120919
+32536	2654020	COX1	-	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20120919
+32536	2654021	COX3	-	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20120919
+32536	2654022	ND3	-	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20120919
+32536	2654023	ND4L	-	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20120919
+32536	2654024	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20120919

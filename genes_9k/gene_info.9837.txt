@@ -1,0 +1,13 @@
+9837	5309934	ATP6	-	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20120919
+9837	5309935	COX3	-	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20120919
+9837	5309936	ND4L	-	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20120919
+9837	5309937	ND2	-	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20120919
+9837	5309938	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20120919
+9837	5309939	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20120919
+9837	5309940	COX2	-	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20120919
+9837	5309941	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20120919
+9837	5309942	ATP8	-	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20120919
+9837	5309943	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20120919
+9837	5309944	ND3	-	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20120919
+9837	5309945	COX1	-	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20120919
+9837	5309946	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20120919

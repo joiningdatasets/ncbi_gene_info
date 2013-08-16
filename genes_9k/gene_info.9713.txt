@@ -1,0 +1,37 @@
+9713	4355824	12S rRNA	-	-	-	MT	-	s-rRNA	rRNA	-	-	-	-	20120919
+9713	4355825	16S rRNA	-	-	-	MT	-	l-rRNA	rRNA	-	-	-	-	20120919
+9713	4355826	ATP6	-	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20120919
+9713	4355827	ATP8	-	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20120919
+9713	4355828	COX1	-	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20120919
+9713	4355829	COX2	-	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20120919
+9713	4355830	COX3	-	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20120919
+9713	4355831	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20120919
+9713	4355832	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20120919
+9713	4355833	ND2	-	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20120919
+9713	4355834	ND3	-	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20120919
+9713	4355835	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20120919
+9713	4355836	ND4L	-	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20120919
+9713	4355837	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20120919
+9713	4355838	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20120919
+9713	4355839	tRNA-Ala	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+9713	4355840	tRNA-Arg	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+9713	4355841	tRNA-Asn	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+9713	4355842	tRNA-Asp	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+9713	4355843	tRNA-Cys	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+9713	4355844	tRNA-Gln	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+9713	4355845	tRNA-Glu	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+9713	4355846	tRNA-Gly	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+9713	4355847	tRNA-His	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+9713	4355848	tRNA-Ile	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+9713	4355849	tRNA-Leu(CUN)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+9713	4355850	tRNA-Leu(UUR)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+9713	4355851	tRNA-Lys	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+9713	4355852	tRNA-Met	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+9713	4355853	tRNA-Phe	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+9713	4355854	tRNA-Pro	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+9713	4355855	tRNA-Ser(AGY)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+9713	4355856	tRNA-Ser(UCN)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+9713	4355857	tRNA-Thr	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+9713	4355858	tRNA-Trp	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+9713	4355859	tRNA-Tyr	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+9713	4355860	tRNA-Val	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919

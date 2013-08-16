@@ -1,0 +1,36 @@
+51338	10201132	trnF	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
+51338	10201133	trnV	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
+51338	10201134	trnL	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
+51338	10201135	COX3	-	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20120920
+51338	10201136	ATP6	-	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20120920
+51338	10201137	trnS	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
+51338	10201138	trnK	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
+51338	10201139	ND3	-	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20120920
+51338	10201140	trnT	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
+51338	10201141	trnI	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
+51338	10201142	trnW	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
+51338	10201143	trnR	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
+51338	10201144	trnH	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
+51338	10201145	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20120920
+51338	10201146	trnE	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
+51338	10201147	trnN	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
+51338	10201148	ND4L	-	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20120920
+51338	10201149	trnC	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
+51338	10201150	COX2	-	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20120920
+51338	10201151	trnY	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
+51338	10201152	trnM	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
+51338	10201153	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20120920
+51338	10201154	trnS	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
+51338	10201155	trnQ	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
+51338	10201156	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20120920
+51338	10201157	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20120920
+51338	10201158	ATP8	-	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20120920
+51338	10201159	ND2	-	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20120920
+51338	10201160	12S rRNA	-	-	-	MT	-	s-rRNA	rRNA	-	-	-	-	20120920
+51338	10201161	trnD	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
+51338	10201162	trnL	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
+51338	10201163	trnP	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
+51338	10201164	trnA	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
+51338	10201165	COX1	-	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20120920
+51338	10201166	16S rRNA	-	-	-	MT	-	l-rRNA	rRNA	-	-	-	-	20120920
+51338	10227702	trnG	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920

@@ -12,7 +12,7 @@
 741158	8923195	trnR	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20121127
 741158	8923196	trnH	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20121127
 741158	8923197	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20121127
-741158	8923198	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20121127
+741158	8923198	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20130330
 741158	8923199	trnE	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20121127
 741158	8923200	trnC	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20121127
 741158	8923201	ND4L	-	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20121127
@@ -25,7 +25,7 @@
 741158	8923208	trnQ	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20121127
 741158	8923209	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20121127
 741158	8923210	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20121127
-741158	8923211	ATP8	-	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20121127
+741158	8923211	ATP8	-	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20130720
 741158	8923212	ND2	-	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20121127
 741158	8923213	12S rRNA	-	-	-	MT	-	s-rRNA	rRNA	-	-	-	-	20121127
 741158	8923214	trnL	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20121127

@@ -1,0 +1,37 @@
+29088	4356014	tRNA-Val	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+29088	4356015	12S rRNA	-	-	-	MT	-	s-rRNA	rRNA	-	-	-	-	20120919
+29088	4356016	16S rRNA	-	-	-	MT	-	l-rRNA	rRNA	-	-	-	-	20120919
+29088	4356017	ATP6	-	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20120919
+29088	4356018	ATP8	-	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20120919
+29088	4356019	COX1	-	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20120919
+29088	4356020	COX2	-	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20120919
+29088	4356021	COX3	-	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20120919
+29088	4356022	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20120919
+29088	4356023	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20120919
+29088	4356024	ND2	-	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20120919
+29088	4356025	ND3	-	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20120919
+29088	4356026	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20120919
+29088	4356027	ND4L	-	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20120919
+29088	4356028	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20120919
+29088	4356029	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20120919
+29088	4356030	tRNA-Ala	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+29088	4356031	tRNA-Arg	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+29088	4356032	tRNA-Asn	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+29088	4356033	tRNA-Asp	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+29088	4356034	tRNA-Cys	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+29088	4356035	tRNA-Gln	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+29088	4356036	tRNA-Glu	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+29088	4356037	tRNA-Gly	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+29088	4356038	tRNA-His	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+29088	4356039	tRNA-Ile	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+29088	4356040	tRNA-Leu(CUN)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+29088	4356041	tRNA-Leu(UUR)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+29088	4356042	tRNA-Lys	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+29088	4356043	tRNA-Met	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+29088	4356044	tRNA-Phe	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+29088	4356045	tRNA-Pro	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+29088	4356046	tRNA-Ser(AGY)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+29088	4356047	tRNA-Ser(UCN)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+29088	4356048	tRNA-Thr	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+29088	4356049	tRNA-Trp	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+29088	4356050	tRNA-Tyr	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919

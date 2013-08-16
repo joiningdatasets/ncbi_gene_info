@@ -1,0 +1,36 @@
+10185	10200208	trnV	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+10185	10200209	trnL	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+10185	10200210	COX3	-	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20120919
+10185	10200211	ATP6	-	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20120919
+10185	10200212	trnS	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+10185	10200213	trnK	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+10185	10200214	ND3	-	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20120919
+10185	10200215	trnT	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+10185	10200216	trnI	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+10185	10200217	trnW	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+10185	10200218	trnR	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+10185	10200219	trnH	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+10185	10200220	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20120919
+10185	10200221	trnE	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+10185	10200222	trnN	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+10185	10200223	ND4L	-	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20120919
+10185	10200224	trnC	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+10185	10200225	COX2	-	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20120919
+10185	10200226	trnY	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+10185	10200227	trnM	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+10185	10200228	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20120919
+10185	10200229	trnS	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+10185	10200230	trnQ	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+10185	10200231	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20120919
+10185	10200232	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20120919
+10185	10200233	ATP8	-	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20120919
+10185	10200234	ND2	-	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20120919
+10185	10200235	12S rRNA	-	-	-	MT	-	s-rRNA	rRNA	-	-	-	-	20120919
+10185	10200236	trnD	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+10185	10200237	trnL	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+10185	10200238	trnP	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+10185	10200239	trnA	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+10185	10200240	COX1	-	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20120919
+10185	10200241	16S rRNA	-	-	-	MT	-	l-rRNA	rRNA	-	-	-	-	20120919
+10185	10200242	trnF	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
+10185	10221276	trnG	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919

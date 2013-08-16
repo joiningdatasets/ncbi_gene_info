@@ -1,0 +1,13 @@
+52231	16488941	ND2	-	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20130809
+52231	16488942	COX1	-	-	-	MT	-	cytochrome c oxidase subunit 1	protein-coding	-	-	-	-	20130809
+52231	16488943	COX2	-	-	-	MT	-	cytochrome c oxidase subunit 2	protein-coding	-	-	-	-	20130809
+52231	16488944	ATP8	-	-	-	MT	-	ATP synthase subunit 8	protein-coding	-	-	-	-	20130809
+52231	16488945	ATP6	-	-	-	MT	-	ATP synthase subunit 6	protein-coding	-	-	-	-	20130809
+52231	16488946	COX3	-	-	-	MT	-	cytochrome c oxidase subunit 3	protein-coding	-	-	-	-	20130809
+52231	16488947	ND3	-	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20130809
+52231	16488948	ND4L	-	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20130809
+52231	16488949	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20130809
+52231	16488950	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20130809
+52231	16488951	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20130809
+52231	16488952	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20130809
+52231	16488953	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20130809

@@ -1,0 +1,13 @@
+69297	15089071	ND2	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20130610
+69297	15089072	COX1	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20130610
+69297	15089073	COX2	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20130610
+69297	15089074	ATP8	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20130610
+69297	15089075	ATP6	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20130610
+69297	15089076	COX3	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20130610
+69297	15089077	ND3	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20130610
+69297	15089078	ND4L	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20130610
+69297	15089079	ND4	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20130610
+69297	15089080	ND5	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20130610
+69297	15089081	ND6	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20130610
+69297	15089082	CYTB	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20130610
+69297	15089083	ND1	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20130610

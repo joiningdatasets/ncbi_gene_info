@@ -1,0 +1,35 @@
+34839	15822203	trnI	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
+34839	15822204	trnW(tca)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
+34839	15822205	trnS2(tga)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
+34839	15822206	trnK(ttt)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
+34839	15822207	ATP6	-	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20130720
+34839	15822208	COX3	-	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20130720
+34839	15822209	trnG(tcc)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
+34839	15822210	trnR(tcg)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
+34839	15822211	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20130720
+34839	15822212	trnH(gtg)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
+34839	15822213	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20130720
+34839	15822214	trnE(ttc)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
+34839	15822215	trnT(tgt)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
+34839	15822216	trnV(tac)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
+34839	15822217	trnL2	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
+34839	15822218	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20130720
+34839	15822219	trnM(cat)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
+34839	15822220	ND2	-	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20130720
+34839	15822221	trnA(tgc)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
+34839	15822222	trnN(gtt)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
+34839	15822223	trnC(gca)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
+34839	15822224	trnY(gta)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
+34839	15822225	COX1	-	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20130720
+34839	15822226	trnD(gtc)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
+34839	15822227	COX2	-	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20130720
+34839	15822228	ATP8	-	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20130720
+34839	15822229	ND3	-	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20130720
+34839	15822230	ND4L	-	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20130720
+34839	15822231	trnS1(gct)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
+34839	15822232	trnL1(tag)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
+34839	15822233	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20130720
+34839	15822234	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20130720
+34839	15822235	trnP(tgg)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
+34839	15822236	trnQ(ttg)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
+34839	15822237	trnF(gaa)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
