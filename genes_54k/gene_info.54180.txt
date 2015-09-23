@@ -1,0 +1,13 @@
+54180	18985073	ND2	-	-	-	MT	-	TAA stop codon is completed by the addition of 3' A residues to the mRNA	protein-coding	-	-	-	NADH dehydrogenase subunit 2	20150626
+54180	18985074	COX1	-	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20150626
+54180	18985075	COX2	-	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20150626
+54180	18985076	ATP8	-	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20150626
+54180	18985077	ATP6	-	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20150626
+54180	18985078	COX3	-	-	-	MT	-	TAA stop codon is completed by the addition of 3' A residues to the mRNA	protein-coding	-	-	-	cytochrome c oxidase subunit III	20150626
+54180	18985079	ND3	-	-	-	MT	-	TAA stop codon is completed by the addition of 3' A residues to the mRNA	protein-coding	-	-	-	NADH dehydrogenase subunit 3	20150626
+54180	18985080	ND4L	-	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20150626
+54180	18985081	ND4	-	-	-	MT	-	TAA stop codon is completed by the addition of 3' A residues to the mRNA	protein-coding	-	-	-	NADH dehydrogenase subunit 4	20150626
+54180	18985082	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20150626
+54180	18985083	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20150626
+54180	18985084	CYTB	-	-	-	MT	-	TAA stop codon is completed by the addition of 3' A residues to the mRNA	protein-coding	-	-	-	cytochrome b	20150626
+54180	18985085	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20150626

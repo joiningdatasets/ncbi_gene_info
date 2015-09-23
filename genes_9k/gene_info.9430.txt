@@ -1,0 +1,37 @@
+9430	17046615	trnV	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20131103
+9430	17046616	trnL	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20131103
+9430	17046617	COX3	-	-	-	MT	-	COX3	protein-coding	-	-	-	cytochrome c oxidase subunit III	20150626
+9430	17046618	ATP6	-	-	-	MT	-	ATP6	protein-coding	-	-	-	ATP synthase F0 subunit 6	20150626
+9430	17046619	trnS	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20131103
+9430	17046620	trnK	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20131103
+9430	17046621	trnG	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20131103
+9430	17046622	trnT	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20131103
+9430	17046623	trnI	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20131103
+9430	17046624	trnW	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20131103
+9430	17046625	trnR	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20131103
+9430	17046626	trnH	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20131103
+9430	17046627	ND4	-	-	-	MT	-	ND4	protein-coding	-	-	-	NADH dehydrogenase subunit 4	20150626
+9430	17046628	ND6	-	-	-	MT	-	ND6	protein-coding	-	-	-	NADH dehydrogenase subunit 6	20150718
+9430	17046629	trnE	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20131103
+9430	17046630	trnN	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20131103
+9430	17046631	ND4L	-	-	-	MT	-	ND4L	protein-coding	-	-	-	NADH dehydrogenase subunit 4L	20150626
+9430	17046632	trnC	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20131103
+9430	17046633	COX2	-	-	-	MT	-	COX2	protein-coding	-	-	-	cytochrome c oxidase subunit II	20150626
+9430	17046634	trnY	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20131103
+9430	17046635	trnM	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20131103
+9430	17046636	CYTB	-	-	-	MT	-	CYTB	protein-coding	-	-	-	cytochrome b	20150626
+9430	17046637	ND3	-	-	-	MT	-	ND3	protein-coding	-	-	-	NADH dehydrogenase subunit 3	20150626
+9430	17046638	trnS	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20131103
+9430	17046639	trnQ	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20131103
+9430	17046640	ND1	-	-	-	MT	-	ND1	protein-coding	-	-	-	NADH dehydrogenase subunit 1	20150626
+9430	17046641	ND5	-	-	-	MT	-	ND5	protein-coding	-	-	-	NADH dehydrogenase subunit 5	20150626
+9430	17046642	ATP8	-	-	-	MT	-	ATP8	protein-coding	-	-	-	ATP synthase F0 subunit 8	20150626
+9430	17046643	ND2	-	-	-	MT	-	ND2	protein-coding	-	-	-	NADH dehydrogenase subunit 2	20150626
+9430	17046644	12S rRNA	-	-	-	MT	-	s-rRNA	rRNA	-	-	-	-	20131103
+9430	17046645	trnL	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20131103
+9430	17046646	trnD	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20131103
+9430	17046647	trnP	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20131103
+9430	17046648	trnA	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20131103
+9430	17046649	COX1	-	-	-	MT	-	COX1	protein-coding	-	-	-	cytochrome c oxidase subunit I	20150718
+9430	17046650	16S rRNA	-	-	-	MT	-	l-rRNA	rRNA	-	-	-	-	20131103
+9430	17046651	trnF	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20131103

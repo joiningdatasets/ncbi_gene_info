@@ -2,34 +2,34 @@
 42829	15822240	trnW(tca)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
 42829	15822241	trnS2(tga)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
 42829	15822242	trnK(ttt)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
-42829	15822243	ATP6	-	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20130720
-42829	15822244	COX3	-	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20130720
+42829	15822243	ATP6	-	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20150626
+42829	15822244	COX3	-	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20150626
 42829	15822245	trnG(tcc)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
 42829	15822246	trnR(tcg)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
-42829	15822247	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20130720
+42829	15822247	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20150626
 42829	15822248	trnH(gtg)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
-42829	15822249	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20130720
+42829	15822249	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20150626
 42829	15822250	trnE(ttc)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
 42829	15822251	trnT(tgt)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
 42829	15822252	trnV(tac)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
 42829	15822253	trnL2(taa)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
-42829	15822254	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20130720
+42829	15822254	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20150626
 42829	15822255	trnQ(ttg)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
 42829	15822256	trnM(cat)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
-42829	15822257	ND2	-	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20130720
+42829	15822257	ND2	-	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20150626
 42829	15822258	trnA(tgc)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
 42829	15822259	trnN(gtt)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
 42829	15822260	trnC(gca)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
 42829	15822261	trnY(gta)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
-42829	15822262	COX1	-	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20130720
+42829	15822262	COX1	-	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20150711
 42829	15822263	trnD(gtc)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
-42829	15822264	COX2	-	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20130720
-42829	15822265	ATP8	-	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20130720
-42829	15822266	ND3	-	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20130720
-42829	15822267	ND4L	-	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20130720
+42829	15822264	COX2	-	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20150626
+42829	15822265	ATP8	-	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20150626
+42829	15822266	ND3	-	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20150626
+42829	15822267	ND4L	-	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20150626
 42829	15822268	trnS1(gct)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
 42829	15822269	trnL1(tag)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
-42829	15822270	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20130720
-42829	15822271	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20130720
+42829	15822270	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20150626
+42829	15822271	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20150626
 42829	15822272	trnP(tgg)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
 42829	15822273	trnF(gaa)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614

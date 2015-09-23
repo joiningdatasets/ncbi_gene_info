@@ -1,13 +1,13 @@
-9883	7256458	ND2	-	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20120919
-9883	7256459	COX1	-	-	-	MT	-	cytochrome coxidase subunit I	protein-coding	-	-	-	-	20130330
-9883	7256460	COX2	-	-	-	MT	-	cytochrome coxidase subunit II	protein-coding	-	-	-	-	20120919
-9883	7256461	ATP8	-	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20120919
-9883	7256462	ATP6	-	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20120919
-9883	7256463	COX3	-	-	-	MT	-	cytochrome coxidase subunit III	protein-coding	-	-	-	-	20120919
-9883	7256464	ND3	-	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20120919
-9883	7256465	ND4L	-	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20120919
-9883	7256466	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20120919
-9883	7256467	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20120919
-9883	7256468	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20120919
-9883	7256469	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20120919
-9883	7256470	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20120919
+9883	7256458	ND2	-	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20150626
+9883	7256459	COX1	-	-	-	MT	-	cytochrome coxidase subunit I	protein-coding	-	-	-	-	20150801
+9883	7256460	COX2	-	-	-	MT	-	cytochrome coxidase subunit II	protein-coding	-	-	-	-	20150626
+9883	7256461	ATP8	-	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20150626
+9883	7256462	ATP6	-	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20150626
+9883	7256463	COX3	-	-	-	MT	-	cytochrome coxidase subunit III	protein-coding	-	-	-	-	20150626
+9883	7256464	ND3	-	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20150626
+9883	7256465	ND4L	-	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20150626
+9883	7256466	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20150626
+9883	7256467	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20150626
+9883	7256468	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20150626
+9883	7256469	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20150626
+9883	7256470	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20150626
