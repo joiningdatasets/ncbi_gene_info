@@ -2,19 +2,19 @@
 693431	4356500	tRNA-Val	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20121127
 693431	4356501	12S rRNA	-	-	-	MT	-	s-rRNA	rRNA	-	-	-	-	20121127
 693431	4356502	16S rRNA	-	-	-	MT	-	l-rRNA	rRNA	-	-	-	-	20121127
-693431	4356503	ATP6	-	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20150626
-693431	4356504	ATP8	-	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20150626
-693431	4356505	COX1	-	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20150701
-693431	4356506	COX2	-	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20150626
-693431	4356507	COX3	-	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20150626
-693431	4356508	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20150626
-693431	4356509	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20150626
-693431	4356510	ND2	-	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20150626
-693431	4356511	ND3	-	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20150626
-693431	4356512	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20150626
-693431	4356513	ND4L	-	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20150626
-693431	4356514	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20150626
-693431	4356515	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20150626
+693431	4356503	ATP6	-	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20151028
+693431	4356504	ATP8	-	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20151028
+693431	4356505	COX1	-	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20151028
+693431	4356506	COX2	-	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20151028
+693431	4356507	COX3	-	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20151028
+693431	4356508	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20151028
+693431	4356509	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20151028
+693431	4356510	ND2	-	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20151028
+693431	4356511	ND3	-	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20151028
+693431	4356512	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20151028
+693431	4356513	ND4L	-	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20151028
+693431	4356514	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20151028
+693431	4356515	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20151028
 693431	4356516	tRNA-Ala	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20121127
 693431	4356517	tRNA-Phe	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20121127
 693431	4356518	tRNA-Pro	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20121127

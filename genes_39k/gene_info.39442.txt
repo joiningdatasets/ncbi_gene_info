@@ -4,7 +4,7 @@
 39442	5912278	ND2	-	-	-	MT	-	ND2	protein-coding	-	-	-	NADH dehydrogenase subunit 2	20150626
 39442	5912279	ND4L	-	-	-	MT	-	ND4L	protein-coding	-	-	-	NADH dehydrogenase subunit 4L	20150626
 39442	5912280	COX3	-	-	-	MT	-	COX3	protein-coding	-	-	-	cytochrome c oxidase subunit III	20150626
-39442	5912281	COX2	-	-	-	MT	-	COX2	protein-coding	-	-	-	cytochrome c oxidase subunit II	20150912
+39442	5912281	COX2	-	-	-	MT	-	COX2	protein-coding	-	-	-	cytochrome c oxidase subunit II	20151128
 39442	5912282	ATP6	-	-	-	MT	-	ATP6	protein-coding	-	-	-	ATP synthase F0 subunit 6	20150626
 39442	5912283	ND6	-	-	-	MT	-	ND6	protein-coding	-	-	-	NADH dehydrogenase subunit 6	20150626
 39442	5912284	ATP8	-	-	-	MT	-	ATP8	protein-coding	-	-	-	ATP synthase F0 subunit 8	20150626

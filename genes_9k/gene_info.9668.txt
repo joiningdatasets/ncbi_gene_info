@@ -11,4 +11,4 @@
 9668	14841808	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20150702
 9668	14841809	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20150702
 9668	14841810	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20150702
-9668	15957089	NEWENTRY	-	-	-	-	-	Record to support submission of GeneRIFs for a gene not in Gene (European polecat; Mustela putoris; Putorius putorius).	other	-	-	-	-	20130620
+9668	15957089	NEWENTRY	-	-	-	-	-	Record to support submission of GeneRIFs for a gene not in Gene (European polecat; Mustela putoris; Putorius putorius).	other	-	-	-	-	20151003

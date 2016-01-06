@@ -1,0 +1,37 @@
+83774	26521303	AU113_gt04	AU113_gt04	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151227
+83774	26521304	AU113_gt07	AU113_gt07	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151227
+83774	26521305	AU113_gt12	AU113_gt12	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151227
+83774	26521306	AU113_gt14	AU113_gt14	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151227
+83774	26521307	ATP6	AU113_gp08	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20151227
+83774	26521308	COX3	AU113_gp07	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20151227
+83774	26521309	AU113_gt15	AU113_gt15	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151227
+83774	26521310	AU113_gt16	AU113_gt16	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151227
+83774	26521311	ND4	AU113_gp04	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20151227
+83774	26521312	AU113_gt17	AU113_gt17	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151227
+83774	26521313	ND6	AU113_gp02	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20151227
+83774	26521314	AU113_gt20	AU113_gt20	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151227
+83774	26521315	AU113_gt21	AU113_gt21	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151227
+83774	26521316	AU113_gr02	AU113_gr02	-	-	MT	-	12S ribosomal RNA	rRNA	-	-	-	-	20151227
+83774	26521317	AU113_gt02	AU113_gt02	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151227
+83774	26521318	AU113_gr01	AU113_gr01	-	-	MT	-	16S ribosomal RNA	rRNA	-	-	-	-	20151227
+83774	26521319	AU113_gt03	AU113_gt03	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151227
+83774	26521320	ND1	AU113_gp13	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20151227
+83774	26521321	AU113_gt05	AU113_gt05	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151227
+83774	26521322	AU113_gt06	AU113_gt06	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151227
+83774	26521323	ND2	AU113_gp12	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20151227
+83774	26521324	AU113_gt08	AU113_gt08	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151227
+83774	26521325	AU113_gt09	AU113_gt09	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151227
+83774	26521326	AU113_gt10	AU113_gt10	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151227
+83774	26521327	AU113_gt11	AU113_gt11	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151227
+83774	26521328	COX1	AU113_gp11	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20151227
+83774	26521329	AU113_gt13	AU113_gt13	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151227
+83774	26521330	COX2	AU113_gp10	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20151227
+83774	26521331	ATP8	AU113_gp09	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20151227
+83774	26521332	ND3	AU113_gp06	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20151227
+83774	26521333	ND4L	AU113_gp05	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20151227
+83774	26521334	AU113_gt18	AU113_gt18	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151227
+83774	26521335	AU113_gt19	AU113_gt19	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151227
+83774	26521336	ND5	AU113_gp03	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20151227
+83774	26521337	CYTB	AU113_gp01	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20151227
+83774	26521338	AU113_gt22	AU113_gt22	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151227
+83774	26521339	AU113_gt01	AU113_gt01	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151227

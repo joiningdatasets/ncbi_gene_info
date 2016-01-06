@@ -1,0 +1,51 @@
+526407	26039148	trnP	APK93_gt02	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151011
+526407	26039149	trnV	APK93_gt03	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151011
+526407	26039150	trnI	APK93_gt04	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151011
+526407	26039151	trnM	APK93_gt05	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151011
+526407	26039152	trnM	APK93_gt06	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151011
+526407	26039153	trnM	APK93_gt07	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151011
+526407	26039154	trnF	APK93_gt08	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151011
+526407	26039155	APK93_gr02	APK93_gr02	-	-	MT	-	12S ribosomal RNA	rRNA	-	-	-	-	20151011
+526407	26039156	trnY	APK93_gt10	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151011
+526407	26039157	trnV	APK93_gt11	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151011
+526407	26039158	trnL	APK93_gt12	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151011
+526407	26039159	APK93_gr01	APK93_gr01	-	-	MT	-	16S ribosomal RNA	rRNA	-	-	-	-	20151011
+526407	26039160	trnL	APK93_gt14	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151011
+526407	26039161	ND1	APK93_gp13	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20151015
+526407	26039162	trnI	APK93_gt15	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151011
+526407	26039163	trnQ	APK93_gt16	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151011
+526407	26039164	trnM	APK93_gt17	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151011
+526407	26039165	ND2	APK93_gp12	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20151015
+526407	26039166	trnA	APK93_gt18	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151011
+526407	26039167	trnW	APK93_gt19	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151011
+526407	26039168	trnA	APK93_gt20	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151011
+526407	26039169	trnN	APK93_gt21	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151011
+526407	26039170	trnC	APK93_gt22	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151011
+526407	26039171	trnY	APK93_gt23	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151011
+526407	26039172	COX1	APK93_gp11	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20151015
+526407	26039173	trnS	APK93_gt24	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151011
+526407	26039174	trnS	APK93_gt25	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151011
+526407	26039175	trnD	APK93_gt26	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151011
+526407	26039176	COX2	APK93_gp10	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20151015
+526407	26039177	trnL	APK93_gt27	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151011
+526407	26039178	trnL	APK93_gt28	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151011
+526407	26039179	trnN	APK93_gt29	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151011
+526407	26039180	ATP8	APK93_gp09	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20151015
+526407	26039181	ATP6	APK93_gp08	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20151015
+526407	26039182	COX3	APK93_gp07	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20151015
+526407	26039183	trnG	APK93_gt30	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151011
+526407	26039184	ND3	APK93_gp06	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20151015
+526407	26039185	trnR	APK93_gt31	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151011
+526407	26039186	ND4L	APK93_gp05	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20151015
+526407	26039187	ND4	APK93_gp04	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20151015
+526407	26039188	trnH	APK93_gt32	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151011
+526407	26039189	trnV	APK93_gt33	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151011
+526407	26039190	trnS	APK93_gt34	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151011
+526407	26039191	trnL	APK93_gt35	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151011
+526407	26039192	ND5	APK93_gp03	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20151015
+526407	26039193	ND6	APK93_gp02	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20151015
+526407	26039194	trnE	APK93_gt36	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151011
+526407	26039195	CYTB	APK93_gp01	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20151015
+526407	26039196	trnT	APK93_gt01	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151011
+526407	26039197	trnA	APK93_gt09	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151011
+526407	26039198	trnK	APK93_gt13	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151011
