@@ -3,7 +3,7 @@
 42325	5867472	tRNA-Thr	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
 42325	5867473	tRNA-Ile	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
 42325	5867474	12S rRNA	-	-	-	MT	-	s-rRNA	rRNA	-	-	-	-	20120920
-42325	5867475	ND2	-	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20150626
+42325	5867475	ND2	-	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20160325
 42325	5867476	COX1	-	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20150801
 42325	5867477	tRNA-Lys	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
 42325	5867478	tRNA-Pro	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
@@ -23,7 +23,7 @@
 42325	5867492	tRNA-Phe	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
 42325	5867493	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20150626
 42325	5867494	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20150626
-42325	5867495	COX2	-	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20150626
+42325	5867495	COX2	-	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20160325
 42325	5867496	tRNA-Arg	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
 42325	5867497	tRNA-Tyr	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
 42325	5867498	tRNA-Trp	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920

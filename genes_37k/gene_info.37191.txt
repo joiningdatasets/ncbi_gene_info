@@ -22,7 +22,7 @@
 37191	4356163	12S rRNA	-	-	-	MT	-	s-rRNA	rRNA	-	-	-	-	20120919
 37191	4356164	16S rRNA	-	-	-	MT	-	l-rRNA	rRNA	-	-	-	-	20120919
 37191	4356165	ATP6	-	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20150626
-37191	4356166	ATP8	-	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20150626
+37191	4356166	ATP8	-	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20160325
 37191	4356167	COX1	-	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20150725
 37191	4356168	COX2	-	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20150626
 37191	4356169	COX3	-	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20150626

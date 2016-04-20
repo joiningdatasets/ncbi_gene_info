@@ -1,0 +1,37 @@
+51298	26889500	AZ310_gt04	AZ310_gt04	-	-	MT	-	tRNA	tRNA	-	-	-	-	20160304
+51298	26889501	AZ310_gt07	AZ310_gt07	-	-	MT	-	tRNA	tRNA	-	-	-	-	20160304
+51298	26889502	AZ310_gt12	AZ310_gt12	-	-	MT	-	tRNA	tRNA	-	-	-	-	20160304
+51298	26889503	AZ310_gt14	AZ310_gt14	-	-	MT	-	tRNA	tRNA	-	-	-	-	20160304
+51298	26889504	ATP6	AZ310_gp08	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20160311
+51298	26889505	COX3	AZ310_gp07	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20160311
+51298	26889506	AZ310_gt15	AZ310_gt15	-	-	MT	-	tRNA	tRNA	-	-	-	-	20160304
+51298	26889507	AZ310_gt16	AZ310_gt16	-	-	MT	-	tRNA	tRNA	-	-	-	-	20160304
+51298	26889508	ND4	AZ310_gp04	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20160311
+51298	26889509	AZ310_gt17	AZ310_gt17	-	-	MT	-	tRNA	tRNA	-	-	-	-	20160304
+51298	26889510	ND6	AZ310_gp02	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20160311
+51298	26889511	AZ310_gt20	AZ310_gt20	-	-	MT	-	tRNA	tRNA	-	-	-	-	20160304
+51298	26889512	AZ310_gt21	AZ310_gt21	-	-	MT	-	tRNA	tRNA	-	-	-	-	20160304
+51298	26889513	AZ310_gr02	AZ310_gr02	-	-	MT	-	12S ribosomal RNA	rRNA	-	-	-	-	20160304
+51298	26889514	AZ310_gt02	AZ310_gt02	-	-	MT	-	tRNA	tRNA	-	-	-	-	20160304
+51298	26889515	AZ310_gr01	AZ310_gr01	-	-	MT	-	16S ribosomal RNA	rRNA	-	-	-	-	20160304
+51298	26889516	AZ310_gt03	AZ310_gt03	-	-	MT	-	tRNA	tRNA	-	-	-	-	20160304
+51298	26889517	ND1	AZ310_gp13	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20160311
+51298	26889518	AZ310_gt05	AZ310_gt05	-	-	MT	-	tRNA	tRNA	-	-	-	-	20160304
+51298	26889519	AZ310_gt06	AZ310_gt06	-	-	MT	-	tRNA	tRNA	-	-	-	-	20160304
+51298	26889520	ND2	AZ310_gp12	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20160311
+51298	26889521	AZ310_gt08	AZ310_gt08	-	-	MT	-	tRNA	tRNA	-	-	-	-	20160304
+51298	26889522	AZ310_gt09	AZ310_gt09	-	-	MT	-	tRNA	tRNA	-	-	-	-	20160304
+51298	26889523	AZ310_gt10	AZ310_gt10	-	-	MT	-	tRNA	tRNA	-	-	-	-	20160304
+51298	26889524	AZ310_gt11	AZ310_gt11	-	-	MT	-	tRNA	tRNA	-	-	-	-	20160304
+51298	26889525	COX1	AZ310_gp11	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20160311
+51298	26889526	AZ310_gt13	AZ310_gt13	-	-	MT	-	tRNA	tRNA	-	-	-	-	20160304
+51298	26889527	COX2	AZ310_gp10	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20160311
+51298	26889528	ATP8	AZ310_gp09	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20160311
+51298	26889529	ND3	AZ310_gp06	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20160311
+51298	26889530	ND4L	AZ310_gp05	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20160311
+51298	26889531	AZ310_gt18	AZ310_gt18	-	-	MT	-	tRNA	tRNA	-	-	-	-	20160304
+51298	26889532	AZ310_gt19	AZ310_gt19	-	-	MT	-	tRNA	tRNA	-	-	-	-	20160304
+51298	26889533	ND5	AZ310_gp03	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20160311
+51298	26889534	CYTB	AZ310_gp01	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20160416
+51298	26889535	AZ310_gt22	AZ310_gt22	-	-	MT	-	tRNA	tRNA	-	-	-	-	20160304
+51298	26889536	AZ310_gt01	AZ310_gt01	-	-	MT	-	tRNA	tRNA	-	-	-	-	20160304

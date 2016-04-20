@@ -1,40 +1,40 @@
 79684	16724255	NEWENTRY	-	-	-	-	-	Record to support submission of GeneRIFs for a gene not in Gene (prairie vole; prairie voles).	other	-	-	-	-	20140823
-79684	26045285	ND6	APL10_gp02	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20151212
-79684	26045286	COX1	APL10_gp11	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20151212
+79684	26045285	ND6	APL10_gp02	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20160113
+79684	26045286	COX1	APL10_gp11	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20160113
 79684	26045287	APL10_gt18	APL10_gt18	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151015
-79684	26045288	CYTB	APL10_gp01	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20151212
+79684	26045288	CYTB	APL10_gp01	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20160113
 79684	26045289	APL10_gt02	APL10_gt02	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151015
 79684	26045290	APL10_gt20	APL10_gt20	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151015
 79684	26045291	APL10_gt05	APL10_gt05	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151015
 79684	26045292	APL10_gt22	APL10_gt22	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151015
-79684	26045293	COX3	APL10_gp07	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20151212
+79684	26045293	COX3	APL10_gp07	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20160325
 79684	26045294	APL10_gr01	APL10_gr01	-	-	MT	-	16S ribosomal RNA	rRNA	-	-	-	-	20151015
 79684	26045295	APL10_gt19	APL10_gt19	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151015
 79684	26045296	APL10_gt13	APL10_gt13	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151015
-79684	26045297	ND5	APL10_gp03	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20151212
-79684	26045298	ND4	APL10_gp04	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20151212
+79684	26045297	ND5	APL10_gp03	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20160113
+79684	26045298	ND4	APL10_gp04	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20160113
 79684	26045299	APL10_gt01	APL10_gt01	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151015
 79684	26045300	APL10_gt14	APL10_gt14	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151015
-79684	26045301	COX2	APL10_gp10	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20151212
-79684	26045302	ATP8	APL10_gp09	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20151212
+79684	26045301	COX2	APL10_gp10	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20160113
+79684	26045302	ATP8	APL10_gp09	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20160113
 79684	26045303	APL10_gt09	APL10_gt09	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151015
 79684	26045304	APL10_gt17	APL10_gt17	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151015
 79684	26045305	APL10_gt06	APL10_gt06	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151015
 79684	26045306	APL10_gt11	APL10_gt11	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151015
-79684	26045307	ND2	APL10_gp12	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20151212
+79684	26045307	ND2	APL10_gp12	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20160113
 79684	26045308	APL10_gt04	APL10_gt04	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151015
 79684	26045309	APL10_gt10	APL10_gt10	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151015
 79684	26045310	APL10_gt08	APL10_gt08	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151015
-79684	26045311	ND1	APL10_gp13	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20151212
+79684	26045311	ND1	APL10_gp13	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20160113
 79684	26045312	APL10_gt16	APL10_gt16	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151015
 79684	26045313	APL10_gt03	APL10_gt03	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151015
 79684	26045314	APL10_gt07	APL10_gt07	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151015
 79684	26045315	APL10_gt12	APL10_gt12	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151015
-79684	26045316	ATP6	APL10_gp08	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20151212
+79684	26045316	ATP6	APL10_gp08	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20160325
 79684	26045317	APL10_gr02	APL10_gr02	-	-	MT	-	12S ribosomal RNA	rRNA	-	-	-	-	20151015
 79684	26045318	APL10_gt21	APL10_gt21	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151015
-79684	26045319	ND3	APL10_gp06	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20151212
-79684	26045320	ND4L	APL10_gp05	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20151212
+79684	26045319	ND3	APL10_gp06	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20160325
+79684	26045320	ND4L	APL10_gp05	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20160113
 79684	26045321	APL10_gt15	APL10_gt15	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151015
 79684	101978720	Trnaf-aaa	-	-	-	-	-	transfer RNA phenylalanine (anticodon AAA)	tRNA	-	-	-	-	20150123
 79684	101978721	Trnaf-gaa	-	-	-	2|16|17|LG1|LG7_11|Un	-	transfer RNA phenylalanine (anticodon GAA)	tRNA	-	-	-	-	20151115
@@ -275,7 +275,7 @@
 79684	101979031	Rusc2	-	-	-	LG5	-	RUN and SH3 domain containing 2	protein-coding	-	-	-	-	20160102
 79684	101979032	LOC101979032	-	-	-	LG8	-	40S ribosomal protein S2 pseudogene	pseudo	-	-	-	-	20151115
 79684	101979033	Asip	-	-	-	LG8	-	agouti signaling protein	protein-coding	-	-	-	-	20151115
-79684	101979034	Defb125	-	-	-	LG8	-	defensin, beta 125	protein-coding	-	-	-	-	20150808
+79684	101979034	Defb125	-	-	-	LG8	-	defensin, beta 125	protein-coding	-	-	-	-	20160402
 79684	101979035	CLG12H7orf34	-	-	-	LG12	-	chromosome LG12 open reading frame, human C7orf34	protein-coding	-	-	-	-	20151115
 79684	101979036	LOC101979036	-	-	-	6	-	40S ribosomal protein S6 pseudogene	pseudo	-	-	-	-	20151115
 79684	101979037	Rhov	-	-	-	14	-	ras homolog family member V	protein-coding	-	-	-	-	20151115
@@ -820,7 +820,7 @@
 79684	101979594	Cited1	-	-	-	X	-	Cbp/p300-interacting transactivator, with Glu/Asp-rich carboxy-terminal domain, 1	protein-coding	-	-	-	-	20151115
 79684	101979595	LOC101979595	-	-	-	X	-	NHP2-like protein 1 pseudogene	pseudo	-	-	-	-	20151115
 79684	101979596	LOC101979596	-	-	-	X	-	zinc finger matrin-type protein 1-like	pseudo	-	-	-	-	20151115
-79684	101979597	Zar1	-	-	-	LG1	-	zygote arrest 1	protein-coding	-	-	-	-	20151115
+79684	101979597	Zar1	-	-	-	LG1	-	zygote arrest 1	protein-coding	-	-	-	-	20160130
 79684	101979598	Specc1l	-	-	-	LG2	-	sperm antigen with calponin homology and coiled-coil domains 1-like	protein-coding	-	-	-	-	20151115
 79684	101979599	LOC101979599	-	-	-	LG3	-	60S ribosomal protein L7a pseudogene	pseudo	-	-	-	-	20151115
 79684	101979600	Haao	-	-	-	LG3	-	3-hydroxyanthranilate 3,4-dioxygenase	protein-coding	-	-	-	-	20151115
@@ -1401,7 +1401,7 @@
 79684	101980198	Trappc2l	-	-	-	4	-	trafficking protein particle complex 2-like	protein-coding	-	-	-	-	20151115
 79684	101980199	Agt	-	-	-	4	-	angiotensinogen (serpin peptidase inhibitor, clade A, member 8)	protein-coding	-	-	-	-	20160102
 79684	101980200	Lcn2	-	-	-	4	-	lipocalin 2	protein-coding	-	-	-	-	20160102
-79684	101980202	L3mbtl4	-	-	-	-	-	l(3)mbt-like 4 (Drosophila)	protein-coding	-	-	-	-	20150808
+79684	101980202	L3mbtl4	-	-	-	-	-	l(3)mbt-like 4 (Drosophila)	protein-coding	-	-	-	-	20160402
 79684	101980203	Smarca4	-	-	-	5	-	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4	protein-coding	-	-	-	-	20160102
 79684	101980204	LOC101980204	-	-	-	Un	-	uncharacterized LOC101980204	ncRNA	-	-	-	-	20151115
 79684	101980205	LOC101980205	-	-	-	Un	-	profilin-1	protein-coding	-	-	-	-	20151115
@@ -1667,7 +1667,7 @@
 79684	101980485	Galns	-	-	-	4	-	galactosamine (N-acetyl)-6-sulfatase	protein-coding	-	-	-	galactosamine (N-acetyl)-6-sulfate sulfatase	20160102
 79684	101980486	C4H1orf198	-	-	-	4	-	chromosome 4 open reading frame, human C1orf198	protein-coding	-	-	-	-	20160102
 79684	101980487	C4H9orf16	-	-	-	4	-	chromosome 4 open reading frame, human C9orf16	protein-coding	-	-	-	UPF0184 protein C9orf16 homolog	20151115
-79684	101980488	Frmpd3	-	-	-	Un	-	FERM and PDZ domain containing 3	protein-coding	-	-	-	-	20160102
+79684	101980488	Frmpd3	-	-	-	Un	-	FERM and PDZ domain containing 3	protein-coding	-	-	-	-	20160312
 79684	101980489	Trhr	-	-	-	Un	-	thyrotropin-releasing hormone receptor	protein-coding	-	-	-	-	20151115
 79684	101980490	LOC101980490	-	-	-	Un	-	nucleophosmin pseudogene	pseudo	-	-	-	-	20151115
 79684	101980491	Csgalnact1	-	-	-	Un	-	chondroitin sulfate N-acetylgalactosaminyltransferase 1	protein-coding	-	-	-	-	20151115
@@ -2196,7 +2196,7 @@
 79684	101981039	Ccnd2	-	-	-	Un	-	cyclin D2	protein-coding	-	-	-	-	20151115
 79684	101981040	Crybb2	-	-	-	2	-	crystallin, beta B2	protein-coding	-	-	-	-	20151115
 79684	101981041	Napb	-	-	-	Un	-	N-ethylmaleimide-sensitive factor attachment protein, beta	protein-coding	-	-	-	-	20160102
-79684	101981042	Muc12	-	-	-	2	-	mucin 12, cell surface associated	protein-coding	-	-	-	-	20150808
+79684	101981042	Muc12	-	-	-	2	-	mucin 12, cell surface associated	protein-coding	-	-	-	-	20160402
 79684	101981043	Nup205	-	-	-	Un	-	nucleoporin 205kDa	protein-coding	-	-	-	-	20151115
 79684	101981044	Adipoq	-	-	-	2	-	adiponectin, C1Q and collagen domain containing	protein-coding	-	-	-	-	20151115
 79684	101981045	Agk	-	-	-	Un	-	acylglycerol kinase	protein-coding	-	-	-	-	20160102
@@ -2409,7 +2409,7 @@
 79684	101981258	Omg	-	-	-	7	-	oligodendrocyte myelin glycoprotein	protein-coding	-	-	-	-	20151115
 79684	101981259	LOC101981259	-	-	-	7	-	olfactory receptor 1468-like	protein-coding	-	-	-	-	20151115
 79684	101981260	Kiaa1683	-	-	-	Un	-	KIAA1683 ortholog	protein-coding	-	-	-	-	20160102
-79684	101981261	Smim9	-	-	-	-	-	small integral membrane protein 9	protein-coding	-	-	-	-	20150808
+79684	101981261	Smim9	-	-	-	-	-	small integral membrane protein 9	protein-coding	-	-	-	-	20160402
 79684	101981262	Cdrt1	-	Fbxw10	-	7	-	CMT1A duplicated region transcript 1	protein-coding	-	-	-	F-box and WD repeat domain containing 10	20160102
 79684	101981263	Jmjd4	-	-	-	7	-	jumonji domain containing 4	protein-coding	-	-	-	-	20151115
 79684	101981264	Fam216b	-	-	-	Un	-	family with sequence similarity 216, member B	protein-coding	-	-	-	-	20151115
@@ -3489,7 +3489,7 @@
 79684	101982395	Il17d	-	-	-	17	-	interleukin 17D	protein-coding	-	-	-	-	20151115
 79684	101982396	Ints9	-	-	-	17	-	integrator complex subunit 9	protein-coding	-	-	-	-	20160102
 79684	101982397	LOC101982397	-	-	-	18	-	zinc finger protein 474-like	protein-coding	-	-	-	-	20160102
-79684	101982398	Spink9	-	-	-	18	-	serine peptidase inhibitor, Kazal type 9	protein-coding	-	-	-	-	20150808
+79684	101982398	Spink9	-	-	-	18	-	serine peptidase inhibitor, Kazal type 9	protein-coding	-	-	-	-	20160402
 79684	101982399	Fam69c	-	-	-	18	-	family with sequence similarity 69, member C	protein-coding	-	-	-	-	20151115
 79684	101982401	Pitx2	-	-	-	21	-	paired-like homeodomain 2	protein-coding	-	-	-	-	20151115
 79684	101982402	LOC101982402	-	-	-	21	-	PDZ domain-containing protein 4 pseudogene	pseudo	-	-	-	-	20151115
@@ -3506,7 +3506,7 @@
 79684	101982413	Tmem178a	-	-	-	LG3	-	transmembrane protein 178A	protein-coding	-	-	-	-	20151115
 79684	101982414	Plagl1	-	-	-	LG4	-	pleiomorphic adenoma gene-like 1	protein-coding	-	-	-	-	20151115
 79684	101982415	LOC101982415	-	-	-	LG4	-	paraneoplastic antigen Ma2 homolog	protein-coding	-	-	-	-	20151115
-79684	101982416	Srrm5	-	-	-	LG4	-	serine/arginine repetitive matrix 5	protein-coding	-	-	-	-	20150808
+79684	101982416	Srrm5	-	-	-	LG4	-	serine/arginine repetitive matrix 5	protein-coding	-	-	-	-	20160402
 79684	101982417	LOC101982417	-	-	-	LG4	-	40S ribosomal protein S17-like	pseudo	-	-	-	-	20151115
 79684	101982418	Slc7a13	-	-	-	LG5	-	solute carrier family 7 (anionic amino acid transporter), member 13	protein-coding	-	-	-	-	20151115
 79684	101982419	Ufsp2	-	-	-	LG7_11	-	UFM1-specific peptidase 2	protein-coding	-	-	-	-	20160102
@@ -3631,7 +3631,7 @@
 79684	101982544	LOC101982544	-	-	-	Un	-	baculoviral IAP repeat-containing protein 1e-like	protein-coding	-	-	-	-	20151115
 79684	101982545	LOC101982545	-	-	-	Un	-	proline-rich protein 23-like	protein-coding	-	-	-	-	20151115
 79684	101982546	Cyth2	-	-	-	Un	-	cytohesin 2	protein-coding	-	-	-	-	20160102
-79684	101982547	Siglec6	-	-	-	-	-	sialic acid binding Ig-like lectin 6	protein-coding	-	-	-	-	20150808
+79684	101982547	Siglec6	-	-	-	-	-	sialic acid binding Ig-like lectin 6	protein-coding	-	-	-	-	20160402
 79684	101982548	Med27	-	-	-	4	-	mediator complex subunit 27	protein-coding	-	-	-	-	20151115
 79684	101982549	LOC101982549	-	-	-	Un	-	olfactory receptor 2AE1-like	pseudo	-	-	-	-	20151115
 79684	101982550	Dpagt1	-	-	-	5	-	dolichyl-phosphate (UDP-N-acetylglucosamine) N-acetylglucosaminephosphotransferase 1 (GlcNAc-1-P transferase)	protein-coding	-	-	-	-	20151115
@@ -4838,7 +4838,7 @@
 79684	101983806	Nt5c1a	-	-	-	10	-	5'-nucleotidase, cytosolic IA	protein-coding	-	-	-	-	20151115
 79684	101983807	Ndc1	-	-	-	10	-	NDC1 transmembrane nucleoporin	protein-coding	-	-	-	-	20151115
 79684	101983808	LOC101983808	-	-	-	16	-	uncharacterized LOC101983808	ncRNA	-	-	-	-	20151115
-79684	101983809	C16H6orf62	-	-	-	16	-	chromosome 16 open reading frame, human C6orf62	protein-coding	-	-	-	-	20151115
+79684	101983809	C16H6orf62	-	-	-	16	-	chromosome 16 open reading frame, human C6orf62	protein-coding	-	-	-	-	20160206
 79684	101983810	LOC101983810	-	-	-	16	-	prolactin-5A1-like	protein-coding	-	-	-	-	20151115
 79684	101983811	LOC101983811	-	-	-	16	-	kinesin-like protein KIF11 pseudogene	pseudo	-	-	-	-	20151115
 79684	101983812	LOC101983812	-	-	-	17	-	serine protease 52-like	protein-coding	-	-	-	-	20151115
@@ -5275,7 +5275,7 @@
 79684	101984256	Prtg	-	-	-	5	-	protogenin	protein-coding	-	-	-	-	20151115
 79684	101984258	Map6d1	-	-	-	Un	-	MAP6 domain containing 1	protein-coding	-	-	-	-	20151115
 79684	101984259	Rundc3a	-	-	-	Un	-	RUN domain containing 3A	protein-coding	-	-	-	-	20151115
-79684	101984260	Pasd1	-	-	-	-	-	PAS domain containing 1	protein-coding	-	-	-	-	20150808
+79684	101984260	Pasd1	-	-	-	-	-	PAS domain containing 1	protein-coding	-	-	-	-	20160402
 79684	101984261	LOC101984261	-	-	-	5	-	manganese-dependent ADP-ribose/CDP-alcohol diphosphatase-like	pseudo	-	-	-	-	20151115
 79684	101984262	LOC101984262	-	-	-	Un	-	translational activator of cytochrome c oxidase 1	protein-coding	-	-	-	-	20160102
 79684	101984263	LOC101984263	-	-	-	Un	-	uncharacterized LOC101984263	protein-coding	-	-	-	-	20151115
@@ -5592,7 +5592,7 @@
 79684	101984585	LOC101984585	-	-	-	LG1	-	lipid phosphate phosphatase-related protein type 3	protein-coding	-	-	-	-	20160102
 79684	101984586	Fam114a1	-	-	-	LG1	-	family with sequence similarity 114, member A1	protein-coding	-	-	-	-	20151115
 79684	101984587	LOC101984587	-	-	-	LG1	-	diamine acetyltransferase 1 pseudogene	pseudo	-	-	-	-	20151115
-79684	101984588	Csn1s1	-	-	-	LG1	-	casein alpha s1	protein-coding	-	-	-	-	20150808
+79684	101984588	Csn1s1	-	-	-	LG1	-	casein alpha s1	protein-coding	-	-	-	-	20160402
 79684	101984589	Lrrc73	-	-	-	LG2	-	leucine rich repeat containing 73	protein-coding	-	-	-	-	20151115
 79684	101984590	LOC101984590	-	-	-	LG2	-	glutathione S-transferase theta-2-like	protein-coding	-	-	-	-	20160102
 79684	101984591	LOC101984591	-	-	-	LG4	-	40S ribosomal protein S14 pseudogene	pseudo	-	-	-	-	20151115
@@ -6045,7 +6045,7 @@
 79684	101985053	Matr3	-	-	-	18	-	matrin 3	protein-coding	-	-	-	-	20160102
 79684	101985054	Cep120	-	-	-	18	-	centrosomal protein 120kDa	protein-coding	-	-	-	-	20151115
 79684	101985055	Fech	-	-	-	18	-	ferrochelatase	protein-coding	-	-	-	-	20151115
-79684	101985056	Pcdhga3	-	-	-	18	-	protocadherin gamma subfamily A, 3	protein-coding	-	-	-	-	20150808
+79684	101985056	Pcdhga3	-	-	-	18	-	protocadherin gamma subfamily A, 3	protein-coding	-	-	-	-	20160402
 79684	101985057	Cdh6	-	-	-	19	-	cadherin 6, type 2, K-cadherin (fetal kidney)	protein-coding	-	-	-	-	20160102
 79684	101985058	Ccdc109b	-	-	-	21	-	coiled-coil domain containing 109B	protein-coding	-	-	-	-	20160102
 79684	101985059	C22H15orf26	-	-	-	22	-	chromosome 22 open reading frame, human C15orf26	protein-coding	-	-	-	-	20151115
@@ -6130,7 +6130,7 @@
 79684	101985142	C1qtnf6	-	-	-	15	-	C1q and tumor necrosis factor related protein 6	protein-coding	-	-	-	-	20151115
 79684	101985143	Abcd2	-	-	-	15	-	ATP-binding cassette, sub-family D (ALD), member 2	protein-coding	-	-	-	-	20151115
 79684	101985144	Nup50	-	-	-	15	-	nucleoporin 50kDa	protein-coding	-	-	-	-	20151115
-79684	101985145	C15H22orf26	-	-	-	15	-	chromosome 15 open reading frame, human C22orf26	protein-coding	-	-	-	-	20150808
+79684	101985145	C15H22orf26	-	-	-	15	-	chromosome 15 open reading frame, human C22orf26	protein-coding	-	-	-	-	20160402
 79684	101985146	C17H8orf74	-	-	-	17	-	chromosome 17 open reading frame, human C8orf74	protein-coding	-	-	-	-	20151115
 79684	101985147	Sucla2	-	-	-	17	-	succinate-CoA ligase, ADP-forming, beta subunit	protein-coding	-	-	-	-	20151115
 79684	101985148	Gpr18	-	-	-	17	-	G protein-coupled receptor 18	protein-coding	-	-	-	-	20151115
@@ -6150,7 +6150,7 @@
 79684	101985162	LOC101985162	-	-	-	LG1	-	60S ribosomal protein L28 pseudogene	pseudo	-	-	-	-	20151115
 79684	101985163	Klhl5	-	-	-	LG1	-	kelch-like family member 5	protein-coding	-	-	-	-	20151115
 79684	101985164	Chic2	-	-	-	LG1	-	cysteine-rich hydrophobic domain 2	protein-coding	-	-	-	-	20151115
-79684	101985165	Stath	-	-	-	LG1	-	statherin	protein-coding	-	-	-	-	20150808
+79684	101985165	Stath	-	-	-	LG1	-	statherin	protein-coding	-	-	-	-	20160402
 79684	101985166	Rsph9	-	-	-	LG2	-	radial spoke head 9 homolog (Chlamydomonas)	protein-coding	-	-	-	radial spoke head protein 9 homolog	20151115
 79684	101985167	Derl3	-	-	-	LG2	-	derlin 3	protein-coding	-	-	-	-	20160102
 79684	101985168	Rab32	-	-	-	LG4	-	RAB32, member RAS oncogene family	protein-coding	-	-	-	-	20151115
@@ -6181,7 +6181,7 @@
 79684	101985193	Kiaa1549	-	-	-	Un	-	KIAA1549 ortholog	protein-coding	-	-	-	-	20160102
 79684	101985194	Lrch3	-	-	-	2	-	leucine-rich repeats and calponin homology (CH) domain containing 3	protein-coding	-	-	-	-	20151115
 79684	101985195	LOC101985195	-	-	-	2	-	neuromodulin pseudogene	pseudo	-	-	-	-	20151115
-79684	101985196	Zbed2	-	-	-	2	-	zinc finger, BED-type containing 2	protein-coding	-	-	-	-	20150808
+79684	101985196	Zbed2	-	-	-	2	-	zinc finger, BED-type containing 2	protein-coding	-	-	-	-	20160402
 79684	101985198	Tmem170a	-	-	-	4	-	transmembrane protein 170A	protein-coding	-	-	-	-	20151115
 79684	101985199	Bco1	-	Bcmo1	-	4	-	beta-carotene oxygenase 1	protein-coding	-	-	-	beta-carotene 15,15'-monooxygenase 1	20160102
 79684	101985200	Lrrc4b	-	-	-	Un	-	leucine rich repeat containing 4B	protein-coding	-	-	-	-	20151115
@@ -6236,7 +6236,7 @@
 79684	101985252	Msh3	-	-	-	19	-	mutS homolog 3	protein-coding	-	-	-	-	20151115
 79684	101985255	Slco2b1	-	-	-	22	-	solute carrier organic anion transporter family, member 2B1	protein-coding	-	-	-	-	20151115
 79684	101985256	Sycp3	-	-	-	24	-	synaptonemal complex protein 3	protein-coding	-	-	-	-	20151115
-79684	101985257	LOC101985257	-	Lhfpl3	-	26	-	uncharacterized LOC101985257	protein-coding	-	-	-	lipoma HMGIC fusion partner-like 3	20151115
+79684	101985257	LOC101985257	-	Lhfpl3	-	26	-	uncharacterized LOC101985257	ncRNA	-	-	-	lipoma HMGIC fusion partner-like 3	20160412
 79684	101985258	Mcts1	-	-	-	X	-	malignant T cell amplified sequence 1	protein-coding	-	-	-	-	20151115
 79684	101985259	Rab9a	-	-	-	X	-	RAB9A, member RAS oncogene family	protein-coding	-	-	-	-	20160102
 79684	101985260	Sgta	-	-	-	LG1	-	small glutamine-rich tetratricopeptide repeat (TPR)-containing, alpha	protein-coding	-	-	-	-	20151115
@@ -7036,7 +7036,7 @@
 79684	101986091	Mapk1ip1l	-	-	-	17	-	mitogen-activated protein kinase 1 interacting protein 1-like	protein-coding	-	-	-	-	20151115
 79684	101986092	LOC101986092	-	-	-	18	-	40S ribosomal protein S2 pseudogene	pseudo	-	-	-	-	20151115
 79684	101986093	LOC101986093	-	-	-	18	-	60S ribosomal protein L30-like	protein-coding	-	-	-	-	20151115
-79684	101986094	Pdcd6	-	-	-	19	-	programmed cell death 6	protein-coding	-	-	-	-	20151115
+79684	101986094	Pdcd6	-	-	-	19	-	programmed cell death 6	protein-coding	-	-	-	-	20160116
 79684	101986095	Smg5	-	-	-	21	-	SMG5 nonsense mediated mRNA decay factor	protein-coding	-	-	-	-	20151115
 79684	101986096	LOC101986096	-	-	-	21	-	speckle-type POZ protein pseudogene	pseudo	-	-	-	-	20151115
 79684	101986097	LOC101986097	-	Gbp4	-	21	-	guanylate-binding protein 4	protein-coding	-	-	-	guanylate binding protein 4	20151115
@@ -7117,7 +7117,7 @@
 79684	101986177	Ror2	-	-	-	16	-	receptor tyrosine kinase-like orphan receptor 2	protein-coding	-	-	-	-	20151115
 79684	101986178	Xkr6	-	-	-	17	-	XK, Kell blood group complex subunit-related family, member 6	protein-coding	-	-	-	-	20160102
 79684	101986179	Prob1	-	-	-	18	-	proline-rich basic protein 1	protein-coding	-	-	-	-	20151115
-79684	101986181	Pcdhgb4	-	-	-	18	-	protocadherin gamma subfamily B, 4	protein-coding	-	-	-	-	20150808
+79684	101986181	Pcdhgb4	-	-	-	18	-	protocadherin gamma subfamily B, 4	protein-coding	-	-	-	-	20160402
 79684	101986182	Cdh9	-	-	-	19	-	cadherin 9, type 2 (T1-cadherin)	protein-coding	-	-	-	-	20151115
 79684	101986183	Mier3	-	-	-	19	-	mesoderm induction early response 1, family member 3	protein-coding	-	-	-	-	20151115
 79684	101986184	Tshb	-	-	-	21	-	thyroid stimulating hormone, beta	protein-coding	-	-	-	-	20151115
@@ -7135,7 +7135,7 @@
 79684	101986196	LOC101986196	-	Rsph1	-	LG2	-	radial spoke head 1 homolog	protein-coding	-	-	-	-	20151115
 79684	101986197	LOC101986197	-	-	-	LG2	-	HLA class II histocompatibility antigen, DRB1-4 beta chain-like	protein-coding	-	-	-	-	20151115
 79684	101986198	LOC101986198	-	-	-	LG3	-	cytochrome P450 1B1	protein-coding	-	-	-	-	20151115
-79684	101986199	LOC101986199	-	Tra2a	-	LG3	-	uncharacterized LOC101986199	protein-coding	-	-	-	transformer 2 alpha homolog	20151115
+79684	101986199	LOC101986199	-	Tra2a	-	LG3	-	uncharacterized LOC101986199	ncRNA	-	-	-	transformer 2 alpha homolog	20160412
 79684	101986200	LOC101986200	-	-	-	LG4	-	40S ribosomal protein S11-like	protein-coding	-	-	-	-	20160102
 79684	101986201	LOC101986201	-	-	-	LG4	-	60S ribosomal protein L27a pseudogene	pseudo	-	-	-	-	20151115
 79684	101986202	Znf146	-	-	-	LG4	-	zinc finger protein 146	protein-coding	-	-	-	-	20151115
@@ -7202,7 +7202,7 @@
 79684	101986265	Comp	-	-	-	Un	-	cartilage oligomeric matrix protein	protein-coding	-	-	-	-	20151115
 79684	101986266	C7H17orf59	-	-	-	7	-	chromosome 7 open reading frame, human C17orf59	protein-coding	-	-	-	-	20151115
 79684	101986267	Trim10	-	-	-	Un	-	tripartite motif containing 10	protein-coding	-	-	-	-	20151115
-79684	101986268	Sapcd1	-	-	-	-	-	suppressor APC domain containing 1	protein-coding	-	-	-	-	20150808
+79684	101986268	Sapcd1	-	-	-	-	-	suppressor APC domain containing 1	protein-coding	-	-	-	-	20160402
 79684	101986269	LOC101986269	-	-	-	Un	-	leukotriene-B(4) omega-hydroxylase 2	protein-coding	-	-	-	-	20151115
 79684	101986270	Arhgef40	-	-	-	Un	-	Rho guanine nucleotide exchange factor (GEF) 40	protein-coding	-	-	-	-	20151115
 79684	101986271	LOC101986271	-	-	-	7	-	60S ribosomal protein L4-like	pseudo	-	-	-	-	20151115
@@ -7905,7 +7905,7 @@
 79684	101986995	Rbm33	-	-	-	Un	-	RNA binding motif protein 33	protein-coding	-	-	-	-	20160102
 79684	101986996	LOC101986996	-	-	-	4	-	cytoskeleton-associated protein 4-like	protein-coding	-	-	-	-	20151115
 79684	101986997	LOC101986997	-	-	-	Un	-	olfactory receptor 4K2-like	protein-coding	-	-	-	-	20151115
-79684	101986998	Anapc13	-	-	-	Un	-	anaphase promoting complex subunit 13	protein-coding	-	-	-	-	20151115
+79684	101986998	Anapc13	-	-	-	Un	-	anaphase promoting complex subunit 13	protein-coding	-	-	-	-	20160416
 79684	101986999	LOC101986999	-	Mmp3	-	5	-	stromelysin-1	protein-coding	-	-	-	matrix metallopeptidase 3 (stromelysin 1, progelatinase)	20151115
 79684	101987000	Uxt	-	-	-	5	-	ubiquitously-expressed, prefoldin-like chaperone	protein-coding	-	-	-	-	20151115
 79684	101987001	LOC101987001	-	Pate3	-	5	-	prostate and testis expressed protein 3	protein-coding	-	-	-	prostate and testis expressed 3	20151115
@@ -9623,7 +9623,7 @@
 79684	101988778	C4H9orf116	-	-	-	4	-	chromosome 4 open reading frame, human C9orf116	protein-coding	-	-	-	UPF0691 protein C9orf116 homolog	20151115
 79684	101988779	Aqp10	-	-	-	Un	-	aquaporin 10	protein-coding	-	-	-	-	20160102
 79684	101988780	Traf2	-	-	-	4	-	TNF receptor-associated factor 2	protein-coding	-	-	-	-	20151115
-79684	101988781	Bre	-	-	-	Un	-	brain and reproductive organ-expressed (TNFRSF1A modulator)	protein-coding	-	-	-	-	20151115
+79684	101988781	Bre	-	-	-	Un	-	brain and reproductive organ-expressed (TNFRSF1A modulator)	protein-coding	-	-	-	-	20160416
 79684	101988782	Tmem130	-	-	-	Un	-	transmembrane protein 130	protein-coding	-	-	-	-	20151115
 79684	101988783	LOC101988783	-	-	-	5	-	putative olfactory receptor 10D4	protein-coding	-	-	-	-	20160102
 79684	101988784	Lasp1	-	-	-	Un	-	LIM and SH3 protein 1	protein-coding	-	-	-	-	20160102
@@ -10118,7 +10118,7 @@
 79684	101989292	LOC101989292	-	-	-	LG1	-	60S ribosomal protein L27 pseudogene	pseudo	-	-	-	-	20151115
 79684	101989293	Gk2	-	-	-	LG1	-	glycerol kinase 2	protein-coding	-	-	-	-	20151115
 79684	101989294	Lrfn2	-	-	-	LG2	-	leucine rich repeat and fibronectin type III domain containing 2	protein-coding	-	-	-	-	20151115
-79684	101989295	Ncr2	-	-	-	LG2	-	natural cytotoxicity triggering receptor 2	protein-coding	-	-	-	-	20150808
+79684	101989295	Ncr2	-	-	-	LG2	-	natural cytotoxicity triggering receptor 2	protein-coding	-	-	-	-	20160402
 79684	101989296	Rnf39	-	-	-	LG2	-	ring finger protein 39	protein-coding	-	-	-	-	20151115
 79684	101989297	LOC101989297	-	-	-	LG3	-	nascent polypeptide-associated complex subunit alpha pseudogene	pseudo	-	-	-	-	20151115
 79684	101989298	LOC101989298	-	-	-	LG4	-	4-hydroxyphenylpyruvate dioxygenase pseudogene	pseudo	-	-	-	-	20151115
@@ -10236,7 +10236,7 @@
 79684	101989413	Mlh3	-	-	-	1	-	mutL homolog 3	protein-coding	-	-	-	-	20151115
 79684	101989414	Sh2d6	-	-	-	14	-	SH2 domain containing 6	protein-coding	-	-	-	-	20160102
 79684	101989415	Twistnb	-	-	-	1	-	TWIST neighbor	protein-coding	-	-	-	-	20151115
-79684	101989416	LOC101989416	-	Ptms	-	Un	-	uncharacterized LOC101989416	protein-coding	-	-	-	parathymosin	20151115
+79684	101989416	LOC101989416	-	Ptms	-	Un	-	uncharacterized LOC101989416	ncRNA	-	-	-	parathymosin	20160412
 79684	101989417	Klhl1	-	-	-	Un	-	kelch-like family member 1	protein-coding	-	-	-	-	20151115
 79684	101989418	Mrpl32	-	-	-	Un	-	mitochondrial ribosomal protein L32	protein-coding	-	-	-	-	20151115
 79684	101989419	Gpn3	-	-	-	2	-	GPN-loop GTPase 3	protein-coding	-	-	-	-	20160102
@@ -10383,7 +10383,7 @@
 79684	101989564	Has2	-	-	-	15	-	hyaluronan synthase 2	protein-coding	-	-	-	-	20151115
 79684	101989565	LOC101989565	-	-	-	16	-	dihydrodiol dehydrogenase 3-like	protein-coding	-	-	-	-	20160102
 79684	101989566	Gcm2	-	-	-	16	-	glial cells missing homolog 2 (Drosophila)	protein-coding	-	-	-	-	20151115
-79684	101989568	Igip	-	-	-	18	-	IgA-inducing protein	protein-coding	-	-	-	IgA-inducing protein homolog	20150808
+79684	101989568	Igip	-	-	-	18	-	IgA-inducing protein	protein-coding	-	-	-	IgA-inducing protein homolog	20160402
 79684	101989569	Ccbe1	-	-	-	18	-	collagen and calcium binding EGF domains 1	protein-coding	-	-	-	-	20160102
 79684	101989570	Ccdc112	-	-	-	18	-	coiled-coil domain containing 112	protein-coding	-	-	-	-	20151115
 79684	101989571	Mroh2b	-	-	-	19	-	maestro heat-like repeat family member 2B	protein-coding	-	-	-	-	20151115
@@ -11491,7 +11491,7 @@
 79684	101990711	LOC101990711	-	-	-	10	-	cytochrome P450 4A10-like	protein-coding	-	-	-	-	20151115
 79684	101990712	Mad2l2	-	-	-	10	-	MAD2 mitotic arrest deficient-like 2 (yeast)	protein-coding	-	-	-	-	20160102
 79684	101990713	Smarcd1	-	-	-	15	-	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 1	protein-coding	-	-	-	-	20151115
-79684	101990714	Ptp4a3	-	-	-	15	-	protein tyrosine phosphatase type IVA, member 3	protein-coding	-	-	-	-	20151115
+79684	101990714	Ptp4a3	-	-	-	15	-	protein tyrosine phosphatase type IVA, member 3	protein-coding	-	-	-	-	20160416
 79684	101990715	LOC101990715	-	-	-	16	-	uncharacterized LOC101990715	pseudo	-	-	-	-	20151115
 79684	101990716	Tmem170b	-	-	-	16	-	transmembrane protein 170B	protein-coding	-	-	-	-	20151115
 79684	101990717	Ddhd1	-	-	-	17	-	DDHD domain containing 1	protein-coding	-	-	-	-	20160102
@@ -12062,7 +12062,7 @@
 79684	101991302	Lrrc57	-	-	-	14	-	leucine rich repeat containing 57	protein-coding	-	-	-	-	20151115
 79684	101991303	Fgf7	-	-	-	14	-	fibroblast growth factor 7	protein-coding	-	-	-	-	20151115
 79684	101991304	Dnal1	-	-	-	1	-	dynein, axonemal, light chain 1	protein-coding	-	-	-	-	20151115
-79684	101991305	C14H15orf54	-	-	-	14	-	chromosome 14 open reading frame, human C15orf54	protein-coding	-	-	-	-	20150808
+79684	101991305	C14H15orf54	-	-	-	14	-	chromosome 14 open reading frame, human C15orf54	protein-coding	-	-	-	-	20160402
 79684	101991306	LOC101991306	-	-	-	14	-	uncharacterized LOC101991306	ncRNA	-	-	-	-	20151115
 79684	101991307	Serpina4	-	-	-	1	-	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4	protein-coding	-	-	-	-	20151115
 79684	101991308	Tcf7l1	-	-	-	14	-	transcription factor 7-like 1 (T-cell specific, HMG-box)	protein-coding	-	-	-	-	20160102
@@ -13196,7 +13196,7 @@
 79684	101992477	Lrrc25	-	-	-	Un	-	leucine rich repeat containing 25	protein-coding	-	-	-	-	20151115
 79684	101992478	LOC101992478	-	Ntn1	-	7	-	netrin-1	protein-coding	-	-	-	netrin 1	20160102
 79684	101992479	Fam183a	-	-	-	7	-	family with sequence similarity 183, member A	protein-coding	-	-	-	-	20151115
-79684	101992480	Znf879	-	-	-	7	-	zinc finger protein 879	protein-coding	-	-	-	-	20150808
+79684	101992480	Znf879	-	-	-	7	-	zinc finger protein 879	protein-coding	-	-	-	-	20160402
 79684	101992481	Usp32	-	-	-	7	-	ubiquitin specific peptidase 32	protein-coding	-	-	-	-	20151115
 79684	101992482	C7H17orf47	-	-	-	7	-	chromosome 7 open reading frame, human C17orf47	protein-coding	-	-	-	-	20160102
 79684	101992483	Slc16a5	-	-	-	7	-	solute carrier family 16 (monocarboxylate transporter), member 5	protein-coding	-	-	-	-	20151115
@@ -13670,7 +13670,7 @@
 79684	101992964	Ak4	-	-	-	10	-	adenylate kinase 4	protein-coding	-	-	-	-	20160102
 79684	101992965	Bcdin3d	-	-	-	15	-	BCDIN3 domain containing	protein-coding	-	-	-	-	20151115
 79684	101992966	Puf60	-	-	-	15	-	poly-U binding splicing factor 60KDa	protein-coding	-	-	-	-	20151115
-79684	101992967	Gml	-	-	-	15	-	glycosylphosphatidylinositol anchored molecule like	protein-coding	-	-	-	-	20150808
+79684	101992967	Gml	-	-	-	15	-	glycosylphosphatidylinositol anchored molecule like	protein-coding	-	-	-	-	20160402
 79684	101992968	Chrac1	-	-	-	15	-	chromatin accessibility complex 1	protein-coding	-	-	-	-	20151115
 79684	101992969	Mastl	-	-	-	16	-	microtubule associated serine/threonine kinase-like	protein-coding	-	-	-	-	20151115
 79684	101992970	Calml5	-	-	-	16	-	calmodulin-like 5	protein-coding	-	-	-	-	20151115
@@ -14089,7 +14089,7 @@
 79684	101993396	Snx1	-	-	-	5	-	sorting nexin 1	protein-coding	-	-	-	-	20151115
 79684	101993397	Rnf113a	-	-	-	Un	-	ring finger protein 113A	protein-coding	-	-	-	-	20151115
 79684	101993398	Wdr6	-	-	-	5	-	WD repeat domain 6	protein-coding	-	-	-	-	20151115
-79684	101993399	Vps25	-	-	-	Un	-	vacuolar protein sorting 25 homolog (S. cerevisiae)	protein-coding	-	-	-	-	20151115
+79684	101993399	Vps25	-	-	-	Un	-	vacuolar protein sorting 25 homolog (S. cerevisiae)	protein-coding	-	-	-	-	20160213
 79684	101993400	Meox1	-	-	-	Un	-	mesenchyme homeobox 1	protein-coding	-	-	-	-	20151115
 79684	101993401	Fam71e2	-	-	-	Un	-	family with sequence similarity 71, member E2	protein-coding	-	-	-	-	20151115
 79684	101993402	Klhdc8a	-	-	-	6	-	kelch domain containing 8A	protein-coding	-	-	-	-	20151115
@@ -15074,7 +15074,7 @@
 79684	101994412	Lmbrd1	-	-	-	LG2	-	LMBR1 domain containing 1	protein-coding	-	-	-	-	20151115
 79684	101994413	Pofut2	-	-	-	LG2	-	protein O-fucosyltransferase 2	protein-coding	-	-	-	-	20160102
 79684	101994415	Itsn2	-	-	-	LG3	-	intersectin 2	protein-coding	-	-	-	-	20160102
-79684	101994416	Znf565	-	-	-	LG4	-	zinc finger protein 565	protein-coding	-	-	-	-	20150808
+79684	101994416	Znf565	-	-	-	LG4	-	zinc finger protein 565	protein-coding	-	-	-	-	20160402
 79684	101994417	Stk25	-	-	-	LG4	-	serine/threonine kinase 25	protein-coding	-	-	-	-	20151115
 79684	101994418	Rnf25	-	-	-	LG4	-	ring finger protein 25	protein-coding	-	-	-	-	20151115
 79684	101994419	Arid3c	-	-	-	LG5	-	AT rich interactive domain 3C (BRIGHT-like)	protein-coding	-	-	-	-	20151115
@@ -15251,7 +15251,7 @@
 79684	101994596	Allc	-	-	-	LG3	-	allantoicase	protein-coding	-	-	-	-	20160102
 79684	101994597	LOC101994597	-	-	-	LG3	-	peptidyl-prolyl cis-trans isomerase A-like	protein-coding	-	-	-	-	20151115
 79684	101994598	Znf575	-	-	-	LG4	-	zinc finger protein 575	protein-coding	-	-	-	-	20151115
-79684	101994599	Fxyd5	-	-	-	LG4	-	FXYD domain containing ion transport regulator 5	protein-coding	-	-	-	-	20150808
+79684	101994599	Fxyd5	-	-	-	LG4	-	FXYD domain containing ion transport regulator 5	protein-coding	-	-	-	-	20160402
 79684	101994600	LOC101994600	-	-	-	LG4	-	cytochrome P450 20A1	protein-coding	-	-	-	-	20160102
 79684	101994601	Jph1	-	-	-	LG5	-	junctophilin 1	protein-coding	-	-	-	-	20160102
 79684	101994602	Aldh1b1	-	-	-	LG5	-	aldehyde dehydrogenase 1 family, member B1	protein-coding	-	-	-	-	20151115
@@ -15968,7 +15968,7 @@
 79684	101995351	LOC101995351	-	-	-	7	-	chromobox protein homolog 8	protein-coding	-	-	-	-	20151115
 79684	101995352	Fn3krp	-	-	-	7	-	fructosamine 3 kinase related protein	protein-coding	-	-	-	-	20151115
 79684	101995354	LOC101995354	-	-	-	Un	-	vomeronasal type-1 receptor 4-like	protein-coding	-	-	-	-	20160102
-79684	101995355	Nps	-	-	-	8	-	neuropeptide S	protein-coding	-	-	-	-	20150808
+79684	101995355	Nps	-	-	-	8	-	neuropeptide S	protein-coding	-	-	-	-	20160402
 79684	101995356	LOC101995356	-	-	-	Un	-	vomeronasal type-2 receptor 116-like	protein-coding	-	-	-	-	20151115
 79684	101995357	Zdhhc24	-	-	-	8	-	zinc finger, DHHC-type containing 24	protein-coding	-	-	-	-	20151115
 79684	101995358	LOC101995358	-	-	-	Un	-	serine--tRNA ligase, mitochondrial-like	protein-coding	-	-	-	-	20160102
@@ -16428,7 +16428,7 @@
 79684	101995826	Kremen2	-	-	-	7	-	kringle containing transmembrane protein 2	protein-coding	-	-	-	-	20151115
 79684	101995827	LOC101995827	-	-	-	Un	-	olfactory receptor 51I2-like	protein-coding	-	-	-	-	20151115
 79684	101995828	LOC101995828	-	-	-	Un	-	zinc finger protein 112-like	protein-coding	-	-	-	-	20151115
-79684	101995830	Nedd8	-	-	-	-	-	neural precursor cell expressed, developmentally down-regulated 8	protein-coding	-	-	-	-	20150808
+79684	101995830	Nedd8	-	-	-	-	-	neural precursor cell expressed, developmentally down-regulated 8	protein-coding	-	-	-	-	20160402
 79684	101995831	Tmem256	-	-	-	7	-	transmembrane protein 256	protein-coding	-	-	-	-	20151115
 79684	101995832	Dkc1	-	-	-	Un	-	dyskeratosis congenita 1, dyskerin	protein-coding	-	-	-	-	20151115
 79684	101995833	LOC101995833	-	Myh8	-	7	-	myosin-8	protein-coding	-	-	-	myosin, heavy chain 8, skeletal muscle, perinatal	20151115
@@ -16542,7 +16542,7 @@
 79684	101995953	Sgcg	-	-	-	17	-	sarcoglycan, gamma (35kDa dystrophin-associated glycoprotein)	protein-coding	-	-	-	-	20160102
 79684	101995954	Kiaa0226l	-	-	-	17	-	KIAA0226-like ortholog	protein-coding	-	-	-	-	20151115
 79684	101995955	Mc5r	-	-	-	18	-	melanocortin 5 receptor	protein-coding	-	-	-	-	20151115
-79684	101995957	Lysmd1	-	-	-	21	-	LysM, putative peptidoglycan-binding, domain containing 1	protein-coding	-	-	-	-	20150808
+79684	101995957	Lysmd1	-	-	-	21	-	LysM, putative peptidoglycan-binding, domain containing 1	protein-coding	-	-	-	-	20160402
 79684	101995958	Pde5a	-	-	-	21	-	phosphodiesterase 5A, cGMP-specific	protein-coding	-	-	-	-	20160102
 79684	101995959	Lpar3	-	-	-	21	-	lysophosphatidic acid receptor 3	protein-coding	-	-	-	-	20151115
 79684	101995960	Asb17	-	-	-	21	-	ankyrin repeat and SOCS box containing 17	protein-coding	-	-	-	-	20151115
@@ -17114,7 +17114,7 @@
 79684	101996551	Mbip	-	-	-	1	-	MAP3K12 binding inhibitory protein 1	protein-coding	-	-	-	-	20151115
 79684	101996552	Cntn4	-	-	-	Un	-	contactin 4	protein-coding	-	-	-	-	20151115
 79684	101996553	Hltf	-	-	-	1	-	helicase-like transcription factor	protein-coding	-	-	-	-	20160102
-79684	101996554	Lhfp	-	-	-	1	-	lipoma HMGIC fusion partner	protein-coding	-	-	-	-	20150808
+79684	101996554	Lhfp	-	-	-	1	-	lipoma HMGIC fusion partner	protein-coding	-	-	-	-	20160402
 79684	101996555	Atp6v1e1	-	-	-	Un	-	ATPase, H+ transporting, lysosomal 31kDa, V1 subunit E1	protein-coding	-	-	-	-	20151115
 79684	101996556	Ednrb	-	-	-	Un	-	endothelin receptor type B	protein-coding	-	-	-	-	20151115
 79684	101996557	LOC101996557	-	-	-	Un	-	60S ribosomal protein L7a pseudogene	pseudo	-	-	-	-	20151115
@@ -17163,7 +17163,7 @@
 79684	101996600	LOC101996600	-	-	-	10	-	arylacetamide deacetylase-like 4	protein-coding	-	-	-	-	20160102
 79684	101996601	Cbx6	-	-	-	15	-	chromobox homolog 6	protein-coding	-	-	-	-	20151115
 79684	101996602	Wisp1	-	-	-	15	-	WNT1 inducible signaling pathway protein 1	protein-coding	-	-	-	-	20151115
-79684	101996603	Znf572	-	-	-	15	-	zinc finger protein 572	protein-coding	-	-	-	-	20150808
+79684	101996603	Znf572	-	-	-	15	-	zinc finger protein 572	protein-coding	-	-	-	-	20160402
 79684	101996604	LOC101996604	-	-	-	16	-	putative vomeronasal receptor-like protein 4	protein-coding	-	-	-	-	20151115
 79684	101996605	Gmpr	-	-	-	16	-	guanosine monophosphate reductase	protein-coding	-	-	-	-	20151115
 79684	101996606	LOC101996606	-	-	-	16	-	cathepsin 7-like	protein-coding	-	-	-	-	20160102
@@ -17443,7 +17443,7 @@
 79684	101996887	Fer1l6	-	-	-	15	-	fer-1-like family member 6	protein-coding	-	-	-	fer-1-like 6	20151115
 79684	101996888	Ccdc3	-	-	-	16	-	coiled-coil domain containing 3	protein-coding	-	-	-	-	20151115
 79684	101996889	LOC101996889	-	Znf322	-	16	-	zinc finger protein 322	protein-coding	-	-	-	-	20151115
-79684	101996890	LOC101996890	-	Atxn1	-	16	-	uncharacterized LOC101996890	protein-coding	-	-	-	ataxin 1	20151115
+79684	101996890	LOC101996890	-	Atxn1	-	16	-	uncharacterized LOC101996890	ncRNA	-	-	-	ataxin 1	20160412
 79684	101996891	LOC101996891	-	-	-	16	-	cathepsin M-like	protein-coding	-	-	-	-	20151115
 79684	101996892	F2r	-	-	-	19	-	coagulation factor II (thrombin) receptor	protein-coding	-	-	-	-	20151115
 79684	101996893	Chd1l	-	-	-	21	-	chromodomain helicase DNA binding protein 1-like	protein-coding	-	-	-	-	20160102
@@ -17502,7 +17502,7 @@
 79684	101996948	Serpinb8	-	-	-	Un	-	serpin peptidase inhibitor, clade B (ovalbumin), member 8	protein-coding	-	-	-	-	20151115
 79684	101996949	Art5	-	-	-	Un	-	ADP-ribosyltransferase 5	protein-coding	-	-	-	-	20160102
 79684	101996950	Tmem115	-	-	-	5	-	transmembrane protein 115	protein-coding	-	-	-	-	20151115
-79684	101996951	Slc26a6	-	-	-	5	-	solute carrier family 26 (anion exchanger), member 6	protein-coding	-	-	-	solute carrier family 26, member 6	20151115
+79684	101996951	Slc26a6	-	-	-	5	-	solute carrier family 26 (anion exchanger), member 6	protein-coding	-	-	-	solute carrier family 26, member 6	20160409
 79684	101996952	LOC101996952	-	-	-	Un	-	taste receptor type 2 member 103-like	protein-coding	-	-	-	-	20151115
 79684	101996953	Atp6v1g3	-	-	-	6	-	ATPase, H+ transporting, lysosomal 13kDa, V1 subunit G3	protein-coding	-	-	-	-	20151115
 79684	101996954	Ms4a12	-	-	-	Un	-	membrane-spanning 4-domains, subfamily A, member 12	protein-coding	-	-	-	-	20151115
@@ -17805,7 +17805,7 @@
 79684	101997261	C10H1orf50	-	-	-	10	-	chromosome 10 open reading frame, human C1orf50	protein-coding	-	-	-	-	20151115
 79684	101997262	Wdr78	-	-	-	10	-	WD repeat domain 78	protein-coding	-	-	-	-	20151115
 79684	101997263	C10H1orf185	-	-	-	10	-	chromosome 10 open reading frame, human C1orf185	protein-coding	-	-	-	-	20151115
-79684	101997264	Znf16	-	-	-	15	-	zinc finger protein 16	protein-coding	-	-	-	-	20150808
+79684	101997264	Znf16	-	-	-	15	-	zinc finger protein 16	protein-coding	-	-	-	-	20160402
 79684	101997265	Trabd	-	-	-	15	-	TraB domain containing	protein-coding	-	-	-	-	20160102
 79684	101997266	LOC101997266	-	-	-	15	-	cytochrome P450 2D4-like	protein-coding	-	-	-	-	20151115
 79684	101997267	Lrpprc	-	-	-	16	-	leucine-rich pentatricopeptide repeat containing	protein-coding	-	-	-	-	20151115
@@ -18663,7 +18663,7 @@
 79684	101998161	LOC101998161	-	-	-	LG5	-	ferritin heavy chain	protein-coding	-	-	-	-	20151115
 79684	101998162	Tmem67	-	-	-	LG5	-	transmembrane protein 67	protein-coding	-	-	-	-	20151115
 79684	101998163	Elmo2	-	-	-	LG8	-	engulfment and cell motility 2	protein-coding	-	-	-	-	20160102
-79684	101998164	Wfdc12	-	-	-	LG8	-	WAP four-disulfide core domain 12	protein-coding	-	-	-	-	20150808
+79684	101998164	Wfdc12	-	-	-	LG8	-	WAP four-disulfide core domain 12	protein-coding	-	-	-	-	20160402
 79684	101998165	LOC101998165	-	-	-	LG9	-	60S ribosomal protein L21 pseudogene	pseudo	-	-	-	-	20151115
 79684	101998166	Ccdc181	-	-	-	6	-	coiled-coil domain containing 181	protein-coding	-	-	-	-	20160102
 79684	101998167	Pcnxl4	-	-	-	1	-	pecanex-like 4 (Drosophila)	protein-coding	-	-	-	-	20151115
@@ -19131,7 +19131,7 @@
 79684	101998644	Ist1	-	-	-	4	-	increased sodium tolerance 1 homolog (yeast)	protein-coding	-	-	-	IST1 homolog	20160102
 79684	101998645	Cpt1c	-	-	-	Un	-	carnitine palmitoyltransferase 1C	protein-coding	-	-	-	-	20160102
 79684	101998646	Zcchc14	-	-	-	4	-	zinc finger, CCHC domain containing 14	protein-coding	-	-	-	-	20151115
-79684	101998647	Cenpbd1	-	-	-	4	-	CENPB DNA-binding domains containing 1	protein-coding	-	-	-	-	20150808
+79684	101998647	Cenpbd1	-	-	-	4	-	CENPB DNA-binding domains containing 1	protein-coding	-	-	-	-	20160402
 79684	101998648	Tnpo2	-	-	-	Un	-	transportin 2	protein-coding	-	-	-	-	20151219
 79684	101998649	Cops6	-	-	-	Un	-	COP9 signalosome subunit 6	protein-coding	-	-	-	-	20151115
 79684	101998650	Atg9b	-	-	-	Un	-	autophagy related 9B	protein-coding	-	-	-	-	20151115
@@ -19737,7 +19737,7 @@
 79684	101999272	Lhfpl5	-	-	-	LG2	-	lipoma HMGIC fusion partner-like 5	protein-coding	-	-	-	-	20160102
 79684	101999273	Fam150b	-	-	-	LG3	-	family with sequence similarity 150, member B	protein-coding	-	-	-	-	20151115
 79684	101999275	LOC101999275	-	-	-	LG3	-	WW domain-containing adapter protein with coiled-coil pseudogene	pseudo	-	-	-	-	20151115
-79684	101999276	Thap8	-	-	-	LG4	-	THAP domain containing 8	protein-coding	-	-	-	-	20150808
+79684	101999276	Thap8	-	-	-	LG4	-	THAP domain containing 8	protein-coding	-	-	-	-	20160402
 79684	101999277	Pm20d2	-	-	-	LG5	-	peptidase M20 domain containing 2	protein-coding	-	-	-	-	20151115
 79684	101999279	R3hdml	-	-	-	LG8	-	R3H domain containing-like	protein-coding	-	-	-	-	20160102
 79684	101999280	LOC101999280	-	-	-	LG9	-	sodium-dependent glucose transporter 1C	protein-coding	-	-	-	-	20160102
@@ -19824,7 +19824,7 @@
 79684	101999366	LOC101999366	-	-	-	LG9	-	olfactory receptor 10AG1-like	protein-coding	-	-	-	-	20151115
 79684	101999367	Blzf1	-	-	-	6	-	basic leucine zipper nuclear factor 1	protein-coding	-	-	-	-	20151115
 79684	101999368	LOC101999368	-	-	-	1	-	kinetochore protein NDC80 homolog	pseudo	-	-	-	-	20151115
-79684	101999369	Kcnk13	-	-	-	1	-	potassium channel, subfamily K, member 13	protein-coding	-	-	-	-	20150808
+79684	101999369	Kcnk13	-	-	-	1	-	potassium channel, subfamily K, member 13	protein-coding	-	-	-	-	20160402
 79684	101999370	Ccnk	-	-	-	1	-	cyclin K	protein-coding	-	-	-	-	20160102
 79684	101999371	Cep170b	-	-	-	1	-	centrosomal protein 170B	protein-coding	-	-	-	-	20151115
 79684	101999373	Postn	-	-	-	1	-	periostin, osteoblast specific factor	protein-coding	-	-	-	-	20151115
@@ -20024,7 +20024,7 @@
 79684	101999574	Hyal3	-	-	-	5	-	hyaluronoglucosaminidase 3	protein-coding	-	-	-	-	20151115
 79684	101999575	LOC101999575	-	-	-	Un	-	spermatogenesis-associated protein 21-like	protein-coding	-	-	-	-	20151115
 79684	101999576	Gadl1	-	-	-	5	-	glutamate decarboxylase-like 1	protein-coding	-	-	-	-	20151115
-79684	101999577	Znf660	-	-	-	5	-	zinc finger protein 660	protein-coding	-	-	-	-	20150808
+79684	101999577	Znf660	-	-	-	5	-	zinc finger protein 660	protein-coding	-	-	-	-	20160402
 79684	101999578	LOC101999578	-	-	-	6	-	40S ribosomal protein S2 pseudogene	pseudo	-	-	-	-	20151115
 79684	101999579	Sox13	-	-	-	6	-	SRY (sex determining region Y)-box 13	protein-coding	-	-	-	-	20151115
 79684	101999580	LOC101999580	-	F13b	-	6	-	coagulation factor XIII B chain	protein-coding	-	-	-	coagulation factor XIII, B polypeptide	20160102
@@ -20321,7 +20321,7 @@
 79684	101999880	Hoga1	-	-	-	8	-	4-hydroxy-2-oxoglutarate aldolase 1	protein-coding	-	-	-	-	20151115
 79684	101999881	Ubxn11	-	-	-	10	-	UBX domain protein 11	protein-coding	-	-	-	-	20151115
 79684	101999882	Ptp4a2	-	-	-	10	-	protein tyrosine phosphatase type IVA, member 2	protein-coding	-	-	-	-	20160102
-79684	101999883	Zmym6nb	-	-	-	10	-	ZMYM6 neighbor	protein-coding	-	-	-	-	20150808
+79684	101999883	Zmym6nb	-	-	-	10	-	ZMYM6 neighbor	protein-coding	-	-	-	-	20160402
 79684	101999884	Mroh1	-	-	-	15	-	maestro heat-like repeat family member 1	protein-coding	-	-	-	-	20151115
 79684	101999885	Creld2	-	-	-	15	-	cysteine-rich with EGF-like domains 2	protein-coding	-	-	-	-	20151115
 79684	101999886	Six2	-	-	-	16	-	SIX homeobox 2	protein-coding	-	-	-	-	20151115
@@ -20448,7 +20448,7 @@
 79684	102000010	Ttc28	-	-	-	2	-	tetratricopeptide repeat domain 28	protein-coding	-	-	-	-	20151115
 79684	102000011	Gtf2i	-	-	-	2	-	general transcription factor IIi	protein-coding	-	-	-	-	20160102
 79684	102000012	LOC102000012	-	-	-	4	-	zinc finger protein 431-like	protein-coding	-	-	-	-	20151115
-79684	102000013	Wdr83os	-	-	-	Un	-	WD repeat domain 83 opposite strand	protein-coding	-	-	-	-	20151115
+79684	102000013	Wdr83os	-	-	-	Un	-	WD repeat domain 83 opposite strand	protein-coding	-	-	-	-	20160213
 79684	102000014	Ak1	-	-	-	4	-	adenylate kinase 1	protein-coding	-	-	-	-	20160102
 79684	102000015	LOC102000015	-	-	-	Un	-	dual specificity protein phosphatase 13 isoform A	protein-coding	-	-	-	-	20151115
 79684	102000017	Cwf19l2	-	-	-	5	-	CWF19-like 2, cell cycle control (S. pombe)	protein-coding	-	-	-	-	20151115
@@ -20826,7 +20826,7 @@
 79684	102000404	Cadps	-	-	-	6	-	Ca++-dependent secretion activator	protein-coding	-	-	-	-	20160102
 79684	102000405	Rhbdf1	-	-	-	7	-	rhomboid 5 homolog 1 (Drosophila)	protein-coding	-	-	-	-	20160102
 79684	102000406	Znf205	-	Znf213	-	7	-	zinc finger protein 205	protein-coding	-	-	-	zinc finger protein 213	20151115
-79684	102000407	Tnp2	-	-	-	7	-	transition protein 2 (during histone to protamine replacement)	protein-coding	-	-	-	-	20150808
+79684	102000407	Tnp2	-	-	-	7	-	transition protein 2 (during histone to protamine replacement)	protein-coding	-	-	-	-	20160402
 79684	102000408	Foxa3	-	-	-	Un	-	forkhead box A3	protein-coding	-	-	-	-	20151115
 79684	102000409	Rabggta	-	-	-	Un	-	Rab geranylgeranyltransferase, alpha subunit	protein-coding	-	-	-	-	20151115
 79684	102000410	Prop1	-	-	-	7	-	PROP paired-like homeobox 1	protein-coding	-	-	-	-	20151115
@@ -21106,7 +21106,7 @@
 79684	102000693	LOC102000693	-	-	-	7	-	olfactory receptor 1361-like	protein-coding	-	-	-	-	20151115
 79684	102000694	Prm3	-	-	-	7	-	protamine 3	protein-coding	-	-	-	-	20151115
 79684	102000695	Sympk	-	-	-	Un	-	symplekin	protein-coding	-	-	-	-	20151115
-79684	102000696	Znf354c	-	-	-	7	-	zinc finger protein 354C	protein-coding	-	-	-	-	20150808
+79684	102000696	Znf354c	-	-	-	7	-	zinc finger protein 354C	protein-coding	-	-	-	-	20160402
 79684	102000697	Cib4	-	-	-	Un	-	calcium and integrin binding family member 4	protein-coding	-	-	-	-	20151115
 79684	102000698	LOC102000698	-	-	-	Un	-	T-cell-interacting, activating receptor on myeloid cells protein 1-like	protein-coding	-	-	-	-	20151115
 79684	102000699	LOC102000699	-	-	-	7	-	uncharacterized LOC102000699	protein-coding	-	-	-	-	20151115
@@ -21477,7 +21477,7 @@
 79684	102001087	Fam13b	-	-	-	18	-	family with sequence similarity 13, member B	protein-coding	-	-	-	-	20160102
 79684	102001088	LOC102001088	-	Pcdhb8	-	18	-	protocadherin beta-13	protein-coding	-	-	-	protocadherin beta 8	20151115
 79684	102001089	Mapk4	-	-	-	18	-	mitogen-activated protein kinase 4	protein-coding	-	-	-	-	20151115
-79684	102001090	Lrrc70	-	-	-	19	-	leucine rich repeat containing 70	protein-coding	-	-	-	-	20150808
+79684	102001090	Lrrc70	-	-	-	19	-	leucine rich repeat containing 70	protein-coding	-	-	-	-	20160402
 79684	102001091	Mex3a	-	-	-	21	-	mex-3 RNA binding family member A	protein-coding	-	-	-	mex-3 homolog A	20160102
 79684	102001092	Tuft1	-	-	-	21	-	tuftelin 1	protein-coding	-	-	-	-	20151115
 79684	102001093	Dapp1	-	-	-	21	-	dual adaptor of phosphotyrosine and 3-phosphoinositides	protein-coding	-	-	-	-	20151115
@@ -22000,7 +22000,7 @@
 79684	102001637	LOC102001637	-	-	-	10	-	kinesin-like protein KIF2C pseudogene	pseudo	-	-	-	-	20151115
 79684	102001638	LOC102001638	-	Krt85	-	15	-	keratin, type II cuticular Hb5	protein-coding	-	-	-	keratin 85	20151115
 79684	102001639	C15H22orf23	-	-	-	15	-	chromosome 15 open reading frame, human C22orf23	protein-coding	-	-	-	UPF0193 protein EVG1 homolog	20160102
-79684	102001641	Setdb2	-	-	-	17	-	SET domain, bifurcated 2	protein-coding	-	-	-	-	20151115
+79684	102001641	Setdb2	-	-	-	17	-	SET domain, bifurcated 2	protein-coding	-	-	-	-	20160305
 79684	102001642	Gpr180	-	-	-	17	-	G protein-coupled receptor 180	protein-coding	-	-	-	-	20151115
 79684	102001643	Wnt8a	-	-	-	18	-	wingless-type MMTV integration site family, member 8A	protein-coding	-	-	-	-	20151115
 79684	102001644	LOC102001644	-	Pcdhb15	-	18	-	protocadherin beta-15	protein-coding	-	-	-	protocadherin beta 15	20151115
@@ -22055,7 +22055,7 @@
 79684	102001694	LOC102001694	-	-	-	Un	-	cytochrome b-c1 complex subunit 10 pseudogene	pseudo	-	-	-	-	20151115
 79684	102001695	LOC102001695	-	-	-	4	-	uncharacterized LOC102001695	protein-coding	-	-	-	-	20160102
 79684	102001696	LOC102001696	-	-	-	5	-	E1A-binding protein p400-like	protein-coding	-	-	-	-	20151115
-79684	102001697	Tmem167b	-	-	-	-	-	transmembrane protein 167B	protein-coding	-	-	-	-	20150808
+79684	102001697	Tmem167b	-	-	-	-	-	transmembrane protein 167B	protein-coding	-	-	-	-	20160402
 79684	102001698	Prdm10	-	-	-	5	-	PR domain containing 10	protein-coding	-	-	-	-	20151115
 79684	102001699	LOC102001699	-	-	-	5	-	olfactory receptor 143-like	protein-coding	-	-	-	-	20151115
 79684	102001700	Sik3	-	-	-	5	-	SIK family kinase 3	protein-coding	-	-	-	-	20160102
@@ -22110,7 +22110,7 @@
 79684	102001754	Slc25a3	-	-	-	24	-	solute carrier family 25 (mitochondrial carrier; phosphate carrier), member 3	protein-coding	-	-	-	-	20151115
 79684	102001755	Cd36	-	-	-	26	-	CD36 molecule (thrombospondin receptor)	protein-coding	-	-	-	-	20160102
 79684	102001756	LOC102001756	-	-	-	X	-	protein DDX26B	protein-coding	-	-	-	-	20151115
-79684	102001757	Bend2	-	-	-	X	-	BEN domain containing 2	protein-coding	-	-	-	-	20150808
+79684	102001757	Bend2	-	-	-	X	-	BEN domain containing 2	protein-coding	-	-	-	-	20160402
 79684	102001759	Glmn	-	-	-	LG1	-	glomulin, FKBP associated protein	protein-coding	-	-	-	-	20160102
 79684	102001760	Amer3	-	-	-	LG2	-	APC membrane recruitment protein 3	protein-coding	-	-	-	-	20151115
 79684	102001761	Ppard	-	-	-	LG2	-	peroxisome proliferator-activated receptor delta	protein-coding	-	-	-	-	20151115
@@ -22360,7 +22360,7 @@
 79684	102002017	Kif2a	-	-	-	19	-	kinesin heavy chain member 2A	protein-coding	-	-	-	-	20160102
 79684	102002018	Celf3	-	-	-	21	-	CUGBP, Elav-like family member 3	protein-coding	-	-	-	-	20160102
 79684	102002019	Zgrf1	-	-	-	21	-	zinc finger, GRF-type containing 1	protein-coding	-	-	-	-	20151115
-79684	102002021	Rap1b	-	-	-	24	-	RAP1B, member of RAS oncogene family	protein-coding	-	-	-	-	20151115
+79684	102002021	Rap1b	-	-	-	24	-	RAP1B, member of RAS oncogene family	protein-coding	-	-	-	-	20160206
 79684	102002022	Inhbc	-	-	-	24	-	inhibin, beta C	protein-coding	-	-	-	-	20160102
 79684	102002023	Syt1	-	-	-	24	-	synaptotagmin I	protein-coding	-	-	-	-	20160102
 79684	102002024	Gnat3	-	-	-	26	-	guanine nucleotide binding protein, alpha transducing 3	protein-coding	-	-	-	-	20151115
@@ -22644,7 +22644,7 @@
 79684	102002308	Tnfrsf11b	-	-	-	LG3	-	tumor necrosis factor receptor superfamily, member 11b	protein-coding	-	-	-	-	20151115
 79684	102002309	Mal2	-	-	-	LG3	-	mal, T-cell differentiation protein 2	protein-coding	-	-	-	-	20151115
 79684	102002310	Nod1	-	-	-	LG3	-	nucleotide-binding oligomerization domain containing 1	protein-coding	-	-	-	-	20151115
-79684	102002311	Psenen	-	-	-	LG4	-	presenilin enhancer gamma secretase subunit	protein-coding	-	-	-	presenilin enhancer 2 homolog	20151115
+79684	102002311	Psenen	-	-	-	LG4	-	presenilin enhancer gamma secretase subunit	protein-coding	-	-	-	presenilin enhancer 2 homolog	20160213
 79684	102002312	Ddx11	-	-	-	LG4	-	DEAD/H (Asp-Glu-Ala-Asp/His) box helicase 11	protein-coding	-	-	-	-	20160102
 79684	102002313	LOC102002313	-	-	-	LG4	-	glyceraldehyde-3-phosphate dehydrogenase pseudogene	pseudo	-	-	-	-	20151115
 79684	102002314	Rae1	-	-	-	LG8	-	ribonucleic acid export 1	protein-coding	-	-	-	RAE1 RNA export 1 homolog	20151115
@@ -23181,7 +23181,7 @@
 79684	102002873	Adam23	-	-	-	LG4	-	ADAM metallopeptidase domain 23	protein-coding	-	-	-	-	20160102
 79684	102002874	Fam166b	-	-	-	LG5	-	family with sequence similarity 166, member B	protein-coding	-	-	-	-	20160102
 79684	102002875	Tfap2c	-	-	-	LG8	-	transcription factor AP-2 gamma (activating enhancer binding protein 2 gamma)	protein-coding	-	-	-	-	20151115
-79684	102002877	Defb126	-	-	-	LG8	-	defensin, beta 126	protein-coding	-	-	-	-	20150808
+79684	102002877	Defb126	-	-	-	LG8	-	defensin, beta 126	protein-coding	-	-	-	-	20160402
 79684	102002878	LOC102002878	-	-	-	LG12	-	60S ribosomal protein L27a pseudogene	pseudo	-	-	-	-	20151115
 79684	102002879	Mrpl53	-	-	-	14	-	mitochondrial ribosomal protein L53	protein-coding	-	-	-	-	20151115
 79684	102002880	Slc2a3	-	-	-	Un	-	solute carrier family 2 (facilitated glucose transporter), member 3	protein-coding	-	-	-	-	20160102

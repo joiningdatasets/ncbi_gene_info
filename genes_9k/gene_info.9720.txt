@@ -10,4 +10,4 @@
 9720	807658	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20150626
 9720	807659	ND2	-	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20150626
 9720	807660	COX2	-	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20150626
-9720	807661	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20150626
+9720	807661	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20160325

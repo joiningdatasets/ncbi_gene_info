@@ -1,8 +1,8 @@
 84701	9978608	ND2	-	-	-	MT	-	ND2	protein-coding	-	-	-	NADH dehydrogenase subunit 2	20150626
-84701	9978609	COX1	-	-	-	MT	-	COX1	protein-coding	-	-	-	cytochrome c oxidase subunit I	20150725
+84701	9978609	COX1	-	-	-	MT	-	COX1	protein-coding	-	-	-	cytochrome c oxidase subunit I	20160325
 84701	9978610	COX2	-	-	-	MT	-	COX2	protein-coding	-	-	-	cytochrome c oxidase subunit II	20150626
 84701	9978611	ATP8	-	-	-	MT	-	ATP8	protein-coding	-	-	-	ATP synthase F0 subunit 8	20150626
-84701	9978612	ATP6	-	-	-	MT	-	ATP6	protein-coding	-	-	-	ATP synthase F0 subunit 6	20150626
+84701	9978612	ATP6	-	-	-	MT	-	ATP6	protein-coding	-	-	-	ATP synthase F0 subunit 6	20160325
 84701	9978613	COX3	-	-	-	MT	-	COX3	protein-coding	-	-	-	cytochrome c oxidase subunit III	20150626
 84701	9978614	ND3	-	-	-	MT	-	ND3	protein-coding	-	-	-	NADH dehydrogenase subunit 3	20150626
 84701	9978615	ND4L	-	-	-	MT	-	ND4L	protein-coding	-	-	-	NADH dehydrogenase subunit 4L	20150626

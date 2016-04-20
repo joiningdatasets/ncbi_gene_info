@@ -15,10 +15,10 @@
 1170369	25076121	COX2	AEY16_gp10	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20151104
 1170369	25076122	ATP8	AEY16_gp09	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20151104
 1170369	25076123	ND3	AEY16_gp06	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20151104
-1170369	25076124	ND4L	AEY16_gp05	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20151104
+1170369	25076124	ND4L	AEY16_gp05	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20160325
 1170369	25076125	AEY16_gt18	AEY16_gt18	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150724
 1170369	25076126	AEY16_gt19	AEY16_gt19	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150724
-1170369	25076127	ND5	AEY16_gp03	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20151104
+1170369	25076127	ND5	AEY16_gp03	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20160325
 1170369	25076128	CYTB	AEY16_gp01	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20151104
 1170369	25076129	AEY16_gt22	AEY16_gt22	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150724
 1170369	25076130	AEY16_gt04	AEY16_gt04	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150724

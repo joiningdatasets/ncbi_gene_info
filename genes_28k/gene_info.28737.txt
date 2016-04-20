@@ -1711,7 +1711,7 @@
 28737	102844663	LOC102844663	-	-	-	Un	-	protein FADD-like	pseudo	-	-	-	-	20151115
 28737	102844664	KIAA1919	-	-	-	Un	-	KIAA1919 ortholog	protein-coding	-	-	-	-	20151115
 28737	102844665	LOC102844665	-	-	-	Un	-	SWI5-dependent recombination repair 1 pseudogene	pseudo	-	-	-	-	20151115
-28737	102844666	ZAR1	-	-	-	Un	-	zygote arrest 1	protein-coding	-	-	-	-	20151115
+28737	102844666	ZAR1	-	-	-	Un	-	zygote arrest 1	protein-coding	-	-	-	-	20160130
 28737	102844667	LOC102844667	-	-	-	Un	-	eukaryotic translation initiation factor 3, subunit I pseudogene	pseudo	-	-	-	-	20151115
 28737	102844668	SOCS4	-	-	-	Un	-	suppressor of cytokine signaling 4	protein-coding	-	-	-	-	20151115
 28737	102844669	SLC5A9	-	-	-	Un	-	solute carrier family 5 (sodium/sugar cotransporter), member 9	protein-coding	-	-	-	-	20151115
@@ -14998,7 +14998,7 @@
 28737	102857950	MPO	-	-	-	Un	-	myeloperoxidase	protein-coding	-	-	-	-	20151115
 28737	102857951	ATP2B1	-	-	-	Un	-	ATPase, Ca++ transporting, plasma membrane 1	protein-coding	-	-	-	-	20151115
 28737	102857952	LOC102857952	-	-	-	Un	-	cytochrome P450 3A9-like	protein-coding	-	-	-	-	20151115
-28737	102857953	FRMPD3	-	-	-	Un	-	FERM and PDZ domain containing 3	protein-coding	-	-	-	-	20151115
+28737	102857953	FRMPD3	-	-	-	Un	-	FERM and PDZ domain containing 3	protein-coding	-	-	-	-	20160312
 28737	102857954	PLA2G1B	-	-	-	Un	-	phospholipase A2, group IB (pancreas)	protein-coding	-	-	-	-	20151115
 28737	102857955	LOC102857955	-	-	-	Un	-	glyceraldehyde-3-phosphate dehydrogenase-like	pseudo	-	-	-	-	20151115
 28737	102857956	SGSM2	-	-	-	Un	-	small G protein signaling modulator 2	protein-coding	-	-	-	-	20151115
@@ -21138,7 +21138,7 @@
 28737	102864090	LOC102864090	-	-	-	Un	-	olfactory receptor 2M5-like	protein-coding	-	-	-	-	20151115
 28737	102864091	LOC102864091	-	-	-	Un	-	protein FAM214A-like	pseudo	-	-	-	-	20151115
 28737	102864092	LOC102864092	-	-	-	Un	-	ferritin heavy chain-like	pseudo	-	-	-	-	20151115
-28737	102864093	SETDB2	-	-	-	Un	-	SET domain, bifurcated 2	protein-coding	-	-	-	-	20151115
+28737	102864093	SETDB2	-	-	-	Un	-	SET domain, bifurcated 2	protein-coding	-	-	-	-	20160305
 28737	102864094	LOC102864094	-	-	-	Un	-	39S ribosomal protein L30, mitochondrial-like	pseudo	-	-	-	-	20151115
 28737	102864095	LOC102864095	-	-	-	Un	-	eukaryotic translation initiation factor 5-like	pseudo	-	-	-	-	20151115
 28737	102864096	LOC102864096	-	-	-	Un	-	ribosomal protein L26-like 1 pseudogene	pseudo	-	-	-	-	20151115
@@ -22915,7 +22915,7 @@
 28737	102865867	LOC102865867	-	-	-	Un	-	tetratricopeptide repeat domain 39B pseudogene	pseudo	-	-	-	-	20151115
 28737	102865868	LOC102865868	-	-	-	Un	-	transmembrane protein 248-like	pseudo	-	-	-	-	20151115
 28737	102865869	LOC102865869	-	-	-	Un	-	male-enhanced antigen 1 pseudogene	pseudo	-	-	-	-	20151115
-28737	102865870	KLK1	-	-	-	Un	-	kallikrein 1	protein-coding	-	-	-	-	20151115
+28737	102865870	KLK1	-	-	-	Un	-	kallikrein 1	protein-coding	-	-	-	-	20160220
 28737	102865871	DNAJA3	-	-	-	Un	-	DnaJ (Hsp40) homolog, subfamily A, member 3	protein-coding	-	-	-	-	20151115
 28737	102865872	LOC102865872	-	-	-	Un	-	capping protein (actin filament) muscle Z-line, alpha 2 pseudogene	pseudo	-	-	-	-	20151115
 28737	102865873	RNASET2	-	-	-	Un	-	ribonuclease T2	protein-coding	-	-	-	-	20151115

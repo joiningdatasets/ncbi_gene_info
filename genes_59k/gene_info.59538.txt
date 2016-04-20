@@ -6,7 +6,7 @@
 59538	3703621	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20150626
 59538	3703622	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20150626
 59538	3703623	ND2	-	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20150626
-59538	3703624	ND3	-	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20150626
+59538	3703624	ND3	-	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20160325
 59538	3703625	ND4L	-	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20150626
 59538	3703626	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20150626
 59538	3703627	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20150626
@@ -2998,7 +2998,7 @@
 59538	102317750	LOC102317750	-	-	-	Un	-	citrate synthase, peroxisomal-like	protein-coding	-	-	-	-	20151115
 59538	102317751	LOC102317751	-	-	-	Un	-	transmembrane protein 256-like	protein-coding	-	-	-	-	20151115
 59538	102317752	LOC102317752	-	-	-	Un	-	uncharacterized LOC102317752	ncRNA	-	-	-	-	20151115
-59538	102317753	FRMPD3	-	-	-	Un	-	FERM and PDZ domain containing 3	protein-coding	-	-	-	-	20151115
+59538	102317753	FRMPD3	-	-	-	Un	-	FERM and PDZ domain containing 3	protein-coding	-	-	-	-	20160312
 59538	102317754	LOC102317754	-	-	-	Un	-	trans-1,2-dihydrobenzene-1,2-diol dehydrogenase-like	protein-coding	-	-	-	-	20151115
 59538	102317755	DGCR6	-	-	-	Un	-	DiGeorge syndrome critical region gene 6	protein-coding	-	-	-	-	20151115
 59538	102317756	LOC102317756	-	-	-	Un	-	methionine sulfoxide reductase B3 pseudogene	pseudo	-	-	-	-	20151115
@@ -5106,7 +5106,7 @@
 59538	102319858	LOC102319858	-	-	-	Un	-	olfactory receptor 4A47-like	pseudo	-	-	-	-	20151115
 59538	102319859	CECR6	-	-	-	Un	-	cat eye syndrome chromosome region, candidate 6	protein-coding	-	-	-	-	20151115
 59538	102319860	DPM3	-	-	-	Un	-	dolichyl-phosphate mannosyltransferase polypeptide 3	protein-coding	-	-	-	-	20151115
-59538	102319861	FIS1	-	-	-	Un	-	fission 1 (mitochondrial outer membrane) homolog (S. cerevisiae)	protein-coding	-	-	-	-	20151115
+59538	102319861	FIS1	-	-	-	Un	-	fission 1 (mitochondrial outer membrane) homolog (S. cerevisiae)	protein-coding	-	-	-	-	20160220
 59538	102319862	LOC102319862	-	-	-	Un	-	K(+) efflux antiporter 1, chloroplastic-like	pseudo	-	-	-	-	20151115
 59538	102319863	ADAMDEC1	-	-	-	Un	-	ADAM-like, decysin 1	protein-coding	-	-	-	-	20151115
 59538	102319864	KIF21A	-	-	-	Un	-	kinesin family member 21A	protein-coding	-	-	-	-	20151115
@@ -8005,7 +8005,7 @@
 59538	102322757	LOC102322757	-	-	-	Un	-	polyphosphate kinase-like	protein-coding	-	-	-	-	20151115
 59538	102322758	DNTTIP2	-	-	-	Un	-	deoxynucleotidyltransferase, terminal, interacting protein 2	protein-coding	-	-	-	-	20151115
 59538	102322759	LOC102322759	-	-	-	Un	-	acetyl-CoA acetyltransferase 2 pseudogene	pseudo	-	-	-	-	20151115
-59538	102322760	CREBZF	-	-	-	Un	-	CREB/ATF bZIP transcription factor	protein-coding	-	-	-	-	20151115
+59538	102322760	CREBZF	-	-	-	Un	-	CREB/ATF bZIP transcription factor	protein-coding	-	-	-	-	20160220
 59538	102322761	FAM8A1	-	-	-	Un	-	family with sequence similarity 8, member A1	protein-coding	-	-	-	-	20151115
 59538	102322762	LOC102322762	-	-	-	Un	-	coiled-coil domain-containing protein 103-like	protein-coding	-	-	-	-	20151115
 59538	102322763	FCHSD2	-	-	-	Un	-	FCH and double SH3 domains 2	protein-coding	-	-	-	-	20151115
@@ -12063,7 +12063,7 @@
 59538	102326815	LOC102326815	-	-	-	Un	-	uncharacterized LOC102326815	protein-coding	-	-	-	-	20151115
 59538	102326816	LOC102326816	-	-	-	Un	-	probable cytidylate kinase-like	protein-coding	-	-	-	-	20151115
 59538	102326817	MAP4K5	-	-	-	Un	-	mitogen-activated protein kinase kinase kinase kinase 5	protein-coding	-	-	-	-	20151115
-59538	102326818	CRLS1	-	-	-	Un	-	cardiolipin synthase 1	protein-coding	-	-	-	-	20151115
+59538	102326818	CRLS1	-	-	-	Un	-	cardiolipin synthase 1	protein-coding	-	-	-	-	20160212
 59538	102326819	LOC102326819	-	-	-	Un	-	protein S100-A10-like	protein-coding	-	-	-	-	20151115
 59538	102326820	RASA1	-	-	-	Un	-	RAS p21 protein activator (GTPase activating protein) 1	protein-coding	-	-	-	-	20151115
 59538	102326821	LOC102326821	-	-	-	Un	-	uncharacterized LOC102326821	pseudo	-	-	-	-	20151115
@@ -15365,7 +15365,7 @@
 59538	102330117	SPTY2D1	-	-	-	Un	-	SPT2, Suppressor of Ty, domain containing 1 (S. cerevisiae)	protein-coding	-	-	-	protein SPT2 homolog	20151115
 59538	102330118	LOC102330118	-	-	-	Un	-	protein lifeguard 4-like	protein-coding	-	-	-	-	20151115
 59538	102330119	TARDBP	-	-	-	Un	-	TAR DNA binding protein	protein-coding	-	-	-	-	20151115
-59538	102330120	CHMP5	-	-	-	Un	-	charged multivesicular body protein 5	protein-coding	-	-	-	-	20151115
+59538	102330120	CHMP5	-	-	-	Un	-	charged multivesicular body protein 5	protein-coding	-	-	-	-	20160220
 59538	102330121	IFIH1	-	-	-	Un	-	interferon induced with helicase C domain 1	protein-coding	-	-	-	-	20151115
 59538	102330122	LOC102330122	-	-	-	Un	-	D-arabinitol dehydrogenase 1-like	protein-coding	-	-	-	-	20151115
 59538	102330123	LOC102330123	-	-	-	Un	-	riboflavin synthase-like	protein-coding	-	-	-	-	20151115
@@ -18361,7 +18361,7 @@
 59538	102333113	LOC102333113	-	-	-	Un	-	COP9 signalosome subunit 2 pseudogene	pseudo	-	-	-	-	20151115
 59538	102333114	TTLL7	-	-	-	Un	-	tubulin tyrosine ligase-like family, member 7	protein-coding	-	-	-	-	20151115
 59538	102333115	TEX36	-	-	-	Un	-	testis expressed 36	protein-coding	-	-	-	-	20151115
-59538	102333116	SOCS4	-	-	-	Un	-	suppressor of cytokine signaling 4	protein-coding	-	-	-	-	20151204
+59538	102333116	SOCS4	-	-	-	Un	-	suppressor of cytokine signaling 4	protein-coding	-	-	-	-	20160203
 59538	102333117	ERLEC1	-	-	-	Un	-	endoplasmic reticulum lectin 1	protein-coding	-	-	-	-	20151115
 59538	102333118	CTDSP1	-	-	-	Un	-	CTD (carboxy-terminal domain, RNA polymerase II, polypeptide A) small phosphatase 1	protein-coding	-	-	-	-	20151115
 59538	102333119	LOC102333119	-	-	-	Un	-	probable RuBisCO transcriptional regulator-like	protein-coding	-	-	-	-	20151115
@@ -22222,7 +22222,7 @@
 59538	102336975	LOC102336975	-	-	-	Un	-	apolipoprotein L2-like	pseudo	-	-	-	-	20151115
 59538	102336976	LOC102336976	-	-	-	Un	-	glucose-6-phosphate isomerase, glycosomal-like	protein-coding	-	-	-	-	20151115
 59538	102336977	LOC102336977	-	-	-	Un	-	probable maltase D-like	protein-coding	-	-	-	-	20151115
-59538	102336978	ZAR1	-	-	-	Un	-	zygote arrest 1	protein-coding	-	-	-	-	20151115
+59538	102336978	ZAR1	-	-	-	Un	-	zygote arrest 1	protein-coding	-	-	-	-	20160130
 59538	102336979	PPIC	-	-	-	Un	-	peptidylprolyl isomerase C (cyclophilin C)	protein-coding	-	-	-	-	20151115
 59538	102336980	LOC102336980	-	-	-	Un	-	neutral amino acid transporter B(0)-like	protein-coding	-	-	-	-	20151115
 59538	102336981	LOC102336981	-	-	-	Un	-	tRNA modification GTPase GTPBP3, mitochondrial-like	protein-coding	-	-	-	-	20151115
@@ -26013,7 +26013,7 @@
 59538	102340766	ULBP2	-	-	-	Un	-	UL16 binding protein 2	protein-coding	-	-	-	-	20151115
 59538	102340767	FMR1NB	-	-	-	Un	-	fragile X mental retardation 1 neighbor	protein-coding	-	-	-	-	20151115
 59538	102340768	DUS4L	-	-	-	Un	-	dihydrouridine synthase 4-like (S. cerevisiae)	protein-coding	-	-	-	-	20151115
-59538	102340769	LOC102340769	-	-	-	Un	-	grpE protein homolog, mitochondrial-like	protein-coding	-	-	-	-	20151115
+59538	102340769	LOC102340769	-	-	-	Un	-	grpE protein homolog, mitochondrial-like	protein-coding	-	-	-	-	20160116
 59538	102340770	JPH3	-	-	-	Un	-	junctophilin 3	protein-coding	-	-	-	-	20151115
 59538	102340771	LOC102340771	-	-	-	Un	-	cytochrome b-c1 complex subunit 9-like	protein-coding	-	-	-	-	20151115
 59538	102340772	LOC102340772	-	-	-	Un	-	uncharacterized LOC102340772	protein-coding	-	-	-	-	20151115
@@ -28594,7 +28594,7 @@
 59538	102343347	LOC102343347	-	-	-	Un	-	probable transcriptional regulator ycf27-like	protein-coding	-	-	-	-	20151115
 59538	102343348	PPFIA4	-	-	-	Un	-	protein tyrosine phosphatase, receptor type, f polypeptide (PTPRF), interacting protein (liprin), alpha 4	protein-coding	-	-	-	-	20151115
 59538	102343349	ITM2C	-	-	-	Un	-	integral membrane protein 2C	protein-coding	-	-	-	-	20151115
-59538	102343350	SETDB2	-	-	-	Un	-	SET domain, bifurcated 2	protein-coding	-	-	-	-	20151115
+59538	102343350	SETDB2	-	-	-	Un	-	SET domain, bifurcated 2	protein-coding	-	-	-	-	20160305
 59538	102343351	NAIP	-	-	-	Un	-	NLR family, apoptosis inhibitory protein	protein-coding	-	-	-	-	20151115
 59538	102343352	LEPREL1	-	-	-	Un	-	leprecan-like 1	protein-coding	-	-	-	-	20151115
 59538	102343353	BBC3	-	-	-	Un	-	BCL2 binding component 3	protein-coding	-	-	-	-	20151115
@@ -29317,7 +29317,7 @@
 59538	102344070	SALL2	-	-	-	Un	-	spalt-like transcription factor 2	protein-coding	-	-	-	-	20151115
 59538	102344071	LOC102344071	-	-	-	Un	-	anthrax toxin receptor-like	protein-coding	-	-	-	-	20151115
 59538	102344072	LOC102344072	-	-	-	Un	-	3-hydroxybutyrate dehydrogenase type 2-like	protein-coding	-	-	-	-	20151115
-59538	102344073	EDN1	-	ET-1	-	Un	-	endothelin 1	protein-coding	-	-	-	-	20151115
+59538	102344073	EDN1	-	ET-1	-	Un	-	endothelin 1	protein-coding	-	-	-	-	20160325
 59538	102344074	LOC102344074	-	-	-	Un	-	heterogeneous nuclear ribonucleoprotein A1 pseudogene	pseudo	-	-	-	-	20151115
 59538	102344075	DIABLO	-	-	-	Un	-	diablo, IAP-binding mitochondrial protein	protein-coding	-	-	-	-	20151115
 59538	102344076	DDHD2	-	-	-	Un	-	DDHD domain containing 2	protein-coding	-	-	-	-	20151115
@@ -29384,7 +29384,7 @@
 59538	102344137	LOC102344137	-	-	-	Un	-	PITH domain-containing protein 1-like	pseudo	-	-	-	-	20151115
 59538	102344138	LOC102344138	-	-	-	Un	-	ribosomal protein L37a pseudogene	pseudo	-	-	-	-	20151115
 59538	102344139	LOC102344139	-	-	-	Un	-	caspase-1-like	pseudo	-	-	-	-	20151115
-59538	102344140	KLK1	-	-	-	Un	-	kallikrein 1	protein-coding	-	-	-	-	20151115
+59538	102344140	KLK1	-	-	-	Un	-	kallikrein 1	protein-coding	-	-	-	-	20160220
 59538	102344141	LOC102344141	-	-	-	Un	-	pirin-like protein At2g43120-like	protein-coding	-	-	-	-	20151115
 59538	102344142	MAVS	-	-	-	Un	-	mitochondrial antiviral signaling protein	protein-coding	-	-	-	-	20151115
 59538	102344143	APOBEC3G	-	-	-	Un	-	apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 3G	protein-coding	-	-	-	-	20151115

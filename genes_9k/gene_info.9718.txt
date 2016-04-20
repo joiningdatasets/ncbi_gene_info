@@ -9,10 +9,10 @@
 9718	4355908	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20150626
 9718	4355909	ND2	-	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20150626
 9718	4355910	ND3	-	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20150626
-9718	4355911	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20150626
+9718	4355911	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20160325
 9718	4355912	ND4L	-	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20150626
 9718	4355913	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20150626
-9718	4355914	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20150626
+9718	4355914	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20160325
 9718	4355915	tRNA-Ala	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
 9718	4355916	tRNA-Arg	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
 9718	4355917	tRNA-Asn	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919

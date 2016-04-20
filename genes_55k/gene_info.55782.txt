@@ -10,4 +10,4 @@
 55782	7324211	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20150626
 55782	7324212	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20150626
 55782	7324213	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20150626
-55782	7324214	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20150626
+55782	7324214	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20160325

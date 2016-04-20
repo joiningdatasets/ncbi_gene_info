@@ -1,11 +1,11 @@
 379532	6458115	COX2	-	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20150626
-379532	6458116	ATP8	-	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20150626
+379532	6458116	ATP8	-	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20160325
 379532	6458117	ND4L	-	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20150626
 379532	6458118	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20150626
-379532	6458119	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20150626
+379532	6458119	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20160325
 379532	6458120	ND3	-	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20150626
 379532	6458121	ND2	-	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20150626
-379532	6458122	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20150626
+379532	6458122	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20160325
 379532	6458123	ATP6	-	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20150626
 379532	6458124	COX3	-	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20150626
 379532	6458125	COX1	-	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20150626
@@ -4432,7 +4432,7 @@
 379532	105809260	LOC105809260	-	-	-	Un	-	sialic acid-binding Ig-like lectin 8	protein-coding	-	-	-	-	20151115
 379532	105809261	KLK14	-	-	-	Un	-	kallikrein-related peptidase 14	protein-coding	-	-	-	-	20151115
 379532	105809262	KLK4	-	-	-	Un	-	kallikrein-related peptidase 4	protein-coding	-	-	-	-	20151115
-379532	105809263	KLK1	-	-	-	Un	-	kallikrein 1	protein-coding	-	-	-	-	20151115
+379532	105809263	KLK1	-	-	-	Un	-	kallikrein 1	protein-coding	-	-	-	-	20160220
 379532	105809264	LOC105809264	-	-	-	Un	-	uncharacterized LOC105809264	protein-coding	-	-	-	-	20151115
 379532	105809265	GPR32	-	-	-	Un	-	G protein-coupled receptor 32	protein-coding	-	-	-	-	20151115
 379532	105809266	MYBPC2	-	-	-	Un	-	myosin binding protein C, fast type	protein-coding	-	-	-	-	20151115
@@ -5748,7 +5748,7 @@
 379532	105810576	CASQ2	-	-	-	Un	-	calsequestrin 2 (cardiac muscle)	protein-coding	-	-	-	-	20151115
 379532	105810577	LOC105810577	-	-	-	Un	-	pre-mRNA-splicing factor SPF27	protein-coding	-	-	-	-	20151115
 379532	105810578	VANGL1	-	-	-	Un	-	VANGL planar cell polarity protein 1	protein-coding	-	-	-	-	20151115
-379532	105810579	FRMPD3	-	-	-	Un	-	FERM and PDZ domain containing 3	protein-coding	-	-	-	-	20151115
+379532	105810579	FRMPD3	-	-	-	Un	-	FERM and PDZ domain containing 3	protein-coding	-	-	-	-	20160312
 379532	105810580	TSPAN2	-	-	-	Un	-	tetraspanin 2	protein-coding	-	-	-	-	20151115
 379532	105810581	SYT6	-	-	-	Un	-	synaptotagmin VI	protein-coding	-	-	-	-	20151115
 379532	105810582	NGF	-	-	-	Un	-	nerve growth factor (beta polypeptide)	protein-coding	-	-	-	-	20151115
@@ -8858,7 +8858,7 @@
 379532	105813686	SUPT4H1	-	-	-	Un	-	suppressor of Ty 4 homolog 1 (S. cerevisiae)	protein-coding	-	-	-	-	20151115
 379532	105813687	TBX2	-	-	-	Un	-	T-box 2	protein-coding	-	-	-	-	20151115
 379532	105813688	RNF43	-	-	-	Un	-	ring finger protein 43	protein-coding	-	-	-	-	20151115
-379532	105813689	SETDB2	-	-	-	Un	-	SET domain, bifurcated 2	protein-coding	-	-	-	-	20151115
+379532	105813689	SETDB2	-	-	-	Un	-	SET domain, bifurcated 2	protein-coding	-	-	-	-	20160305
 379532	105813690	CTNNA2	-	-	-	Un	-	catenin (cadherin-associated protein), alpha 2	protein-coding	-	-	-	-	20151115
 379532	105813691	LRRTM1	-	-	-	Un	-	leucine rich repeat transmembrane neuronal 1	protein-coding	-	-	-	-	20151115
 379532	105813692	CPXCR1	-	-	-	Un	-	CPX chromosome region, candidate 1	protein-coding	-	-	-	-	20151115
@@ -16532,7 +16532,7 @@
 379532	105821360	LOC105821360	-	-	-	Un	-	protein slowmo homolog 2-like	protein-coding	-	-	-	-	20151115
 379532	105821361	LOC105821361	-	-	-	Un	-	uncharacterized LOC105821361	ncRNA	-	-	-	-	20151115
 379532	105821362	BCL2L10	-	-	-	Un	-	BCL2-like 10 (apoptosis facilitator)	protein-coding	-	-	-	-	20151115
-379532	105821363	PAX9	-	-	-	Un	-	paired box 9	protein-coding	-	-	-	-	20151115
+379532	105821363	PAX9	-	-	-	Un	-	paired box 9	protein-coding	-	-	-	Paired box protein Pax-9	20160406
 379532	105821364	ARPP19	-	-	-	Un	-	cAMP-regulated phosphoprotein, 19kDa	protein-coding	-	-	-	-	20151115
 379532	105821365	FAM214A	-	-	-	Un	-	family with sequence similarity 214, member A	protein-coding	-	-	-	-	20151115
 379532	105821366	TCF12	-	-	-	Un	-	transcription factor 12	protein-coding	-	-	-	-	20151115
@@ -20322,7 +20322,7 @@
 379532	105825150	JAKMIP1	-	-	-	Un	-	janus kinase and microtubule interacting protein 1	protein-coding	-	-	-	-	20151115
 379532	105825151	TMEM128	-	-	-	Un	-	transmembrane protein 128	protein-coding	-	-	-	-	20151115
 379532	105825152	ZBTB49	-	-	-	Un	-	zinc finger and BTB domain containing 49	protein-coding	-	-	-	-	20151115
-379532	105825153	MSX1	-	-	-	Un	-	msh homeobox 1	protein-coding	-	-	-	msh homeobox 1-like protein	20151115
+379532	105825153	MSX1	-	-	-	Un	-	msh homeobox 1	protein-coding	-	-	-	Homeobox protein MSX-1|msh homeobox 1-like protein	20160407
 379532	105825154	STK32B	-	-	-	Un	-	serine/threonine kinase 32B	protein-coding	-	-	-	-	20151115
 379532	105825155	OTOP1	-	-	-	Un	-	otopetrin 1	protein-coding	-	-	-	-	20151115
 379532	105825156	LOC105825156	-	-	-	Un	-	neuron-specific protein family member 1	protein-coding	-	-	-	-	20151115

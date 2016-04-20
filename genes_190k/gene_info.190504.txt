@@ -13,10 +13,10 @@
 190504	15825783	trnT(tgt)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
 190504	15825784	trnV(tac)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
 190504	15825785	trnL2(taa)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
-190504	15825786	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20150626
+190504	15825786	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20160325
 190504	15825787	trnQ(ttg)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
 190504	15825788	trnM(cat)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
-190504	15825789	ND2	-	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20150626
+190504	15825789	ND2	-	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20160325
 190504	15825790	trnA(tgc)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
 190504	15825791	trnN(gtt)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
 190504	15825792	trnC(gca)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614

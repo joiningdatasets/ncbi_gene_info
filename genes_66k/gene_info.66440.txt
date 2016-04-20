@@ -10,4 +10,4 @@
 66440	15089108	ND5	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20150626
 66440	15089109	ND6	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20150626
 66440	15089110	CYTB	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20150626
-66440	15089111	ND1	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20150626
+66440	15089111	ND1	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20160325

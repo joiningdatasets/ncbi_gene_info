@@ -2,13 +2,13 @@
 329634	24287590	AA867_gt07	AA867_gt07	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150515
 329634	24287591	AA867_gt12	AA867_gt12	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150515
 329634	24287592	AA867_gt14	AA867_gt14	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150515
-329634	24287593	ATP6	AA867_gp08	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20150912
-329634	24287594	COX3	AA867_gp07	-	-	MT	-	TAA stop codon is completed by the addition of 3' A residues to the mRNA	protein-coding	-	-	-	cytochrome c oxidase subunit III	20150912
+329634	24287593	ATP6	AA867_gp08	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20160406
+329634	24287594	COX3	AA867_gp07	-	-	MT	-	TAA stop codon is completed by the addition of 3' A residues to the mRNA	protein-coding	-	-	-	cytochrome c oxidase subunit III	20160406
 329634	24287595	AA867_gt15	AA867_gt15	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150515
 329634	24287596	AA867_gt16	AA867_gt16	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150515
-329634	24287597	ND4	AA867_gp04	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20150912
+329634	24287597	ND4	AA867_gp04	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20160406
 329634	24287598	AA867_gt17	AA867_gt17	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150515
-329634	24287599	ND6	AA867_gp02	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20150912
+329634	24287599	ND6	AA867_gp02	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20160406
 329634	24287600	AA867_gt20	AA867_gt20	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150515
 329634	24287601	AA867_gt21	AA867_gt21	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150515
 329634	24287602	AA867_gt01	AA867_gt01	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150515
@@ -16,22 +16,22 @@
 329634	24287604	AA867_gt02	AA867_gt02	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150515
 329634	24287605	AA867_gr01	AA867_gr01	-	-	MT	-	16S ribosomal RNA	rRNA	-	-	-	-	20150515
 329634	24287606	AA867_gt03	AA867_gt03	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150515
-329634	24287607	ND1	AA867_gp13	-	-	MT	-	TAA stop codon is completed by the addition of 3' A residues to the mRNA	protein-coding	-	-	-	NADH dehydrogenase subunit 1	20150912
+329634	24287607	ND1	AA867_gp13	-	-	MT	-	TAA stop codon is completed by the addition of 3' A residues to the mRNA	protein-coding	-	-	-	NADH dehydrogenase subunit 1	20160406
 329634	24287608	AA867_gt05	AA867_gt05	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150515
 329634	24287609	AA867_gt06	AA867_gt06	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150515
-329634	24287610	ND2	AA867_gp12	-	-	MT	-	TAA stop codon is completed by the addition of 3' A residues to the mRNA	protein-coding	-	-	-	NADH dehydrogenase subunit 2	20150912
+329634	24287610	ND2	AA867_gp12	-	-	MT	-	TAA stop codon is completed by the addition of 3' A residues to the mRNA	protein-coding	-	-	-	NADH dehydrogenase subunit 2	20160406
 329634	24287611	AA867_gt08	AA867_gt08	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150515
 329634	24287612	AA867_gt09	AA867_gt09	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150515
 329634	24287613	AA867_gt10	AA867_gt10	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150515
 329634	24287614	AA867_gt11	AA867_gt11	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150515
-329634	24287615	COX1	AA867_gp11	-	-	MT	-	TAA stop codon is completed by the addition of 3' A residues to the mRNA	protein-coding	-	-	-	cytochrome c oxidase subunit I	20150912
+329634	24287615	COX1	AA867_gp11	-	-	MT	-	TAA stop codon is completed by the addition of 3' A residues to the mRNA	protein-coding	-	-	-	cytochrome c oxidase subunit I	20160406
 329634	24287616	AA867_gt13	AA867_gt13	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150515
-329634	24287617	COX2	AA867_gp10	-	-	MT	-	TAA stop codon is completed by the addition of 3' A residues to the mRNA	protein-coding	-	-	-	cytochrome c oxidase subunit II	20150912
-329634	24287618	ATP8	AA867_gp09	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20150912
-329634	24287619	ND3	AA867_gp06	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20150912
-329634	24287620	ND4L	AA867_gp05	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20150912
+329634	24287617	COX2	AA867_gp10	-	-	MT	-	TAA stop codon is completed by the addition of 3' A residues to the mRNA	protein-coding	-	-	-	cytochrome c oxidase subunit II	20160406
+329634	24287618	ATP8	AA867_gp09	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20160406
+329634	24287619	ND3	AA867_gp06	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20160406
+329634	24287620	ND4L	AA867_gp05	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20160406
 329634	24287621	AA867_gt18	AA867_gt18	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150515
 329634	24287622	AA867_gt19	AA867_gt19	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150515
-329634	24287623	ND5	AA867_gp03	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20150912
-329634	24287624	CYTB	AA867_gp01	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20150912
+329634	24287623	ND5	AA867_gp03	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20160406
+329634	24287624	CYTB	AA867_gp01	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20160406
 329634	24287625	AA867_gt22	AA867_gt22	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150515

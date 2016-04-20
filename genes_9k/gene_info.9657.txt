@@ -26,10 +26,10 @@
 9657	6972968	trnH	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
 9657	6972969	trnS(AGY)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
 9657	6972970	trnL(CUN)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
-9657	6972971	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20150626
+9657	6972971	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20160325
 9657	6972972	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20150626
 9657	6972973	trnE	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
-9657	6972974	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20150626
+9657	6972974	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20160325
 9657	6972975	trnT	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
 9657	6972976	trnP	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
 9657	6972977	trnF	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919

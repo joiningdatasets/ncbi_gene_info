@@ -6,8 +6,8 @@
 907742	14842399	COX3	-	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20151028
 907742	14842400	ND3	-	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20151028
 907742	14842401	ND4L	-	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20151028
-907742	14842402	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20151028
+907742	14842402	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20160325
 907742	14842403	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20151028
 907742	14842404	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20151028
-907742	14842405	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20151028
+907742	14842405	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20160325
 907742	14842406	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20151028

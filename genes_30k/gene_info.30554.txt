@@ -9,5 +9,5 @@
 30554	14841918	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20150626
 30554	14841919	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20150626
 30554	14841920	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20150626
-30554	14841921	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20150626
+30554	14841921	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20160325
 30554	14841922	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20150626

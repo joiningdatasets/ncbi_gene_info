@@ -13,7 +13,7 @@
 101673	25076081	COX1	AEY20_gp11	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20151104
 101673	25076082	AEY20_gt13	AEY20_gt13	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150724
 101673	25076083	COX2	AEY20_gp10	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20151104
-101673	25076084	ATP8	AEY20_gp09	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20151104
+101673	25076084	ATP8	AEY20_gp09	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20160325
 101673	25076085	ND3	AEY20_gp06	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20151104
 101673	25076086	ND4L	AEY20_gp05	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20151104
 101673	25076087	AEY20_gt18	AEY20_gt18	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150724

@@ -2,36 +2,36 @@
 61383	26129924	ASQ77_gt07	ASQ77_gt07	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
 61383	26129925	ASQ77_gt12	ASQ77_gt12	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
 61383	26129926	ASQ77_gt14	ASQ77_gt14	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
-61383	26129927	ATP6	ASQ77_gp08	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20151118
-61383	26129928	COX3	ASQ77_gp07	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20151118
+61383	26129927	ATP6	ASQ77_gp08	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20160309
+61383	26129928	COX3	ASQ77_gp07	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20160309
 61383	26129929	ASQ77_gt15	ASQ77_gt15	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
 61383	26129930	ASQ77_gt16	ASQ77_gt16	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
-61383	26129931	ND4	ASQ77_gp04	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20151118
+61383	26129931	ND4	ASQ77_gp04	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20160309
 61383	26129932	ASQ77_gt17	ASQ77_gt17	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
-61383	26129933	ND6	ASQ77_gp02	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20160102
+61383	26129933	ND6	ASQ77_gp02	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20160309
 61383	26129934	ASQ77_gt20	ASQ77_gt20	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
 61383	26129935	ASQ77_gt21	ASQ77_gt21	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
 61383	26129936	ASQ77_gr02	ASQ77_gr02	-	-	MT	-	12S ribosomal RNA	rRNA	-	-	-	-	20151106
 61383	26129937	ASQ77_gt02	ASQ77_gt02	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
 61383	26129938	ASQ77_gr01	ASQ77_gr01	-	-	MT	-	16S ribosomal RNA	rRNA	-	-	-	-	20151106
 61383	26129939	ASQ77_gt03	ASQ77_gt03	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
-61383	26129940	ND1	ASQ77_gp13	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20151118
+61383	26129940	ND1	ASQ77_gp13	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20160309
 61383	26129941	ASQ77_gt05	ASQ77_gt05	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
 61383	26129942	ASQ77_gt06	ASQ77_gt06	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
-61383	26129943	ND2	ASQ77_gp12	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20151118
+61383	26129943	ND2	ASQ77_gp12	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20160309
 61383	26129944	ASQ77_gt08	ASQ77_gt08	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
 61383	26129945	ASQ77_gt09	ASQ77_gt09	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
 61383	26129946	ASQ77_gt10	ASQ77_gt10	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
 61383	26129947	ASQ77_gt11	ASQ77_gt11	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
-61383	26129948	COX1	ASQ77_gp11	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20151118
+61383	26129948	COX1	ASQ77_gp11	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20160309
 61383	26129949	ASQ77_gt13	ASQ77_gt13	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
-61383	26129950	COX2	ASQ77_gp10	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20151118
-61383	26129951	ATP8	ASQ77_gp09	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20151118
-61383	26129952	ND3	ASQ77_gp06	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20151118
-61383	26129953	ND4L	ASQ77_gp05	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20151118
+61383	26129950	COX2	ASQ77_gp10	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20160309
+61383	26129951	ATP8	ASQ77_gp09	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20160309
+61383	26129952	ND3	ASQ77_gp06	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20160309
+61383	26129953	ND4L	ASQ77_gp05	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20160325
 61383	26129954	ASQ77_gt18	ASQ77_gt18	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
 61383	26129955	ASQ77_gt19	ASQ77_gt19	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
-61383	26129956	ND5	ASQ77_gp03	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20151118
-61383	26129957	CYTB	ASQ77_gp01	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20151118
+61383	26129956	ND5	ASQ77_gp03	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20160325
+61383	26129957	CYTB	ASQ77_gp01	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20160309
 61383	26129958	ASQ77_gt22	ASQ77_gt22	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
 61383	26129959	ASQ77_gt01	ASQ77_gt01	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106

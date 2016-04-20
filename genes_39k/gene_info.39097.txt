@@ -1,6 +1,6 @@
 39097	6740790	ND2	-	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20150626
 39097	6740791	trnM	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
-39097	6740792	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20150626
+39097	6740792	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20160325
 39097	6740793	trnE	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
 39097	6740794	COX1	-	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20150626
 39097	6740795	trnN	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
@@ -17,7 +17,7 @@
 39097	6740806	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20150626
 39097	6740807	ATP8	-	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20150626
 39097	6740808	COX3	-	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20150626
-39097	6740809	ATP6	-	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20150626
+39097	6740809	ATP6	-	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20160325
 39097	6740810	trnL	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
 39097	6740811	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20150626
 39097	6740812	trnS	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919

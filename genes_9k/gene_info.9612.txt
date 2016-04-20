@@ -11,4 +11,4 @@
 9612	4097770	COX3	-	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20150626
 9612	4097771	ND3	-	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20150626
 9612	4097772	ND4L	-	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20150626
-9612	5140939	NEWENTRY	-	-	-	-	-	Record to support submission of GeneRIFs for a gene not in Gene (gray wolf; grey wolf).	other	-	-	-	-	20110330
+9612	5140939	NEWENTRY	-	-	-	-	-	Record to support submission of GeneRIFs for a gene not in Gene (gray wolf; grey wolf).	other	-	-	-	-	20160123

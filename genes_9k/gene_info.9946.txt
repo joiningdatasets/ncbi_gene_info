@@ -5,9 +5,9 @@
 9946	15089131	ATP6	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20150626
 9946	15089132	COX3	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20150626
 9946	15089133	ND3	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20150626
-9946	15089134	ND4L	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20150626
+9946	15089134	ND4L	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20160325
 9946	15089135	ND4	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20150626
 9946	15089136	ND5	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20150626
-9946	15089137	ND6	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20150626
+9946	15089137	ND6	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20160325
 9946	15089138	CYTB	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20150626
 9946	15089139	ND1	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20150626

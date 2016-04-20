@@ -9,5 +9,5 @@
 300163	16489145	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20150626
 300163	16489146	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20150626
 300163	16489147	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20150626
-300163	16489148	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20150626
+300163	16489148	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20160325
 300163	16489149	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20150626

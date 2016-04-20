@@ -1,4 +1,4 @@
-1026970	15088424	ND2	-	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20151028
+1026970	15088424	ND2	-	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20160325
 1026970	15088425	COX1	-	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20151028
 1026970	15088426	COX2	-	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20151028
 1026970	15088427	ATP8	-	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20151028
@@ -1797,8 +1797,8 @@
 1026970	103726111	Kiaa1147	-	-	-	Un	-	KIAA1147 ortholog	protein-coding	-	-	-	-	20151115
 1026970	103726112	Wee2	-	-	-	Un	-	WEE1 homolog 2 (S. pombe)	protein-coding	-	-	-	-	20151115
 1026970	103726113	Ssbp1	-	-	-	Un	-	single-stranded DNA binding protein 1, mitochondrial	protein-coding	-	-	-	-	20151115
-1026970	103726114	LOC103726114	-	-	-	Un	-	taste receptor type 2 member 3	protein-coding	-	-	-	-	20151115
-1026970	103726115	LOC103726115	-	-	-	Un	-	taste receptor type 2 member 4	protein-coding	-	-	-	-	20151115
+1026970	103726114	LOC103726114	-	-	-	Un	-	taste receptor type 2 member 3	protein-coding	-	-	-	-	20160217
+1026970	103726115	LOC103726115	-	-	-	Un	-	taste receptor type 2 member 4	protein-coding	-	-	-	-	20160217
 1026970	103726116	Prss37	-	-	-	Un	-	protease, serine, 37	protein-coding	-	-	-	-	20151115
 1026970	103726117	LOC103726117	-	-	-	Un	-	putative olfactory receptor 9A1	protein-coding	-	-	-	-	20151115
 1026970	103726118	Clec5a	-	-	-	Un	-	C-type lectin domain family 5, member A	protein-coding	-	-	-	-	20151115
@@ -1822,7 +1822,7 @@
 1026970	103726136	Tmem178b	-	-	-	Un	-	transmembrane protein 178B	protein-coding	-	-	-	-	20151115
 1026970	103726137	LOC103726137	-	-	-	Un	-	transmembrane protein 178B-like	protein-coding	-	-	-	-	20151115
 1026970	103726138	LOC103726138	-	-	-	Un	-	olfactory receptor 9A4	protein-coding	-	-	-	-	20151115
-1026970	103726139	LOC103726139	-	-	-	Un	-	taste receptor type 2 member 38	protein-coding	-	-	-	-	20151115
+1026970	103726139	LOC103726139	-	-	-	Un	-	taste receptor type 2 member 38	protein-coding	-	-	-	-	20160217
 1026970	103726140	Mgam	-	-	-	Un	-	maltase-glucoamylase (alpha-glucosidase)	protein-coding	-	-	-	-	20151115
 1026970	103726141	LOC103726141	-	-	-	Un	-	zinc finger protein 665-like	protein-coding	-	-	-	-	20151115
 1026970	103726142	LOC103726142	-	-	-	Un	-	dedicator of cytokinesis protein 2-like	protein-coding	-	-	-	-	20151115
@@ -2853,7 +2853,7 @@
 1026970	103727167	Kpna3	-	-	-	Un	-	karyopherin alpha 3 (importin alpha 4)	protein-coding	-	-	-	-	20151115
 1026970	103727168	Ebpl	-	-	-	Un	-	emopamil binding protein-like	protein-coding	-	-	-	-	20151115
 1026970	103727169	Arl11	-	-	-	Un	-	ADP-ribosylation factor-like 11	protein-coding	-	-	-	-	20151115
-1026970	103727170	Setdb2	-	-	-	Un	-	SET domain, bifurcated 2	protein-coding	-	-	-	-	20151115
+1026970	103727170	Setdb2	-	-	-	Un	-	SET domain, bifurcated 2	protein-coding	-	-	-	-	20160305
 1026970	103727171	Phf11	-	-	-	Un	-	PHD finger protein 11	protein-coding	-	-	-	-	20151115
 1026970	103727172	Rcbtb1	-	-	-	Un	-	regulator of chromosome condensation (RCC1) and BTB (POZ) domain containing protein 1	protein-coding	-	-	-	-	20151115
 1026970	103727173	Cab39l	-	-	-	Un	-	calcium binding protein 39-like	protein-coding	-	-	-	-	20151115
@@ -3029,7 +3029,7 @@
 1026970	103727343	LOC103727343	-	-	-	Un	-	RB1-inducible coiled-coil protein 1 pseudogene	pseudo	-	-	-	-	20151115
 1026970	103727344	Adora2b	-	-	-	Un	-	adenosine A2b receptor	protein-coding	-	-	-	-	20151115
 1026970	103727345	LOC103727345	-	-	-	Un	-	NHP2-like protein 1 pseudogene	pseudo	-	-	-	-	20151115
-1026970	103727346	LOC103727346	-	-	-	Un	-	taste receptor type 2 member 134-like	protein-coding	-	-	-	-	20151115
+1026970	103727346	LOC103727346	-	-	-	Un	-	taste receptor type 2 member 134-like	protein-coding	-	-	-	-	20160217
 1026970	103727347	LOC103727347	-	-	-	Un	-	igE-binding protein-like	protein-coding	-	-	-	-	20151115
 1026970	103727348	LOC103727348	-	-	-	Un	-	cysteine and histidine-rich domain-containing protein 1-like	pseudo	-	-	-	-	20151115
 1026970	103727349	LOC103727349	-	-	-	Un	-	protein SET-like	pseudo	-	-	-	-	20151115
@@ -4287,7 +4287,7 @@
 1026970	103728601	LOC103728601	-	-	-	Un	-	uncharacterized LOC103728601	ncRNA	-	-	-	-	20151115
 1026970	103728602	LOC103728602	-	-	-	Un	-	cystatin-8-like	protein-coding	-	-	-	-	20151115
 1026970	103728603	LOC103728603	-	-	-	Un	-	maestro heat-like repeat-containing protein family member 6	protein-coding	-	-	-	-	20151115
-1026970	103728604	LOC103728604	-	-	-	Un	-	olfactory receptor 10P1-like	protein-coding	-	-	-	-	20151115
+1026970	103728604	LOC103728604	-	-	-	Un	-	olfactory receptor 10P1-like	protein-coding	-	-	-	-	20160325
 1026970	103728605	LOC103728605	-	-	-	Un	-	Ig kappa chain V-II region RPMI 6410-like	other	-	-	-	-	20151115
 1026970	103728606	LOC103728606	-	-	-	Un	-	golgin subfamily A member 4-like	protein-coding	-	-	-	-	20151115
 1026970	103728607	LOC103728607	-	-	-	Un	-	28S ribosomal protein S10, mitochondrial-like	protein-coding	-	-	-	-	20151115
@@ -4316,7 +4316,7 @@
 1026970	103728630	LOC103728630	-	-	-	Un	-	cAMP-responsive element modulator-like	protein-coding	-	-	-	-	20151115
 1026970	103728631	LOC103728631	-	-	-	Un	-	cAMP-responsive element modulator pseudogene	pseudo	-	-	-	-	20151115
 1026970	103728632	Ubxn10	-	-	-	Un	-	UBX domain protein 10	protein-coding	-	-	-	-	20151115
-1026970	103728633	LOC103728633	-	-	-	Un	-	olfactory receptor 139	protein-coding	-	-	-	-	20151115
+1026970	103728633	LOC103728633	-	-	-	Un	-	olfactory receptor 139	protein-coding	-	-	-	-	20160217
 1026970	103728634	LOC103728634	-	-	-	Un	-	mitochondrial fission regulator 1-like	pseudo	-	-	-	-	20151115
 1026970	103728635	LOC103728635	-	-	-	Un	-	brefeldin A-inhibited guanine nucleotide-exchange protein 2-like	protein-coding	-	-	-	-	20151115
 1026970	103728636	LOC103728636	-	-	-	Un	-	spermatogenesis-associated protein 6 pseudogene	pseudo	-	-	-	-	20151115
@@ -4380,7 +4380,7 @@
 1026970	103728694	LOC103728694	-	-	-	Un	-	calcineurin B homologous protein 3 pseudogene	pseudo	-	-	-	-	20151115
 1026970	103728695	LOC103728695	-	-	-	Un	-	olfactory receptor 150-like	protein-coding	-	-	-	-	20151115
 1026970	103728696	LOC103728696	-	-	-	Un	-	olfactory receptor 150-like	protein-coding	-	-	-	-	20151115
-1026970	103728697	LOC103728697	-	-	-	Un	-	olfactory receptor 150-like	protein-coding	-	-	-	-	20151115
+1026970	103728697	LOC103728697	-	-	-	Un	-	olfactory receptor 150-like	protein-coding	-	-	-	-	20160217
 1026970	103728698	LOC103728698	-	-	-	Un	-	putative olfactory receptor 10D4	protein-coding	-	-	-	-	20151115
 1026970	103728699	LOC103728699	-	-	-	Un	-	olfactory receptor 958-like	protein-coding	-	-	-	-	20151115
 1026970	103728700	LOC103728700	-	-	-	Un	-	olfactory receptor 958-like	protein-coding	-	-	-	-	20151115
@@ -4447,7 +4447,7 @@
 1026970	103728761	Enox2	-	-	-	Un	-	ecto-NOX disulfide-thiol exchanger 2	protein-coding	-	-	-	-	20151115
 1026970	103728762	Tfpi	-	-	-	Un	-	tissue factor pathway inhibitor (lipoprotein-associated coagulation inhibitor)	protein-coding	-	-	-	-	20151115
 1026970	103728763	Arhgap36	-	-	-	Un	-	Rho GTPase activating protein 36	protein-coding	-	-	-	-	20151115
-1026970	103728764	LOC103728764	-	-	-	Un	-	olfactory receptor 11L1-like	protein-coding	-	-	-	-	20151115
+1026970	103728764	LOC103728764	-	-	-	Un	-	olfactory receptor 11L1-like	protein-coding	-	-	-	-	20160217
 1026970	103728765	Igsf1	-	-	-	Un	-	immunoglobulin superfamily, member 1	protein-coding	-	-	-	-	20151115
 1026970	103728766	LOC103728766	-	-	-	Un	-	serine/threonine-protein kinase MST4	protein-coding	-	-	-	-	20151115
 1026970	103728767	Frmd7	-	-	-	Un	-	FERM domain containing 7	protein-coding	-	-	-	-	20151115
@@ -5306,7 +5306,7 @@
 1026970	103729620	LOC103729620	-	-	-	Un	-	olfactory receptor 5L1-like	protein-coding	-	-	-	-	20151115
 1026970	103729621	LOC103729621	-	-	-	Un	-	olfactory receptor 4C15-like	protein-coding	-	-	-	-	20151115
 1026970	103729622	LOC103729622	-	-	-	Un	-	olfactory receptor 4C15-like	protein-coding	-	-	-	-	20151115
-1026970	103729623	LOC103729623	-	-	-	Un	-	olfactory receptor 4C16-like	protein-coding	-	-	-	-	20151115
+1026970	103729623	LOC103729623	-	-	-	Un	-	olfactory receptor 4C16-like	protein-coding	-	-	-	-	20160325
 1026970	103729624	LOC103729624	-	-	-	Un	-	olfactory receptor 4S2-like	protein-coding	-	-	-	-	20151115
 1026970	103729625	LOC103729625	-	-	-	Un	-	olfactory receptor 4P4	protein-coding	-	-	-	-	20151115
 1026970	103729626	LOC103729626	-	-	-	Un	-	olfactory receptor 4C13-like	pseudo	-	-	-	-	20151115
@@ -6088,7 +6088,7 @@
 1026970	103730402	Bahcc1	-	-	-	Un	-	BAH domain and coiled-coil containing 1	protein-coding	-	-	-	-	20151115
 1026970	103730403	Epha1	-	-	-	Un	-	EPH receptor A1	protein-coding	-	-	-	-	20151115
 1026970	103730404	LOC103730404	-	-	-	Un	-	taste receptor type 2 member 135	protein-coding	-	-	-	-	20151115
-1026970	103730405	LOC103730405	-	-	-	Un	-	taste receptor type 2 member 41	protein-coding	-	-	-	-	20151115
+1026970	103730405	LOC103730405	-	-	-	Un	-	taste receptor type 2 member 41	protein-coding	-	-	-	-	20160217
 1026970	103730406	LOC103730406	-	-	-	Un	-	olfactory receptor 2F1-like	protein-coding	-	-	-	-	20151115
 1026970	103730407	LOC103730407	-	-	-	Un	-	olfactory receptor-like protein OLF3	protein-coding	-	-	-	-	20151115
 1026970	103730408	LOC103730408	-	-	-	Un	-	putative olfactory receptor 10AC1	protein-coding	-	-	-	-	20151115
@@ -6110,12 +6110,12 @@
 1026970	103730424	Pip	-	-	-	Un	-	prolactin-induced protein	protein-coding	-	-	-	-	20151115
 1026970	103730425	LOC103730425	-	-	-	Un	-	kelch-like protein 12 pseudogene	pseudo	-	-	-	-	20151115
 1026970	103730426	LOC103730426	-	-	-	Un	-	N-alpha-acetyltransferase 11-like	pseudo	-	-	-	-	20151115
-1026970	103730427	LOC103730427	-	-	-	Un	-	taste receptor type 2 member 40	protein-coding	-	-	-	-	20151115
-1026970	103730428	LOC103730428	-	-	-	Un	-	taste receptor type 2 member 143-like	protein-coding	-	-	-	-	20151115
+1026970	103730427	LOC103730427	-	-	-	Un	-	taste receptor type 2 member 40	protein-coding	-	-	-	-	20160217
+1026970	103730428	LOC103730428	-	-	-	Un	-	taste receptor type 2 member 143-like	protein-coding	-	-	-	-	20160217
 1026970	103730429	LOC103730429	-	-	-	Un	-	protein FAM115E-like	pseudo	-	-	-	-	20151115
 1026970	103730430	LOC103730430	-	-	-	Un	-	protein FAM115C-like	protein-coding	-	-	-	-	20151115
 1026970	103730431	LOC103730431	-	-	-	Un	-	olfactory receptor-like protein OLF3	pseudo	-	-	-	-	20151115
-1026970	103730432	LOC103730432	-	-	-	Un	-	olfactory receptor-like protein OLF3	protein-coding	-	-	-	-	20151115
+1026970	103730432	LOC103730432	-	-	-	Un	-	olfactory receptor-like protein OLF3	protein-coding	-	-	-	-	20160217
 1026970	103730433	LOC103730433	-	-	-	Un	-	olfactory receptor-like protein OLF3	protein-coding	-	-	-	-	20151115
 1026970	103730434	LOC103730434	-	-	-	Un	-	NADH dehydrogenase [ubiquinone] complex I, assembly factor 7-like	pseudo	-	-	-	-	20151115
 1026970	103730435	LOC103730435	-	-	-	Un	-	olfactory receptor 13-like	protein-coding	-	-	-	-	20151115
@@ -6280,7 +6280,7 @@
 1026970	103730594	LOC103730594	-	-	-	Un	-	aldose reductase-related protein 2 pseudogene	pseudo	-	-	-	-	20151115
 1026970	103730595	LOC103730595	-	-	-	Un	-	stathmin pseudogene	pseudo	-	-	-	-	20151115
 1026970	103730596	Gaa	-	-	-	Un	-	glucosidase, alpha; acid	protein-coding	-	-	-	-	20151115
-1026970	103730597	LOC103730597	-	-	-	Un	-	taste receptor type 2 member 16	protein-coding	-	-	-	-	20151115
+1026970	103730597	LOC103730597	-	-	-	Un	-	taste receptor type 2 member 16	protein-coding	-	-	-	-	20160217
 1026970	103730598	Rnf148	-	-	-	Un	-	ring finger protein 148	protein-coding	-	-	-	-	20151115
 1026970	103730599	Cadps2	-	-	-	Un	-	Ca++-dependent secretion activator 2	protein-coding	-	-	-	-	20151115
 1026970	103730600	Fezf1	-	-	-	Un	-	FEZ family zinc finger 1	protein-coding	-	-	-	-	20151115
@@ -7720,7 +7720,7 @@
 1026970	103732034	Setd2	-	-	-	Un	-	SET domain containing 2	protein-coding	-	-	-	-	20151115
 1026970	103732035	LOC103732035	-	-	-	Un	-	olfactory receptor 6C6-like	protein-coding	-	-	-	-	20151115
 1026970	103732036	LOC103732036	-	-	-	Un	-	olfactory receptor 6C6-like	pseudo	-	-	-	-	20151115
-1026970	103732037	LOC103732037	-	-	-	Un	-	olfactory receptor 51L1	protein-coding	-	-	-	-	20151115
+1026970	103732037	LOC103732037	-	-	-	Un	-	olfactory receptor 51L1	protein-coding	-	-	-	-	20160217
 1026970	103732038	LOC103732038	-	-	-	Un	-	olfactory receptor 52E2	protein-coding	-	-	-	-	20151115
 1026970	103732039	LOC103732039	-	-	-	Un	-	olfactory receptor 52E1-like	protein-coding	-	-	-	-	20151115
 1026970	103732040	LOC103732040	-	-	-	Un	-	olfactory receptor 52J3	protein-coding	-	-	-	-	20151115
@@ -9666,7 +9666,7 @@
 1026970	103733980	LOC103733980	-	-	-	Un	-	olfactory receptor 7E24-like	pseudo	-	-	-	-	20151115
 1026970	103733981	LOC103733981	-	-	-	Un	-	olfactory receptor 7E24-like	pseudo	-	-	-	-	20151115
 1026970	103733982	LOC103733982	-	-	-	Un	-	olfactory receptor 7E24-like	pseudo	-	-	-	-	20151115
-1026970	103733983	LOC103733983	-	-	-	Un	-	olfactory receptor 7E24-like	protein-coding	-	-	-	-	20151115
+1026970	103733983	LOC103733983	-	-	-	Un	-	olfactory receptor 7E24-like	protein-coding	-	-	-	-	20160217
 1026970	103733984	LOC103733984	-	-	-	Un	-	olfactory receptor 7E24-like	pseudo	-	-	-	-	20151115
 1026970	103733985	LOC103733985	-	-	-	Un	-	EKC/KEOPS complex subunit Lage3 pseudogene	pseudo	-	-	-	-	20151115
 1026970	103733986	LOC103733986	-	-	-	Un	-	60S ribosomal protein L23 pseudogene	pseudo	-	-	-	-	20151115
@@ -10261,7 +10261,7 @@
 1026970	103734575	Echdc1	-	-	-	Un	-	enoyl CoA hydratase domain containing 1	protein-coding	-	-	-	-	20151115
 1026970	103734576	Ccdc159	-	-	-	Un	-	coiled-coil domain containing 159	protein-coding	-	-	-	-	20151115
 1026970	103734577	Swsap1	-	-	-	Un	-	SWIM-type zinc finger 7 associated protein 1	protein-coding	-	-	-	-	20151115
-1026970	103734578	Epor	-	-	-	Un	-	erythropoietin receptor	protein-coding	-	-	-	-	20151115
+1026970	103734578	Epor	-	-	-	Un	-	erythropoietin receptor	protein-coding	-	-	-	-	20160325
 1026970	103734579	Ccdc151	-	-	-	Un	-	coiled-coil domain containing 151	protein-coding	-	-	-	-	20151115
 1026970	103734580	Prkcsh	-	-	-	Un	-	protein kinase C substrate 80K-H	protein-coding	-	-	-	-	20151115
 1026970	103734581	Elavl3	-	-	-	Un	-	ELAV like neuron-specific RNA binding protein 3	protein-coding	-	-	-	-	20151115
@@ -13569,7 +13569,7 @@
 1026970	103737883	LOC103737883	-	-	-	Un	-	zinc finger protein 362 pseudogene	pseudo	-	-	-	-	20151115
 1026970	103737884	Nipal1	-	-	-	Un	-	NIPA-like domain containing 1	protein-coding	-	-	-	-	20151115
 1026970	103737885	Txk	-	-	-	Un	-	TXK tyrosine kinase	protein-coding	-	-	-	-	20151115
-1026970	103737886	Zar1	-	-	-	Un	-	zygote arrest 1	protein-coding	-	-	-	-	20151115
+1026970	103737886	Zar1	-	-	-	Un	-	zygote arrest 1	protein-coding	-	-	-	-	20160130
 1026970	103737887	Prr16	-	-	-	Un	-	proline rich 16	protein-coding	-	-	-	-	20151115
 1026970	103737888	LOC103737888	-	-	-	Un	-	ufm1-specific protease 2 pseudogene	pseudo	-	-	-	-	20151115
 1026970	103737889	LOC103737889	-	-	-	Un	-	aldose reductase pseudogene	pseudo	-	-	-	-	20151115
@@ -14443,7 +14443,7 @@
 1026970	103738757	Mrpl55	-	-	-	Un	-	mitochondrial ribosomal protein L55	protein-coding	-	-	-	-	20151115
 1026970	103738758	Ybx3	-	-	-	Un	-	Y box binding protein 3	protein-coding	-	-	-	-	20151115
 1026970	103738759	LOC103738759	-	-	-	Un	-	polyamine-modulated factor 1-like	protein-coding	-	-	-	-	20151115
-1026970	103738760	LOC103738760	-	-	-	Un	-	taste receptor type 2 member 7-like	protein-coding	-	-	-	-	20151115
+1026970	103738760	LOC103738760	-	-	-	Un	-	taste receptor type 2 member 7-like	protein-coding	-	-	-	-	20160325
 1026970	103738761	LOC103738761	-	-	-	Un	-	taste receptor type 2 member 104-like	protein-coding	-	-	-	-	20151115
 1026970	103738762	LOC103738762	-	-	-	Un	-	taste receptor type 2 member 105-like	protein-coding	-	-	-	-	20151115
 1026970	103738763	LOC103738763	-	-	-	Un	-	tumor protein D54 pseudogene	pseudo	-	-	-	-	20151115
@@ -15284,7 +15284,7 @@
 1026970	103739598	Krt4	-	-	-	Un	-	keratin 4	protein-coding	-	-	-	-	20151115
 1026970	103739599	LOC103739599	-	-	-	Un	-	keratin, type II cytoskeletal 3-like	pseudo	-	-	-	-	20151115
 1026970	103739600	LOC103739600	-	-	-	Un	-	keratin, type II cytoskeletal 5-like	protein-coding	-	-	-	-	20151115
-1026970	103739601	Ngb	-	-	-	Un	-	neuroglobin	protein-coding	-	-	-	-	20151115
+1026970	103739601	Ngb	-	-	-	Un	-	neuroglobin	protein-coding	-	-	-	-	20160325
 1026970	103739602	LOC103739602	-	-	-	Un	-	keratin, type II cuticular Hb5-like	protein-coding	-	-	-	-	20151115
 1026970	103739603	LOC103739603	-	-	-	Un	-	keratin, type II cuticular Hb1-like	protein-coding	-	-	-	-	20151115
 1026970	103739604	LOC103739604	-	-	-	Un	-	keratin, type II microfibrillar, component 7C-like	protein-coding	-	-	-	-	20151115
@@ -16870,7 +16870,7 @@
 1026970	103741184	C8g	-	-	-	Un	-	complement component 8, gamma polypeptide	protein-coding	-	-	-	-	20151115
 1026970	103741185	Lcn12	-	-	-	Un	-	lipocalin 12	protein-coding	-	-	-	-	20151115
 1026970	103741186	Fbxw5	-	-	-	Un	-	F-box and WD repeat domain containing 5	protein-coding	-	-	-	-	20151115
-1026970	103741187	LOC103741187	-	-	-	Un	-	olfactory receptor-like protein I9	protein-coding	-	-	-	-	20151115
+1026970	103741187	LOC103741187	-	-	-	Un	-	olfactory receptor-like protein I9	protein-coding	-	-	-	-	20160217
 1026970	103741188	Traf2	-	-	-	Un	-	TNF receptor-associated factor 2	protein-coding	-	-	-	-	20151115
 1026970	103741189	Edf1	-	-	-	Un	-	endothelial differentiation-related factor 1	protein-coding	-	-	-	-	20151115
 1026970	103741190	LOC103741190	-	-	-	Un	-	chromosome unknown open reading frame, human C9orf172	protein-coding	-	-	-	-	20151115
@@ -16935,7 +16935,7 @@
 1026970	103741249	LOC103741249	-	-	-	Un	-	olfactory receptor 4D10-like	protein-coding	-	-	-	-	20151115
 1026970	103741250	LOC103741250	-	-	-	Un	-	olfactory receptor 4D11	protein-coding	-	-	-	-	20151115
 1026970	103741251	LOC103741251	-	-	-	Un	-	cell division control protein 42 homolog pseudogene	pseudo	-	-	-	-	20151115
-1026970	103741252	LOC103741252	-	-	-	Un	-	olfactory receptor 4D11-like	protein-coding	-	-	-	-	20151115
+1026970	103741252	LOC103741252	-	-	-	Un	-	olfactory receptor 4D11-like	protein-coding	-	-	-	-	20160217
 1026970	103741253	Osbp	-	-	-	Un	-	oxysterol binding protein	protein-coding	-	-	-	-	20151115
 1026970	103741254	Patl1	-	-	-	Un	-	protein associated with topoisomerase II homolog 1 (yeast)	protein-coding	-	-	-	-	20151115
 1026970	103741255	LOC103741255	-	-	-	Un	-	olfactory receptor 10V1	protein-coding	-	-	-	-	20151115
@@ -19005,7 +19005,7 @@
 1026970	103743319	LOC103743319	-	-	-	Un	-	40S ribosomal protein S27-like pseudogene	pseudo	-	-	-	-	20151115
 1026970	103743320	March2	-	-	-	Un	-	membrane-associated ring finger (C3HC4) 2, E3 ubiquitin protein ligase	protein-coding	-	-	-	-	20151115
 1026970	103743321	Hnrnpm	-	-	-	Un	-	heterogeneous nuclear ribonucleoprotein M	protein-coding	-	-	-	-	20151115
-1026970	103743322	LOC103743322	-	-	-	Un	-	taste receptor type 2 member 104-like	protein-coding	-	-	-	-	20151115
+1026970	103743322	LOC103743322	-	-	-	Un	-	taste receptor type 2 member 104-like	protein-coding	-	-	-	-	20160217
 1026970	103743323	Znf414	-	-	-	Un	-	zinc finger protein 414	protein-coding	-	-	-	-	20151115
 1026970	103743324	Myo1f	-	-	-	Un	-	myosin IF	protein-coding	-	-	-	-	20151115
 1026970	103743325	Lypd8	-	-	-	Un	-	LY6/PLAUR domain containing 8	protein-coding	-	-	-	-	20151115
@@ -19151,7 +19151,7 @@
 1026970	103743465	Ccdc134	-	-	-	Un	-	coiled-coil domain containing 134	protein-coding	-	-	-	-	20151115
 1026970	103743466	Mei1	-	-	-	Un	-	meiosis inhibitor 1	protein-coding	-	-	-	-	20151115
 1026970	103743467	LOC103743467	-	-	-	Un	-	growth hormone-inducible transmembrane protein-like	pseudo	-	-	-	-	20151115
-1026970	103743468	LOC103743468	-	-	-	Un	-	taste receptor type 2 member 13-like	protein-coding	-	-	-	-	20151115
+1026970	103743468	LOC103743468	-	-	-	Un	-	taste receptor type 2 member 13-like	protein-coding	-	-	-	-	20160217
 1026970	103743469	LOC103743469	-	-	-	Un	-	poly(rC)-binding protein 1	protein-coding	-	-	-	-	20151115
 1026970	103743470	Nhp2l1	-	-	-	Un	-	NHP2 non-histone chromosome protein 2-like 1 (S. cerevisiae)	protein-coding	-	-	-	-	20151115
 1026970	103743471	Xrcc6	-	-	-	Un	-	X-ray repair complementing defective repair in Chinese hamster cells 6	protein-coding	-	-	-	-	20151115
@@ -19234,7 +19234,7 @@
 1026970	103743548	LOC103743548	-	-	-	Un	-	ryanodine receptor 2-like	protein-coding	-	-	-	-	20151115
 1026970	103743549	LOC103743549	-	-	-	Un	-	ryanodine receptor 2-like	protein-coding	-	-	-	-	20151115
 1026970	103743550	LOC103743550	-	-	-	Un	-	olfactory receptor 1468-like	protein-coding	-	-	-	-	20151115
-1026970	103743551	LOC103743551	-	-	-	Un	-	taste receptor type 2 member 140-like	protein-coding	-	-	-	-	20151115
+1026970	103743551	LOC103743551	-	-	-	Un	-	taste receptor type 2 member 140-like	protein-coding	-	-	-	-	20160217
 1026970	103743552	LOC103743552	-	-	-	Un	-	olfactory receptor-like protein DTMT	protein-coding	-	-	-	-	20151115
 1026970	103743553	LOC103743553	-	-	-	Un	-	olfactory receptor 1L6-like	protein-coding	-	-	-	-	20151115
 1026970	103743554	LOC103743554	-	-	-	Un	-	olfactory receptor 1468-like	protein-coding	-	-	-	-	20151115
@@ -19446,7 +19446,7 @@
 1026970	103743760	Emc10	-	-	-	Un	-	ER membrane protein complex subunit 10	protein-coding	-	-	-	-	20151115
 1026970	103743761	LOC103743761	-	-	-	Un	-	golgin subfamily A member 6-like protein 22	pseudo	-	-	-	-	20151115
 1026970	103743762	Gpr32	-	-	-	Un	-	G protein-coupled receptor 32	protein-coding	-	-	-	-	20151115
-1026970	103743763	Klk1	-	-	-	Un	-	kallikrein 1	protein-coding	-	-	-	-	20151115
+1026970	103743763	Klk1	-	-	-	Un	-	kallikrein 1	protein-coding	-	-	-	-	20160220
 1026970	103743764	LOC103743764	-	-	-	Un	-	kallikrein-1-like	protein-coding	-	-	-	-	20151115
 1026970	103743765	Klk6	-	-	-	Un	-	kallikrein-related peptidase 6	protein-coding	-	-	-	-	20151115
 1026970	103743766	Klk7	-	-	-	Un	-	kallikrein-related peptidase 7	protein-coding	-	-	-	-	20151115
@@ -20741,7 +20741,7 @@
 1026970	103745055	LOC103745055	-	-	-	Un	-	olfactory receptor 141-like	protein-coding	-	-	-	-	20151115
 1026970	103745056	LOC103745056	-	-	-	Un	-	olfactory receptor 141	protein-coding	-	-	-	-	20151115
 1026970	103745057	LOC103745057	-	-	-	Un	-	olfactory receptor 1094	protein-coding	-	-	-	-	20151115
-1026970	103745058	LOC103745058	-	-	-	Un	-	olfactory receptor 8H3-like	protein-coding	-	-	-	-	20151115
+1026970	103745058	LOC103745058	-	-	-	Un	-	olfactory receptor 8H3-like	protein-coding	-	-	-	-	20160217
 1026970	103745059	LOC103745059	-	-	-	Un	-	olfactory receptor 8H1-like	pseudo	-	-	-	-	20151115
 1026970	103745060	LOC103745060	-	-	-	Un	-	olfactory receptor 8H1-like	protein-coding	-	-	-	-	20151115
 1026970	103745061	LOC103745061	-	-	-	Un	-	olfactory receptor 8H1-like	protein-coding	-	-	-	-	20151115
@@ -25669,10 +25669,10 @@
 1026970	103749983	LOC103749983	-	-	-	Un	-	mucin-12-like	protein-coding	-	-	-	-	20151115
 1026970	103749984	LOC103749984	-	-	-	Un	-	40S ribosomal protein S2 pseudogene	pseudo	-	-	-	-	20151115
 1026970	103749985	LOC103749985	-	-	-	Un	-	taste receptor type 2 member 125-like	protein-coding	-	-	-	-	20151115
-1026970	103749986	LOC103749986	-	-	-	Un	-	taste receptor type 2 member 125-like	protein-coding	-	-	-	-	20151115
+1026970	103749986	LOC103749986	-	-	-	Un	-	taste receptor type 2 member 125-like	protein-coding	-	-	-	-	20160217
 1026970	103749987	LOC103749987	-	-	-	Un	-	taste receptor type 2 member 117-like	protein-coding	-	-	-	-	20151115
 1026970	103749988	Cenpp	-	-	-	Un	-	centromere protein P	protein-coding	-	-	-	-	20151115
-1026970	103749989	LOC103749989	-	-	-	Un	-	taste receptor type 2 member 140-like	protein-coding	-	-	-	-	20151115
+1026970	103749989	LOC103749989	-	-	-	Un	-	taste receptor type 2 member 140-like	protein-coding	-	-	-	-	20160217
 1026970	103749990	LOC103749990	-	-	-	Un	-	taste receptor type 2 member 136-like	protein-coding	-	-	-	-	20151115
 1026970	103749991	LOC103749991	-	-	-	Un	-	taste receptor type 2 member 140-like	protein-coding	-	-	-	-	20151115
 1026970	103749992	LOC103749992	-	-	-	Un	-	taste receptor type 2 member 102-like	protein-coding	-	-	-	-	20151115
@@ -25721,7 +25721,7 @@
 1026970	103750035	Tsc22d3	-	-	-	Un	-	TSC22 domain family, member 3	protein-coding	-	-	-	-	20151115
 1026970	103750036	Prps1	-	-	-	Un	-	phosphoribosyl pyrophosphate synthetase 1	protein-coding	-	-	-	-	20151115
 1026970	103750037	LOC103750037	-	-	-	Un	-	tricarboxylate transport protein, mitochondrial pseudogene	pseudo	-	-	-	-	20151115
-1026970	103750038	Frmpd3	-	-	-	Un	-	FERM and PDZ domain containing 3	protein-coding	-	-	-	-	20151115
+1026970	103750038	Frmpd3	-	-	-	Un	-	FERM and PDZ domain containing 3	protein-coding	-	-	-	-	20160312
 1026970	103750039	Pih1d3	-	-	-	Un	-	PIH1 domain containing 3	protein-coding	-	-	-	-	20151115
 1026970	103750040	Nup62cl	-	-	-	Un	-	nucleoporin 62kDa C-terminal like	protein-coding	-	-	-	-	20151115
 1026970	103750041	Rbm41	-	-	-	Un	-	RNA binding motif protein 41	protein-coding	-	-	-	-	20151115
@@ -26510,7 +26510,7 @@
 1026970	103750824	LOC103750824	-	-	-	Un	-	securin-like	pseudo	-	-	-	-	20151115
 1026970	103750825	Stim1	-	-	-	Un	-	stromal interaction molecule 1	protein-coding	-	-	-	-	20151115
 1026970	103750826	Rrm1	-	-	-	Un	-	ribonucleotide reductase M1	protein-coding	-	-	-	-	20151115
-1026970	103750827	LOC103750827	-	-	-	Un	-	olfactory receptor 52K1-like	protein-coding	-	-	-	-	20151115
+1026970	103750827	LOC103750827	-	-	-	Un	-	olfactory receptor 52K1-like	protein-coding	-	-	-	-	20160217
 1026970	103750828	LOC103750828	-	-	-	Un	-	T-complex protein 1 subunit zeta pseudogene	pseudo	-	-	-	-	20151115
 1026970	103750829	Trim21	-	-	-	Un	-	tripartite motif containing 21	protein-coding	-	-	-	-	20151115
 1026970	103750830	LOC103750830	-	-	-	Un	-	putative olfactory receptor 51H1	protein-coding	-	-	-	-	20151115
@@ -26518,7 +26518,7 @@
 1026970	103750832	LOC103750832	-	-	-	Un	-	olfactory receptor 52M1	protein-coding	-	-	-	-	20151115
 1026970	103750833	LOC103750833	-	-	-	Un	-	olfactory receptor 52I1-like	protein-coding	-	-	-	-	20151115
 1026970	103750834	LOC103750834	-	-	-	Un	-	putative olfactory receptor 51H1	protein-coding	-	-	-	-	20151115
-1026970	103750835	LOC103750835	-	-	-	Un	-	olfactory receptor 52I1-like	protein-coding	-	-	-	-	20151115
+1026970	103750835	LOC103750835	-	-	-	Un	-	olfactory receptor 52I1-like	protein-coding	-	-	-	-	20160217
 1026970	103750836	Trim68	-	-	-	Un	-	tripartite motif containing 68	protein-coding	-	-	-	-	20151115
 1026970	103750837	LOC103750837	-	-	-	Un	-	olfactory receptor 51D1	protein-coding	-	-	-	-	20151115
 1026970	103750838	LOC103750838	-	-	-	Un	-	olfactory receptor 51E1	protein-coding	-	-	-	-	20151115
@@ -26852,7 +26852,7 @@
 1026970	103751166	LOC103751166	-	-	-	Un	-	transmembrane protein 87B-like	pseudo	-	-	-	-	20151115
 1026970	103751167	LOC103751167	-	-	-	Un	-	heat shock protein HSP 90-alpha pseudogene	pseudo	-	-	-	-	20151115
 1026970	103751168	Vwde	-	-	-	Un	-	von Willebrand factor D and EGF domains	protein-coding	-	-	-	-	20151115
-1026970	103751169	LOC103751169	-	-	-	Un	-	taste receptor type 2 member 9-like	protein-coding	-	-	-	-	20151115
+1026970	103751169	LOC103751169	-	-	-	Un	-	taste receptor type 2 member 9-like	protein-coding	-	-	-	-	20160217
 1026970	103751170	LOC103751170	-	-	-	Un	-	histone H3.3-like	pseudo	-	-	-	-	20151115
 1026970	103751171	LOC103751171	-	-	-	Un	-	granzyme B-like	protein-coding	-	-	-	-	20151115
 1026970	103751172	LOC103751172	-	-	-	Un	-	granzyme B-like	protein-coding	-	-	-	-	20151115
@@ -27798,7 +27798,7 @@
 1026970	103752112	Tmem88	-	-	-	Un	-	transmembrane protein 88	protein-coding	-	-	-	-	20151115
 1026970	103752113	Kdm6b	-	-	-	Un	-	lysine (K)-specific demethylase 6B	protein-coding	-	-	-	-	20151115
 1026970	103752114	Efnb3	-	-	-	Un	-	ephrin-B3	protein-coding	-	-	-	-	20151115
-1026970	103752115	Tp53	-	-	-	Un	-	tumor protein p53	protein-coding	-	-	-	-	20151204
+1026970	103752115	Tp53	-	p53	-	Un	-	tumor protein p53	protein-coding	-	-	-	tumor suppressor p53	20160406
 1026970	103752116	Wrap53	-	-	-	Un	-	WD repeat containing, antisense to TP53	protein-coding	-	-	-	-	20151115
 1026970	103752117	Atp1b2	-	-	-	Un	-	ATPase, Na+/K+ transporting, beta 2 polypeptide	protein-coding	-	-	-	-	20151115
 1026970	103752118	Shbg	-	-	-	Un	-	sex hormone-binding globulin	protein-coding	-	-	-	-	20151115

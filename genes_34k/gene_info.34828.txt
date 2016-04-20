@@ -9,7 +9,7 @@
 34828	5867446	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20150626
 34828	5867447	COX1	-	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20150801
 34828	5867448	trnR	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20110617
-34828	5867449	ND2	-	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20150626
+34828	5867449	ND2	-	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20160325
 34828	5867450	trnT	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20110617
 34828	5867451	trnI	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20110617
 34828	5867452	trnD	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20110617

@@ -1268,7 +1268,7 @@
 336983	105501443	CDK5RAP2	-	-	-	Un	-	CDK5 regulatory subunit associated protein 2	protein-coding	-	-	-	-	20151115
 336983	105501444	LOC105501444	-	-	-	Un	-	ATPase inhibitor, mitochondrial pseudogene	pseudo	-	-	-	-	20151115
 336983	105501445	LOC105501445	-	-	-	Un	-	triosephosphate isomerase pseudogene	pseudo	-	-	-	-	20151115
-336983	105501446	ZAR1	-	-	-	Un	-	zygote arrest 1	protein-coding	-	-	-	-	20151115
+336983	105501446	ZAR1	-	-	-	Un	-	zygote arrest 1	protein-coding	-	-	-	-	20160130
 336983	105501447	SLC10A4	-	-	-	Un	-	solute carrier family 10, member 4	protein-coding	-	-	-	-	20151115
 336983	105501448	YIPF7	-	-	-	Un	-	Yip1 domain family, member 7	protein-coding	-	-	-	-	20151115
 336983	105501449	LOC105501449	-	-	-	Un	-	neurotrypsin-like	protein-coding	-	-	-	-	20151115
@@ -10450,7 +10450,7 @@
 336983	105510625	AQP9	-	-	-	Un	-	aquaporin 9	protein-coding	-	-	-	-	20151115
 336983	105510626	POLR2M	-	-	-	Un	-	polymerase (RNA) II (DNA directed) polypeptide M	protein-coding	-	-	-	-	20151115
 336983	105510627	MYZAP	-	-	-	Un	-	myocardial zonula adherens protein	protein-coding	-	-	-	-	20151115
-336983	105510628	SETDB2	-	-	-	Un	-	SET domain, bifurcated 2	protein-coding	-	-	-	-	20151115
+336983	105510628	SETDB2	-	-	-	Un	-	SET domain, bifurcated 2	protein-coding	-	-	-	-	20160305
 336983	105510629	LOC105510629	-	-	-	Un	-	uncharacterized LOC105510629	ncRNA	-	-	-	-	20151115
 336983	105510630	LOC105510630	-	-	-	Un	-	uncharacterized LOC105510630	protein-coding	-	-	-	-	20151115
 336983	105510631	TCF12	-	-	-	Un	-	transcription factor 12	protein-coding	-	-	-	-	20151115
@@ -14548,7 +14548,7 @@
 336983	105514723	KLK4	-	-	-	Un	-	kallikrein-related peptidase 4	protein-coding	-	-	-	-	20151115
 336983	105514724	LOC105514724	-	-	-	Un	-	prostate-specific antigen	protein-coding	-	-	-	-	20151115
 336983	105514725	LOC105514725	-	-	-	Un	-	uncharacterized LOC105514725	ncRNA	-	-	-	-	20151115
-336983	105514726	KLK1	-	-	-	Un	-	kallikrein 1	protein-coding	-	-	-	-	20151115
+336983	105514726	KLK1	-	-	-	Un	-	kallikrein 1	protein-coding	-	-	-	-	20160220
 336983	105514727	LOC105514727	-	-	-	Un	-	V-type proton ATPase subunit G 1 pseudogene	pseudo	-	-	-	-	20151115
 336983	105514728	KLK15	-	-	-	Un	-	kallikrein-related peptidase 15	protein-coding	-	-	-	-	20151115
 336983	105514729	LOC105514729	-	-	-	Un	-	uncharacterized LOC105514729	ncRNA	-	-	-	-	20151115
@@ -18598,7 +18598,7 @@
 336983	105518773	LOC105518773	-	-	-	Un	-	leucine-rich repeat-containing protein 37A2-like	protein-coding	-	-	-	-	20151115
 336983	105518774	HEATR6	-	-	-	Un	-	HEAT repeat containing 6	protein-coding	-	-	-	-	20151115
 336983	105518775	LOC105518775	-	-	-	Un	-	uncharacterized LOC105518775	protein-coding	-	-	-	-	20151115
-336983	105518776	EPHA4	-	-	-	Un	-	EPH receptor A4	protein-coding	-	-	-	-	20151115
+336983	105518776	EPHA4	-	-	-	Un	-	EPH receptor A4	protein-coding	-	-	-	-	20160206
 336983	105518777	LOC105518777	-	-	-	Un	-	60S ribosomal protein L23 pseudogene	pseudo	-	-	-	-	20151115
 336983	105518778	CHD4	-	-	-	Un	-	chromodomain helicase DNA binding protein 4	protein-coding	-	-	-	-	20151115
 336983	105518779	LOC105518779	-	-	-	Un	-	stress-70 protein, mitochondrial pseudogene	pseudo	-	-	-	-	20151115
@@ -23575,10 +23575,10 @@
 336983	105523750	PIH1D3	-	-	-	Un	-	PIH1 domain containing 3	protein-coding	-	-	-	-	20151115
 336983	105523751	LOC105523751	-	-	-	Un	-	putative myc-like protein MYCLP1	protein-coding	-	-	-	-	20151115
 336983	105523752	LOC105523752	-	-	-	Un	-	dnaJ homolog subfamily A member 1 pseudogene	pseudo	-	-	-	-	20151115
-336983	105523753	FRMPD3	-	-	-	Un	-	FERM and PDZ domain containing 3	protein-coding	-	-	-	-	20151115
+336983	105523753	FRMPD3	-	-	-	Un	-	FERM and PDZ domain containing 3	protein-coding	-	-	-	-	20160312
 336983	105523754	PRPS1	-	-	-	Un	-	phosphoribosyl pyrophosphate synthetase 1	protein-coding	-	-	-	-	20151115
 336983	105523755	SPATA13	-	-	-	Un	-	spermatogenesis associated 13	protein-coding	-	-	-	-	20151115
-336983	105523756	TSC22D3	-	-	-	Un	-	TSC22 domain family, member 3	protein-coding	-	-	-	-	20151115
+336983	105523756	TSC22D3	-	-	-	Un	-	TSC22 domain family, member 3	protein-coding	-	-	-	-	20160206
 336983	105523757	MID2	-	-	-	Un	-	midline 2	protein-coding	-	-	-	-	20151115
 336983	105523758	TEX13B	-	-	-	Un	-	testis expressed 13B	protein-coding	-	-	-	-	20151115
 336983	105523759	VSIG1	-	-	-	Un	-	V-set and immunoglobulin domain containing 1	protein-coding	-	-	-	-	20151115

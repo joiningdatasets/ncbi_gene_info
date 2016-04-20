@@ -2,7 +2,7 @@
 13125	24285798	AA835_gt07	AA835_gt07	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150515
 13125	24285799	AA835_gt12	AA835_gt12	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150515
 13125	24285800	AA835_gt14	AA835_gt14	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150515
-13125	24285801	ATP6	AA835_gp08	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20151007
+13125	24285801	ATP6	AA835_gp08	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20160325
 13125	24285802	COX3	AA835_gp07	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20151007
 13125	24285803	AA835_gt15	AA835_gt15	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150515
 13125	24285804	AA835_gt16	AA835_gt16	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150515
@@ -19,7 +19,7 @@
 13125	24285815	ND1	AA835_gp13	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20151007
 13125	24285816	AA835_gt05	AA835_gt05	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150515
 13125	24285817	AA835_gt06	AA835_gt06	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150515
-13125	24285818	ND2	AA835_gp12	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20151007
+13125	24285818	ND2	AA835_gp12	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20160325
 13125	24285819	AA835_gt08	AA835_gt08	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150515
 13125	24285820	AA835_gt09	AA835_gt09	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150515
 13125	24285821	AA835_gt10	AA835_gt10	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150515

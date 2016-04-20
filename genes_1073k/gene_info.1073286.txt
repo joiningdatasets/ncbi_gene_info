@@ -1,5 +1,5 @@
 1073286	18267205	COX2	-	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20151028
-1073286	18267206	ATP8	-	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20151028
+1073286	18267206	ATP8	-	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20160325
 1073286	18267207	ATP6	-	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20151028
 1073286	18267208	COX3	-	-	-	MT	-	TAA stop codon is completed by the addition of 3' A residues to the mRNA	protein-coding	-	-	-	cytochrome c oxidase subunit III	20151028
 1073286	18267209	ND4L	-	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20151028

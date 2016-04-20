@@ -13,7 +13,7 @@
 315377	18490586	COX1	-	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20150718
 315377	18490587	trnK-cuu	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20140228
 315377	18490588	trnD-guc	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20140228
-315377	18490589	COX2	-	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20150626
+315377	18490589	COX2	-	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20160325
 315377	18490590	trnL-aag	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20140228
 315377	18490591	ATP8	-	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20150626
 315377	18490592	ATP6	-	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20150626

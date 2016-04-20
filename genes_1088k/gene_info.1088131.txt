@@ -1,5 +1,5 @@
 1088131	15089113	ND2	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20151028
-1088131	15089114	COX1	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20151028
+1088131	15089114	COX1	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20160325
 1088131	15089115	COX2	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20151028
 1088131	15089116	ATP8	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20151028
 1088131	15089117	ATP6	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20151028

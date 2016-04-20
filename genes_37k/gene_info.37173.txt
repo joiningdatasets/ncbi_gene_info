@@ -21,7 +21,7 @@
 37173	8745974	trnG	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
 37173	8745975	ND3	-	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20150626
 37173	8745976	trnR	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
-37173	8745977	ND4L	-	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20150626
+37173	8745977	ND4L	-	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20160325
 37173	8745978	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20150626
 37173	8745979	trnH	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
 37173	8745980	trnS(AGY)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919

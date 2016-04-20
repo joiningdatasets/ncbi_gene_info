@@ -16,13 +16,13 @@
 159856	18490497	COX2	-	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20150626
 159856	18490498	trnK	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20140924
 159856	18490499	ATP8	-	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20150626
-159856	18490500	ATP6	-	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20150626
+159856	18490500	ATP6	-	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20160325
 159856	18490501	COX3	-	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20150626
 159856	18490502	trnG-ucc	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20140228
-159856	18490503	ND3	-	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20150626
+159856	18490503	ND3	-	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20160325
 159856	18490504	trnR-ucg	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20140228
 159856	18490505	ND4L	-	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20150626
-159856	18490506	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20150626
+159856	18490506	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20160325
 159856	18490507	trnH-gug	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20140228
 159856	18490508	trnS-gcu	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20140228
 159856	18490509	trnL-uag	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20140228

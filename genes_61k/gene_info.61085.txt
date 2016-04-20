@@ -25,7 +25,7 @@
 61085	24572547	ACI55_gt11	ACI55_gt11	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150619
 61085	24572548	COX1	ACI55_gp11	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20151007
 61085	24572549	ACI55_gt13	ACI55_gt13	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150619
-61085	24572550	COX2	ACI55_gp10	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20151007
+61085	24572550	COX2	ACI55_gp10	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20160325
 61085	24572551	ATP8	ACI55_gp09	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20151007
 61085	24572552	ND3	ACI55_gp06	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20151007
 61085	24572553	ND4L	ACI55_gp05	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20151007

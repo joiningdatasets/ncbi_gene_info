@@ -6,8 +6,8 @@
 867383	14048329	COX3	-	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20151028
 867383	14048330	ND3	-	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20151028
 867383	14048331	ND4L	-	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20151028
-867383	14048332	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20151028
+867383	14048332	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20160325
 867383	14048333	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20151028
 867383	14048334	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20151028
-867383	14048335	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20151028
+867383	14048335	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20160325
 867383	14048336	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20151028

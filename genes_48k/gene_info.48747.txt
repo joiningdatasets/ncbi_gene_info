@@ -1,4 +1,4 @@
-48747	14048478	ND2	-	-	-	MT	-	TAA stop codon is completed by the addition of 3' A residues to the mRNA	protein-coding	-	-	-	NADH dehydrogenase subunit 2	20150626
+48747	14048478	ND2	-	-	-	MT	-	TAA stop codon is completed by the addition of 3' A residues to the mRNA	protein-coding	-	-	-	NADH dehydrogenase subunit 2	20160325
 48747	14048479	COX1	-	COI	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20150701
 48747	14048480	COX2	-	COII	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20150626
 48747	14048481	ATP8	-	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20150626

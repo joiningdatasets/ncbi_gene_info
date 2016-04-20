@@ -1,5 +1,5 @@
 76720	14842092	trnV	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130326
-76720	14842093	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20150626
+76720	14842093	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20160325
 76720	14842094	trnI	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130326
 76720	14842095	trnQ	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130326
 76720	14842096	trnM	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130326
@@ -16,7 +16,7 @@
 76720	14842107	trnK	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130326
 76720	14842108	ATP8	-	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20150626
 76720	14842109	ATP6	-	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20150626
-76720	14842110	COX3	-	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20150626
+76720	14842110	COX3	-	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20160325
 76720	14842111	trnG	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130326
 76720	14842112	ND3	-	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20150626
 76720	14842113	trnR	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130326

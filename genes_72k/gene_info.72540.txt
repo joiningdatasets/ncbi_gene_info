@@ -7,7 +7,7 @@
 72540	15088152	ND3	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20150626
 72540	15088153	ND4L	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20150626
 72540	15088154	ND4	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20150626
-72540	15088155	ND5	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20150626
+72540	15088155	ND5	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20160325
 72540	15088156	ND6	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20150626
 72540	15088157	CYTB	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20150626
-72540	15088158	ND1	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20150626
+72540	15088158	ND1	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20160325

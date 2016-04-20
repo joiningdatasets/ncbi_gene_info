@@ -1,6 +1,6 @@
 75566	16489123	ND2	-	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20150626
 75566	16489124	COX1	-	-	-	MT	-	cytochrome c oxidase subunit 1	protein-coding	-	-	-	-	20150626
-75566	16489125	COX2	-	-	-	MT	-	cytochrome c oxidase subunit 2	protein-coding	-	-	-	-	20150626
+75566	16489125	COX2	-	-	-	MT	-	cytochrome c oxidase subunit 2	protein-coding	-	-	-	-	20160325
 75566	16489126	ATP8	-	-	-	MT	-	ATP synthase subunit 8	protein-coding	-	-	-	-	20150626
 75566	16489127	ATP6	-	-	-	MT	-	ATP synthase subunit 6	protein-coding	-	-	-	-	20150626
 75566	16489128	COX3	-	-	-	MT	-	cytochrome c oxidase subunit 3	protein-coding	-	-	-	-	20150626

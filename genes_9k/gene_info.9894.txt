@@ -9,5 +9,5 @@
 9894	20355691	ND4	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20150626
 9894	20355692	ND5	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20150626
 9894	20355693	ND6	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20150626
-9894	20355694	CYTB	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20150626
+9894	20355694	CYTB	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20160325
 9894	20355695	ND1	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20150626

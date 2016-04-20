@@ -9,5 +9,5 @@
 9970	14841526	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20150626
 9970	14841527	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20150626
 9970	14841528	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20150626
-9970	14841529	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20150626
+9970	14841529	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20160325
 9970	14841530	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20150626

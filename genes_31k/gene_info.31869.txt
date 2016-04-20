@@ -7,7 +7,7 @@
 31869	5867406	trnT	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
 31869	5867407	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20150626
 31869	5867408	trnS (UCN)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
-31869	5867409	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20150626
+31869	5867409	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20160325
 31869	5867410	trnD	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
 31869	5867411	trnV	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
 31869	5867412	trnA	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919

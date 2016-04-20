@@ -2,10 +2,10 @@
 48897	5867509	trnV	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
 48897	5867510	trnS(UCN)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
 48897	5867511	ND4L	-	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20150626
-48897	5867512	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20150626
+48897	5867512	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20160325
 48897	5867513	trnT	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
 48897	5867514	trnF	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
-48897	5867515	COX1	-	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20150801
+48897	5867515	COX1	-	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20160325
 48897	5867516	trnG	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
 48897	5867517	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20150626
 48897	5867518	rrns	-	-	-	MT	-	s-rRNA	rRNA	-	-	-	-	20120920

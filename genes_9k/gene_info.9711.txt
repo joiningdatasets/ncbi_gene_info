@@ -1,8 +1,8 @@
 9711	807746	COX3	-	COIII	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20150626
-9711	807747	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20150626
+9711	807747	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20160325
 9711	807748	ND4L	-	NADH4L	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20150626
 9711	807749	ND3	-	NADH3	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20150626
-9711	807750	ND6	-	NADH6	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20150626
+9711	807750	ND6	-	NADH6	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20160325
 9711	807751	ND5	-	NADH5	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20150626
 9711	807752	ND4	-	NADH4	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20150626
 9711	807753	ND1	-	NADH1	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20150626

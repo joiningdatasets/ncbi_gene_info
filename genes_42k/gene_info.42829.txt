@@ -30,6 +30,6 @@
 42829	15822268	trnS1(gct)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
 42829	15822269	trnL1(tag)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
 42829	15822270	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20150626
-42829	15822271	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20150626
+42829	15822271	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20160325
 42829	15822272	trnP(tgg)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614
 42829	15822273	trnF(gaa)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20130614

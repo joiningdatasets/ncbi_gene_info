@@ -1,7 +1,7 @@
-59523	15088132	ND2	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20150626
+59523	15088132	ND2	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20160325
 59523	15088133	COX1	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20150701
 59523	15088134	COX2	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20150626
-59523	15088135	ATP8	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20150626
+59523	15088135	ATP8	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20160325
 59523	15088136	ATP6	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20150626
 59523	15088137	COX3	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20150626
 59523	15088138	ND3	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20150626

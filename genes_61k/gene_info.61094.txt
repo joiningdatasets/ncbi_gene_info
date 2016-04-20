@@ -23,7 +23,7 @@
 61094	24572507	ACI54_gt09	ACI54_gt09	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150619
 61094	24572508	ACI54_gt10	ACI54_gt10	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150619
 61094	24572509	ACI54_gt11	ACI54_gt11	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150619
-61094	24572510	COX1	ACI54_gp11	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20151007
+61094	24572510	COX1	ACI54_gp11	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20160325
 61094	24572511	ACI54_gt13	ACI54_gt13	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150619
 61094	24572512	COX2	ACI54_gp10	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20151007
 61094	24572513	ATP8	ACI54_gp09	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20151007

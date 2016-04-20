@@ -1,4 +1,4 @@
-254704	6264314	ATP6	-	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20150626
+254704	6264314	ATP6	-	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20160325
 254704	6264315	ND3	-	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20150626
 254704	6264316	trnH	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120927
 254704	6264317	ND2	-	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20150626

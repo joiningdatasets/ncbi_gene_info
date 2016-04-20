@@ -1,6 +1,6 @@
 40233	17046577	trnV	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20131103
 40233	17046578	trnL	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20131103
-40233	17046579	COX3	-	-	-	MT	-	COX3	protein-coding	-	-	-	cytochrome c oxidase subunit III	20150626
+40233	17046579	COX3	-	-	-	MT	-	COX3	protein-coding	-	-	-	cytochrome c oxidase subunit III	20160325
 40233	17046580	ATP6	-	-	-	MT	-	ATP6	protein-coding	-	-	-	ATP synthase F0 subunit 6	20150626
 40233	17046581	trnS	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20131103
 40233	17046582	trnK	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20131103
@@ -23,7 +23,7 @@
 40233	17046599	ND3	-	-	-	MT	-	ND3	protein-coding	-	-	-	NADH dehydrogenase subunit 3	20150626
 40233	17046600	trnS	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20131103
 40233	17046601	trnQ	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20131103
-40233	17046602	ND1	-	-	-	MT	-	ND1	protein-coding	-	-	-	NADH dehydrogenase subunit 1	20150626
+40233	17046602	ND1	-	-	-	MT	-	ND1	protein-coding	-	-	-	NADH dehydrogenase subunit 1	20160325
 40233	17046603	ND5	-	-	-	MT	-	ND5	protein-coding	-	-	-	NADH dehydrogenase subunit 5	20150626
 40233	17046604	ATP8	-	-	-	MT	-	ATP8	protein-coding	-	-	-	ATP synthase F0 subunit 8	20150626
 40233	17046605	ND2	-	-	-	MT	-	ND2	protein-coding	-	-	-	NADH dehydrogenase subunit 2	20150626

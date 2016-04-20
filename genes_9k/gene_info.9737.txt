@@ -10,4 +10,4 @@
 9737	7411699	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20150626
 9737	7411700	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20150626
 9737	7411701	ND2	-	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20150626
-9737	7411702	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20150626
+9737	7411702	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20160325

@@ -1,7 +1,7 @@
 41261	808179	ND1	-	NADH1	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20150626
 41261	808180	ND5	-	NADH5	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20150626
 41261	808181	COX3	-	COIII	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20150626
-41261	808182	CYTB	-	cytb	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20150626
+41261	808182	CYTB	-	cytb	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20160325
 41261	808183	ND6	-	NADH6	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20150626
 41261	808184	ND4	-	NADH4	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20150626
 41261	808185	ND3	-	NADH3	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20150626

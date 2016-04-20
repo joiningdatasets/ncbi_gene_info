@@ -18,7 +18,7 @@
 78449	25015022	ADO87_gp13	ADO87_gp13	-	-	MT	-	ND1	protein-coding	-	-	-	NADH dehydrogenase subunit 1	20151104
 78449	25015023	ADO87_gt05	ADO87_gt05	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150716
 78449	25015024	ADO87_gt06	ADO87_gt06	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150716
-78449	25015025	ADO87_gp12	ADO87_gp12	-	-	MT	-	ND2	protein-coding	-	-	-	NADH dehydrogenase subunit 2	20151104
+78449	25015025	ADO87_gp12	ADO87_gp12	-	-	MT	-	ND2	protein-coding	-	-	-	NADH dehydrogenase subunit 2	20160325
 78449	25015026	ADO87_gt08	ADO87_gt08	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150716
 78449	25015027	ADO87_gt09	ADO87_gt09	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150716
 78449	25015028	ADO87_gt10	ADO87_gt10	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150716

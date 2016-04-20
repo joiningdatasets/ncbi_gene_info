@@ -1,4 +1,4 @@
-65634	4363219	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20150626
+65634	4363219	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20160325
 65634	4363221	trnA	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
 65634	4363222	trnR	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
 65634	4363223	trnN	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120920
@@ -20,7 +20,7 @@
 65634	4363239	rrns	-	-	-	MT	-	s-rRNA	rRNA	-	-	-	-	20120920
 65634	4363240	rrnl	-	-	-	MT	-	l-rRNA	rRNA	-	-	-	-	20120920
 65634	4363241	ATP6	-	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20150626
-65634	4363242	ATP8	-	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20150626
+65634	4363242	ATP8	-	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20160325
 65634	4363243	COX1	-	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20150626
 65634	4363244	COX2	-	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20150626
 65634	4363245	COX3	-	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20150626

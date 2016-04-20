@@ -10,4 +10,4 @@
 9771	807741	ND3	-	NADH3	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20150626
 9771	807742	ND6	-	NADH6	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20150626
 9771	807743	ND1	-	NADH1	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20150626
-9771	807744	COX3	-	COIII	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20150626
+9771	807744	COX3	-	COIII	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20160325

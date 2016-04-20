@@ -9769,7 +9769,7 @@
 10020	105989782	Clrn3	-	-	-	Un	-	clarin 3	protein-coding	-	-	-	-	20160102
 10020	105989783	Bnip3	-	-	-	Un	-	BCL2/adenovirus E1B 19kDa interacting protein 3	protein-coding	-	-	-	-	20160102
 10020	105989784	LOC105989784	-	-	-	Un	-	deleted in malignant brain tumors 1 protein-like	protein-coding	-	-	-	-	20160102
-10020	105989785	LOC105989785	-	-	-	Un	-	lysozyme C	protein-coding	-	-	-	-	20160102
+10020	105989785	LOC105989785	-	LYZF1	-	Un	-	lysozyme C	protein-coding	-	-	-	lysozyme F1	20160203
 10020	105989786	LOC105989786	-	-	-	Un	-	uncharacterized LOC105989786	ncRNA	-	-	-	-	20151115
 10020	105989787	Adam12	-	-	-	Un	-	ADAM metallopeptidase domain 12	protein-coding	-	-	-	-	20160102
 10020	105989788	Fam174a	-	-	-	Un	-	family with sequence similarity 174, member A	protein-coding	-	-	-	-	20160102
@@ -11809,7 +11809,7 @@
 10020	105991822	Unc93a	-	-	-	Un	-	unc-93 homolog A (C. elegans)	protein-coding	-	-	-	-	20160102
 10020	105991823	Eif4ebp1	-	-	-	Un	-	eukaryotic translation initiation factor 4E binding protein 1	protein-coding	-	-	-	-	20160102
 10020	105991824	T	-	-	-	Un	-	T brachyury transcription factor	protein-coding	-	-	-	-	20160102
-10020	105991825	Mas1	-	-	-	Un	-	MAS1 proto-oncogene, G protein-coupled receptor	protein-coding	-	-	-	-	20151115
+10020	105991825	Mas1	-	MGRA	-	Un	-	MAS1 proto-oncogene, G protein-coupled receptor	protein-coding	-	-	-	Mas-related G protein-coupled receptor A	20160325
 10020	105991826	Ezr	-	-	-	Un	-	ezrin	protein-coding	-	-	-	-	20160102
 10020	105991827	Dynlt1	-	-	-	Un	-	dynein, light chain, Tctex-type 1	protein-coding	-	-	-	-	20160102
 10020	105991828	Qki	-	-	-	Un	-	QKI, KH domain containing, RNA binding	protein-coding	-	-	-	-	20160102
@@ -12785,7 +12785,7 @@
 10020	105992798	Lhfpl1	-	-	-	Un	-	lipoma HMGIC fusion partner-like 1	protein-coding	-	-	-	-	20160102
 10020	105992799	Fgfr1	-	-	-	Un	-	fibroblast growth factor receptor 1	protein-coding	-	-	-	-	20160102
 10020	105992800	Irs4	-	-	-	Un	-	insulin receptor substrate 4	protein-coding	-	-	-	-	20160102
-10020	105992801	Frmpd3	-	-	-	Un	-	FERM and PDZ domain containing 3	protein-coding	-	-	-	-	20160102
+10020	105992801	Frmpd3	-	-	-	Un	-	FERM and PDZ domain containing 3	protein-coding	-	-	-	-	20160312
 10020	105992802	LOC105992802	-	-	-	Un	-	tumor suppressor candidate 2 pseudogene	pseudo	-	-	-	-	20151115
 10020	105992803	Kcne5	-	-	-	Un	-	potassium channel, voltage gated subfamily E regulatory beta subunit 5	protein-coding	-	-	-	-	20160102
 10020	105992804	Zcchc16	-	-	-	Un	-	zinc finger, CCHC domain containing 16	protein-coding	-	-	-	-	20160102
@@ -14268,7 +14268,7 @@
 10020	105994281	Scn3a	-	-	-	Un	-	sodium channel, voltage gated, type III alpha subunit	protein-coding	-	-	-	-	20160102
 10020	105994282	Spib	-	-	-	Un	-	Spi-B transcription factor (Spi-1/PU.1 related)	protein-coding	-	-	-	-	20160102
 10020	105994283	Klk5	-	-	-	Un	-	kallikrein-related peptidase 5	protein-coding	-	-	-	-	20160102
-10020	105994284	Klk1	-	-	-	Un	-	kallikrein 1	protein-coding	-	-	-	-	20160102
+10020	105994284	Klk1	-	-	-	Un	-	kallikrein 1	protein-coding	-	-	-	-	20160220
 10020	105994285	Bcl2l12	-	-	-	Un	-	BCL2-like 12 (proline rich)	protein-coding	-	-	-	-	20160102
 10020	105994286	Klk8	-	-	-	Un	-	kallikrein-related peptidase 8	protein-coding	-	-	-	-	20160102
 10020	105994287	Emc10	-	-	-	Un	-	ER membrane protein complex subunit 10	protein-coding	-	-	-	-	20151115
@@ -19725,7 +19725,7 @@
 10020	105999738	LOC105999738	-	-	-	Un	-	small nuclear ribonucleoprotein E pseudogene	pseudo	-	-	-	-	20151115
 10020	105999739	Dleu7	-	-	-	Un	-	deleted in lymphocytic leukemia, 7	protein-coding	-	-	-	-	20151115
 10020	105999740	Phf11	-	-	-	Un	-	PHD finger protein 11	protein-coding	-	-	-	-	20160102
-10020	105999741	Setdb2	-	-	-	Un	-	SET domain, bifurcated 2	protein-coding	-	-	-	-	20160102
+10020	105999741	Setdb2	-	-	-	Un	-	SET domain, bifurcated 2	protein-coding	-	-	-	-	20160305
 10020	105999742	Ints6	-	-	-	Un	-	integrator complex subunit 6	protein-coding	-	-	-	-	20160102
 10020	105999743	Serpine3	-	-	-	Un	-	serpin peptidase inhibitor, clade E (nexin, plasminogen activator inhibitor type 1), member 3	protein-coding	-	-	-	-	20160102
 10020	105999744	Kpna3	-	-	-	Un	-	karyopherin alpha 3 (importin alpha 4)	protein-coding	-	-	-	-	20151115

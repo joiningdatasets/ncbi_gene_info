@@ -28,10 +28,10 @@
 685765	24572398	COX2	ACI48_gp10	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20151028
 685765	24572399	ATP8	ACI48_gp09	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20151028
 685765	24572400	ND3	ACI48_gp06	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20151028
-685765	24572401	ND4L	ACI48_gp05	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20151028
+685765	24572401	ND4L	ACI48_gp05	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20160325
 685765	24572402	ACI48_gt18	ACI48_gt18	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150619
 685765	24572403	ACI48_gt19	ACI48_gt19	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150619
-685765	24572404	ND5	ACI48_gp03	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20151028
+685765	24572404	ND5	ACI48_gp03	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20160325
 685765	24572405	CYTB	ACI48_gp01	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20151028
 685765	24572406	ACI48_gt22	ACI48_gt22	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150619
 685765	24572407	ACI48_gt01	ACI48_gt01	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150619

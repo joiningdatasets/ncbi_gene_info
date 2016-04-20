@@ -27,7 +27,7 @@
 389337	24572321	ACI70_gt13	ACI70_gt13	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150619
 389337	24572322	COX2	ACI70_gp10	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20151007
 389337	24572323	ATP8	ACI70_gp09	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20151007
-389337	24572324	ND3	ACI70_gp06	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20151007
+389337	24572324	ND3	ACI70_gp06	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20160325
 389337	24572325	ND4L	ACI70_gp05	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20151007
 389337	24572326	ACI70_gt18	ACI70_gt18	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150619
 389337	24572327	ACI70_gt19	ACI70_gt19	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150619

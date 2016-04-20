@@ -10,4 +10,4 @@
 9802	18887502	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20150626
 9802	18887503	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20150626
 9802	18887504	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20150626
-9802	18887505	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20150626
+9802	18887505	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20160325

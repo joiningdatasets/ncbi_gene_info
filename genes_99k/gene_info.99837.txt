@@ -4,7 +4,7 @@
 99837	24573503	trnI(gat)	ACI72_gt04	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150619
 99837	24573504	trnQ(ttg)	ACI72_gt05	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150619
 99837	24573505	trnM(cat)	ACI72_gt06	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150619
-99837	24573506	ND2	ACI72_gp12	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20151104
+99837	24573506	ND2	ACI72_gp12	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20160325
 99837	24573507	trnW(tca)	ACI72_gt07	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150619
 99837	24573508	trnA(tgc)	ACI72_gt08	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150619
 99837	24573509	trnN(gtt)	ACI72_gt09	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150619
@@ -27,7 +27,7 @@
 99837	24573526	trnS1(gct)	ACI72_gt18	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150619
 99837	24573527	trnL1(tag)	ACI72_gt19	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150619
 99837	24573528	ND5	ACI72_gp03	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20151104
-99837	24573529	ND6	ACI72_gp02	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20151104
+99837	24573529	ND6	ACI72_gp02	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20160325
 99837	24573530	trnE(ttc)	ACI72_gt20	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150619
 99837	24573531	CYTB	ACI72_gp01	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20151104
 99837	24573532	trnT(tgt)	ACI72_gt21	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150619

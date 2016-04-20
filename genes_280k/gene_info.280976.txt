@@ -32,6 +32,6 @@
 280976	17046722	trnD	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20131105
 280976	17046723	trnP	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20131105
 280976	17046724	trnA	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20131105
-280976	17046725	COX1	-	-	-	MT	-	COX1	protein-coding	-	-	-	cytochrome c oxidase subunit I	20150718
+280976	17046725	COX1	-	-	-	MT	-	COX1	protein-coding	-	-	-	cytochrome c oxidase subunit I	20160325
 280976	17046726	16S rRNA	-	-	-	MT	-	l-rRNA	rRNA	-	-	-	-	20131105
 280976	17046727	trnF	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20131105

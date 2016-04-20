@@ -2,7 +2,7 @@
 213498	24143909	YB63_gt07	YB63_gt07	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150423
 213498	24143910	YB63_gt12	YB63_gt12	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150423
 213498	24143911	YB63_gt14	YB63_gt14	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150423
-213498	24143912	ATP6	YB63_gp08	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20150919
+213498	24143912	ATP6	YB63_gp08	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20160325
 213498	24143913	COX3	YB63_gp07	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20150919
 213498	24143914	YB63_gt15	YB63_gt15	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150423
 213498	24143915	YB63_gt16	YB63_gt16	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150423
@@ -28,7 +28,7 @@
 213498	24143935	YB63_gt13	YB63_gt13	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150423
 213498	24143936	COX2	YB63_gp10	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20150919
 213498	24143937	ATP8	YB63_gp09	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20150919
-213498	24143938	ND3	YB63_gp06	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20150919
+213498	24143938	ND3	YB63_gp06	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20160325
 213498	24143939	ND4L	YB63_gp05	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20150919
 213498	24143940	YB63_gt18	YB63_gt18	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150423
 213498	24143941	YB63_gt19	YB63_gt19	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150423

@@ -23,10 +23,10 @@
 148074	17046865	ND3	-	-	-	MT	-	ND3	protein-coding	-	-	-	NADH dehydrogenase subunit 3	20150626
 148074	17046866	trnS	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20131105
 148074	17046867	trnQ	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20131105
-148074	17046868	ND1	-	-	-	MT	-	ND1	protein-coding	-	-	-	NADH dehydrogenase subunit 1	20150626
+148074	17046868	ND1	-	-	-	MT	-	ND1	protein-coding	-	-	-	NADH dehydrogenase subunit 1	20160325
 148074	17046869	ND5	-	-	-	MT	-	ND5	protein-coding	-	-	-	NADH dehydrogenase subunit 5	20150626
 148074	17046870	ATP8	-	-	-	MT	-	ATP8	protein-coding	-	-	-	ATP synthase F0 subunit 8	20150626
-148074	17046871	ND2	-	-	-	MT	-	ND2	protein-coding	-	-	-	NADH dehydrogenase subunit 2	20150626
+148074	17046871	ND2	-	-	-	MT	-	ND2	protein-coding	-	-	-	NADH dehydrogenase subunit 2	20160325
 148074	17046872	12S rRNA	-	-	-	MT	-	s-rRNA	rRNA	-	-	-	-	20131105
 148074	17046873	trnL	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20131105
 148074	17046874	trnD	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20131105

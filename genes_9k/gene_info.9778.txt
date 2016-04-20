@@ -14,7 +14,7 @@
 9778	5867369	tRNA-Leu (UUR)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150527
 9778	5867370	COX3	-	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20150626
 9778	5867371	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20150626
-9778	5867372	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20150626
+9778	5867372	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20160325
 9778	5867373	tRNA-Glu	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150527
 9778	5867374	tRNA-Val	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150527
 9778	5867375	ATP6	-	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20150626

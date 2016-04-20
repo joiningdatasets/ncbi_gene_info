@@ -548,7 +548,7 @@
 118797	103068754	CPT1A	-	-	-	Un	-	carnitine palmitoyltransferase 1A (liver)	protein-coding	-	-	-	-	20151115
 118797	103068755	ITK	-	-	-	Un	-	IL2-inducible T-cell kinase	protein-coding	-	-	-	-	20151115
 118797	103068756	LOC103068756	-	-	-	Un	-	heterogeneous nuclear ribonucleoprotein A3 pseudogene	pseudo	-	-	-	-	20151115
-118797	103068757	SETDB2	-	-	-	Un	-	SET domain, bifurcated 2	protein-coding	-	-	-	-	20151115
+118797	103068757	SETDB2	-	-	-	Un	-	SET domain, bifurcated 2	protein-coding	-	-	-	-	20160305
 118797	103068758	BPI	-	-	-	Un	-	bactericidal/permeability-increasing protein	protein-coding	-	-	-	-	20151115
 118797	103068759	EIF2AK3	-	-	-	Un	-	eukaryotic translation initiation factor 2-alpha kinase 3	protein-coding	-	-	-	-	20151115
 118797	103068760	KCTD12	-	-	-	Un	-	potassium channel tetramerization domain containing 12	protein-coding	-	-	-	-	20151115
@@ -1118,7 +1118,7 @@
 118797	103069324	CDC73	-	-	-	Un	-	cell division cycle 73	protein-coding	-	-	-	-	20151115
 118797	103069325	LOC103069325	-	-	-	Un	-	hemoglobin subunit alpha-like	protein-coding	-	-	-	-	20151115
 118797	103069326	LOC103069326	-	-	-	Un	-	uncharacterized LOC103069326	protein-coding	-	-	-	-	20151115
-118797	103069327	FGF5	-	-	-	Un	-	fibroblast growth factor 5	protein-coding	-	-	-	-	20151115
+118797	103069327	FGF5	-	-	-	Un	-	fibroblast growth factor 5	protein-coding	-	-	-	-	20160325
 118797	103069328	LOC103069328	-	-	-	Un	-	taste receptor type 2 member 38-like	pseudo	-	-	-	-	20151115
 118797	103069329	PSME2	-	-	-	Un	-	proteasome (prosome, macropain) activator subunit 2 (PA28 beta)	protein-coding	-	-	-	-	20151115
 118797	103069330	MRPL48	-	-	-	Un	-	mitochondrial ribosomal protein L48	protein-coding	-	-	-	-	20151115
@@ -5954,7 +5954,7 @@
 118797	103074160	LOC103074160	-	-	-	Un	-	zinc finger protein 268-like	protein-coding	-	-	-	-	20151115
 118797	103074161	LOC103074161	-	-	-	Un	-	D-2-hydroxyglutarate dehydrogenase pseudogene	pseudo	-	-	-	-	20151115
 118797	103074162	TGS1	-	-	-	Un	-	trimethylguanosine synthase 1	protein-coding	-	-	-	-	20151115
-118797	103074163	SERTAD2	-	-	-	Un	-	SERTA domain containing 2	protein-coding	-	-	-	-	20151115
+118797	103074163	SERTAD2	-	-	-	Un	-	SERTA domain containing 2	protein-coding	-	-	-	-	20160217
 118797	103074164	LOC103074164	-	-	-	Un	-	eukaryotic translation elongation factor 1 alpha 1 pseudogene	pseudo	-	-	-	-	20151115
 118797	103074165	LOC103074165	-	-	-	Un	-	aspartokinase 1, chloroplastic-like	pseudo	-	-	-	-	20151115
 118797	103074166	THOC7	-	-	-	Un	-	THO complex 7 homolog (Drosophila)	protein-coding	-	-	-	THO complex subunit 7 homolog	20151115
@@ -9158,7 +9158,7 @@
 118797	103077364	INF2	-	-	-	Un	-	inverted formin, FH2 and WH2 domain containing	protein-coding	-	-	-	-	20151115
 118797	103077365	LOC103077365	-	-	-	Un	-	50S ribosomal protein L13, chloroplastic-like	protein-coding	-	-	-	-	20151115
 118797	103077366	LOC103077366	-	-	-	Un	-	olfactory receptor 4P4-like	pseudo	-	-	-	-	20151115
-118797	103077367	ZAR1	-	-	-	Un	-	zygote arrest 1	protein-coding	-	-	-	-	20151115
+118797	103077367	ZAR1	-	-	-	Un	-	zygote arrest 1	protein-coding	-	-	-	-	20160130
 118797	103077368	ZNF605	-	-	-	Un	-	zinc finger protein 605	protein-coding	-	-	-	-	20151115
 118797	103077369	RAB9A	-	-	-	Un	-	RAB9A, member RAS oncogene family	protein-coding	-	-	-	-	20151115
 118797	103077370	FOXD1	-	-	-	Un	-	forkhead box D1	protein-coding	-	-	-	-	20151115
@@ -10138,7 +10138,7 @@
 118797	103078344	LOC103078344	-	-	-	Un	-	selenocysteine Se-methyltransferase-like	protein-coding	-	-	-	-	20151115
 118797	103078345	CCDC172	-	-	-	Un	-	coiled-coil domain containing 172	protein-coding	-	-	-	-	20151115
 118797	103078346	INHBB	-	-	-	Un	-	inhibin, beta B	protein-coding	-	-	-	-	20151115
-118797	103078347	ADIPOQ	-	-	-	Un	-	adiponectin, C1Q and collagen domain containing	protein-coding	-	-	-	-	20151115
+118797	103078347	ADIPOQ	-	-	-	Un	-	adiponectin, C1Q and collagen domain containing	protein-coding	-	-	-	C1Q and collagen domain containing adiponectin	20160217
 118797	103078348	KMT2C	-	-	-	Un	-	lysine (K)-specific methyltransferase 2C	protein-coding	-	-	-	-	20151115
 118797	103078349	LOC103078349	-	-	-	Un	-	basic proline-rich protein-like	protein-coding	-	-	-	-	20151115
 118797	103078350	ERBB4	-	-	-	Un	-	v-erb-b2 avian erythroblastic leukemia viral oncogene homolog 4	protein-coding	-	-	-	-	20151115
@@ -13479,7 +13479,7 @@
 118797	103081685	ZNF217	-	-	-	Un	-	zinc finger protein 217	protein-coding	-	-	-	-	20151115
 118797	103081686	EIF5A	-	-	-	Un	-	eukaryotic translation initiation factor 5A	protein-coding	-	-	-	-	20151115
 118797	103081687	LOC103081687	-	-	-	Un	-	chromosome unknown open reading frame, human C3orf17	protein-coding	-	-	-	-	20151115
-118797	103081688	APOE	-	-	-	Un	-	apolipoprotein E	protein-coding	-	-	-	-	20151115
+118797	103081688	APOE	-	Apo-E	-	Un	-	apolipoprotein E	protein-coding	-	-	-	-	20160202
 118797	103081689	LOC103081689	-	-	-	Un	-	oligosaccharyltransferase complex subunit OSTC-like	pseudo	-	-	-	-	20151115
 118797	103081690	INPP5E	-	-	-	Un	-	inositol polyphosphate-5-phosphatase, 72 kDa	protein-coding	-	-	-	-	20151115
 118797	103081691	PRRC2A	-	-	-	Un	-	proline-rich coiled-coil 2A	protein-coding	-	-	-	-	20151115
@@ -13588,7 +13588,7 @@
 118797	103081794	LOC103081794	-	-	-	Un	-	olfactory receptor 147-like	protein-coding	-	-	-	-	20151115
 118797	103081795	TNFRSF1B	-	-	-	Un	-	tumor necrosis factor receptor superfamily, member 1B	protein-coding	-	-	-	-	20151115
 118797	103081796	LOC103081796	-	-	-	Un	-	centrosomal protein of 78 kDa-like	pseudo	-	-	-	-	20151115
-118797	103081797	KLK1	-	-	-	Un	-	kallikrein 1	protein-coding	-	-	-	-	20151115
+118797	103081797	KLK1	-	-	-	Un	-	kallikrein 1	protein-coding	-	-	-	-	20160220
 118797	103081798	ARHGAP32	-	-	-	Un	-	Rho GTPase activating protein 32	protein-coding	-	-	-	-	20151115
 118797	103081799	LOC103081799	-	-	-	Un	-	4-hydroxy-2-oxoglutarate aldolase 1 pseudogene	pseudo	-	-	-	-	20151115
 118797	103081800	LOC103081800	-	-	-	Un	-	methylmalonic aciduria and homocystinuria type D homolog, mitochondrial-like	protein-coding	-	-	-	-	20151115
@@ -18056,7 +18056,7 @@
 118797	103086262	LOC103086262	-	-	-	Un	-	zinc finger protein 836-like	protein-coding	-	-	-	-	20151115
 118797	103086263	LOC103086263	-	-	-	Un	-	ribosomal protein L17 pseudogene	pseudo	-	-	-	-	20151115
 118797	103086264	LOC103086264	-	-	-	Un	-	eukaryotic translation elongation factor 1 alpha 1 pseudogene	pseudo	-	-	-	-	20151115
-118797	103086265	FRMPD3	-	-	-	Un	-	FERM and PDZ domain containing 3	protein-coding	-	-	-	-	20151115
+118797	103086265	FRMPD3	-	-	-	Un	-	FERM and PDZ domain containing 3	protein-coding	-	-	-	-	20160312
 118797	103086266	YWHAQ	-	-	-	Un	-	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, theta	protein-coding	-	-	-	-	20151115
 118797	103086267	PELO	-	-	-	Un	-	pelota homolog (Drosophila)	protein-coding	-	-	-	protein pelota homolog	20151115
 118797	103086268	LOC103086268	-	-	-	Un	-	ferritin, light polypeptide pseudogene	pseudo	-	-	-	-	20151115
@@ -20360,7 +20360,7 @@
 118797	103088566	LOC103088566	-	-	-	Un	-	zinc finger protein 709-like	pseudo	-	-	-	-	20151115
 118797	103088567	DEK	-	-	-	Un	-	DEK oncogene	protein-coding	-	-	-	-	20151115
 118797	103088568	SPAG17	-	-	-	Un	-	sperm associated antigen 17	protein-coding	-	-	-	-	20151115
-118797	103088569	FABP4	-	-	-	Un	-	fatty acid binding protein 4, adipocyte	protein-coding	-	-	-	-	20151115
+118797	103088569	FABP4	-	-	-	Un	-	fatty acid binding protein 4, adipocyte	protein-coding	-	-	-	-	20160217
 118797	103088570	PCNXL3	-	-	-	Un	-	pecanex-like 3 (Drosophila)	protein-coding	-	-	-	-	20151115
 118797	103088571	LOC103088571	-	-	-	Un	-	pregnancy-associated glycoprotein 2-like	protein-coding	-	-	-	-	20151115
 118797	103088572	THOC3	-	-	-	Un	-	THO complex 3	protein-coding	-	-	-	-	20151115
@@ -21636,7 +21636,7 @@
 118797	103089842	EMR3	-	-	-	Un	-	egf-like module containing, mucin-like, hormone receptor-like 3	protein-coding	-	-	-	-	20151115
 118797	103089843	BMPR2	-	-	-	Un	-	bone morphogenetic protein receptor, type II (serine/threonine kinase)	protein-coding	-	-	-	-	20151115
 118797	103089844	LOC103089844	-	-	-	Un	-	forkhead box protein R1-like	pseudo	-	-	-	-	20151115
-118797	103089845	HR	-	hairless	-	Un	-	hair growth associated	protein-coding	-	-	-	-	20151115
+118797	103089845	HR	-	hairless	-	Un	-	hair growth associated	protein-coding	-	-	-	-	20160325
 118797	103089846	SIAH1	-	-	-	Un	-	siah E3 ubiquitin protein ligase 1	protein-coding	-	-	-	-	20151115
 118797	103089847	PQBP1	-	-	-	Un	-	polyglutamine binding protein 1	protein-coding	-	-	-	-	20151115
 118797	103089848	AIFM3	-	-	-	Un	-	apoptosis-inducing factor, mitochondrion-associated, 3	protein-coding	-	-	-	-	20151115

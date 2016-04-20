@@ -1,6 +1,6 @@
 344753	15089155	ND2	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20150626
 344753	15089156	COX1	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20150701
-344753	15089157	COX2	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20150626
+344753	15089157	COX2	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20160325
 344753	15089158	ATP8	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20150626
 344753	15089159	ATP6	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20150626
 344753	15089160	COX3	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20150626

@@ -10,4 +10,4 @@
 9844	7441188	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20150626
 9844	7441189	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20150626
 9844	7441190	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20150626
-9844	7441191	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20150626
+9844	7441191	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20160325

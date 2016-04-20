@@ -1,10 +1,10 @@
 9755	809407	ATP6	-	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20150626
 9755	809408	ATP8	-	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20150626
 9755	809409	ND3	-	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20150626
-9755	809410	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20150626
+9755	809410	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20160325
 9755	809411	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20150626
 9755	809412	COX1	-	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20150626
-9755	809413	ND4L	-	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20150626
+9755	809413	ND4L	-	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20160325
 9755	809414	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20150626
 9755	809415	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20150626
 9755	809416	COX2	-	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20150626
@@ -3511,7 +3511,7 @@
 9755	102976552	LOC102976552	-	-	-	Un	-	transcription elongation factor B polypeptide 2-like	protein-coding	-	-	-	-	20151115
 9755	102976553	LOC102976553	-	-	-	Un	-	lipase maturation factor 1-like	protein-coding	-	-	-	-	20151115
 9755	102976554	LOC102976554	-	-	-	Un	-	ribosomal protein S27 pseudogene	pseudo	-	-	-	-	20151115
-9755	102976555	FRMPD3	-	-	-	Un	-	FERM and PDZ domain containing 3	protein-coding	-	-	-	-	20151115
+9755	102976555	FRMPD3	-	-	-	Un	-	FERM and PDZ domain containing 3	protein-coding	-	-	-	-	20160312
 9755	102976556	DDX18	-	-	-	Un	-	DEAD (Asp-Glu-Ala-Asp) box polypeptide 18	protein-coding	-	-	-	-	20151115
 9755	102976557	CTRB1	-	-	-	Un	-	chymotrypsinogen B1	protein-coding	-	-	-	-	20151115
 9755	102976558	LOC102976558	-	-	-	Un	-	uncharacterized LOC102976558	ncRNA	-	-	-	-	20151115
@@ -4137,7 +4137,7 @@
 9755	102977178	HDDC2	-	-	-	Un	-	HD domain containing 2	protein-coding	-	-	-	-	20151115
 9755	102977179	LOC102977179	-	-	-	Un	-	uncharacterized LOC102977179	pseudo	-	-	-	-	20151115
 9755	102977180	LOC102977180	-	-	-	Un	-	protein Tob1-like	pseudo	-	-	-	-	20151115
-9755	102977181	ZAR1	-	-	-	Un	-	zygote arrest 1	protein-coding	-	-	-	-	20151115
+9755	102977181	ZAR1	-	-	-	Un	-	zygote arrest 1	protein-coding	-	-	-	-	20160130
 9755	102977182	TRPC4AP	-	-	-	Un	-	transient receptor potential cation channel, subfamily C, member 4 associated protein	protein-coding	-	-	-	-	20151115
 9755	102977183	LOC102977183	-	-	-	Un	-	uncharacterized LOC102977183	ncRNA	-	-	-	-	20151115
 9755	102977184	LOC102977184	-	-	-	Un	-	uncharacterized LOC102977184	ncRNA	-	-	-	-	20151115
@@ -7574,7 +7574,7 @@
 9755	102980615	GLE1	-	-	-	Un	-	GLE1 RNA export mediator	protein-coding	-	-	-	-	20151115
 9755	102980616	SLC43A2	-	-	-	Un	-	solute carrier family 43 (amino acid system L transporter), member 2	protein-coding	-	-	-	-	20151115
 9755	102980617	PHF19	-	-	-	Un	-	PHD finger protein 19	protein-coding	-	-	-	-	20151115
-9755	102980618	KLK1	-	-	-	Un	-	kallikrein 1	protein-coding	-	-	-	-	20151115
+9755	102980618	KLK1	-	-	-	Un	-	kallikrein 1	protein-coding	-	-	-	-	20160220
 9755	102980619	LOC102980619	-	-	-	Un	-	uncharacterized LOC102980619	ncRNA	-	-	-	-	20151115
 9755	102980620	ATP5L	-	-	-	Un	-	ATP synthase, H+ transporting, mitochondrial Fo complex, subunit G	protein-coding	-	-	-	-	20151115
 9755	102980621	HGD	-	-	-	Un	-	homogentisate 1,2-dioxygenase	protein-coding	-	-	-	-	20151115
@@ -17303,7 +17303,7 @@
 9755	102990344	ZNF34	-	-	-	Un	-	zinc finger protein 34	protein-coding	-	-	-	-	20151115
 9755	102990345	GRM6	-	-	-	Un	-	glutamate receptor, metabotropic 6	protein-coding	-	-	-	-	20151115
 9755	102990346	LOC102990346	-	-	-	Un	-	uncharacterized LOC102990346	protein-coding	-	-	-	-	20151115
-9755	102990347	SETDB2	-	-	-	Un	-	SET domain, bifurcated 2	protein-coding	-	-	-	-	20151115
+9755	102990347	SETDB2	-	-	-	Un	-	SET domain, bifurcated 2	protein-coding	-	-	-	-	20160305
 9755	102990348	LOC102990348	-	-	-	Un	-	thimet oligopeptidase-like	pseudo	-	-	-	-	20151115
 9755	102990349	LOC102990349	-	-	-	Un	-	ras association domain-containing protein 6-like	protein-coding	-	-	-	-	20151115
 9755	102990350	LOC102990350	-	-	-	Un	-	cation transport regulator-like protein 1-like	pseudo	-	-	-	-	20151115
@@ -22647,7 +22647,7 @@
 9755	102995688	LOC102995688	-	-	-	Un	-	cytochrome b-c1 complex subunit 2, mitochondrial-like	protein-coding	-	-	-	-	20151115
 9755	102995689	TUBGCP2	-	-	-	Un	-	tubulin, gamma complex associated protein 2	protein-coding	-	-	-	-	20151115
 9755	102995690	COPS3	-	-	-	Un	-	COP9 signalosome subunit 3	protein-coding	-	-	-	-	20151115
-9755	102995691	APOE	-	-	-	Un	-	apolipoprotein E	protein-coding	-	-	-	-	20151115
+9755	102995691	APOE	-	Apo-E	-	Un	-	apolipoprotein E	protein-coding	-	-	-	-	20160202
 9755	102995692	LOC102995692	-	-	-	Un	-	UPF0705 protein C11orf49 homolog	protein-coding	-	-	-	-	20151115
 9755	102995693	LOC102995693	-	-	-	Un	-	LIM domain transcription factor LMO4-like	protein-coding	-	-	-	-	20151115
 9755	102995694	LOC102995694	-	-	-	Un	-	olfactory receptor 143-like	pseudo	-	-	-	-	20151115

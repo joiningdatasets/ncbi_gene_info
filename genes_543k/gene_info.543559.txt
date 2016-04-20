@@ -10,4 +10,4 @@
 543559	22833152	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20150715
 543559	22833153	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20150715
 543559	22833154	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20150715
-543559	22833155	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20150715
+543559	22833155	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20160325

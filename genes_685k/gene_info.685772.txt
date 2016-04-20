@@ -6,10 +6,10 @@
 685772	24572338	ACI45_gt04	ACI45_gt04	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150619
 685772	24572339	ACI45_gt15	ACI45_gt15	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150619
 685772	24572340	ACI45_gt14	ACI45_gt14	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150619
-685772	24572341	COX3	ACI45_gp07	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20151028
+685772	24572341	COX3	ACI45_gp07	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20160325
 685772	24572342	ACI45_gt20	ACI45_gt20	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150619
 685772	24572343	ACI45_gt16	ACI45_gt16	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150619
-685772	24572344	ND4	ACI45_gp04	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20151028
+685772	24572344	ND4	ACI45_gp04	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20160325
 685772	24572345	ATP6	ACI45_gp08	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20151028
 685772	24572346	ACI45_gr02	ACI45_gr02	-	-	MT	-	12S ribosomal RNA	rRNA	-	-	-	-	20150619
 685772	24572347	ACI45_gt02	ACI45_gt02	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150619
@@ -26,7 +26,7 @@
 685772	24572358	COX1	ACI45_gp11	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20151028
 685772	24572359	ACI45_gt13	ACI45_gt13	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150619
 685772	24572360	COX2	ACI45_gp10	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20151028
-685772	24572361	ATP8	ACI45_gp09	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20151028
+685772	24572361	ATP8	ACI45_gp09	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20160325
 685772	24572362	ND3	ACI45_gp06	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20151028
 685772	24572363	ND4L	ACI45_gp05	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20151028
 685772	24572364	ACI45_gt18	ACI45_gt18	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150619

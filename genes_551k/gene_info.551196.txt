@@ -3,7 +3,7 @@
 551196	6740929	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20150626
 551196	6740930	ND3	-	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20150626
 551196	6740931	16S rRNA	-	-	-	MT	-	l-rRNA	rRNA	-	-	-	-	20121127
-551196	6740932	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20150626
+551196	6740932	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20160325
 551196	6740933	ND4L	-	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20150626
 551196	6740934	trnC	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20121127
 551196	6740935	trnF	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20121127
@@ -29,7 +29,7 @@
 551196	6740955	trnW	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20121127
 551196	6740956	trnG	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20121127
 551196	6740957	trnK	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20121127
-551196	6740958	ND2	-	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20150626
+551196	6740958	ND2	-	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20160325
 551196	6740959	trnY	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20121127
 551196	6740960	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20150626
 551196	6740961	12S rRNA	-	-	-	MT	-	s-rRNA	rRNA	-	-	-	-	20121127

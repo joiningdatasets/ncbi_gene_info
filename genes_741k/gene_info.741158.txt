@@ -11,7 +11,7 @@
 741158	8923194	trnW	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20121127
 741158	8923195	trnR	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20121127
 741158	8923196	trnH	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20121127
-741158	8923197	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20151028
+741158	8923197	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20160325
 741158	8923198	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20151028
 741158	8923199	trnE	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20121127
 741158	8923200	trnC	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20121127

@@ -8,6 +8,6 @@
 9833	808677	ND4	-	NADH4	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20150626
 9833	808678	ND1	-	NADH1	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20150626
 9833	808679	COX2	-	COII	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20150626
-9833	808680	ND4L	-	NADH4L	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20150626
+9833	808680	ND4L	-	NADH4L	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20160325
 9833	808681	ND5	-	NADH5	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20150626
 9833	808682	ND2	-	NADH2	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20150626

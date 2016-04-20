@@ -10020,7 +10020,7 @@
 1230840	103201626	ARL11	-	-	-	Un	-	ADP-ribosylation factor-like 11	protein-coding	-	-	-	-	20151115
 1230840	103201627	AVL9	-	-	-	Un	-	AVL9 homolog (S. cerevisiase)	protein-coding	-	-	-	-	20151115
 1230840	103201628	RCBTB1	-	-	-	Un	-	regulator of chromosome condensation (RCC1) and BTB (POZ) domain containing protein 1	protein-coding	-	-	-	-	20151115
-1230840	103201629	SETDB2	-	-	-	Un	-	SET domain, bifurcated 2	protein-coding	-	-	-	-	20151115
+1230840	103201629	SETDB2	-	-	-	Un	-	SET domain, bifurcated 2	protein-coding	-	-	-	-	20160305
 1230840	103201630	CAB39L	-	-	-	Un	-	calcium binding protein 39-like	protein-coding	-	-	-	-	20151115
 1230840	103201631	CDADC1	-	-	-	Un	-	cytidine and dCMP deaminase domain containing 1	protein-coding	-	-	-	-	20151115
 1230840	103201632	FNDC3A	-	-	-	Un	-	fibronectin type III domain containing 3A	protein-coding	-	-	-	-	20151115
@@ -12689,7 +12689,7 @@
 1230840	103204295	TEC	-	-	-	Un	-	tec protein tyrosine kinase	protein-coding	-	-	-	-	20151115
 1230840	103204296	PROK1	-	-	-	Un	-	prokineticin 1	protein-coding	-	-	-	-	20151115
 1230840	103204297	LOC103204297	-	-	-	Un	-	nucleoporin-like protein 2 pseudogene	pseudo	-	-	-	-	20151115
-1230840	103204298	ZAR1	-	-	-	Un	-	zygote arrest 1	protein-coding	-	-	-	-	20151115
+1230840	103204298	ZAR1	-	-	-	Un	-	zygote arrest 1	protein-coding	-	-	-	-	20160130
 1230840	103204299	LOC103204299	-	-	-	Un	-	olfactory receptor 6C74-like	protein-coding	-	-	-	-	20151115
 1230840	103204300	LOC103204300	-	-	-	Un	-	olfactory receptor 6C74	protein-coding	-	-	-	-	20151115
 1230840	103204301	LOC103204301	-	-	-	Un	-	olfactory receptor 12-like	protein-coding	-	-	-	-	20151115
@@ -15301,7 +15301,7 @@
 1230840	103206907	RIPPLY1	-	-	-	Un	-	ripply transcriptional repressor 1	protein-coding	-	-	-	-	20151115
 1230840	103206908	RBM41	-	-	-	Un	-	RNA binding motif protein 41	protein-coding	-	-	-	-	20151115
 1230840	103206909	LOC103206909	-	-	-	Un	-	DET1 homolog pseudogene	pseudo	-	-	-	-	20151115
-1230840	103206910	FRMPD3	-	-	-	Un	-	FERM and PDZ domain containing 3	protein-coding	-	-	-	-	20151115
+1230840	103206910	FRMPD3	-	-	-	Un	-	FERM and PDZ domain containing 3	protein-coding	-	-	-	-	20160312
 1230840	103206911	LOC103206911	-	-	-	Un	-	nuclear cap-binding protein subunit 2 pseudogene	pseudo	-	-	-	-	20151115
 1230840	103206912	LOC103206912	-	-	-	Un	-	iduronate 2-sulfatase pseudogene	pseudo	-	-	-	-	20151115
 1230840	103206913	TEX13A	-	-	-	Un	-	testis expressed 13A	protein-coding	-	-	-	-	20151115

@@ -1,4 +1,41 @@
 143302	15799334	NEWENTRY	-	-	-	-	-	Record to support submission of GeneRIFs for a gene not in Gene (star-nosed mole).	other	-	-	-	-	20130604
+143302	27111319	A3240_gt04	A3240_gt04	-	-	MT	-	tRNA	tRNA	-	-	-	-	20160329
+143302	27111320	A3240_gt07	A3240_gt07	-	-	MT	-	tRNA	tRNA	-	-	-	-	20160329
+143302	27111321	A3240_gt12	A3240_gt12	-	-	MT	-	tRNA	tRNA	-	-	-	-	20160329
+143302	27111322	A3240_gt14	A3240_gt14	-	-	MT	-	tRNA	tRNA	-	-	-	-	20160329
+143302	27111323	ATP6	A3240_gp08	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20160413
+143302	27111324	COX3	A3240_gp07	COIII	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20160413
+143302	27111325	A3240_gt15	A3240_gt15	-	-	MT	-	tRNA	tRNA	-	-	-	-	20160329
+143302	27111326	A3240_gt16	A3240_gt16	-	-	MT	-	tRNA	tRNA	-	-	-	-	20160329
+143302	27111327	ND4	A3240_gp04	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20160413
+143302	27111328	A3240_gt17	A3240_gt17	-	-	MT	-	tRNA	tRNA	-	-	-	-	20160329
+143302	27111329	ND6	A3240_gp02	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20160413
+143302	27111330	A3240_gt20	A3240_gt20	-	-	MT	-	tRNA	tRNA	-	-	-	-	20160329
+143302	27111331	A3240_gt21	A3240_gt21	-	-	MT	-	tRNA	tRNA	-	-	-	-	20160329
+143302	27111332	A3240_gr02	A3240_gr02	-	-	MT	-	12S ribosomal RNA	rRNA	-	-	-	-	20160329
+143302	27111333	A3240_gt02	A3240_gt02	-	-	MT	-	tRNA	tRNA	-	-	-	-	20160329
+143302	27111334	A3240_gr01	A3240_gr01	-	-	MT	-	16S ribosomal RNA	rRNA	-	-	-	-	20160329
+143302	27111335	A3240_gt03	A3240_gt03	-	-	MT	-	tRNA	tRNA	-	-	-	-	20160329
+143302	27111336	ND1	A3240_gp13	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20160413
+143302	27111337	A3240_gt05	A3240_gt05	-	-	MT	-	tRNA	tRNA	-	-	-	-	20160329
+143302	27111338	A3240_gt06	A3240_gt06	-	-	MT	-	tRNA	tRNA	-	-	-	-	20160329
+143302	27111339	ND2	A3240_gp12	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20160413
+143302	27111340	A3240_gt08	A3240_gt08	-	-	MT	-	tRNA	tRNA	-	-	-	-	20160329
+143302	27111341	A3240_gt09	A3240_gt09	-	-	MT	-	tRNA	tRNA	-	-	-	-	20160329
+143302	27111342	A3240_gt10	A3240_gt10	-	-	MT	-	tRNA	tRNA	-	-	-	-	20160329
+143302	27111343	A3240_gt11	A3240_gt11	-	-	MT	-	tRNA	tRNA	-	-	-	-	20160329
+143302	27111344	COX1	A3240_gp11	COI	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20160413
+143302	27111345	A3240_gt13	A3240_gt13	-	-	MT	-	tRNA	tRNA	-	-	-	-	20160329
+143302	27111346	COX2	A3240_gp10	COII	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20160413
+143302	27111347	ATP8	A3240_gp09	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20160413
+143302	27111348	ND3	A3240_gp06	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20160413
+143302	27111349	ND4L	A3240_gp05	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20160413
+143302	27111350	A3240_gt18	A3240_gt18	-	-	MT	-	tRNA	tRNA	-	-	-	-	20160329
+143302	27111351	A3240_gt19	A3240_gt19	-	-	MT	-	tRNA	tRNA	-	-	-	-	20160329
+143302	27111352	ND5	A3240_gp03	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20160413
+143302	27111353	CYTB	A3240_gp01	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20160413
+143302	27111354	A3240_gt22	A3240_gt22	-	-	MT	-	tRNA	tRNA	-	-	-	-	20160329
+143302	27111355	A3240_gt01	A3240_gt01	-	-	MT	-	tRNA	tRNA	-	-	-	-	20160329
 143302	101559517	TRNAF-AAA	-	-	-	-	-	transfer RNA phenylalanine (anticodon AAA)	tRNA	-	-	-	-	20150125
 143302	101559518	TRNAF-GAA	-	-	-	Un	-	transfer RNA phenylalanine (anticodon GAA)	tRNA	-	-	-	-	20151115
 143302	101559519	TRNAL-UAA	-	-	-	Un	-	transfer RNA leucine (anticodon UAA)	tRNA	-	-	-	-	20151115
@@ -183,7 +220,7 @@
 143302	101618363	LOC101618363	-	-	-	Un	-	olfactory receptor 52W1	protein-coding	-	-	-	-	20151115
 143302	101618364	USP14	-	-	-	Un	-	ubiquitin specific peptidase 14 (tRNA-guanine transglycosylase)	protein-coding	-	-	-	-	20151115
 143302	101618365	LOC101618365	-	-	-	Un	-	UBX domain-containing protein 4 pseudogene	pseudo	-	-	-	-	20151115
-143302	101618366	ZNF287	-	-	-	-	-	zinc finger protein 287	protein-coding	-	-	-	-	20150611
+143302	101618366	ZNF287	-	-	-	-	-	zinc finger protein 287	protein-coding	-	-	-	-	20160402
 143302	101618367	TMEM256	-	-	-	Un	-	transmembrane protein 256	protein-coding	-	-	-	-	20151115
 143302	101618368	PLEKHH3	-	-	-	Un	-	pleckstrin homology domain containing, family H (with MyTH4 domain) member 3	protein-coding	-	-	-	-	20151115
 143302	101618369	DHRS13	-	-	-	Un	-	dehydrogenase/reductase (SDR family) member 13	protein-coding	-	-	-	-	20151115
@@ -209,7 +246,7 @@
 143302	101618391	SRSF9	-	-	-	Un	-	serine/arginine-rich splicing factor 9	protein-coding	-	-	-	-	20151115
 143302	101618392	ATOH8	-	-	-	Un	-	atonal homolog 8 (Drosophila)	protein-coding	-	-	-	-	20151115
 143302	101618393	PPP3R1	-	-	-	Un	-	protein phosphatase 3, regulatory subunit B, alpha	protein-coding	-	-	-	-	20151115
-143302	101618394	ZSCAN10	-	-	-	-	-	zinc finger and SCAN domain containing 10	protein-coding	-	-	-	-	20150611
+143302	101618394	ZSCAN10	-	-	-	-	-	zinc finger and SCAN domain containing 10	protein-coding	-	-	-	-	20160402
 143302	101618395	MCM2	-	-	-	Un	-	minichromosome maintenance complex component 2	protein-coding	-	-	-	-	20151115
 143302	101618396	ACRBP	-	-	-	Un	-	acrosin binding protein	protein-coding	-	-	-	-	20151115
 143302	101618397	RCCD1	-	-	-	Un	-	RCC1 domain containing 1	protein-coding	-	-	-	-	20151115
@@ -691,7 +728,7 @@
 143302	101618919	G6PC3	-	-	-	Un	-	glucose 6 phosphatase, catalytic, 3	protein-coding	-	-	-	-	20151115
 143302	101618920	HOXB2	-	-	-	Un	-	homeobox B2	protein-coding	-	-	-	-	20151115
 143302	101618921	SDF2	-	-	-	Un	-	stromal cell-derived factor 2	protein-coding	-	-	-	-	20151115
-143302	101618922	KRBA2	-	-	-	-	-	KRAB-A domain containing 2	protein-coding	-	-	-	-	20150611
+143302	101618922	KRBA2	-	-	-	-	-	KRAB-A domain containing 2	protein-coding	-	-	-	-	20160402
 143302	101618923	PRSS48	-	-	-	Un	-	protease, serine, 48	protein-coding	-	-	-	-	20151115
 143302	101618924	AGTR2	-	-	-	Un	-	angiotensin II receptor, type 2	protein-coding	-	-	-	-	20151115
 143302	101618925	LOC101618925	-	-	-	Un	-	Ig kappa chain V region Mem5-like	other	-	-	-	-	20151115
@@ -712,7 +749,7 @@
 143302	101618940	CMTM3	-	-	-	Un	-	CKLF-like MARVEL transmembrane domain containing 3	protein-coding	-	-	-	-	20151115
 143302	101618941	MTSS1L	-	-	-	Un	-	metastasis suppressor 1-like	protein-coding	-	-	-	-	20151115
 143302	101618942	SIPA1L3	-	-	-	Un	-	signal-induced proliferation-associated 1 like 3	protein-coding	-	-	-	-	20151115
-143302	101618943	TMEM211	-	-	-	-	-	transmembrane protein 211	protein-coding	-	-	-	-	20150611
+143302	101618943	TMEM211	-	-	-	-	-	transmembrane protein 211	protein-coding	-	-	-	-	20160402
 143302	101618944	SLC35F3	-	-	-	Un	-	solute carrier family 35, member F3	protein-coding	-	-	-	-	20151115
 143302	101618945	LOXL3	-	-	-	Un	-	lysyl oxidase-like 3	protein-coding	-	-	-	-	20151115
 143302	101618946	ACSM3	-	-	-	Un	-	acyl-CoA synthetase medium-chain family member 3	protein-coding	-	-	-	-	20151115
@@ -743,7 +780,7 @@
 143302	101618971	ZBTB20	-	-	-	Un	-	zinc finger and BTB domain containing 20	protein-coding	-	-	-	-	20151115
 143302	101618973	FAM3B	-	-	-	Un	-	family with sequence similarity 3, member B	protein-coding	-	-	-	-	20151115
 143302	101618974	RFX4	-	-	-	Un	-	regulatory factor X, 4 (influences HLA class II expression)	protein-coding	-	-	-	-	20151115
-143302	101618975	APOL2	-	-	-	-	-	apolipoprotein L, 2	protein-coding	-	-	-	-	20150611
+143302	101618975	APOL2	-	-	-	-	-	apolipoprotein L, 2	protein-coding	-	-	-	-	20160402
 143302	101618976	SDHAF3	-	ACN9	-	Un	-	succinate dehydrogenase complex assembly factor 3	protein-coding	-	-	-	ACN9 homolog	20151115
 143302	101618977	LOC101618977	-	TXN	-	Un	-	thioredoxin	protein-coding	-	-	-	-	20151115
 143302	101618978	AK3	-	-	-	Un	-	adenylate kinase 3	protein-coding	-	-	-	-	20151115
@@ -841,7 +878,7 @@
 143302	101619080	HRH3	-	-	-	Un	-	histamine receptor H3	protein-coding	-	-	-	-	20151115
 143302	101619082	PLOD3	-	-	-	Un	-	procollagen-lysine, 2-oxoglutarate 5-dioxygenase 3	protein-coding	-	-	-	-	20151115
 143302	101619083	MRPL34	-	-	-	Un	-	mitochondrial ribosomal protein L34	protein-coding	-	-	-	-	20151115
-143302	101619084	LOC101619084	-	-	-	-	-	chromosome unknown open reading frame, human C11orf34	protein-coding	-	-	-	-	20150611
+143302	101619084	LOC101619084	-	-	-	-	-	chromosome unknown open reading frame, human C11orf34	protein-coding	-	-	-	-	20160402
 143302	101619085	MFRP	-	-	-	Un	-	membrane frizzled-related protein	protein-coding	-	-	-	-	20151115
 143302	101619086	ADAMTSL4	-	-	-	Un	-	ADAMTS-like 4	protein-coding	-	-	-	-	20151115
 143302	101619087	MAN1A2	-	-	-	Un	-	mannosidase, alpha, class 1A, member 2	protein-coding	-	-	-	-	20151115
@@ -965,7 +1002,7 @@
 143302	101619213	PABPC4	-	-	-	Un	-	poly(A) binding protein, cytoplasmic 4 (inducible form)	protein-coding	-	-	-	-	20151115
 143302	101619214	RPS8	-	-	-	Un	-	ribosomal protein S8	protein-coding	-	-	-	-	20151115
 143302	101619215	GJA9	-	-	-	Un	-	gap junction protein, alpha 9, 59kDa	protein-coding	-	-	-	-	20151115
-143302	101619216	SLA	-	-	-	-	-	Src-like-adaptor	protein-coding	-	-	-	-	20150611
+143302	101619216	SLA	-	-	-	-	-	Src-like-adaptor	protein-coding	-	-	-	-	20160402
 143302	101619217	FGF14	-	-	-	Un	-	fibroblast growth factor 14	protein-coding	-	-	-	-	20151115
 143302	101619218	SLC25A30	-	-	-	Un	-	solute carrier family 25, member 30	protein-coding	-	-	-	-	20151115
 143302	101619219	SIRT1	-	-	-	Un	-	sirtuin 1	protein-coding	-	-	-	-	20151115
@@ -987,11 +1024,11 @@
 143302	101619236	LOC101619236	-	-	-	Un	-	chromosome unknown open reading frame, human C20orf196	protein-coding	-	-	-	-	20151115
 143302	101619237	RALY	-	-	-	Un	-	RALY heterogeneous nuclear ribonucleoprotein	protein-coding	-	-	-	RNA binding protein, autoantigenic (hnRNP-associated with lethal yellow homolog (mouse))	20151115
 143302	101619238	STAU1	-	-	-	Un	-	staufen double-stranded RNA binding protein 1	protein-coding	-	-	-	staufen, RNA binding protein, homolog 1	20151115
-143302	101619239	LOC101619239	-	NRG4	-	Un	-	uncharacterized LOC101619239	protein-coding	-	-	-	neuregulin 4	20151115
+143302	101619239	LOC101619239	-	NRG4	-	Un	-	uncharacterized LOC101619239	ncRNA	-	-	-	neuregulin 4	20160412
 143302	101619240	KIAA0101	-	-	-	Un	-	KIAA0101 ortholog	protein-coding	-	-	-	-	20151115
 143302	101619241	RGS16	-	-	-	Un	-	regulator of G-protein signaling 16	protein-coding	-	-	-	-	20151115
 143302	101619242	WDR83OS	-	-	-	Un	-	WD repeat domain 83 opposite strand	protein-coding	-	-	-	-	20151115
-143302	101619243	ONECUT3	-	-	-	-	-	one cut homeobox 3	protein-coding	-	-	-	-	20150611
+143302	101619243	ONECUT3	-	-	-	-	-	one cut homeobox 3	protein-coding	-	-	-	-	20160402
 143302	101619244	ABCA4	-	-	-	Un	-	ATP-binding cassette, sub-family A (ABC1), member 4	protein-coding	-	-	-	ATP-binding cassette sub-family A member 4	20151115
 143302	101619245	BMP15	-	-	-	Un	-	bone morphogenetic protein 15	protein-coding	-	-	-	-	20151115
 143302	101619246	NECAB2	-	-	-	Un	-	N-terminal EF-hand calcium binding protein 2	protein-coding	-	-	-	-	20151115
@@ -1082,7 +1119,7 @@
 143302	101619341	SERINC1	-	-	-	Un	-	serine incorporator 1	protein-coding	-	-	-	-	20151115
 143302	101619342	LOC101619342	-	-	-	Un	-	protein HIRA	protein-coding	-	-	-	-	20151115
 143302	101619343	MRGPRG	-	-	-	Un	-	MAS-related GPR, member G	protein-coding	-	-	-	-	20151115
-143302	101619344	NCR3	-	-	-	-	-	natural cytotoxicity triggering receptor 3	protein-coding	-	-	-	-	20150611
+143302	101619344	NCR3	-	-	-	-	-	natural cytotoxicity triggering receptor 3	protein-coding	-	-	-	-	20160402
 143302	101619346	OSGEPL1	-	-	-	Un	-	O-sialoglycoprotein endopeptidase-like 1	protein-coding	-	-	-	-	20151115
 143302	101619347	DLX2	-	-	-	Un	-	distal-less homeobox 2	protein-coding	-	-	-	-	20151115
 143302	101619349	FAT4	-	-	-	Un	-	FAT atypical cadherin 4	protein-coding	-	-	-	FAT tumor suppressor homolog 4	20151115
@@ -1229,7 +1266,7 @@
 143302	101619504	TOB2	-	-	-	Un	-	transducer of ERBB2, 2	protein-coding	-	-	-	-	20151115
 143302	101619505	CADPS	-	-	-	Un	-	Ca++-dependent secretion activator	protein-coding	-	-	-	-	20151115
 143302	101619506	CELSR1	-	-	-	Un	-	cadherin, EGF LAG seven-pass G-type receptor 1	protein-coding	-	-	-	-	20151115
-143302	101619507	ARIH2OS	-	-	-	-	-	ariadne homolog 2 opposite strand	protein-coding	-	-	-	-	20150611
+143302	101619507	ARIH2OS	-	-	-	-	-	ariadne homolog 2 opposite strand	protein-coding	-	-	-	-	20160402
 143302	101619508	STEAP4	-	-	-	Un	-	STEAP family member 4	protein-coding	-	-	-	-	20151115
 143302	101619509	PTGES	-	-	-	Un	-	prostaglandin E synthase	protein-coding	-	-	-	-	20151115
 143302	101619510	LHX3	-	-	-	Un	-	LIM homeobox 3	protein-coding	-	-	-	-	20151115
@@ -1323,7 +1360,7 @@
 143302	101619606	KPNA4	-	-	-	Un	-	karyopherin alpha 4 (importin alpha 3)	protein-coding	-	-	-	-	20151115
 143302	101619608	LOC101619608	-	-	-	Un	-	olfactory receptor 491-like	protein-coding	-	-	-	-	20151115
 143302	101619609	RELA	-	-	-	Un	-	v-rel avian reticuloendotheliosis viral oncogene homolog A	protein-coding	-	-	-	v-rel reticuloendotheliosis viral oncogene homolog A	20151115
-143302	101619610	CD59	-	-	-	-	-	CD59 molecule, complement regulatory protein	protein-coding	-	-	-	-	20150611
+143302	101619610	CD59	-	-	-	-	-	CD59 molecule, complement regulatory protein	protein-coding	-	-	-	-	20160402
 143302	101619611	NAGS	-	-	-	Un	-	N-acetylglutamate synthase	protein-coding	-	-	-	-	20151115
 143302	101619612	HOXB5	-	-	-	Un	-	homeobox B5	protein-coding	-	-	-	-	20151115
 143302	101619613	PIGS	-	-	-	Un	-	phosphatidylinositol glycan anchor biosynthesis, class S	protein-coding	-	-	-	-	20151115
@@ -1353,7 +1390,7 @@
 143302	101619640	METTL2A	-	METTL2B	-	Un	-	methyltransferase like 2A	protein-coding	-	-	-	methyltransferase like 2B	20151115
 143302	101619641	LOC101619641	-	-	-	Un	-	cytochrome P450 2S1	protein-coding	-	-	-	-	20151115
 143302	101619642	RAB4B	-	-	-	Un	-	RAB4B, member RAS oncogene family	protein-coding	-	-	-	-	20151115
-143302	101619643	LOC101619643	-	GNG8	-	Un	-	uncharacterized LOC101619643	protein-coding	-	-	-	guanine nucleotide binding protein (G protein), gamma 8	20151115
+143302	101619643	LOC101619643	-	GNG8	-	Un	-	uncharacterized LOC101619643	ncRNA	-	-	-	guanine nucleotide binding protein (G protein), gamma 8	20160412
 143302	101619644	BRD2	-	-	-	Un	-	bromodomain containing 2	protein-coding	-	-	-	-	20151115
 143302	101619645	RIPK3	-	-	-	Un	-	receptor-interacting serine-threonine kinase 3	protein-coding	-	-	-	-	20151115
 143302	101619646	HTR1B	-	-	-	Un	-	5-hydroxytryptamine (serotonin) receptor 1B, G protein-coupled	protein-coding	-	-	-	-	20151115
@@ -1862,7 +1899,7 @@
 143302	101620184	DDIT3	-	-	-	Un	-	DNA-damage-inducible transcript 3	protein-coding	-	-	-	-	20151115
 143302	101620185	LOC101620185	-	-	-	Un	-	olfactory receptor 6C2-like	protein-coding	-	-	-	-	20151115
 143302	101620186	TMEM106C	-	-	-	Un	-	transmembrane protein 106C	protein-coding	-	-	-	-	20151115
-143302	101620187	MT3	-	-	-	-	-	metallothionein 3	protein-coding	-	-	-	-	20150611
+143302	101620187	MT3	-	-	-	-	-	metallothionein 3	protein-coding	-	-	-	-	20160402
 143302	101620188	BCAN	-	-	-	Un	-	brevican	protein-coding	-	-	-	-	20151115
 143302	101620189	LOC101620189	-	-	-	Un	-	zinc finger protein 350-like	protein-coding	-	-	-	-	20151115
 143302	101620191	LOC101620191	-	-	-	Un	-	neuroepithelial cell-transforming gene 1 protein-like	protein-coding	-	-	-	-	20151115
@@ -2066,9 +2103,9 @@
 143302	101620407	BMP2	-	-	-	Un	-	bone morphogenetic protein 2	protein-coding	-	-	-	-	20151115
 143302	101620408	SLC9A8	-	-	-	Un	-	solute carrier family 9, subfamily A (NHE8, cation proton antiporter 8), member 8	protein-coding	-	-	-	-	20151115
 143302	101620409	LOC101620409	-	-	-	Un	-	olfactory receptor 4F6-like	protein-coding	-	-	-	-	20151115
-143302	101620411	LOC101620411	-	-	-	-	-	chromosome unknown open reading frame, human C19orf25	protein-coding	-	-	-	UPF0449 protein C19orf25 homolog	20150611
+143302	101620411	LOC101620411	-	-	-	-	-	chromosome unknown open reading frame, human C19orf25	protein-coding	-	-	-	UPF0449 protein C19orf25 homolog	20160402
 143302	101620412	APLP2	-	-	-	Un	-	amyloid beta (A4) precursor-like protein 2	protein-coding	-	-	-	-	20151115
-143302	101620413	GNG7	-	-	-	-	-	guanine nucleotide binding protein (G protein), gamma 7	protein-coding	-	-	-	-	20150611
+143302	101620413	GNG7	-	-	-	-	-	guanine nucleotide binding protein (G protein), gamma 7	protein-coding	-	-	-	-	20160402
 143302	101620414	LOC101620414	-	-	-	Un	-	elongation factor 1-alpha pseudogene	pseudo	-	-	-	-	20151115
 143302	101620415	LOC101620415	-	-	-	Un	-	CD99 antigen-like	protein-coding	-	-	-	-	20151115
 143302	101620416	BCO1	-	BCMO1	-	Un	-	beta-carotene oxygenase 1	protein-coding	-	-	-	beta-carotene 15,15'-monooxygenase 1	20151115
@@ -2165,7 +2202,7 @@
 143302	101620514	TPD52L1	-	-	-	Un	-	tumor protein D52-like 1	protein-coding	-	-	-	-	20151115
 143302	101620515	HDDC2	-	-	-	Un	-	HD domain containing 2	protein-coding	-	-	-	-	20151115
 143302	101620516	VWA7	-	-	-	Un	-	von Willebrand factor A domain containing 7	protein-coding	-	-	-	-	20151115
-143302	101620517	SKI	-	-	-	-	-	v-ski sarcoma viral oncogene homolog (avian)	protein-coding	-	-	-	-	20150611
+143302	101620517	SKI	-	-	-	-	-	v-ski sarcoma viral oncogene homolog (avian)	protein-coding	-	-	-	-	20160402
 143302	101620518	STK25	-	-	-	Un	-	serine/threonine kinase 25	protein-coding	-	-	-	-	20151115
 143302	101620519	MYO3B	-	-	-	Un	-	myosin IIIB	protein-coding	-	-	-	-	20151115
 143302	101620520	PPM1L	-	-	-	Un	-	protein phosphatase, Mg2+/Mn2+ dependent, 1L	protein-coding	-	-	-	-	20151115
@@ -2246,7 +2283,7 @@
 143302	101620599	PRDM15	-	-	-	Un	-	PR domain containing 15	protein-coding	-	-	-	-	20151115
 143302	101620600	POC1B	-	GALNT4	-	Un	-	POC1 centriolar protein B	protein-coding	-	-	-	POC1 centriolar protein homolog B|UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 4 (GalNAc-T4)	20151115
 143302	101620601	RAD54L2	-	-	-	Un	-	RAD54-like 2 (S. cerevisiae)	protein-coding	-	-	-	-	20151115
-143302	101620602	LOC101620602	-	TMA7	-	Un	-	uncharacterized LOC101620602	protein-coding	-	-	-	translation machinery associated 7 homolog	20151115
+143302	101620602	LOC101620602	-	TMA7	-	Un	-	uncharacterized LOC101620602	ncRNA	-	-	-	translation machinery associated 7 homolog	20160412
 143302	101620603	BTBD11	-	-	-	Un	-	BTB (POZ) domain containing 11	protein-coding	-	-	-	-	20151115
 143302	101620604	UMAD1	-	-	-	Un	-	UBAP1-MVB12-associated (UMA) domain containing 1	protein-coding	-	-	-	-	20151115
 143302	101620605	FAM73B	-	-	-	Un	-	family with sequence similarity 73, member B	protein-coding	-	-	-	-	20151115
@@ -2333,7 +2370,7 @@
 143302	101620693	SLC18A3	-	-	-	Un	-	solute carrier family 18 (vesicular acetylcholine transporter), member 3	protein-coding	-	-	-	solute carrier family 18 (vesicular acetylcholine), member 3	20151115
 143302	101620694	ZSWIM8	-	-	-	Un	-	zinc finger, SWIM-type containing 8	protein-coding	-	-	-	-	20151115
 143302	101620696	COPS4	-	-	-	Un	-	COP9 signalosome subunit 4	protein-coding	-	-	-	-	20151115
-143302	101620697	ZAR1	-	-	-	Un	-	zygote arrest 1	protein-coding	-	-	-	-	20151115
+143302	101620697	ZAR1	-	-	-	Un	-	zygote arrest 1	protein-coding	-	-	-	-	20160130
 143302	101620698	FOXA1	-	-	-	Un	-	forkhead box A1	protein-coding	-	-	-	-	20151115
 143302	101620699	RCOR1	-	-	-	Un	-	REST corepressor 1	protein-coding	-	-	-	-	20151115
 143302	101620700	LOC101620700	-	CP	-	Un	-	ceruloplasmin	protein-coding	-	-	-	ceruloplasmin (ferroxidase)	20151115
@@ -2601,7 +2638,7 @@
 143302	101620977	INO80D	-	-	-	Un	-	INO80 complex subunit D	protein-coding	-	-	-	-	20151115
 143302	101620978	CFAP74	-	-	-	Un	-	cilia and flagella associated protein 74	protein-coding	-	-	-	-	20151115
 143302	101620980	LRP2	-	-	-	Un	-	low density lipoprotein receptor-related protein 2	protein-coding	-	-	-	-	20151115
-143302	101620981	SPTSSB	-	-	-	-	-	serine palmitoyltransferase, small subunit B	protein-coding	-	-	-	-	20150611
+143302	101620981	SPTSSB	-	-	-	-	-	serine palmitoyltransferase, small subunit B	protein-coding	-	-	-	-	20160402
 143302	101620982	LOC101620982	-	HTR3E	-	Un	-	5-hydroxytryptamine receptor 3E	protein-coding	-	-	-	5-hydroxytryptamine (serotonin) receptor 3E, ionotropic	20151115
 143302	101620983	LOC101620983	-	-	-	Un	-	cytochrome P450 4A11-like	protein-coding	-	-	-	-	20151115
 143302	101620984	NAA50	-	-	-	Un	-	N(alpha)-acetyltransferase 50, NatE catalytic subunit	protein-coding	-	-	-	-	20151115
@@ -2658,7 +2695,7 @@
 143302	101621038	VANGL1	-	-	-	Un	-	VANGL planar cell polarity protein 1	protein-coding	-	-	-	-	20151115
 143302	101621039	LRRC8C	-	-	-	Un	-	leucine rich repeat containing 8 family, member C	protein-coding	-	-	-	-	20151115
 143302	101621040	MAOA	-	-	-	Un	-	monoamine oxidase A	protein-coding	-	-	-	-	20151115
-143302	101621041	LOC101621041	-	-	-	-	-	chromosome unknown open reading frame, human CXorf27	protein-coding	-	-	-	-	20150611
+143302	101621041	LOC101621041	-	-	-	-	-	chromosome unknown open reading frame, human CXorf27	protein-coding	-	-	-	-	20160402
 143302	101621042	PRSS54	-	-	-	Un	-	protease, serine, 54	protein-coding	-	-	-	-	20151115
 143302	101621043	CDH11	-	-	-	Un	-	cadherin 11, type 2, OB-cadherin (osteoblast)	protein-coding	-	-	-	-	20151115
 143302	101621044	EMID1	-	-	-	Un	-	EMI domain containing 1	protein-coding	-	-	-	-	20151115
@@ -2847,7 +2884,7 @@
 143302	101621247	FAS	-	-	-	Un	-	Fas cell surface death receptor	protein-coding	-	-	-	Fas (TNF receptor superfamily, member 6)	20151115
 143302	101621249	SEL1L	-	-	-	Un	-	sel-1 suppressor of lin-12-like (C. elegans)	protein-coding	-	-	-	-	20151115
 143302	101621250	LOC101621250	-	-	-	Un	-	chromosome unknown open reading frame, human C14orf37	protein-coding	-	-	-	-	20151115
-143302	101621251	LOC101621251	-	-	-	-	-	chromosome unknown open reading frame, human C8orf86	protein-coding	-	-	-	-	20150611
+143302	101621251	LOC101621251	-	-	-	-	-	chromosome unknown open reading frame, human C8orf86	protein-coding	-	-	-	-	20160402
 143302	101621252	SAAL1	-	-	-	Un	-	serum amyloid A-like 1	protein-coding	-	-	-	-	20151115
 143302	101621253	LOC101621253	-	-	-	Un	-	olfactory receptor 226	protein-coding	-	-	-	-	20151115
 143302	101621254	FZD4	-	-	-	Un	-	frizzled class receptor 4	protein-coding	-	-	-	frizzled family receptor 4	20151115
@@ -3123,7 +3160,7 @@
 143302	101621552	SLC22A13	-	-	-	Un	-	solute carrier family 22 (organic anion/urate transporter), member 13	protein-coding	-	-	-	solute carrier family 22 (organic anion transporter), member 13	20151115
 143302	101621553	SLC41A2	-	-	-	Un	-	solute carrier family 41 (magnesium transporter), member 2	protein-coding	-	-	-	solute carrier family 41, member 2	20151115
 143302	101621554	CDK14	-	-	-	Un	-	cyclin-dependent kinase 14	protein-coding	-	-	-	-	20151115
-143302	101621555	TOMM7	-	-	-	-	-	translocase of outer mitochondrial membrane 7 homolog (yeast)	protein-coding	-	-	-	mitochondrial import receptor subunit TOM7 homolog	20150611
+143302	101621555	TOMM7	-	-	-	-	-	translocase of outer mitochondrial membrane 7 homolog (yeast)	protein-coding	-	-	-	mitochondrial import receptor subunit TOM7 homolog	20160402
 143302	101621556	THSD7A	-	-	-	Un	-	thrombospondin, type I, domain containing 7A	protein-coding	-	-	-	-	20151115
 143302	101621558	CNTFR	-	-	-	Un	-	ciliary neurotrophic factor receptor	protein-coding	-	-	-	-	20151115
 143302	101621559	FAM129B	-	-	-	Un	-	family with sequence similarity 129, member B	protein-coding	-	-	-	-	20151115
@@ -3444,10 +3481,10 @@
 143302	101621915	FUT1	-	-	-	Un	-	fucosyltransferase 1 (galactoside 2-alpha-L-fucosyltransferase, H blood group)	protein-coding	-	-	-	-	20151115
 143302	101621916	EFNB1	-	-	-	Un	-	ephrin-B1	protein-coding	-	-	-	-	20151115
 143302	101621917	FOXP4	-	-	-	Un	-	forkhead box P4	protein-coding	-	-	-	-	20151115
-143302	101621918	RNASE9	-	-	-	-	-	ribonuclease, RNase A family, 9 (non-active)	protein-coding	-	-	-	-	20150611
+143302	101621918	RNASE9	-	-	-	-	-	ribonuclease, RNase A family, 9 (non-active)	protein-coding	-	-	-	-	20160402
 143302	101621919	RSPO3	-	-	-	Un	-	R-spondin 3	protein-coding	-	-	-	-	20151115
 143302	101621920	LOC101621920	-	-	-	Un	-	protein LEG1 homolog	protein-coding	-	-	-	-	20151115
-143302	101621921	INS	-	-	-	-	-	insulin	protein-coding	-	-	-	-	20150611
+143302	101621921	INS	-	-	-	-	-	insulin	protein-coding	-	-	-	-	20160402
 143302	101621922	TNXB	-	-	-	Un	-	tenascin XB	protein-coding	-	-	-	-	20151115
 143302	101621923	ATG9A	-	-	-	Un	-	autophagy related 9A	protein-coding	-	-	-	-	20151115
 143302	101621924	GNB1	-	-	-	Un	-	guanine nucleotide binding protein (G protein), beta polypeptide 1	protein-coding	-	-	-	-	20151115
@@ -3848,7 +3885,7 @@
 143302	101622354	DDX10	-	-	-	Un	-	DEAD (Asp-Glu-Ala-Asp) box polypeptide 10	protein-coding	-	-	-	-	20151115
 143302	101622355	LOC101622355	-	-	-	Un	-	neuroblastoma breakpoint family member 6-like protein	protein-coding	-	-	-	-	20151115
 143302	101622356	NRAS	-	-	-	Un	-	neuroblastoma RAS viral (v-ras) oncogene homolog	protein-coding	-	-	-	-	20151115
-143302	101622357	TMEM167B	-	-	-	-	-	transmembrane protein 167B	protein-coding	-	-	-	-	20150611
+143302	101622357	TMEM167B	-	-	-	-	-	transmembrane protein 167B	protein-coding	-	-	-	-	20160402
 143302	101622358	AP1S2	-	-	-	Un	-	adaptor-related protein complex 1, sigma 2 subunit	protein-coding	-	-	-	-	20151115
 143302	101622359	ZNF25	-	-	-	Un	-	zinc finger protein 25	protein-coding	-	-	-	-	20151115
 143302	101622360	PEBP1	-	-	-	Un	-	phosphatidylethanolamine binding protein 1	protein-coding	-	-	-	-	20151115
@@ -3965,7 +4002,7 @@
 143302	101622485	YBX1	-	-	-	Un	-	Y box binding protein 1	protein-coding	-	-	-	-	20151115
 143302	101622486	CAB39L	-	-	-	Un	-	calcium binding protein 39-like	protein-coding	-	-	-	-	20151115
 143302	101622487	IKZF5	-	-	-	Un	-	IKAROS family zinc finger 5 (Pegasus)	protein-coding	-	-	-	-	20151115
-143302	101622488	FRAT2	-	-	-	-	-	frequently rearranged in advanced T-cell lymphomas 2	protein-coding	-	-	-	-	20150611
+143302	101622488	FRAT2	-	-	-	-	-	frequently rearranged in advanced T-cell lymphomas 2	protein-coding	-	-	-	-	20160402
 143302	101622489	GALNT16	-	-	-	Un	-	polypeptide N-acetylgalactosaminyltransferase 16	protein-coding	-	-	-	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 16	20151115
 143302	101622490	ADAM20	-	-	-	Un	-	ADAM metallopeptidase domain 20	protein-coding	-	-	-	-	20151115
 143302	101622491	NRG1	-	-	-	Un	-	neuregulin 1	protein-coding	-	-	-	-	20151115
@@ -4103,7 +4140,7 @@
 143302	101622633	NCAM2	-	-	-	Un	-	neural cell adhesion molecule 2	protein-coding	-	-	-	-	20151115
 143302	101622634	LOC101622634	-	-	-	Un	-	poly [ADP-ribose] polymerase 14-like	protein-coding	-	-	-	-	20151115
 143302	101622635	LOC101622635	-	-	-	Un	-	cyclin-dependent kinase 1-like	pseudo	-	-	-	-	20151115
-143302	101622636	RAMP3	-	-	-	-	-	receptor (G protein-coupled) activity modifying protein 3	protein-coding	-	-	-	-	20150611
+143302	101622636	RAMP3	-	-	-	-	-	receptor (G protein-coupled) activity modifying protein 3	protein-coding	-	-	-	-	20160402
 143302	101622637	STARD3NL	-	-	-	Un	-	STARD3 N-terminal like	protein-coding	-	-	-	MLN64 N-terminal domain homolog	20151115
 143302	101622638	FOXP2	-	-	-	Un	-	forkhead box P2	protein-coding	-	-	-	-	20151115
 143302	101622639	TSGA13	-	-	-	Un	-	testis specific, 13	protein-coding	-	-	-	-	20151115
@@ -4142,7 +4179,7 @@
 143302	101622672	PSME4	-	-	-	Un	-	proteasome (prosome, macropain) activator subunit 4	protein-coding	-	-	-	-	20151115
 143302	101622673	LOC101622673	-	-	-	Un	-	mitochondrial import inner membrane translocase subunit TIM14	protein-coding	-	-	-	-	20151115
 143302	101622674	PDLIM4	-	-	-	Un	-	PDZ and LIM domain 4	protein-coding	-	-	-	-	20151115
-143302	101622675	WFDC9	-	-	-	-	-	WAP four-disulfide core domain 9	protein-coding	-	-	-	-	20150611
+143302	101622675	WFDC9	-	-	-	-	-	WAP four-disulfide core domain 9	protein-coding	-	-	-	-	20160402
 143302	101622676	HCN4	-	-	-	Un	-	hyperpolarization activated cyclic nucleotide gated potassium channel 4	protein-coding	-	-	-	hyperpolarization activated cyclic nucleotide-gated potassium channel 4	20151115
 143302	101622677	LOC101622677	-	-	-	Un	-	olfactory receptor 1361-like	protein-coding	-	-	-	-	20151115
 143302	101622678	ATP1A2	-	-	-	Un	-	ATPase, Na+/K+ transporting, alpha 2 polypeptide	protein-coding	-	-	-	-	20151115
@@ -4547,7 +4584,7 @@
 143302	101623111	ZNF521	-	-	-	Un	-	zinc finger protein 521	protein-coding	-	-	-	-	20151115
 143302	101623112	ARL4D	-	-	-	Un	-	ADP-ribosylation factor-like 4D	protein-coding	-	-	-	-	20151115
 143302	101623113	SMARCE1	-	-	-	Un	-	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily e, member 1	protein-coding	-	-	-	-	20151115
-143302	101623114	GNGT2	-	-	-	-	-	guanine nucleotide binding protein (G protein), gamma transducing activity polypeptide 2	protein-coding	-	-	-	-	20150611
+143302	101623114	GNGT2	-	-	-	-	-	guanine nucleotide binding protein (G protein), gamma transducing activity polypeptide 2	protein-coding	-	-	-	-	20160402
 143302	101623115	USP43	-	-	-	Un	-	ubiquitin specific peptidase 43	protein-coding	-	-	-	-	20151115
 143302	101623116	MNT	-	-	-	Un	-	MAX network transcriptional repressor	protein-coding	-	-	-	MNT, MAX dimerization protein	20151115
 143302	101623117	CRLF3	-	-	-	Un	-	cytokine receptor-like factor 3	protein-coding	-	-	-	-	20151115
@@ -4767,7 +4804,7 @@
 143302	101623349	ZIC3	-	-	-	Un	-	Zic family member 3	protein-coding	-	-	-	-	20151115
 143302	101623350	LOC101623350	-	-	-	Un	-	Ig kappa chain V-III region VH-like	other	-	-	-	-	20151115
 143302	101623351	MERTK	-	-	-	Un	-	MER proto-oncogene, tyrosine kinase	protein-coding	-	-	-	c-mer proto-oncogene tyrosine kinase	20151115
-143302	101623352	SPINT4	-	-	-	-	-	serine peptidase inhibitor, Kunitz type 4	protein-coding	-	-	-	-	20150611
+143302	101623352	SPINT4	-	-	-	-	-	serine peptidase inhibitor, Kunitz type 4	protein-coding	-	-	-	-	20160402
 143302	101623354	LOC101623354	-	-	-	Un	-	olfactory receptor 143-like	protein-coding	-	-	-	-	20151115
 143302	101623355	SPC24	-	-	-	Un	-	SPC24, NDC80 kinetochore complex component	protein-coding	-	-	-	SPC24, NDC80 kinetochore complex component, homolog	20151115
 143302	101623356	TRIP10	-	-	-	Un	-	thyroid hormone receptor interactor 10	protein-coding	-	-	-	-	20151115
@@ -4787,7 +4824,7 @@
 143302	101623370	RHBG	-	-	-	Un	-	Rh family, B glycoprotein	protein-coding	-	-	-	-	20151115
 143302	101623371	LOC101623371	-	-	-	Un	-	ETS translocation variant 3-like protein	protein-coding	-	-	-	-	20151115
 143302	101623372	CD79A	-	-	-	Un	-	CD79a molecule, immunoglobulin-associated alpha	protein-coding	-	-	-	-	20151115
-143302	101623374	DEFB114	-	-	-	-	-	defensin, beta 114	protein-coding	-	-	-	-	20150611
+143302	101623374	DEFB114	-	-	-	-	-	defensin, beta 114	protein-coding	-	-	-	-	20160402
 143302	101623375	ME1	-	-	-	Un	-	malic enzyme 1, NADP(+)-dependent, cytosolic	protein-coding	-	-	-	-	20151115
 143302	101623376	LOC101623376	-	-	-	Un	-	putative olfactory receptor 2I1	protein-coding	-	-	-	-	20151115
 143302	101623378	CEP162	-	-	-	Un	-	centrosomal protein 162kDa	protein-coding	-	-	-	protein QN1 homolog	20151115
@@ -4926,7 +4963,7 @@
 143302	101623519	NAPA	-	-	-	Un	-	N-ethylmaleimide-sensitive factor attachment protein, alpha	protein-coding	-	-	-	-	20151115
 143302	101623520	TRPV5	-	-	-	Un	-	transient receptor potential cation channel, subfamily V, member 5	protein-coding	-	-	-	-	20151115
 143302	101623521	OTUD6A	-	-	-	Un	-	OTU deubiquitinase 6A	protein-coding	-	-	-	OTU domain containing 6A	20151115
-143302	101623522	LOC101623522	-	TOMM6	-	Un	-	uncharacterized LOC101623522	protein-coding	-	-	-	mitochondrial import receptor subunit TOM6 homolog|translocase of outer mitochondrial membrane 6 homolog	20151115
+143302	101623522	LOC101623522	-	TOMM6	-	Un	-	uncharacterized LOC101623522	ncRNA	-	-	-	mitochondrial import receptor subunit TOM6 homolog|translocase of outer mitochondrial membrane 6 homolog	20160412
 143302	101623523	LOC101623523	-	-	-	Un	-	olfactory receptor 11G2	protein-coding	-	-	-	-	20151115
 143302	101623524	LAMA2	-	-	-	Un	-	laminin, alpha 2	protein-coding	-	-	-	-	20151115
 143302	101623525	ARMT1	-	-	-	Un	-	acidic residue methyltransferase 1	protein-coding	-	-	-	UPF0364 protein C6orf211 homolog	20151115
@@ -5129,7 +5166,7 @@
 143302	101623737	CD70	-	-	-	Un	-	CD70 molecule	protein-coding	-	-	-	-	20151115
 143302	101623738	UPK2	-	-	-	Un	-	uroplakin 2	protein-coding	-	-	-	-	20151115
 143302	101623739	C3	-	-	-	Un	-	complement component 3	protein-coding	-	-	-	-	20151115
-143302	101623740	NUDT17	-	-	-	-	-	nudix (nucleoside diphosphate linked moiety X)-type motif 17	protein-coding	-	-	-	-	20150611
+143302	101623740	NUDT17	-	-	-	-	-	nudix (nucleoside diphosphate linked moiety X)-type motif 17	protein-coding	-	-	-	-	20160402
 143302	101623741	SLC25A24	-	-	-	Un	-	solute carrier family 25 (mitochondrial carrier; phosphate carrier), member 24	protein-coding	-	-	-	-	20151115
 143302	101623742	ZDHHC7	-	-	-	Un	-	zinc finger, DHHC-type containing 7	protein-coding	-	-	-	-	20151115
 143302	101623743	FBXO17	-	-	-	Un	-	F-box protein 17	protein-coding	-	-	-	-	20151115
@@ -5161,7 +5198,7 @@
 143302	101623772	DDX56	-	-	-	Un	-	DEAD (Asp-Glu-Ala-Asp) box helicase 56	protein-coding	-	-	-	-	20151115
 143302	101623773	CDK6	-	-	-	Un	-	cyclin-dependent kinase 6	protein-coding	-	-	-	-	20151115
 143302	101623775	SPTAN1	-	-	-	Un	-	spectrin, alpha, non-erythrocytic 1	protein-coding	-	-	-	-	20151115
-143302	101623776	TOMM5	-	-	-	-	-	translocase of outer mitochondrial membrane 5 homolog (yeast)	protein-coding	-	-	-	mitochondrial import receptor subunit TOM5 homolog	20150611
+143302	101623776	TOMM5	-	-	-	-	-	translocase of outer mitochondrial membrane 5 homolog (yeast)	protein-coding	-	-	-	mitochondrial import receptor subunit TOM5 homolog	20160402
 143302	101623777	SFN	-	-	-	Un	-	stratifin	protein-coding	-	-	-	-	20151115
 143302	101623778	AK2	-	-	-	Un	-	adenylate kinase 2	protein-coding	-	-	-	-	20151115
 143302	101623779	NFYC	-	-	-	Un	-	nuclear transcription factor Y, gamma	protein-coding	-	-	-	-	20151115
@@ -5290,7 +5327,7 @@
 143302	101623916	DAXX	-	-	-	Un	-	death-domain associated protein	protein-coding	-	-	-	-	20151115
 143302	101623917	ACIN1	-	-	-	Un	-	apoptotic chromatin condensation inducer 1	protein-coding	-	-	-	-	20151115
 143302	101623918	L3MBTL3	-	-	-	Un	-	l(3)mbt-like 3 (Drosophila)	protein-coding	-	-	-	-	20151115
-143302	101623919	LOC101623919	-	-	-	-	-	chromosome unknown open reading frame, human C6orf226	protein-coding	-	-	-	-	20150611
+143302	101623919	LOC101623919	-	-	-	-	-	chromosome unknown open reading frame, human C6orf226	protein-coding	-	-	-	-	20160402
 143302	101623920	MYLK4	-	-	-	Un	-	myosin light chain kinase family, member 4	protein-coding	-	-	-	-	20151115
 143302	101623921	PHOSPHO2	-	-	-	Un	-	phosphatase, orphan 2	protein-coding	-	-	-	-	20151115
 143302	101623922	RIF1	-	-	-	Un	-	replication timing regulatory factor 1	protein-coding	-	-	-	RAP1 interacting factor homolog	20151115
@@ -5362,7 +5399,7 @@
 143302	101623993	IHH	-	-	-	Un	-	indian hedgehog	protein-coding	-	-	-	-	20151115
 143302	101623994	LOC101623994	-	-	-	Un	-	cytochrome P450 20A1	protein-coding	-	-	-	-	20151115
 143302	101623997	LOC101623997	-	-	-	Un	-	U2 small nuclear ribonucleoprotein B'' pseudogene	pseudo	-	-	-	-	20151115
-143302	101623998	RFNG	-	-	-	-	-	RFNG O-fucosylpeptide 3-beta-N-acetylglucosaminyltransferase	protein-coding	-	-	-	-	20150611
+143302	101623998	RFNG	-	-	-	-	-	RFNG O-fucosylpeptide 3-beta-N-acetylglucosaminyltransferase	protein-coding	-	-	-	-	20160402
 143302	101623999	KIAA0226	-	-	-	Un	-	KIAA0226 ortholog	protein-coding	-	-	-	-	20151115
 143302	101624000	ILDR1	-	-	-	Un	-	immunoglobulin-like domain containing receptor 1	protein-coding	-	-	-	-	20151115
 143302	101624001	LOC101624001	-	-	-	Un	-	40S ribosomal protein S12 pseudogene	pseudo	-	-	-	-	20151115
@@ -5434,7 +5471,7 @@
 143302	101624070	F13A1	-	-	-	Un	-	coagulation factor XIII, A1 polypeptide	protein-coding	-	-	-	-	20151115
 143302	101624071	LOC101624071	-	-	-	Un	-	syntaxin-7 pseudogene	pseudo	-	-	-	-	20151115
 143302	101624072	LTA	-	-	-	Un	-	lymphotoxin alpha	protein-coding	-	-	-	lymphotoxin alpha (TNF superfamily, member 1)	20151115
-143302	101624073	SMIM9	-	-	-	-	-	small integral membrane protein 9	protein-coding	-	-	-	-	20150611
+143302	101624073	SMIM9	-	-	-	-	-	small integral membrane protein 9	protein-coding	-	-	-	-	20160402
 143302	101624074	NCKAP1	-	-	-	Un	-	NCK-associated protein 1	protein-coding	-	-	-	-	20151115
 143302	101624075	DHX16	-	-	-	Un	-	DEAH (Asp-Glu-Ala-His) box polypeptide 16	protein-coding	-	-	-	-	20151115
 143302	101624076	PGBD1	-	-	-	Un	-	piggyBac transposable element derived 1	protein-coding	-	-	-	-	20151115
@@ -5918,7 +5955,7 @@
 143302	101624602	EPHB6	-	-	-	Un	-	EPH receptor B6	protein-coding	-	-	-	-	20151115
 143302	101624603	TBX18	-	-	-	Un	-	T-box 18	protein-coding	-	-	-	-	20151115
 143302	101624604	PTK7	-	-	-	Un	-	protein tyrosine kinase 7 (inactive)	protein-coding	-	-	-	-	20151115
-143302	101624606	HUS1B	-	-	-	-	-	HUS1 checkpoint homolog b (S. pombe)	protein-coding	-	-	-	-	20150611
+143302	101624606	HUS1B	-	-	-	-	-	HUS1 checkpoint homolog b (S. pombe)	protein-coding	-	-	-	-	20160402
 143302	101624607	FASTKD1	-	-	-	Un	-	FAST kinase domains 1	protein-coding	-	-	-	-	20151115
 143302	101624608	SLC27A5	-	-	-	Un	-	solute carrier family 27 (fatty acid transporter), member 5	protein-coding	-	-	-	-	20151115
 143302	101624609	LOC101624609	-	-	-	Un	-	piwi-like protein 4	protein-coding	-	-	-	-	20151115
@@ -6474,7 +6511,7 @@
 143302	101625200	RNF185	-	-	-	Un	-	ring finger protein 185	protein-coding	-	-	-	-	20151115
 143302	101625201	WDPCP	-	-	-	Un	-	WD repeat containing planar cell polarity effector	protein-coding	-	-	-	WD repeat-containing and planar cell polarity effector protein fritz homolog	20151115
 143302	101625202	NAGK	-	-	-	Un	-	N-acetylglucosamine kinase	protein-coding	-	-	-	-	20151115
-143302	101625203	PRM2	-	-	-	-	-	protamine 2	protein-coding	-	-	-	-	20150611
+143302	101625203	PRM2	-	-	-	-	-	protamine 2	protein-coding	-	-	-	-	20160402
 143302	101625204	LSM3	-	-	-	Un	-	LSM3 homolog, U6 small nuclear RNA associated (S. cerevisiae)	protein-coding	-	-	-	-	20151115
 143302	101625205	BIN2	-	-	-	Un	-	bridging integrator 2	protein-coding	-	-	-	-	20151115
 143302	101625206	LOC101625206	-	-	-	Un	-	pre-mRNA-processing factor 40 homolog B	protein-coding	-	-	-	-	20151115
@@ -6762,7 +6799,7 @@
 143302	101625510	RITA1	-	-	-	Un	-	RBPJ interacting and tubulin associated 1	protein-coding	-	-	-	-	20151115
 143302	101625511	LOC101625511	-	-	-	Un	-	protein DGCR6 pseudogene	pseudo	-	-	-	-	20151115
 143302	101625512	PTCD3	-	-	-	Un	-	pentatricopeptide repeat domain 3	protein-coding	-	-	-	-	20151115
-143302	101625513	CTF1	-	-	-	-	-	cardiotrophin 1	protein-coding	-	-	-	-	20150611
+143302	101625513	CTF1	-	-	-	-	-	cardiotrophin 1	protein-coding	-	-	-	-	20160402
 143302	101625515	HOXC10	-	-	-	Un	-	homeobox C10	protein-coding	-	-	-	-	20151115
 143302	101625516	MRPL51	-	-	-	Un	-	mitochondrial ribosomal protein L51	protein-coding	-	-	-	-	20151115
 143302	101625517	FLT4	-	-	-	Un	-	fms-related tyrosine kinase 4	protein-coding	-	-	-	-	20151115
@@ -6961,7 +6998,7 @@
 143302	101625722	LOC101625722	-	-	-	Un	-	cytochrome b-c1 complex subunit 8	protein-coding	-	-	-	-	20151115
 143302	101625723	SUN5	-	-	-	Un	-	Sad1 and UNC84 domain containing 5	protein-coding	-	-	-	-	20151115
 143302	101625724	SECISBP2L	-	-	-	Un	-	SECIS binding protein 2-like	protein-coding	-	-	-	-	20151115
-143302	101625725	IER5	-	-	-	-	-	immediate early response 5	protein-coding	-	-	-	-	20150611
+143302	101625725	IER5	-	-	-	-	-	immediate early response 5	protein-coding	-	-	-	-	20160402
 143302	101625726	MYOC	-	-	-	Un	-	myocilin, trabecular meshwork inducible glucocorticoid response	protein-coding	-	-	-	-	20151115
 143302	101625728	PRSS57	-	-	-	Un	-	protease, serine, 57	protein-coding	-	-	-	-	20151115
 143302	101625729	HYLS1	-	-	-	Un	-	hydrolethalus syndrome 1	protein-coding	-	-	-	hydrolethalus syndrome protein 1 homolog	20151115
@@ -6983,7 +7020,7 @@
 143302	101625745	HOXC11	-	-	-	Un	-	homeobox C11	protein-coding	-	-	-	-	20151115
 143302	101625746	NCAPD2	-	-	-	Un	-	non-SMC condensin I complex, subunit D2	protein-coding	-	-	-	-	20151115
 143302	101625747	IRF8	-	-	-	Un	-	interferon regulatory factor 8	protein-coding	-	-	-	-	20151115
-143302	101625748	SCGB3A1	-	-	-	-	-	secretoglobin, family 3A, member 1	protein-coding	-	-	-	-	20150611
+143302	101625748	SCGB3A1	-	-	-	-	-	secretoglobin, family 3A, member 1	protein-coding	-	-	-	-	20160402
 143302	101625749	LOC101625749	-	-	-	Un	-	chromosome unknown open reading frame, human C1orf43	protein-coding	-	-	-	-	20151115
 143302	101625751	FAM131B	-	-	-	Un	-	family with sequence similarity 131, member B	protein-coding	-	-	-	-	20151115
 143302	101625752	GUCA1A	-	-	-	Un	-	guanylate cyclase activator 1A (retina)	protein-coding	-	-	-	-	20151115
@@ -7563,8 +7600,8 @@
 143302	101626362	LOC101626362	-	-	-	Un	-	chromosome unknown open reading frame, human C12orf71	protein-coding	-	-	-	-	20151115
 143302	101626363	ITPR2	-	-	-	Un	-	inositol 1,4,5-trisphosphate receptor, type 2	protein-coding	-	-	-	-	20151115
 143302	101626364	STMND1	-	-	-	Un	-	stathmin domain containing 1	protein-coding	-	-	-	-	20151115
-143302	101626365	CPSF4L	-	-	-	-	-	cleavage and polyadenylation specific factor 4-like	protein-coding	-	-	-	-	20150611
-143302	101626366	ZNF227	-	-	-	-	-	zinc finger protein 227	protein-coding	-	-	-	-	20150611
+143302	101626365	CPSF4L	-	-	-	-	-	cleavage and polyadenylation specific factor 4-like	protein-coding	-	-	-	-	20160402
+143302	101626366	ZNF227	-	-	-	-	-	zinc finger protein 227	protein-coding	-	-	-	-	20160402
 143302	101626367	TMEM145	-	-	-	Un	-	transmembrane protein 145	protein-coding	-	-	-	-	20151115
 143302	101626368	TRERF1	-	-	-	Un	-	transcriptional regulating factor 1	protein-coding	-	-	-	-	20151115
 143302	101626370	LOC101626370	-	-	-	Un	-	olfactory receptor 5V1	protein-coding	-	-	-	-	20151115
@@ -7704,7 +7741,7 @@
 143302	101626517	RFTN1	-	-	-	Un	-	raftlin, lipid raft linker 1	protein-coding	-	-	-	-	20151115
 143302	101626518	TMEM52B	-	-	-	Un	-	transmembrane protein 52B	protein-coding	-	-	-	-	20151115
 143302	101626519	GALNT2	-	-	-	Un	-	polypeptide N-acetylgalactosaminyltransferase 2	protein-coding	-	-	-	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 2 (GalNAc-T2)	20151115
-143302	101626520	MRPL9	-	-	-	-	-	mitochondrial ribosomal protein L9	protein-coding	-	-	-	-	20150611
+143302	101626520	MRPL9	-	-	-	-	-	mitochondrial ribosomal protein L9	protein-coding	-	-	-	-	20160402
 143302	101626521	FCGRT	-	-	-	Un	-	Fc fragment of IgG, receptor, transporter, alpha	protein-coding	-	-	-	-	20151115
 143302	101626522	LOC101626522	-	-	-	Un	-	olfactory receptor 2A2-like	protein-coding	-	-	-	-	20151115
 143302	101626523	MED12	-	-	-	Un	-	mediator complex subunit 12	protein-coding	-	-	-	-	20151115
@@ -7940,7 +7977,7 @@
 143302	101626775	ATP6V0A4	-	-	-	Un	-	ATPase, H+ transporting, lysosomal V0 subunit a4	protein-coding	-	-	-	-	20151115
 143302	101626776	PTGES2	-	-	-	Un	-	prostaglandin E synthase 2	protein-coding	-	-	-	-	20151115
 143302	101626777	TMEM2	-	-	-	Un	-	transmembrane protein 2	protein-coding	-	-	-	-	20151115
-143302	101626779	SLC12A7	-	-	-	-	-	solute carrier family 12 (potassium/chloride transporters), member 7	protein-coding	-	-	-	-	20150611
+143302	101626779	SLC12A7	-	-	-	-	-	solute carrier family 12 (potassium/chloride transporters), member 7	protein-coding	-	-	-	-	20160402
 143302	101626780	LOC101626780	-	-	-	Un	-	60S ribosomal protein L36a-like	pseudo	-	-	-	-	20151115
 143302	101626781	CDC42	-	-	-	Un	-	cell division cycle 42	protein-coding	-	-	-	cell division control protein 42 homolog	20151115
 143302	101626782	SMIM12	-	-	-	Un	-	small integral membrane protein 12	protein-coding	-	-	-	-	20151115
@@ -8035,7 +8072,7 @@
 143302	101626880	MTM1	-	-	-	Un	-	myotubularin 1	protein-coding	-	-	-	-	20151115
 143302	101626881	PLAC1	-	-	-	Un	-	placenta-specific 1	protein-coding	-	-	-	-	20151115
 143302	101626882	LOC101626882	-	-	-	Un	-	40S ribosomal protein S3a-like	pseudo	-	-	-	-	20151115
-143302	101626883	PCDHGC3	-	-	-	-	-	protocadherin gamma subfamily C, 3	protein-coding	-	-	-	-	20150611
+143302	101626883	PCDHGC3	-	-	-	-	-	protocadherin gamma subfamily C, 3	protein-coding	-	-	-	-	20160402
 143302	101626884	FSTL4	-	-	-	Un	-	follistatin-like 4	protein-coding	-	-	-	-	20151115
 143302	101626885	NDRG3	-	-	-	Un	-	NDRG family member 3	protein-coding	-	-	-	-	20151115
 143302	101626886	ANXA2	-	-	-	Un	-	annexin A2	protein-coding	-	-	-	-	20151115
@@ -8061,7 +8098,7 @@
 143302	101626908	UBR2	-	-	-	Un	-	ubiquitin protein ligase E3 component n-recognin 2	protein-coding	-	-	-	-	20151115
 143302	101626909	TMEM242	-	-	-	Un	-	transmembrane protein 242	protein-coding	-	-	-	-	20151115
 143302	101626911	SYT14	-	-	-	Un	-	synaptotagmin XIV	protein-coding	-	-	-	-	20151115
-143302	101626912	FAM156B	-	-	-	-	-	family with sequence similarity 156, member B	protein-coding	-	-	-	-	20150611
+143302	101626912	FAM156B	-	-	-	-	-	family with sequence similarity 156, member B	protein-coding	-	-	-	-	20160402
 143302	101626913	DUSP9	-	-	-	Un	-	dual specificity phosphatase 9	protein-coding	-	-	-	-	20151115
 143302	101626914	CDK15	-	-	-	Un	-	cyclin-dependent kinase 15	protein-coding	-	-	-	-	20151115
 143302	101626915	LOC101626915	-	-	-	Un	-	class I histocompatibility antigen, Gogo-OKO alpha chain-like	protein-coding	-	-	-	-	20151115
@@ -8191,7 +8228,7 @@
 143302	101627053	CMIP	-	-	-	Un	-	c-Maf inducing protein	protein-coding	-	-	-	-	20151115
 143302	101627055	SFSWAP	-	-	-	Un	-	splicing factor, suppressor of white-apricot family	protein-coding	-	-	-	splicing factor, suppressor of white-apricot homolog	20151115
 143302	101627056	P2RX7	-	-	-	Un	-	purinergic receptor P2X, ligand gated ion channel, 7	protein-coding	-	-	-	purinergic receptor P2X, ligand-gated ion channel, 7	20151115
-143302	101627057	FBXO48	-	-	-	-	-	F-box protein 48	protein-coding	-	-	-	-	20150611
+143302	101627057	FBXO48	-	-	-	-	-	F-box protein 48	protein-coding	-	-	-	-	20160402
 143302	101627058	LOC101627058	-	RNF103	-	Un	-	E3 ubiquitin-protein ligase RNF103	protein-coding	-	-	-	ring finger protein 103	20151115
 143302	101627059	LOC101627059	-	-	-	Un	-	chromosome unknown open reading frame, human C16orf72	protein-coding	-	-	-	UPF0472 protein C16orf72 homolog	20151115
 143302	101627060	ALDOA	-	-	-	Un	-	aldolase A, fructose-bisphosphate	protein-coding	-	-	-	-	20151115
@@ -8210,7 +8247,7 @@
 143302	101627075	NQO2	-	-	-	Un	-	NAD(P)H dehydrogenase, quinone 2	protein-coding	-	-	-	-	20151115
 143302	101627076	CSNK2B	-	-	-	Un	-	casein kinase 2, beta polypeptide	protein-coding	-	-	-	-	20151115
 143302	101627077	B3GALT1	-	-	-	Un	-	UDP-Gal:betaGlcNAc beta 1,3-galactosyltransferase, polypeptide 1	protein-coding	-	-	-	-	20151115
-143302	101627078	NDUFB3	-	-	-	-	-	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 3, 12kDa	protein-coding	-	-	-	-	20150611
+143302	101627078	NDUFB3	-	-	-	-	-	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 3, 12kDa	protein-coding	-	-	-	-	20160402
 143302	101627080	CCDC14	-	-	-	Un	-	coiled-coil domain containing 14	protein-coding	-	-	-	-	20151115
 143302	101627081	USP13	-	-	-	Un	-	ubiquitin specific peptidase 13 (isopeptidase T-3)	protein-coding	-	-	-	-	20151115
 143302	101627082	CSTB	-	-	-	Un	-	cystatin B (stefin B)	protein-coding	-	-	-	-	20151115
@@ -8289,7 +8326,7 @@
 143302	101627160	SMPDL3B	-	-	-	Un	-	sphingomyelin phosphodiesterase, acid-like 3B	protein-coding	-	-	-	-	20151115
 143302	101627161	TERF1	-	-	-	Un	-	telomeric repeat binding factor (NIMA-interacting) 1	protein-coding	-	-	-	-	20151115
 143302	101627163	ANAPC16	-	-	-	Un	-	anaphase promoting complex subunit 16	protein-coding	-	-	-	-	20151115
-143302	101627164	LOC101627164	-	-	-	-	-	chromosome unknown open reading frame, human C10orf120	protein-coding	-	-	-	-	20150611
+143302	101627164	LOC101627164	-	-	-	-	-	chromosome unknown open reading frame, human C10orf120	protein-coding	-	-	-	-	20160402
 143302	101627165	KIAA1211	-	-	-	Un	-	KIAA1211 ortholog	protein-coding	-	-	-	-	20151115
 143302	101627166	PI4K2B	-	-	-	Un	-	phosphatidylinositol 4-kinase type 2 beta	protein-coding	-	-	-	-	20151115
 143302	101627167	VRK1	-	-	-	Un	-	vaccinia related kinase 1	protein-coding	-	-	-	-	20151115
@@ -8435,7 +8472,7 @@
 143302	101627316	GJB6	-	-	-	Un	-	gap junction protein, beta 6, 30kDa	protein-coding	-	-	-	-	20151115
 143302	101627317	EMX2	-	-	-	Un	-	empty spiracles homeobox 2	protein-coding	-	-	-	-	20151115
 143302	101627318	A1CF	-	-	-	Un	-	APOBEC1 complementation factor	protein-coding	-	-	-	-	20151115
-143302	101627319	LOC101627319	-	-	-	-	-	chromosome unknown open reading frame, human C10orf128	protein-coding	-	-	-	-	20150611
+143302	101627319	LOC101627319	-	-	-	-	-	chromosome unknown open reading frame, human C10orf128	protein-coding	-	-	-	-	20160402
 143302	101627320	ANTXR2	-	-	-	Un	-	anthrax toxin receptor 2	protein-coding	-	-	-	-	20151115
 143302	101627321	AKAP6	-	-	-	Un	-	A kinase (PRKA) anchor protein 6	protein-coding	-	-	-	-	20151115
 143302	101627322	LOC101627322	-	LRRC9	-	Un	-	leucine-rich repeat-containing protein 9	protein-coding	-	-	-	leucine rich repeat containing 9	20151115
@@ -8453,7 +8490,7 @@
 143302	101627334	LDAH	-	-	-	Un	-	lipid droplet associated hydrolase	protein-coding	-	-	-	-	20151115
 143302	101627335	LOC101627335	-	PCDHGA11|PCDHGA12|PCDHGC4	-	Un	-	uncharacterized LOC101627335	protein-coding	-	-	-	protocadherin gamma subfamily A, 11|protocadherin gamma subfamily A, 12|protocadherin gamma subfamily C, 4	20151115
 143302	101627336	VDAC1	-	-	-	Un	-	voltage-dependent anion channel 1	protein-coding	-	-	-	-	20151115
-143302	101627337	DEFB124	-	-	-	-	-	defensin, beta 124	protein-coding	-	-	-	-	20150611
+143302	101627337	DEFB124	-	-	-	-	-	defensin, beta 124	protein-coding	-	-	-	-	20160402
 143302	101627338	BNIP2	-	-	-	Un	-	BCL2/adenovirus E1B 19kDa interacting protein 2	protein-coding	-	-	-	-	20151115
 143302	101627339	SLC24A5	-	-	-	Un	-	solute carrier family 24 (sodium/potassium/calcium exchanger), member 5	protein-coding	-	-	-	solute carrier family 24, member 5	20151115
 143302	101627340	RNASEL	-	-	-	Un	-	ribonuclease L (2',5'-oligoisoadenylate synthetase-dependent)	protein-coding	-	-	-	-	20151115
@@ -8831,7 +8868,7 @@
 143302	101627743	ZNF428	-	-	-	Un	-	zinc finger protein 428	protein-coding	-	-	-	-	20151115
 143302	101627744	GJB1	-	-	-	Un	-	gap junction protein, beta 1, 32kDa	protein-coding	-	-	-	-	20151115
 143302	101627746	LOC101627746	-	-	-	Un	-	olfactory receptor 2B11-like	protein-coding	-	-	-	-	20151115
-143302	101627747	LOC101627747	-	PSMG4	-	Un	-	uncharacterized LOC101627747	protein-coding	-	-	-	proteasome (prosome, macropain) assembly chaperone 4	20151115
+143302	101627747	LOC101627747	-	PSMG4	-	Un	-	uncharacterized LOC101627747	ncRNA	-	-	-	proteasome (prosome, macropain) assembly chaperone 4	20160412
 143302	101627748	POU3F2	-	-	-	Un	-	POU class 3 homeobox 2	protein-coding	-	-	-	-	20151115
 143302	101627749	LOC101627749	-	-	-	Un	-	chromosome unknown open reading frame, human C6orf25	protein-coding	-	-	-	-	20151115
 143302	101627750	TMEM237	-	-	-	Un	-	transmembrane protein 237	protein-coding	-	-	-	-	20151115
@@ -8847,7 +8884,7 @@
 143302	101627762	BNC2	-	-	-	Un	-	basonuclin 2	protein-coding	-	-	-	-	20151115
 143302	101627763	MSMP	-	-	-	Un	-	microseminoprotein, prostate associated	protein-coding	-	-	-	-	20151115
 143302	101627764	LOC101627764	-	-	-	Un	-	olfactory receptor 1J4-like	protein-coding	-	-	-	-	20151115
-143302	101627765	TMEM69	-	-	-	-	-	transmembrane protein 69	protein-coding	-	-	-	-	20150611
+143302	101627765	TMEM69	-	-	-	-	-	transmembrane protein 69	protein-coding	-	-	-	-	20160402
 143302	101627766	CCNE2	-	-	-	Un	-	cyclin E2	protein-coding	-	-	-	-	20151115
 143302	101627767	MSC	-	-	-	Un	-	musculin	protein-coding	-	-	-	-	20151115
 143302	101627768	ZMYM2	-	-	-	Un	-	zinc finger, MYM-type 2	protein-coding	-	-	-	-	20151115
@@ -8871,7 +8908,7 @@
 143302	101627786	IPO9	-	-	-	Un	-	importin 9	protein-coding	-	-	-	-	20151115
 143302	101627787	SMIM10	-	-	-	Un	-	small integral membrane protein 10	protein-coding	-	-	-	-	20151115
 143302	101627788	PCDH12	-	-	-	Un	-	protocadherin 12	protein-coding	-	-	-	-	20151115
-143302	101627789	DEFB121	-	-	-	-	-	defensin, beta 121	protein-coding	-	-	-	-	20150611
+143302	101627789	DEFB121	-	-	-	-	-	defensin, beta 121	protein-coding	-	-	-	-	20160402
 143302	101627790	GCNT3	-	-	-	Un	-	glucosaminyl (N-acetyl) transferase 3, mucin type	protein-coding	-	-	-	-	20151115
 143302	101627791	COLGALT2	-	-	-	Un	-	collagen beta(1-O)galactosyltransferase 2	protein-coding	-	-	-	-	20151115
 143302	101627792	NIT1	-	-	-	Un	-	nitrilase 1	protein-coding	-	-	-	-	20151115
@@ -9318,7 +9355,7 @@
 143302	101628265	SPN	-	-	-	Un	-	sialophorin	protein-coding	-	-	-	-	20151115
 143302	101628266	WIBG	-	-	-	Un	-	within bgcn homolog (Drosophila)	protein-coding	-	-	-	-	20151115
 143302	101628267	RPGRIP1L	-	-	-	Un	-	RPGRIP1-like	protein-coding	-	-	-	-	20151115
-143302	101628269	CDC42EP5	-	-	-	-	-	CDC42 effector protein (Rho GTPase binding) 5	protein-coding	-	-	-	-	20150611
+143302	101628269	CDC42EP5	-	-	-	-	-	CDC42 effector protein (Rho GTPase binding) 5	protein-coding	-	-	-	-	20160402
 143302	101628270	CDK5	-	-	-	Un	-	cyclin-dependent kinase 5	protein-coding	-	-	-	-	20151115
 143302	101628271	TINAG	-	-	-	Un	-	tubulointerstitial nephritis antigen	protein-coding	-	-	-	-	20151115
 143302	101628272	AKIRIN2	-	-	-	Un	-	akirin 2	protein-coding	-	-	-	-	20151115
@@ -9327,7 +9364,7 @@
 143302	101628275	TMEM151B	-	-	-	Un	-	transmembrane protein 151B	protein-coding	-	-	-	-	20151115
 143302	101628276	SPATA45	-	-	-	Un	-	spermatogenesis associated 45	protein-coding	-	-	-	UPF0732 protein C1orf227 homolog	20151115
 143302	101628278	DDAH2	-	-	-	Un	-	dimethylarginine dimethylaminohydrolase 2	protein-coding	-	-	-	-	20151115
-143302	101628279	MUC22	-	-	-	-	-	mucin 22	protein-coding	-	-	-	-	20150611
+143302	101628279	MUC22	-	-	-	-	-	mucin 22	protein-coding	-	-	-	-	20160402
 143302	101628280	ARHGAP15	-	-	-	Un	-	Rho GTPase activating protein 15	protein-coding	-	-	-	-	20151115
 143302	101628282	NGEF	-	-	-	Un	-	neuronal guanine nucleotide exchange factor	protein-coding	-	-	-	-	20151115
 143302	101628283	ANGPT2	-	-	-	Un	-	angiopoietin 2	protein-coding	-	-	-	-	20151115
@@ -9350,7 +9387,7 @@
 143302	101628302	FOS	-	-	-	Un	-	FBJ murine osteosarcoma viral oncogene homolog	protein-coding	-	-	-	-	20151115
 143302	101628303	PTGDR	-	-	-	Un	-	prostaglandin D2 receptor (DP)	protein-coding	-	-	-	-	20151115
 143302	101628304	SERPINA5	-	-	-	Un	-	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5	protein-coding	-	-	-	-	20151115
-143302	101628305	SLC22A12	-	-	-	-	-	solute carrier family 22 (organic anion/urate transporter), member 12	protein-coding	-	-	-	-	20150611
+143302	101628305	SLC22A12	-	-	-	-	-	solute carrier family 22 (organic anion/urate transporter), member 12	protein-coding	-	-	-	-	20160402
 143302	101628306	LOC101628306	-	-	-	Un	-	olfactory receptor 4D11-like	protein-coding	-	-	-	-	20151115
 143302	101628307	CSTF3	-	-	-	Un	-	cleavage stimulation factor, 3' pre-RNA, subunit 3, 77kDa	protein-coding	-	-	-	-	20151115
 143302	101628308	UBE2L6	-	-	-	Un	-	ubiquitin-conjugating enzyme E2L 6	protein-coding	-	-	-	-	20151115
@@ -10162,7 +10199,7 @@
 143302	101629169	PIGF	-	-	-	Un	-	phosphatidylinositol glycan anchor biosynthesis, class F	protein-coding	-	-	-	-	20151115
 143302	101629170	DPYSL3	-	-	-	Un	-	dihydropyrimidinase-like 3	protein-coding	-	-	-	-	20151115
 143302	101629171	JADE2	-	PHF15	-	Un	-	jade family PHD finger 2	protein-coding	-	-	-	PHD finger protein 15	20151115
-143302	101629172	DEFB125	-	-	-	-	-	defensin, beta 125	protein-coding	-	-	-	-	20150611
+143302	101629172	DEFB125	-	-	-	-	-	defensin, beta 125	protein-coding	-	-	-	-	20160402
 143302	101629173	SYS1	-	-	-	Un	-	Sys1 golgi trafficking protein	protein-coding	-	-	-	SYS1 Golgi-localized integral membrane protein homolog|protein SYS1 homolog	20151115
 143302	101629174	FEM1B	-	-	-	Un	-	fem-1 homolog b (C. elegans)	protein-coding	-	-	-	-	20151115
 143302	101629175	SRP14	-	-	-	Un	-	signal recognition particle 14kDa (homologous Alu RNA binding protein)	protein-coding	-	-	-	-	20151115
@@ -10214,7 +10251,7 @@
 143302	101629221	RALGDS	-	-	-	Un	-	ral guanine nucleotide dissociation stimulator	protein-coding	-	-	-	-	20151115
 143302	101629222	LOC101629222	-	-	-	Un	-	archaemetzincin-2 pseudogene	pseudo	-	-	-	-	20151115
 143302	101629224	HNRNPR	-	-	-	Un	-	heterogeneous nuclear ribonucleoprotein R	protein-coding	-	-	-	-	20151115
-143302	101629225	GNG5	-	-	-	-	-	guanine nucleotide binding protein (G protein), gamma 5	protein-coding	-	-	-	-	20150611
+143302	101629225	GNG5	-	-	-	-	-	guanine nucleotide binding protein (G protein), gamma 5	protein-coding	-	-	-	-	20160402
 143302	101629226	SRSF4	-	-	-	Un	-	serine/arginine-rich splicing factor 4	protein-coding	-	-	-	-	20151115
 143302	101629227	LOC101629227	-	-	-	Un	-	25-hydroxycholesterol 7-alpha-hydroxylase	protein-coding	-	-	-	-	20151115
 143302	101629228	TBC1D4	-	-	-	Un	-	TBC1 domain family, member 4	protein-coding	-	-	-	-	20151115
@@ -10375,7 +10412,7 @@
 143302	101629394	SPINK5	-	-	-	Un	-	serine peptidase inhibitor, Kazal type 5	protein-coding	-	-	-	-	20151115
 143302	101629395	MAD2L1	-	-	-	Un	-	MAD2 mitotic arrest deficient-like 1 (yeast)	protein-coding	-	-	-	-	20151115
 143302	101629396	SAR1B	-	-	-	Un	-	secretion associated, Ras related GTPase 1B	protein-coding	-	-	-	SAR1 homolog B	20151115
-143302	101629397	DEFB128	-	-	-	-	-	defensin, beta 128	protein-coding	-	-	-	-	20150611
+143302	101629397	DEFB128	-	-	-	-	-	defensin, beta 128	protein-coding	-	-	-	-	20160402
 143302	101629398	PIGT	-	-	-	Un	-	phosphatidylinositol glycan anchor biosynthesis, class T	protein-coding	-	-	-	-	20151115
 143302	101629399	PIAS1	-	-	-	Un	-	protein inhibitor of activated STAT, 1	protein-coding	-	-	-	-	20151115
 143302	101629400	EIF2AK4	-	-	-	Un	-	eukaryotic translation initiation factor 2 alpha kinase 4	protein-coding	-	-	-	-	20151115
@@ -10664,7 +10701,7 @@
 143302	101629706	RABGAP1L	-	-	-	Un	-	RAB GTPase activating protein 1-like	protein-coding	-	-	-	-	20151115
 143302	101629707	CHAF1A	-	-	-	Un	-	chromatin assembly factor 1, subunit A (p150)	protein-coding	-	-	-	-	20151115
 143302	101629708	FBXL12	-	-	-	Un	-	F-box and leucine-rich repeat protein 12	protein-coding	-	-	-	-	20151115
-143302	101629709	RPS28	-	-	-	-	-	ribosomal protein S28	protein-coding	-	-	-	-	20150611
+143302	101629709	RPS28	-	-	-	-	-	ribosomal protein S28	protein-coding	-	-	-	-	20160402
 143302	101629710	DCLRE1B	-	-	-	Un	-	DNA cross-link repair 1B	protein-coding	-	-	-	-	20151115
 143302	101629711	HIAT1	-	-	-	Un	-	hippocampus abundant transcript 1	protein-coding	-	-	-	-	20151115
 143302	101629712	UBA2	-	-	-	Un	-	ubiquitin-like modifier activating enzyme 2	protein-coding	-	-	-	-	20151115
@@ -10839,7 +10876,7 @@
 143302	101629900	SSX2IP	-	-	-	Un	-	synovial sarcoma, X breakpoint 2 interacting protein	protein-coding	-	-	-	-	20151115
 143302	101629901	GEM	-	-	-	Un	-	GTP binding protein overexpressed in skeletal muscle	protein-coding	-	-	-	-	20151115
 143302	101629903	NODAL	-	-	-	Un	-	nodal growth differentiation factor	protein-coding	-	-	-	nodal homolog	20151115
-143302	101629904	NANOS1	-	-	-	-	-	nanos homolog 1 (Drosophila)	protein-coding	-	-	-	-	20150611
+143302	101629904	NANOS1	-	-	-	-	-	nanos homolog 1 (Drosophila)	protein-coding	-	-	-	-	20160402
 143302	101629905	CC2D2A	-	-	-	Un	-	coiled-coil and C2 domain containing 2A	protein-coding	-	-	-	-	20151115
 143302	101629906	RPS6KL1	-	-	-	Un	-	ribosomal protein S6 kinase-like 1	protein-coding	-	-	-	-	20151115
 143302	101629907	IFI27L1	-	-	-	Un	-	interferon, alpha-inducible protein 27-like 1	protein-coding	-	-	-	-	20151115
@@ -10933,7 +10970,7 @@
 143302	101630002	DDX49	-	-	-	Un	-	DEAD (Asp-Glu-Ala-Asp) box polypeptide 49	protein-coding	-	-	-	-	20151115
 143302	101630003	ASF1B	-	-	-	Un	-	anti-silencing function 1B histone chaperone	protein-coding	-	-	-	-	20151115
 143302	101630004	LOC101630004	-	-	-	Un	-	olfactory receptor 6M1	protein-coding	-	-	-	-	20151115
-143302	101630005	NRGN	-	-	-	-	-	neurogranin (protein kinase C substrate, RC3)	protein-coding	-	-	-	-	20150611
+143302	101630005	NRGN	-	-	-	-	-	neurogranin (protein kinase C substrate, RC3)	protein-coding	-	-	-	-	20160402
 143302	101630006	PRPF3	-	-	-	Un	-	pre-mRNA processing factor 3	protein-coding	-	-	-	PRP3 pre-mRNA processing factor 3 homolog	20151115
 143302	101630007	PRODH2	-	-	-	Un	-	proline dehydrogenase (oxidase) 2	protein-coding	-	-	-	-	20151115
 143302	101630008	VAT1L	-	-	-	Un	-	vesicle amine transport 1-like	protein-coding	-	-	-	vesicle amine transport protein 1 homolog (T. californica)-like	20151115
@@ -10976,7 +11013,7 @@
 143302	101630050	MIER3	-	-	-	Un	-	mesoderm induction early response 1, family member 3	protein-coding	-	-	-	-	20151115
 143302	101630051	PEX14	-	-	-	Un	-	peroxisomal biogenesis factor 14	protein-coding	-	-	-	-	20151115
 143302	101630052	TAF12	-	-	-	Un	-	TAF12 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 20kDa	protein-coding	-	-	-	-	20151115
-143302	101630053	FOXE3	-	-	-	-	-	forkhead box E3	protein-coding	-	-	-	-	20150611
+143302	101630053	FOXE3	-	-	-	-	-	forkhead box E3	protein-coding	-	-	-	-	20160402
 143302	101630054	SPATA33	-	-	-	Un	-	spermatogenesis associated 33	protein-coding	-	-	-	-	20151115
 143302	101630055	PIBF1	-	-	-	Un	-	progesterone immunomodulatory binding factor 1	protein-coding	-	-	-	-	20151115
 143302	101630056	OPN4	-	-	-	Un	-	opsin 4	protein-coding	-	-	-	-	20151115
@@ -11575,7 +11612,7 @@
 143302	101630683	MEIS2	-	-	-	Un	-	Meis homeobox 2	protein-coding	-	-	-	-	20151115
 143302	101630684	TMEM120A	-	-	-	Un	-	transmembrane protein 120A	protein-coding	-	-	-	-	20151115
 143302	101630685	LOC101630685	-	-	-	Un	-	EGF-like module-containing mucin-like hormone receptor-like 2	protein-coding	-	-	-	-	20151115
-143302	101630686	BLID	-	-	-	-	-	BH3-like motif containing, cell death inducer	protein-coding	-	-	-	-	20150611
+143302	101630686	BLID	-	-	-	-	-	BH3-like motif containing, cell death inducer	protein-coding	-	-	-	-	20160402
 143302	101630687	LOC101630687	-	-	-	Un	-	olfactory receptor 145	protein-coding	-	-	-	-	20151115
 143302	101630688	LOC101630688	-	SIK3	-	Un	-	serine/threonine-protein kinase SIK3	protein-coding	-	-	-	SIK family kinase 3	20151115
 143302	101630689	SUV39H1	-	-	-	Un	-	suppressor of variegation 3-9 homolog 1 (Drosophila)	protein-coding	-	-	-	-	20151115
@@ -11682,7 +11719,7 @@
 143302	101630798	FGL2	-	-	-	Un	-	fibrinogen-like 2	protein-coding	-	-	-	-	20151115
 143302	101630799	TMEM178B	-	-	-	Un	-	transmembrane protein 178B	protein-coding	-	-	-	-	20151115
 143302	101630800	GNE	-	-	-	Un	-	glucosamine (UDP-N-acetyl)-2-epimerase/N-acetylmannosamine kinase	protein-coding	-	-	-	-	20151115
-143302	101630801	LOC101630801	-	-	-	-	-	chromosome unknown open reading frame, human C9orf171	protein-coding	-	-	-	-	20150611
+143302	101630801	LOC101630801	-	-	-	-	-	chromosome unknown open reading frame, human C9orf171	protein-coding	-	-	-	-	20160402
 143302	101630802	CD72	-	-	-	Un	-	CD72 molecule	protein-coding	-	-	-	-	20151115
 143302	101630803	ARHGEF28	-	-	-	Un	-	Rho guanine nucleotide exchange factor (GEF) 28	protein-coding	-	-	-	-	20151115
 143302	101630804	MAP3K1	-	-	-	Un	-	mitogen-activated protein kinase kinase kinase 1, E3 ubiquitin protein ligase	protein-coding	-	-	-	-	20151115
@@ -11778,7 +11815,7 @@
 143302	101630899	LOC101630899	-	-	-	Un	-	sodium/potassium/calcium exchanger 6, mitochondrial pseudogene	pseudo	-	-	-	-	20151115
 143302	101630900	LOC101630900	-	-	-	Un	-	uncharacterized LOC101630900	ncRNA	-	-	-	-	20151115
 143302	101630901	PITX1	-	-	-	Un	-	paired-like homeodomain 1	protein-coding	-	-	-	-	20151115
-143302	101630903	SPESP1	-	-	-	-	-	sperm equatorial segment protein 1	protein-coding	-	-	-	-	20150611
+143302	101630903	SPESP1	-	-	-	-	-	sperm equatorial segment protein 1	protein-coding	-	-	-	-	20160402
 143302	101630904	AQP9	-	-	-	Un	-	aquaporin 9	protein-coding	-	-	-	-	20151115
 143302	101630905	DUOXA1	-	-	-	Un	-	dual oxidase maturation factor 1	protein-coding	-	-	-	-	20151115
 143302	101630906	CCL24	-	-	-	Un	-	chemokine (C-C motif) ligand 24	protein-coding	-	-	-	-	20151115
@@ -11900,7 +11937,7 @@
 143302	101631032	SDAD1	-	-	-	Un	-	SDA1 domain containing 1	protein-coding	-	-	-	protein SDA1 homolog	20151115
 143302	101631033	SGCB	-	-	-	Un	-	sarcoglycan, beta (43kDa dystrophin-associated glycoprotein)	protein-coding	-	-	-	-	20151115
 143302	101631034	WDR1	-	-	-	Un	-	WD repeat domain 1	protein-coding	-	-	-	-	20151115
-143302	101631035	MOAP1	-	-	-	-	-	modulator of apoptosis 1	protein-coding	-	-	-	-	20150611
+143302	101631035	MOAP1	-	-	-	-	-	modulator of apoptosis 1	protein-coding	-	-	-	-	20160402
 143302	101631036	PC	-	-	-	Un	-	pyruvate carboxylase	protein-coding	-	-	-	-	20151115
 143302	101631037	CLP1	-	-	-	Un	-	cleavage and polyadenylation factor I subunit 1	protein-coding	-	-	-	-	20151115
 143302	101631038	LOC101631038	-	-	-	Un	-	olfactory receptor 52A5	protein-coding	-	-	-	-	20151115
@@ -11959,7 +11996,7 @@
 143302	101631095	LOC101631095	-	-	-	Un	-	taste receptor type 2 member 4-like	protein-coding	-	-	-	-	20151115
 143302	101631096	DCAF10	-	-	-	Un	-	DDB1 and CUL4 associated factor 10	protein-coding	-	-	-	-	20151115
 143302	101631097	CDKN2B	-	-	-	Un	-	cyclin-dependent kinase inhibitor 2B (p15, inhibits CDK4)	protein-coding	-	-	-	-	20151115
-143302	101631098	LOC101631098	-	-	-	-	-	chromosome unknown open reading frame, human C9orf57	protein-coding	-	-	-	-	20150611
+143302	101631098	LOC101631098	-	-	-	-	-	chromosome unknown open reading frame, human C9orf57	protein-coding	-	-	-	-	20160402
 143302	101631099	ERAP1	-	-	-	Un	-	endoplasmic reticulum aminopeptidase 1	protein-coding	-	-	-	-	20151115
 143302	101631100	SEMA5A	-	-	-	Un	-	sema domain, seven thrombospondin repeats (type 1 and type 1-like), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 5A	protein-coding	-	-	-	-	20151115
 143302	101631101	MTOR	-	-	-	Un	-	mechanistic target of rapamycin (serine/threonine kinase)	protein-coding	-	-	-	-	20151115
@@ -12200,7 +12237,7 @@
 143302	101631344	PCDH9	-	-	-	Un	-	protocadherin 9	protein-coding	-	-	-	-	20151115
 143302	101631345	DHRS12	-	-	-	Un	-	dehydrogenase/reductase (SDR family) member 12	protein-coding	-	-	-	-	20151115
 143302	101631346	KCNMA1	-	-	-	Un	-	potassium channel, calcium activated large conductance subfamily M alpha, member 1	protein-coding	-	-	-	potassium large conductance calcium-activated channel, subfamily M, alpha member 1	20151115
-143302	101631347	LOC101631347	-	-	-	-	-	chromosome unknown open reading frame, human C4orf40	protein-coding	-	-	-	-	20150611
+143302	101631347	LOC101631347	-	-	-	-	-	chromosome unknown open reading frame, human C4orf40	protein-coding	-	-	-	-	20160402
 143302	101631348	UBR7	-	-	-	Un	-	ubiquitin protein ligase E3 component n-recognin 7 (putative)	protein-coding	-	-	-	-	20151115
 143302	101631349	SYNE2	-	-	-	Un	-	spectrin repeat containing, nuclear envelope 2	protein-coding	-	-	-	-	20151115
 143302	101631350	CDKL1	-	-	-	Un	-	cyclin-dependent kinase-like 1 (CDC2-related kinase)	protein-coding	-	-	-	-	20151115
@@ -12356,7 +12393,7 @@
 143302	101631508	KIF1C	-	-	-	Un	-	kinesin family member 1C	protein-coding	-	-	-	-	20151115
 143302	101631509	RSAD1	-	-	-	Un	-	radical S-adenosyl methionine domain containing 1	protein-coding	-	-	-	-	20151115
 143302	101631510	RABIF	-	-	-	Un	-	RAB interacting factor	protein-coding	-	-	-	-	20151115
-143302	101631511	FRMPD3	-	-	-	Un	-	FERM and PDZ domain containing 3	protein-coding	-	-	-	-	20151115
+143302	101631511	FRMPD3	-	-	-	Un	-	FERM and PDZ domain containing 3	protein-coding	-	-	-	-	20160312
 143302	101631513	PPM1B	-	-	-	Un	-	protein phosphatase, Mg2+/Mn2+ dependent, 1B	protein-coding	-	-	-	-	20151115
 143302	101631514	RBKS	-	-	-	Un	-	ribokinase	protein-coding	-	-	-	-	20151115
 143302	101631515	ALDH7A1	-	-	-	Un	-	aldehyde dehydrogenase 7 family, member A1	protein-coding	-	-	-	-	20151115
@@ -12539,7 +12576,7 @@
 143302	101631700	HERPUD1	-	-	-	Un	-	homocysteine-inducible, endoplasmic reticulum stress-inducible, ubiquitin-like domain member 1	protein-coding	-	-	-	-	20151115
 143302	101631701	RPL10A	-	-	-	Un	-	ribosomal protein L10a	protein-coding	-	-	-	-	20151115
 143302	101631702	LOC101631702	-	-	-	Un	-	ribonuclease 7-like	protein-coding	-	-	-	-	20151115
-143302	101631703	DEFB113	-	-	-	-	-	defensin, beta 113	protein-coding	-	-	-	-	20150611
+143302	101631703	DEFB113	-	-	-	-	-	defensin, beta 113	protein-coding	-	-	-	-	20160402
 143302	101631704	GSC2	-	-	-	Un	-	goosecoid homeobox 2	protein-coding	-	-	-	-	20151115
 143302	101631705	TMEM169	-	-	-	Un	-	transmembrane protein 169	protein-coding	-	-	-	-	20151115
 143302	101631706	TAZ	-	-	-	Un	-	tafazzin	protein-coding	-	-	-	-	20151115
@@ -12608,7 +12645,7 @@
 143302	101631772	SPRR4	-	-	-	Un	-	small proline-rich protein 4	protein-coding	-	-	-	-	20151115
 143302	101631773	NAPSA	-	-	-	Un	-	napsin A aspartic peptidase	protein-coding	-	-	-	-	20151115
 143302	101631774	TRAPPC6A	-	-	-	Un	-	trafficking protein particle complex 6A	protein-coding	-	-	-	-	20151115
-143302	101631775	PTH2	-	-	-	-	-	parathyroid hormone 2	protein-coding	-	-	-	-	20150611
+143302	101631775	PTH2	-	-	-	-	-	parathyroid hormone 2	protein-coding	-	-	-	-	20160402
 143302	101631776	ZNF746	-	-	-	Un	-	zinc finger protein 746	protein-coding	-	-	-	-	20151115
 143302	101631777	KHDRBS2	-	-	-	Un	-	KH domain containing, RNA binding, signal transduction associated 2	protein-coding	-	-	-	-	20151115
 143302	101631778	SDR39U1	-	-	-	Un	-	short chain dehydrogenase/reductase family 39U, member 1	protein-coding	-	-	-	-	20151115
@@ -12822,7 +12859,7 @@
 143302	101631996	EFCC1	-	-	-	Un	-	EF-hand and coiled-coil domain containing 1	protein-coding	-	-	-	-	20151115
 143302	101631997	NEMP1	-	TMEM194A	-	Un	-	nuclear envelope integral membrane protein 1	protein-coding	-	-	-	transmembrane protein 194A	20151115
 143302	101631998	PYROXD1	-	-	-	Un	-	pyridine nucleotide-disulphide oxidoreductase domain 1	protein-coding	-	-	-	-	20151115
-143302	101631999	SPRR2D	-	-	-	-	-	small proline-rich protein 2D	protein-coding	-	-	-	-	20150611
+143302	101631999	SPRR2D	-	-	-	-	-	small proline-rich protein 2D	protein-coding	-	-	-	-	20160402
 143302	101632000	POLD1	-	-	-	Un	-	polymerase (DNA directed), delta 1, catalytic subunit	protein-coding	-	-	-	-	20151115
 143302	101632001	GFY	-	-	-	Un	-	golgi-associated, olfactory signaling regulator	protein-coding	-	-	-	-	20151115
 143302	101632002	KRBA1	-	-	-	Un	-	KRAB-A domain containing 1	protein-coding	-	-	-	-	20151115
@@ -12883,7 +12920,7 @@
 143302	101632058	NR3C1	-	-	-	Un	-	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid receptor)	protein-coding	-	-	-	-	20151115
 143302	101632059	LOC101632059	-	-	-	Un	-	chromosome unknown open reading frame, human C20orf85	protein-coding	-	-	-	-	20151115
 143302	101632060	RBBP9	-	-	-	Un	-	retinoblastoma binding protein 9	protein-coding	-	-	-	-	20151115
-143302	101632061	RBM12	-	-	-	-	-	RNA binding motif protein 12	protein-coding	-	-	-	-	20150611
+143302	101632061	RBM12	-	-	-	-	-	RNA binding motif protein 12	protein-coding	-	-	-	-	20160402
 143302	101632062	CALML4	-	-	-	Un	-	calmodulin-like 4	protein-coding	-	-	-	-	20151115
 143302	101632063	VPS37D	-	-	-	Un	-	vacuolar protein sorting 37 homolog D (S. cerevisiae)	protein-coding	-	-	-	-	20151115
 143302	101632064	PTGER1	-	-	-	Un	-	prostaglandin E receptor 1 (subtype EP1), 42kDa	protein-coding	-	-	-	-	20151115
@@ -13176,7 +13213,7 @@
 143302	101632383	FN1	-	-	-	Un	-	fibronectin 1	protein-coding	-	-	-	-	20151115
 143302	101632384	LOC101632384	-	HSPE1|MOB4	-	Un	-	10 kDa heat shock protein, mitochondrial	protein-coding	-	-	-	MOB family member 4, phocein|heat shock 10kDa protein 1 (chaperonin 10)	20151115
 143302	101632385	ATP5G3	-	-	-	Un	-	ATP synthase, H+ transporting, mitochondrial Fo complex, subunit C3 (subunit 9)	protein-coding	-	-	-	-	20151115
-143302	101632386	GJC2	-	-	-	-	-	gap junction protein, gamma 2, 47kDa	protein-coding	-	-	-	-	20150611
+143302	101632386	GJC2	-	-	-	-	-	gap junction protein, gamma 2, 47kDa	protein-coding	-	-	-	-	20160402
 143302	101632387	DNER	-	-	-	Un	-	delta/notch-like EGF repeat containing	protein-coding	-	-	-	-	20151115
 143302	101632388	LOC101632388	-	-	-	Un	-	ras-specific guanine nucleotide-releasing factor 1-like	protein-coding	-	-	-	-	20151115
 143302	101632389	ZMAT3	-	-	-	Un	-	zinc finger, matrin-type 3	protein-coding	-	-	-	-	20151115
@@ -13350,7 +13387,7 @@
 143302	101632566	SH3GLB1	-	-	-	Un	-	SH3-domain GRB2-like endophilin B1	protein-coding	-	-	-	-	20151115
 143302	101632567	LOC101632567	-	-	-	Un	-	chromosome unknown open reading frame, human C1orf123	protein-coding	-	-	-	UPF0587 protein C1orf123 homolog	20151115
 143302	101632568	VCPIP1	-	-	-	Un	-	valosin containing protein (p97)/p47 complex interacting protein 1	protein-coding	-	-	-	-	20151115
-143302	101632569	CBFA2T3	-	-	-	-	-	core-binding factor, runt domain, alpha subunit 2; translocated to, 3	protein-coding	-	-	-	-	20150611
+143302	101632569	CBFA2T3	-	-	-	-	-	core-binding factor, runt domain, alpha subunit 2; translocated to, 3	protein-coding	-	-	-	-	20160402
 143302	101632570	ZIC2	-	-	-	Un	-	Zic family member 2	protein-coding	-	-	-	-	20151115
 143302	101632571	LOC101632571	-	-	-	Un	-	chromosome unknown open reading frame, human C10orf2	protein-coding	-	-	-	-	20151115
 143302	101632572	USP54	-	-	-	Un	-	ubiquitin specific peptidase 54	protein-coding	-	-	-	-	20151115
@@ -13558,7 +13595,7 @@
 143302	101632793	ENY2	-	-	-	Un	-	enhancer of yellow 2 homolog (Drosophila)	protein-coding	-	-	-	enhancer of yellow 2 transcription factor homolog	20151115
 143302	101632794	MYBL1	-	-	-	Un	-	v-myb avian myeloblastosis viral oncogene homolog-like 1	protein-coding	-	-	-	v-myb myeloblastosis viral oncogene homolog (avian)-like 1	20151115
 143302	101632795	TRAPPC2L	-	-	-	Un	-	trafficking protein particle complex 2-like	protein-coding	-	-	-	-	20151115
-143302	101632796	ZIC5	-	-	-	-	-	Zic family member 5	protein-coding	-	-	-	-	20150611
+143302	101632796	ZIC5	-	-	-	-	-	Zic family member 5	protein-coding	-	-	-	-	20160402
 143302	101632797	SEMA4G	-	-	-	Un	-	sema domain, immunoglobulin domain (Ig), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 4G	protein-coding	-	-	-	-	20151115
 143302	101632798	MRPS16	-	-	-	Un	-	mitochondrial ribosomal protein S16	protein-coding	-	-	-	-	20151115
 143302	101632799	COQ6	-	-	-	Un	-	coenzyme Q6 monooxygenase	protein-coding	-	-	-	-	20151115
@@ -13843,7 +13880,7 @@
 143302	101633096	LOC101633096	-	-	-	Un	-	olfactory receptor 52I2	protein-coding	-	-	-	-	20151115
 143302	101633097	KCTD21	-	-	-	Un	-	potassium channel tetramerization domain containing 21	protein-coding	-	-	-	potassium channel tetramerisation domain containing 21	20151115
 143302	101633098	LOC101633098	-	-	-	Un	-	olfactory receptor 8H1-like	protein-coding	-	-	-	-	20151115
-143302	101633099	IL18BP	-	-	-	-	-	interleukin 18 binding protein	protein-coding	-	-	-	-	20150611
+143302	101633099	IL18BP	-	-	-	-	-	interleukin 18 binding protein	protein-coding	-	-	-	-	20160402
 143302	101633101	GHDC	-	-	-	Un	-	GH3 domain containing	protein-coding	-	-	-	-	20151115
 143302	101633102	LOC101633102	-	-	-	Un	-	chromosome unknown open reading frame, human C17orf98	protein-coding	-	-	-	-	20151115
 143302	101633103	ZNHIT3	-	-	-	Un	-	zinc finger, HIT-type containing 3	protein-coding	-	-	-	-	20151115
@@ -13891,7 +13928,7 @@
 143302	101633147	TSR2	-	-	-	Un	-	TSR2, 20S rRNA accumulation, homolog (S. cerevisiae)	protein-coding	-	-	-	pre-rRNA-processing protein TSR2 homolog	20151115
 143302	101633148	MTHFD1L	-	-	-	Un	-	methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 1-like	protein-coding	-	-	-	-	20151115
 143302	101633149	FAM3A	-	-	-	Un	-	family with sequence similarity 3, member A	protein-coding	-	-	-	-	20151115
-143302	101633150	LOC101633150	-	-	-	-	-	chromosome unknown open reading frame, human C17orf89	protein-coding	-	-	-	-	20150611
+143302	101633150	LOC101633150	-	-	-	-	-	chromosome unknown open reading frame, human C17orf89	protein-coding	-	-	-	-	20160402
 143302	101633151	MGAT5	-	-	-	Un	-	mannosyl (alpha-1,6-)-glycoprotein beta-1,6-N-acetyl-glucosaminyltransferase	protein-coding	-	-	-	-	20151115
 143302	101633152	BIN1	-	-	-	Un	-	bridging integrator 1	protein-coding	-	-	-	-	20151115
 143302	101633154	GTF2E1	-	-	-	Un	-	general transcription factor IIE, polypeptide 1, alpha 56kDa	protein-coding	-	-	-	-	20151115
@@ -13902,7 +13939,7 @@
 143302	101633159	GNL3	-	-	-	Un	-	guanine nucleotide binding protein-like 3 (nucleolar)	protein-coding	-	-	-	-	20151115
 143302	101633160	IMPDH1	-	-	-	Un	-	IMP (inosine 5'-monophosphate) dehydrogenase 1	protein-coding	-	-	-	-	20151115
 143302	101633162	DPH7	-	WDR85	-	Un	-	diphthamide biosynthesis 7	protein-coding	-	-	-	WD repeat domain 85	20151115
-143302	101633163	FOXD4L1	-	-	-	-	-	forkhead box D4-like 1	protein-coding	-	-	-	-	20150611
+143302	101633163	FOXD4L1	-	-	-	-	-	forkhead box D4-like 1	protein-coding	-	-	-	-	20160402
 143302	101633164	FAM105A	-	-	-	Un	-	family with sequence similarity 105, member A	protein-coding	-	-	-	-	20151115
 143302	101633165	SRSF10	-	-	-	Un	-	serine/arginine-rich splicing factor 10	protein-coding	-	-	-	-	20151115
 143302	101633166	B4GALT7	-	-	-	Un	-	xylosylprotein beta 1,4-galactosyltransferase, polypeptide 7	protein-coding	-	-	-	-	20151115
@@ -13911,7 +13948,7 @@
 143302	101633169	TRHR	-	-	-	Un	-	thyrotropin-releasing hormone receptor	protein-coding	-	-	-	-	20151115
 143302	101633170	TMEM64	-	-	-	Un	-	transmembrane protein 64	protein-coding	-	-	-	-	20151115
 143302	101633171	KLHL38	-	-	-	Un	-	kelch-like family member 38	protein-coding	-	-	-	-	20151115
-143302	101633172	SETDB2	-	-	-	Un	-	SET domain, bifurcated 2	protein-coding	-	-	-	-	20151115
+143302	101633172	SETDB2	-	-	-	Un	-	SET domain, bifurcated 2	protein-coding	-	-	-	-	20160305
 143302	101633173	MMRN1	-	-	-	Un	-	multimerin 1	protein-coding	-	-	-	-	20151115
 143302	101633174	NIPAL1	-	-	-	Un	-	NIPA-like domain containing 1	protein-coding	-	-	-	-	20151115
 143302	101633175	LOC101633175	-	-	-	Un	-	ribonuclease P protein subunit p30 pseudogene	pseudo	-	-	-	-	20151115
@@ -14573,7 +14610,7 @@
 143302	101633891	RNF144B	-	-	-	Un	-	ring finger protein 144B	protein-coding	-	-	-	-	20151115
 143302	101633892	EVPL	-	-	-	Un	-	envoplakin	protein-coding	-	-	-	-	20151115
 143302	101633893	LINGO4	-	-	-	Un	-	leucine rich repeat and Ig domain containing 4	protein-coding	-	-	-	-	20151115
-143302	101633894	IGFL1	-	-	-	-	-	IGF-like family member 1	protein-coding	-	-	-	-	20150611
+143302	101633894	IGFL1	-	-	-	-	-	IGF-like family member 1	protein-coding	-	-	-	-	20160402
 143302	101633895	STK38	-	-	-	Un	-	serine/threonine kinase 38	protein-coding	-	-	-	-	20151115
 143302	101633896	POLR1C	-	-	-	Un	-	polymerase (RNA) I polypeptide C, 30kDa	protein-coding	-	-	-	-	20151115
 143302	101633897	DHRS1	-	-	-	Un	-	dehydrogenase/reductase (SDR family) member 1	protein-coding	-	-	-	-	20151115
@@ -14847,7 +14884,7 @@
 143302	101634184	LOC101634184	-	-	-	Un	-	DDB1- and CUL4-associated factor 8 pseudogene	pseudo	-	-	-	-	20151115
 143302	101634185	PRMT7	-	-	-	Un	-	protein arginine methyltransferase 7	protein-coding	-	-	-	-	20151115
 143302	101634186	LRCOL1	-	-	-	Un	-	leucine rich colipase-like 1	protein-coding	-	-	-	-	20151115
-143302	101634187	LOC101634187	-	-	-	-	-	chromosome unknown open reading frame, human C10orf113	protein-coding	-	-	-	-	20150611
+143302	101634187	LOC101634187	-	-	-	-	-	chromosome unknown open reading frame, human C10orf113	protein-coding	-	-	-	-	20160402
 143302	101634188	IDI1	-	-	-	Un	-	isopentenyl-diphosphate delta isomerase 1	protein-coding	-	-	-	-	20151115
 143302	101634189	SLC5A11	-	-	-	Un	-	solute carrier family 5 (sodium/inositol cotransporter), member 11	protein-coding	-	-	-	solute carrier family 5 (sodium/glucose cotransporter), member 11	20151115
 143302	101634190	TGFB1I1	-	-	-	Un	-	transforming growth factor beta 1 induced transcript 1	protein-coding	-	-	-	-	20151115
@@ -14904,7 +14941,7 @@
 143302	101634246	TGFB2	-	-	-	Un	-	transforming growth factor, beta 2	protein-coding	-	-	-	-	20151115
 143302	101634247	LOC101634247	-	ALG13	-	Un	-	putative bifunctional UDP-N-acetylglucosamine transferase and deubiquitinase ALG13	protein-coding	-	-	-	ALG13, UDP-N-acetylglucosaminyltransferase subunit|UDP-N-acetylglucosamine transferase subunit ALG13 homolog	20151115
 143302	101634248	KCNF1	-	-	-	Un	-	potassium channel, voltage gated modifier subfamily F, member 1	protein-coding	-	-	-	potassium voltage-gated channel, subfamily F, member 1	20151115
-143302	101634249	CCNI2	-	-	-	-	-	cyclin I family, member 2	protein-coding	-	-	-	-	20150611
+143302	101634249	CCNI2	-	-	-	-	-	cyclin I family, member 2	protein-coding	-	-	-	-	20160402
 143302	101634250	PPIC	-	-	-	Un	-	peptidylprolyl isomerase C (cyclophilin C)	protein-coding	-	-	-	-	20151115
 143302	101634251	LOC101634251	-	-	-	Un	-	translationally-controlled tumor protein pseudogene	pseudo	-	-	-	-	20151115
 143302	101634252	RBM27	-	-	-	Un	-	RNA binding motif protein 27	protein-coding	-	-	-	-	20151115
@@ -14928,7 +14965,7 @@
 143302	101634273	CLSTN3	-	-	-	Un	-	calsyntenin 3	protein-coding	-	-	-	-	20151115
 143302	101634274	RERGL	-	-	-	Un	-	RERG/RAS-like	protein-coding	-	-	-	-	20151115
 143302	101634275	SLC27A3	-	-	-	Un	-	solute carrier family 27 (fatty acid transporter), member 3	protein-coding	-	-	-	-	20151115
-143302	101634276	KLK1	-	-	-	Un	-	kallikrein 1	protein-coding	-	-	-	-	20151115
+143302	101634276	KLK1	-	-	-	Un	-	kallikrein 1	protein-coding	-	-	-	-	20160220
 143302	101634278	OSGEP	-	-	-	Un	-	O-sialoglycoprotein endopeptidase	protein-coding	-	-	-	-	20151115
 143302	101634279	CCDC28A	-	-	-	Un	-	coiled-coil domain containing 28A	protein-coding	-	-	-	-	20151115
 143302	101634280	LOC101634280	-	-	-	Un	-	gametogenetin-binding protein 1-like	protein-coding	-	-	-	-	20151115
@@ -14936,7 +14973,7 @@
 143302	101634283	NPTX1	-	-	-	Un	-	neuronal pentraxin I	protein-coding	-	-	-	-	20151115
 143302	101634284	LOC101634284	-	-	-	Un	-	cryptic protein-like	protein-coding	-	-	-	-	20151115
 143302	101634285	LOC101634285	-	-	-	Un	-	nuclear RNA export factor 2-like	protein-coding	-	-	-	-	20151115
-143302	101634286	LNP1	-	-	-	-	-	leukemia NUP98 fusion partner 1	protein-coding	-	-	-	-	20150611
+143302	101634286	LNP1	-	-	-	-	-	leukemia NUP98 fusion partner 1	protein-coding	-	-	-	-	20160402
 143302	101634287	USP44	-	-	-	Un	-	ubiquitin specific peptidase 44	protein-coding	-	-	-	-	20151115
 143302	101634288	SBF1	-	-	-	Un	-	SET binding factor 1	protein-coding	-	-	-	-	20151115
 143302	101634289	GPR62	-	-	-	Un	-	G protein-coupled receptor 62	protein-coding	-	-	-	-	20151115
@@ -14996,7 +15033,7 @@
 143302	101634344	EVA1A	-	-	-	Un	-	eva-1 homolog A (C. elegans)	protein-coding	-	-	-	-	20151115
 143302	101634346	TSPAN9	-	-	-	Un	-	tetraspanin 9	protein-coding	-	-	-	-	20151115
 143302	101634347	CS	-	-	-	Un	-	citrate synthase	protein-coding	-	-	-	-	20151115
-143302	101634348	MESP2	-	-	-	-	-	mesoderm posterior 2 homolog (mouse)	protein-coding	-	-	-	-	20150611
+143302	101634348	MESP2	-	-	-	-	-	mesoderm posterior 2 homolog (mouse)	protein-coding	-	-	-	-	20160402
 143302	101634349	MPHOSPH10	-	-	-	Un	-	M-phase phosphoprotein 10 (U3 small nucleolar ribonucleoprotein)	protein-coding	-	-	-	-	20151115
 143302	101634350	LOC101634350	-	-	-	Un	-	taste receptor type 2 member 8	protein-coding	-	-	-	-	20151115
 143302	101634351	E2F3	-	-	-	Un	-	E2F transcription factor 3	protein-coding	-	-	-	-	20151115
@@ -15050,7 +15087,7 @@
 143302	101634404	PPM1G	-	-	-	Un	-	protein phosphatase, Mg2+/Mn2+ dependent, 1G	protein-coding	-	-	-	-	20151115
 143302	101634405	ITGB1BP1	-	-	-	Un	-	integrin beta 1 binding protein 1	protein-coding	-	-	-	-	20151115
 143302	101634406	LOC101634406	-	-	-	Un	-	olfactory receptor 2L13-like	pseudo	-	-	-	-	20151115
-143302	101634407	AVP	-	-	-	-	-	arginine vasopressin	protein-coding	-	-	-	-	20150611
+143302	101634407	AVP	-	-	-	-	-	arginine vasopressin	protein-coding	-	-	-	-	20160402
 143302	101634408	SLC35C2	-	-	-	Un	-	solute carrier family 35 (GDP-fucose transporter), member C2	protein-coding	-	-	-	solute carrier family 35, member C2	20151115
 143302	101634409	ISYNA1	-	-	-	Un	-	inositol-3-phosphate synthase 1	protein-coding	-	-	-	-	20151115
 143302	101634410	FARSA	-	-	-	Un	-	phenylalanyl-tRNA synthetase, alpha subunit	protein-coding	-	-	-	-	20151115
@@ -15413,7 +15450,7 @@
 143302	101634792	SPINT2	-	-	-	Un	-	serine peptidase inhibitor, Kunitz type, 2	protein-coding	-	-	-	-	20151115
 143302	101634793	WDR59	-	-	-	Un	-	WD repeat domain 59	protein-coding	-	-	-	-	20151115
 143302	101634794	TPPP3	-	-	-	Un	-	tubulin polymerization-promoting protein family member 3	protein-coding	-	-	-	-	20151115
-143302	101634795	IL31	-	-	-	-	-	interleukin 31	protein-coding	-	-	-	-	20150611
+143302	101634795	IL31	-	-	-	-	-	interleukin 31	protein-coding	-	-	-	-	20160402
 143302	101634796	FICD	-	-	-	Un	-	FIC domain containing	protein-coding	-	-	-	-	20151115
 143302	101634797	KLF6	-	-	-	Un	-	Kruppel-like factor 6	protein-coding	-	-	-	-	20151115
 143302	101634798	LOC101634798	-	-	-	Un	-	lithostathine-like	protein-coding	-	-	-	-	20151115
@@ -15548,7 +15585,7 @@
 143302	101634944	CWF19L2	-	-	-	Un	-	CWF19-like 2, cell cycle control (S. pombe)	protein-coding	-	-	-	-	20151115
 143302	101634945	GPSM2	-	-	-	Un	-	G-protein signaling modulator 2	protein-coding	-	-	-	-	20151115
 143302	101634946	AMELX	-	-	-	Un	-	amelogenin, X-linked	protein-coding	-	-	-	-	20151115
-143302	101634947	LOC101634947	-	-	-	-	-	chromosome unknown open reading frame, human C16orf87	protein-coding	-	-	-	-	20150611
+143302	101634947	LOC101634947	-	-	-	-	-	chromosome unknown open reading frame, human C16orf87	protein-coding	-	-	-	-	20160402
 143302	101634948	RAD9B	-	-	-	Un	-	RAD9 homolog B (S. pombe)	protein-coding	-	-	-	-	20151115
 143302	101634949	EWSR1	-	-	-	Un	-	EWS RNA-binding protein 1	protein-coding	-	-	-	Ewing sarcoma breakpoint region 1	20151115
 143302	101634950	KIAA1217	-	-	-	Un	-	KIAA1217 ortholog	protein-coding	-	-	-	sickle tail protein homolog	20151115
@@ -15794,7 +15831,7 @@
 143302	101635220	LOC101635220	-	PLA2G2E	-	Un	-	group IIE secretory phospholipase A2	protein-coding	-	-	-	phospholipase A2, group IIE	20151115
 143302	101635221	MTFR1	-	-	-	Un	-	mitochondrial fission regulator 1	protein-coding	-	-	-	-	20151115
 143302	101635222	NOV	-	-	-	Un	-	nephroblastoma overexpressed	protein-coding	-	-	-	protein NOV homolog	20151115
-143302	101635223	IL17D	-	-	-	-	-	interleukin 17D	protein-coding	-	-	-	-	20150611
+143302	101635223	IL17D	-	-	-	-	-	interleukin 17D	protein-coding	-	-	-	-	20160402
 143302	101635224	PDCD4	-	-	-	Un	-	programmed cell death 4 (neoplastic transformation inhibitor)	protein-coding	-	-	-	-	20151115
 143302	101635225	PYURF	-	-	-	Un	-	PIGY upstream reading frame	protein-coding	-	-	-	-	20151115
 143302	101635226	ADAMTS3	-	-	-	Un	-	ADAM metallopeptidase with thrombospondin type 1 motif, 3	protein-coding	-	-	-	-	20151115
@@ -16152,7 +16189,7 @@
 143302	101635619	PLP2	-	-	-	Un	-	proteolipid protein 2 (colonic epithelium-enriched)	protein-coding	-	-	-	-	20151115
 143302	101635621	CUX2	-	-	-	Un	-	cut-like homeobox 2	protein-coding	-	-	-	-	20151115
 143302	101635622	IQCE	-	-	-	Un	-	IQ motif containing E	protein-coding	-	-	-	-	20151115
-143302	101635623	POLR3K	-	-	-	-	-	polymerase (RNA) III (DNA directed) polypeptide K, 12.3 kDa	protein-coding	-	-	-	-	20150611
+143302	101635623	POLR3K	-	-	-	-	-	polymerase (RNA) III (DNA directed) polypeptide K, 12.3 kDa	protein-coding	-	-	-	-	20160402
 143302	101635624	BCKDK	-	-	-	Un	-	branched chain ketoacid dehydrogenase kinase	protein-coding	-	-	-	-	20151115
 143302	101635625	TMEM40	-	-	-	Un	-	transmembrane protein 40	protein-coding	-	-	-	-	20151115
 143302	101635627	ERBB3	-	-	-	Un	-	erb-b2 receptor tyrosine kinase 3	protein-coding	-	-	-	v-erb-b2 erythroblastic leukemia viral oncogene homolog 3	20151115
@@ -16689,7 +16726,7 @@
 143302	101636198	HSPB7	-	-	-	Un	-	heat shock 27kDa protein family, member 7 (cardiovascular)	protein-coding	-	-	-	-	20151115
 143302	101636199	INPP5B	-	-	-	Un	-	inositol polyphosphate-5-phosphatase, 75kDa	protein-coding	-	-	-	-	20151115
 143302	101636200	ORC1	-	-	-	Un	-	origin recognition complex, subunit 1	protein-coding	-	-	-	-	20151115
-143302	101636201	LOC101636201	-	GNG12	-	Un	-	uncharacterized LOC101636201	protein-coding	-	-	-	guanine nucleotide binding protein (G protein), gamma 12	20151115
+143302	101636201	LOC101636201	-	GNG12	-	Un	-	uncharacterized LOC101636201	ncRNA	-	-	-	guanine nucleotide binding protein (G protein), gamma 12	20160412
 143302	101636202	SPDL1	-	-	-	Un	-	spindle apparatus coiled-coil protein 1	protein-coding	-	-	-	-	20151115
 143302	101636203	RNF207	-	-	-	Un	-	ring finger protein 207	protein-coding	-	-	-	-	20151115
 143302	101636204	LOC101636204	-	-	-	Un	-	chromosome unknown open reading frame, human C1orf168	protein-coding	-	-	-	-	20151115
@@ -16924,7 +16961,7 @@
 143302	101636451	LHFPL1	-	-	-	Un	-	lipoma HMGIC fusion partner-like 1	protein-coding	-	-	-	-	20151115
 143302	101636452	CETN2	-	-	-	Un	-	centrin, EF-hand protein, 2	protein-coding	-	-	-	-	20151115
 143302	101636453	LOC101636453	-	-	-	Un	-	olfactory receptor 2L13-like	protein-coding	-	-	-	-	20151115
-143302	101636454	SPINK14	-	-	-	-	-	serine peptidase inhibitor, Kazal type 14 (putative)	protein-coding	-	-	-	-	20150611
+143302	101636454	SPINK14	-	-	-	-	-	serine peptidase inhibitor, Kazal type 14 (putative)	protein-coding	-	-	-	-	20160402
 143302	101636455	LOC101636455	-	-	-	Un	-	leucine zipper putative tumor suppressor 3	protein-coding	-	-	-	-	20151115
 143302	101636456	KBTBD13	-	-	-	Un	-	kelch repeat and BTB (POZ) domain containing 13	protein-coding	-	-	-	-	20151115
 143302	101636457	UNC13C	-	-	-	Un	-	unc-13 homolog C (C. elegans)	protein-coding	-	-	-	-	20151115
@@ -17085,7 +17122,7 @@
 143302	101636625	LOC101636625	-	-	-	Un	-	NKG2-D type II integral membrane protein	protein-coding	-	-	-	-	20151115
 143302	101636626	ST6GALNAC1	-	-	-	Un	-	ST6 (alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3)-N-acetylgalactosaminide alpha-2,6-sialyltransferase 1	protein-coding	-	-	-	-	20151115
 143302	101636627	ICT1	-	-	-	Un	-	immature colon carcinoma transcript 1	protein-coding	-	-	-	-	20151115
-143302	101636628	PRR24	-	-	-	-	-	proline rich 24	protein-coding	-	-	-	-	20150611
+143302	101636628	PRR24	-	-	-	-	-	proline rich 24	protein-coding	-	-	-	-	20160402
 143302	101636629	PRPF31	-	-	-	Un	-	pre-mRNA processing factor 31	protein-coding	-	-	-	PRP31 pre-mRNA processing factor 31 homolog	20151115
 143302	101636630	AWAT2	-	-	-	Un	-	acyl-CoA wax alcohol acyltransferase 2	protein-coding	-	-	-	-	20151115
 143302	101636631	LOC101636631	-	-	-	Un	-	60S ribosomal protein L21 pseudogene	pseudo	-	-	-	-	20151115
@@ -18127,7 +18164,7 @@
 143302	101637746	MST1R	-	-	-	Un	-	macrophage stimulating 1 receptor	protein-coding	-	-	-	macrophage stimulating 1 receptor (c-met-related tyrosine kinase)	20151115
 143302	101637747	DLD	-	-	-	Un	-	dihydrolipoamide dehydrogenase	protein-coding	-	-	-	-	20151115
 143302	101637748	RPL35	-	-	-	Un	-	ribosomal protein L35	protein-coding	-	-	-	-	20151115
-143302	101637749	EDF1	-	-	-	-	-	endothelial differentiation-related factor 1	protein-coding	-	-	-	-	20150611
+143302	101637749	EDF1	-	-	-	-	-	endothelial differentiation-related factor 1	protein-coding	-	-	-	-	20160402
 143302	101637750	TYRP1	-	-	-	Un	-	tyrosinase-related protein 1	protein-coding	-	-	-	-	20151115
 143302	101637751	HMGCS1	-	-	-	Un	-	3-hydroxy-3-methylglutaryl-CoA synthase 1 (soluble)	protein-coding	-	-	-	-	20151115
 143302	101637752	LOC101637752	-	UGT3A2	-	Un	-	UDP-glucuronosyltransferase 3A2	protein-coding	-	-	-	UDP glycosyltransferase 3 family, polypeptide A2	20151115

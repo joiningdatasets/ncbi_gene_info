@@ -7,7 +7,7 @@
 977878	14049663	ND4L	-	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20151028
 977878	14049664	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20151028
 977878	14049665	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20151028
-977878	14049666	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20151028
+977878	14049666	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20160325
 977878	14049667	COX2	-	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20151028
 977878	14049668	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20151028
 977878	14049669	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20151028

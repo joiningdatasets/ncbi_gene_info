@@ -20,7 +20,7 @@
 83386	13080554	trnS1(gct)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120629
 83386	13080555	trnV(tac)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120613
 83386	13080556	trnL1(tag)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120629
-83386	13080557	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20150626
+83386	13080557	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20160325
 83386	13080558	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20150626
 83386	13080559	trnE(ttc)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120613
 83386	13080560	trnL2(taa)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120629

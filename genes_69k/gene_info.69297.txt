@@ -1,4 +1,4 @@
-69297	15089071	ND2	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20150626
+69297	15089071	ND2	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20160325
 69297	15089072	COX1	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20150701
 69297	15089073	COX2	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20150626
 69297	15089074	ATP8	-	-	-	MT	-	protein-coding	protein-coding	-	-	-	-	20150626

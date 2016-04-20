@@ -2642,7 +2642,7 @@
 43346	104982235	LOC104982235	-	-	-	Un	-	uncharacterized LOC104982235	ncRNA	-	-	-	-	20151115
 43346	104982236	LOC104982236	-	-	-	Un	-	lamina-associated polypeptide 2, isoforms beta/gamma-like	protein-coding	-	-	-	-	20151115
 43346	104982237	SLC25A3	-	-	-	Un	-	solute carrier family 25 (mitochondrial carrier; phosphate carrier), member 3	protein-coding	-	-	-	-	20151115
-43346	104982238	IKBIP	-	-	-	Un	-	IKBKB interacting protein	protein-coding	-	-	-	-	20151115
+43346	104982238	IKBIP	-	-	-	Un	-	IKBKB interacting protein	protein-coding	-	-	-	-	20160220
 43346	104982239	LOC104982239	-	-	-	Un	-	formin-2-like	pseudo	-	-	-	-	20151115
 43346	104982240	APAF1	-	-	-	Un	-	apoptotic peptidase activating factor 1	protein-coding	-	-	-	-	20151115
 43346	104982241	LOC104982241	-	-	-	Un	-	tenomodulin-like	protein-coding	-	-	-	-	20151115
@@ -5901,7 +5901,7 @@
 43346	104985494	RCBTB1	-	-	-	Un	-	regulator of chromosome condensation (RCC1) and BTB (POZ) domain containing protein 1	protein-coding	-	-	-	-	20151115
 43346	104985495	SH3BP2	-	-	-	Un	-	SH3-domain binding protein 2	protein-coding	-	-	-	-	20151115
 43346	104985496	CAB39L	-	-	-	Un	-	calcium binding protein 39-like	protein-coding	-	-	-	-	20151115
-43346	104985497	SETDB2	-	-	-	Un	-	SET domain, bifurcated 2	protein-coding	-	-	-	-	20151115
+43346	104985497	SETDB2	-	-	-	Un	-	SET domain, bifurcated 2	protein-coding	-	-	-	-	20160305
 43346	104985498	LOC104985498	-	-	-	Un	-	alpha-adducin-like	protein-coding	-	-	-	-	20151115
 43346	104985499	LOC104985499	-	-	-	Un	-	40S ribosomal protein S28 pseudogene	pseudo	-	-	-	-	20151115
 43346	104985500	PHF11	-	-	-	Un	-	PHD finger protein 11	protein-coding	-	-	-	-	20151115
@@ -7705,7 +7705,7 @@
 43346	104987298	LOC104987298	-	-	-	Un	-	GTPase IMAP family member 6	protein-coding	-	-	-	-	20151115
 43346	104987299	LOC104987299	-	-	-	Un	-	60S ribosomal protein L7 pseudogene	pseudo	-	-	-	-	20151115
 43346	104987300	PPEF2	-	-	-	Un	-	protein phosphatase, EF-hand calcium binding domain 2	protein-coding	-	-	-	-	20151115
-43346	104987301	G3BP2	-	-	-	Un	-	GTPase activating protein (SH3 domain) binding protein 2	protein-coding	-	-	-	-	20151115
+43346	104987301	G3BP2	-	-	-	Un	-	GTPase activating protein (SH3 domain) binding protein 2	protein-coding	-	-	-	-	20160220
 43346	104987302	USO1	-	-	-	Un	-	USO1 vesicle transport factor	protein-coding	-	-	-	-	20151115
 43346	104987303	CDKL2	-	-	-	Un	-	cyclin-dependent kinase-like 2 (CDC2-related kinase)	protein-coding	-	-	-	-	20151115
 43346	104987304	LOC104987304	-	-	-	Un	-	fatty acid-binding protein, heart pseudogene	pseudo	-	-	-	-	20151115
@@ -9564,7 +9564,7 @@
 43346	104989157	TIGD4	-	-	-	Un	-	tigger transposable element derived 4	protein-coding	-	-	-	-	20151115
 43346	104989158	ARFIP1	-	-	-	Un	-	ADP-ribosylation factor interacting protein 1	protein-coding	-	-	-	-	20151115
 43346	104989159	TMEM154	-	-	-	Un	-	transmembrane protein 154	protein-coding	-	-	-	-	20151115
-43346	104989160	FBXW7	-	-	-	Un	-	F-box and WD repeat domain containing 7, E3 ubiquitin protein ligase	protein-coding	-	-	-	-	20151115
+43346	104989160	FBXW7	-	-	-	Un	-	F-box and WD repeat domain containing 7, E3 ubiquitin protein ligase	protein-coding	-	-	-	-	20160116
 43346	104989161	LOC104989161	-	-	-	Un	-	BCL-6 corepressor-like	protein-coding	-	-	-	-	20151115
 43346	104989162	GATB	-	-	-	Un	-	glutamyl-tRNA(Gln) amidotransferase, subunit B	protein-coding	-	-	-	-	20151115
 43346	104989163	FAM160A1	-	-	-	Un	-	family with sequence similarity 160, member A1	protein-coding	-	-	-	-	20151115
@@ -17311,7 +17311,7 @@
 43346	104996904	RPL26L1	-	-	-	Un	-	ribosomal protein L26-like 1	protein-coding	-	-	-	-	20151115
 43346	104996905	ATP6V0E1	-	-	-	Un	-	ATPase, H+ transporting, lysosomal 9kDa, V0 subunit e1	protein-coding	-	-	-	-	20151115
 43346	104996906	IFT140	-	-	-	Un	-	intraflagellar transport 140	protein-coding	-	-	-	-	20151115
-43346	104996907	CREBRF	-	-	-	Un	-	CREB3 regulatory factor	protein-coding	-	-	-	-	20151115
+43346	104996907	CREBRF	-	-	-	Un	-	CREB3 regulatory factor	protein-coding	-	-	-	-	20160220
 43346	104996908	BNIP1	-	-	-	Un	-	BCL2/adenovirus E1B 19kDa interacting protein 1	protein-coding	-	-	-	-	20151115
 43346	104996909	NKX2-5	-	-	-	Un	-	NK2 homeobox 5	protein-coding	-	-	-	-	20151115
 43346	104996910	STC2	-	-	-	Un	-	stanniocalcin 2	protein-coding	-	-	-	-	20151115
@@ -22758,7 +22758,7 @@
 43346	105002351	LOC105002351	-	-	-	Un	-	kinesin-like protein KIF3C pseudogene	pseudo	-	-	-	-	20151115
 43346	105002352	LOC105002352	-	-	-	Un	-	histone-lysine N-methyltransferase SETMAR-like	pseudo	-	-	-	-	20151115
 43346	105002353	SLC10A4	-	-	-	Un	-	solute carrier family 10, member 4	protein-coding	-	-	-	-	20151115
-43346	105002354	ZAR1	-	-	-	Un	-	zygote arrest 1	protein-coding	-	-	-	-	20151115
+43346	105002354	ZAR1	-	-	-	Un	-	zygote arrest 1	protein-coding	-	-	-	-	20160130
 43346	105002355	LOC105002355	-	-	-	Un	-	FACT complex subunit SSRP1 pseudogene	pseudo	-	-	-	-	20151115
 43346	105002356	LOC105002356	-	-	-	Un	-	bile salt export pump	protein-coding	-	-	-	-	20151115
 43346	105002357	G6PC2	-	-	-	Un	-	glucose-6-phosphatase, catalytic, 2	protein-coding	-	-	-	-	20151115
@@ -24749,7 +24749,7 @@
 43346	105004342	FTO	-	-	-	Un	-	fat mass and obesity associated	protein-coding	-	-	-	-	20151115
 43346	105004343	RPGRIP1L	-	-	-	Un	-	RPGRIP1-like	protein-coding	-	-	-	-	20151115
 43346	105004344	RBL2	-	-	-	Un	-	retinoblastoma-like 2	protein-coding	-	-	-	-	20151115
-43346	105004345	AKTIP	-	-	-	Un	-	AKT interacting protein	protein-coding	-	-	-	-	20151115
+43346	105004345	AKTIP	-	-	-	Un	-	AKT interacting protein	protein-coding	-	-	-	-	20160220
 43346	105004346	LOC105004346	-	-	-	Un	-	acyl-protein thioesterase 1 pseudogene	pseudo	-	-	-	-	20151115
 43346	105004347	LOC105004347	-	-	-	Un	-	putative tRNA (cytidine(32)/guanosine(34)-2'-O)-methyltransferase pseudogene	pseudo	-	-	-	-	20151115
 43346	105004348	FAM46A	-	-	-	Un	-	family with sequence similarity 46, member A	protein-coding	-	-	-	-	20151115

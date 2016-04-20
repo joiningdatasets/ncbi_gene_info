@@ -13,13 +13,13 @@
 41807	24251666	COX1	AAW59_gp11	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20151007
 41807	24251667	trnS2(tga)	AAW59_gt12	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150506
 41807	24251668	trnD(gtc)	AAW59_gt13	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150506
-41807	24251669	COX2	AAW59_gp10	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20151007
+41807	24251669	COX2	AAW59_gp10	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20160325
 41807	24251670	trnK(ttt)	AAW59_gt14	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150506
 41807	24251671	ATP8	AAW59_gp09	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20151007
-41807	24251672	ATP6	AAW59_gp08	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20151007
+41807	24251672	ATP6	AAW59_gp08	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20160325
 41807	24251673	COX3	AAW59_gp07	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20151007
 41807	24251674	trnG(tcc)	AAW59_gt15	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150506
-41807	24251675	ND3	AAW59_gp06	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20151007
+41807	24251675	ND3	AAW59_gp06	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20160325
 41807	24251676	trnR(tcg)	AAW59_gt16	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150506
 41807	24251677	ND4L	AAW59_gp05	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20151007
 41807	24251678	ND4	AAW59_gp04	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20151007
