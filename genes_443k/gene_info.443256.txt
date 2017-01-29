@@ -3,12 +3,12 @@
 443256	5383357	tRNA-Met	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20121126
 443256	5383358	tRNA-Asp	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20121126
 443256	5383359	tRNA-Lys	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20121126
-443256	5383360	COX1	-	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20150704
+443256	5383360	COX1	-	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20160820
 443256	5383361	tRNA-Thr	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20121126
-443256	5383362	COX2	-	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20150626
+443256	5383362	COX2	-	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20160903
 443256	5383363	ND4L	-	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20150626
 443256	5383364	tRNA-Asn	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20121126
-443256	5383365	COX3	-	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20150626
+443256	5383365	COX3	-	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20160827
 443256	5383366	tRNA-Cys	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20121126
 443256	5383367	16S rRNA	-	-	-	MT	-	l-rRNA	rRNA	-	-	-	-	20121126
 443256	5383368	tRNA-Ser (AGY)	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20121126
@@ -19,11 +19,11 @@
 443256	5383373	tRNA-Phe	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20121126
 443256	5383374	12S rRNA	-	-	-	MT	-	s-rRNA	rRNA	-	-	-	-	20121126
 443256	5383375	tRNA-Val	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20121126
-443256	5383376	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20150626
-443256	5383377	ND2	-	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20160325
+443256	5383376	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20160924
+443256	5383377	ND2	-	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20160806
 443256	5383378	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20150626
 443256	5383379	ND3	-	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20150626
-443256	5383380	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20160325
+443256	5383380	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20160827
 443256	5383381	ATP6	-	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20150626
 443256	5383382	tRNA-Trp	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20121126
 443256	5383383	tRNA-Gly	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20121126

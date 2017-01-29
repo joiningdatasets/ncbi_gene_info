@@ -1,0 +1,37 @@
+508668	30685323	BVC39_gt07	BVC39_gt07	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228
+508668	30685324	BVC39_gt04	BVC39_gt04	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228
+508668	30685325	BVC39_gt12	BVC39_gt12	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228
+508668	30685326	BVC39_gt14	BVC39_gt14	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228
+508668	30685327	ATP6	BVC39_gp08	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20170106
+508668	30685328	COX3	BVC39_gp07	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20170106
+508668	30685329	BVC39_gt15	BVC39_gt15	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228
+508668	30685330	BVC39_gt16	BVC39_gt16	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228
+508668	30685331	ND4	BVC39_gp04	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20170106
+508668	30685332	BVC39_gt17	BVC39_gt17	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228
+508668	30685333	ND6	BVC39_gp02	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20170106
+508668	30685334	BVC39_gt20	BVC39_gt20	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228
+508668	30685335	BVC39_gt21	BVC39_gt21	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228
+508668	30685336	BVC39_gt01	BVC39_gt01	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228
+508668	30685337	BVC39_gr02	BVC39_gr02	-	-	MT	-	12S ribosomal RNA	rRNA	-	-	-	-	20161228
+508668	30685338	BVC39_gt02	BVC39_gt02	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228
+508668	30685339	BVC39_gr01	BVC39_gr01	-	-	MT	-	16S ribosomal RNA	rRNA	-	-	-	-	20161228
+508668	30685340	BVC39_gt03	BVC39_gt03	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228
+508668	30685341	ND1	BVC39_gp13	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20170106
+508668	30685342	BVC39_gt05	BVC39_gt05	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228
+508668	30685343	BVC39_gt06	BVC39_gt06	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228
+508668	30685344	ND2	BVC39_gp12	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20170106
+508668	30685345	BVC39_gt08	BVC39_gt08	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228
+508668	30685346	BVC39_gt09	BVC39_gt09	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228
+508668	30685347	BVC39_gt10	BVC39_gt10	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228
+508668	30685348	BVC39_gt11	BVC39_gt11	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228
+508668	30685349	COX1	BVC39_gp11	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20170106
+508668	30685350	BVC39_gt13	BVC39_gt13	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228
+508668	30685351	COX2	BVC39_gp10	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20170106
+508668	30685352	ATP8	BVC39_gp09	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20170106
+508668	30685353	ND3	BVC39_gp06	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20170106
+508668	30685354	ND4L	BVC39_gp05	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20170106
+508668	30685355	BVC39_gt18	BVC39_gt18	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228
+508668	30685356	BVC39_gt19	BVC39_gt19	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228
+508668	30685357	ND5	BVC39_gp03	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20170106
+508668	30685358	CYTB	BVC39_gp01	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20170106
+508668	30685359	BVC39_gt22	BVC39_gt22	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228

@@ -2,16 +2,16 @@
 9715	4355863	16S rRNA	-	-	-	MT	-	l-rRNA	rRNA	-	-	-	-	20120919
 9715	4355864	ATP6	-	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20150626
 9715	4355865	ATP8	-	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20150626
-9715	4355866	COX1	-	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20150701
-9715	4355867	COX2	-	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20150626
-9715	4355868	COX3	-	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20150626
+9715	4355866	COX1	-	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20160813
+9715	4355867	COX2	-	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20160910
+9715	4355868	COX3	-	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20160813
 9715	4355869	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20150626
 9715	4355870	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20150626
-9715	4355871	ND2	-	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20160325
+9715	4355871	ND2	-	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20160910
 9715	4355872	ND3	-	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20150626
-9715	4355873	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20150626
+9715	4355873	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20160910
 9715	4355874	ND4L	-	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20150626
-9715	4355875	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20150626
+9715	4355875	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20160910
 9715	4355876	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20150626
 9715	4355877	tRNA-Ala	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919
 9715	4355878	tRNA-Arg	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120919

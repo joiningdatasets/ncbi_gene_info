@@ -3,10 +3,10 @@
 61405	26130039	ASQ71_gt12	ASQ71_gt12	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
 61405	26130040	ASQ71_gt14	ASQ71_gt14	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
 61405	26130041	ATP6	ASQ71_gp08	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20160309
-61405	26130042	COX3	ASQ71_gp07	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20160309
+61405	26130042	COX3	ASQ71_gp07	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20160716
 61405	26130043	ASQ71_gt15	ASQ71_gt15	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
 61405	26130044	ASQ71_gt16	ASQ71_gt16	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
-61405	26130045	ND4	ASQ71_gp04	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20160309
+61405	26130045	ND4	ASQ71_gp04	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20160716
 61405	26130046	ASQ71_gt17	ASQ71_gt17	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
 61405	26130047	ND6	ASQ71_gp02	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20160309
 61405	26130048	ASQ71_gt20	ASQ71_gt20	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
@@ -18,20 +18,20 @@
 61405	26130054	ND1	ASQ71_gp13	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20160309
 61405	26130055	ASQ71_gt05	ASQ71_gt05	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
 61405	26130056	ASQ71_gt06	ASQ71_gt06	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
-61405	26130057	ND2	ASQ71_gp12	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20160309
+61405	26130057	ND2	ASQ71_gp12	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20160716
 61405	26130058	ASQ71_gt08	ASQ71_gt08	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
 61405	26130059	ASQ71_gt09	ASQ71_gt09	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
 61405	26130060	ASQ71_gt10	ASQ71_gt10	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
 61405	26130061	ASQ71_gt11	ASQ71_gt11	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
-61405	26130062	COX1	ASQ71_gp11	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20160309
+61405	26130062	COX1	ASQ71_gp11	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20160716
 61405	26130063	ASQ71_gt13	ASQ71_gt13	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
-61405	26130064	COX2	ASQ71_gp10	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20160309
+61405	26130064	COX2	ASQ71_gp10	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20160827
 61405	26130065	ATP8	ASQ71_gp09	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20160309
 61405	26130066	ND3	ASQ71_gp06	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20160309
 61405	26130067	ND4L	ASQ71_gp05	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20160309
 61405	26130068	ASQ71_gt18	ASQ71_gt18	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
 61405	26130069	ASQ71_gt19	ASQ71_gt19	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
-61405	26130070	ND5	ASQ71_gp03	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20160309
+61405	26130070	ND5	ASQ71_gp03	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20160716
 61405	26130071	CYTB	ASQ71_gp01	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20160309
 61405	26130072	ASQ71_gt22	ASQ71_gt22	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
 61405	26130073	ASQ71_gt01	ASQ71_gt01	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106

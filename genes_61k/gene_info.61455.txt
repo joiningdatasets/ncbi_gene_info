@@ -3,10 +3,10 @@
 61455	24286833	AA849_gt12	AA849_gt12	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150515
 61455	24286834	AA849_gt14	AA849_gt14	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150515
 61455	24286835	ATP6	AA849_gp08	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20160406
-61455	24286836	COX3	AA849_gp07	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20151007
+61455	24286836	COX3	AA849_gp07	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20160716
 61455	24286837	AA849_gt15	AA849_gt15	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150515
 61455	24286838	AA849_gt16	AA849_gt16	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150515
-61455	24286839	ND4	AA849_gp04	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20160217
+61455	24286839	ND4	AA849_gp04	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20160716
 61455	24286840	AA849_gt17	AA849_gt17	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150515
 61455	24286841	ND6	AA849_gp02	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20151007
 61455	24286842	AA849_gt20	AA849_gt20	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150515
@@ -19,19 +19,19 @@
 61455	24286849	ND1	AA849_gp13	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20151007
 61455	24286850	AA849_gt05	AA849_gt05	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150515
 61455	24286851	AA849_gt06	AA849_gt06	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150515
-61455	24286852	ND2	AA849_gp12	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20160217
+61455	24286852	ND2	AA849_gp12	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20160716
 61455	24286853	AA849_gt08	AA849_gt08	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150515
 61455	24286854	AA849_gt09	AA849_gt09	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150515
 61455	24286855	AA849_gt10	AA849_gt10	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150515
 61455	24286856	AA849_gt11	AA849_gt11	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150515
-61455	24286857	COX1	AA849_gp11	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20151007
+61455	24286857	COX1	AA849_gp11	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20160813
 61455	24286858	AA849_gt13	AA849_gt13	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150515
-61455	24286859	COX2	AA849_gp10	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20151007
+61455	24286859	COX2	AA849_gp10	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20160806
 61455	24286860	ATP8	AA849_gp09	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20160325
 61455	24286861	ND3	AA849_gp06	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20151007
 61455	24286862	ND4L	AA849_gp05	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20160217
 61455	24286863	AA849_gt18	AA849_gt18	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150515
 61455	24286864	AA849_gt19	AA849_gt19	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150515
-61455	24286865	ND5	AA849_gp03	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20160406
+61455	24286865	ND5	AA849_gp03	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20160716
 61455	24286866	CYTB	AA849_gp01	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20151007
 61455	24286867	AA849_gt22	AA849_gt22	-	-	MT	-	tRNA	tRNA	-	-	-	-	20150515

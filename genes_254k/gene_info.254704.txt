@@ -1,9 +1,9 @@
 254704	6264314	ATP6	-	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20160325
 254704	6264315	ND3	-	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20150626
 254704	6264316	trnH	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120927
-254704	6264317	ND2	-	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20150626
+254704	6264317	ND2	-	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20160924
 254704	6264318	trnM	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120927
-254704	6264319	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20150626
+254704	6264319	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20160924
 254704	6264320	trnP	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120927
 254704	6264321	ATP8	-	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20150626
 254704	6264322	trnK	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120927
@@ -19,15 +19,15 @@
 254704	6264332	trnL2	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120927
 254704	6264333	Rnr2	-	-	-	MT	-	l-rRNA	rRNA	-	-	-	-	20120927
 254704	6264334	trnV	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120927
-254704	6264335	COX1	-	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20150801
+254704	6264335	COX1	-	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20160924
 254704	6264336	Rnr1	-	-	-	MT	-	s-rRNA	rRNA	-	-	-	-	20120927
-254704	6264337	COX2	-	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20150626
+254704	6264337	COX2	-	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20160813
 254704	6264338	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20150626
 254704	6264339	ND4L	-	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20150626
 254704	6264340	trnY	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120927
-254704	6264341	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20150626
+254704	6264341	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20160924
 254704	6264342	trnI	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120927
-254704	6264343	COX3	-	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20150626
+254704	6264343	COX3	-	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20160924
 254704	6264344	trnF	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120927
 254704	6264345	trnR	-	-	-	MT	-	tRNA	tRNA	-	-	-	-	20120927
 254704	6264346	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20150626
