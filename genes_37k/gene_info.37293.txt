@@ -1892,14 +1892,14 @@
 37293	105706342	LOC105706342	-	-	-	Un	-	chromosome unknown open reading frame, human C6orf47	protein-coding	-	-	-	-	20160716
 37293	105706343	APOM	-	-	-	Un	-	apolipoprotein M	protein-coding	-	-	-	-	20160716
 37293	105706344	GPANK1	-	-	-	Un	-	G-patch domain and ankyrin repeats 1	protein-coding	-	-	-	-	20160809
-37293	105706345	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	-	20151115
+37293	105706345	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5B	20170130
 37293	105706346	CSNK2B	-	-	-	Un	-	casein kinase 2 beta	protein-coding	-	-	-	-	20160729
-37293	105706347	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	-	20151115
+37293	105706347	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5C	20170130
 37293	105706348	ABHD16A	-	-	-	Un	-	abhydrolase domain containing 16A	protein-coding	-	-	-	-	20160716
-37293	105706349	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	-	20160716
-37293	105706350	LY6G6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6D	protein-coding	-	-	-	-	20151115
+37293	105706349	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6F	20170130
+37293	105706350	LY6G6D	-	-	-	Un	-	lymphocyte antigen 6 family member G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6D	20170130
 37293	105706351	LOC105706351	-	-	-	Un	-	sperm acrosome membrane-associated protein 4-like	protein-coding	-	-	-	-	20160716
-37293	105706352	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	-	20160716
+37293	105706352	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6C	20170130
 37293	105706353	MPIG6B	-	-	-	Un	-	megakaryocyte and platelet inhibitory receptor G6b	protein-coding	-	-	-	-	20170107
 37293	105706354	DDAH2	-	-	-	Un	-	dimethylarginine dimethylaminohydrolase 2	protein-coding	-	-	-	-	20160730
 37293	105706355	CLIC1	-	-	-	Un	-	chloride intracellular channel 1	protein-coding	-	-	-	-	20151115
@@ -4224,7 +4224,7 @@
 37293	105708674	LOC105708674	-	-	-	Un	-	tubulin beta-2A chain-like	protein-coding	-	-	-	-	20160716
 37293	105708675	LOC105708675	-	-	-	Un	-	protein FAM136A pseudogene	pseudo	-	-	-	-	20151115
 37293	105708676	LOC105708676	-	-	-	Un	-	HIV Tat-specific factor 1-like	pseudo	-	-	-	-	20151115
-37293	105708677	NQO2	-	-	-	Un	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	-	20160729
+37293	105708677	NQO2	-	-	-	Un	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	NAD(P)H quinone dehydrogenase 2	20170130
 37293	105708678	LOC105708678	-	-	-	Un	-	uncharacterized LOC105708678	pseudo	-	-	-	-	20151115
 37293	105708679	GJB4	-	-	-	Un	-	gap junction protein beta 4	protein-coding	-	-	-	-	20160811
 37293	105708680	FAM50B	-	-	-	Un	-	family with sequence similarity 50 member B	protein-coding	-	-	-	-	20160810
@@ -8319,7 +8319,7 @@
 37293	105712769	LOC105712769	-	-	-	Un	-	60S ribosomal protein L23a pseudogene	pseudo	-	-	-	-	20151115
 37293	105712770	LOC105712770	-	-	-	Un	-	MOB-like protein phocein	protein-coding	-	-	-	-	20160716
 37293	105712771	LOC105712771	-	-	-	Un	-	elongation factor 1-gamma-like	pseudo	-	-	-	-	20151115
-37293	105712772	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	-	20160811
+37293	105712772	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 37293	105712773	LOC105712773	-	-	-	Un	-	SCY1-like protein 2 pseudogene	pseudo	-	-	-	-	20151115
 37293	105712774	TRAK2	-	-	-	Un	-	trafficking kinesin protein 2	protein-coding	-	-	-	-	20160729
 37293	105712775	LOC105712775	-	-	-	Un	-	uncharacterized LOC105712775	ncRNA	-	-	-	-	20151115
@@ -10475,7 +10475,7 @@
 37293	105714925	NCF1	-	-	-	Un	-	neutrophil cytosolic factor 1	protein-coding	-	-	-	-	20160716
 37293	105714926	RCC1L	-	-	-	Un	-	RCC1 like	protein-coding	-	-	-	-	20160729
 37293	105714927	GATSL2	-	-	-	Un	-	GATS protein like 2	protein-coding	-	-	-	-	20160729
-37293	105714928	AUTS2	-	-	-	Un	-	autism susceptibility candidate 2	protein-coding	-	-	-	-	20160716
+37293	105714928	AUTS2	-	-	-	Un	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility candidate 2	20170130
 37293	105714929	LOC105714929	-	-	-	Un	-	40S ribosomal protein S4, X isoform-like	pseudo	-	-	-	-	20151115
 37293	105714930	WBSCR17	-	-	-	Un	-	Williams-Beuren syndrome chromosome region 17	protein-coding	-	-	-	-	20160716
 37293	105714931	CALN1	-	-	-	Un	-	calneuron 1	protein-coding	-	-	-	-	20160820
@@ -23630,9 +23630,9 @@
 37293	105728080	TSNARE1	-	-	-	Un	-	t-SNARE domain containing 1	protein-coding	-	-	-	-	20160716
 37293	105728081	LOC105728081	-	-	-	Un	-	brain-specific angiogenesis inhibitor 1	protein-coding	-	-	-	-	20160716
 37293	105728082	LOC105728082	-	-	-	Un	-	brain-specific angiogenesis inhibitor 1-like	protein-coding	-	-	-	-	20160716
-37293	105728083	LY6K	-	-	-	Un	-	lymphocyte antigen 6 complex, locus K	protein-coding	-	-	-	-	20151115
+37293	105728083	LY6K	-	-	-	Un	-	lymphocyte antigen 6 family member K	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus K	20170130
 37293	105728084	THEM6	-	-	-	Un	-	thioesterase superfamily member 6	protein-coding	-	-	-	-	20160716
-37293	105728085	LY6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus D	protein-coding	-	-	-	-	20160716
+37293	105728085	LY6D	-	-	-	Un	-	lymphocyte antigen 6 family member D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus D	20170130
 37293	105728086	LOC105728086	-	-	-	Un	-	cytochrome P450 11B2, mitochondrial	protein-coding	-	-	-	-	20160716
 37293	105728087	LOC105728087	-	-	-	Un	-	uncharacterized LOC105728087	protein-coding	-	-	-	-	20151115
 37293	105728088	SCFD1	-	-	-	Un	-	sec1 family domain containing 1	protein-coding	-	-	-	-	20160716
@@ -23648,7 +23648,7 @@
 37293	105728098	PSCA	-	-	-	Un	-	prostate stem cell antigen	protein-coding	-	-	-	-	20160716
 37293	105728099	LOC105728099	-	-	-	Un	-	cytochrome P450 11B1, mitochondrial	protein-coding	-	-	-	-	20160716
 37293	105728100	LOC105728100	-	-	-	Un	-	lymphocyte antigen 6H-like	protein-coding	-	-	-	-	20151115
-37293	105728101	LY6E	-	-	-	Un	-	lymphocyte antigen 6 complex, locus E	protein-coding	-	-	-	-	20160716
+37293	105728101	LY6E	-	-	-	Un	-	lymphocyte antigen 6 family member E	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus E	20170130
 37293	105728102	LOC105728102	-	-	-	Un	-	lymphocyte antigen 6H	protein-coding	-	-	-	-	20160716
 37293	105728103	LOC105728103	-	-	-	Un	-	homeobox protein VENTX pseudogene	pseudo	-	-	-	-	20151115
 37293	105728104	LOC105728104	-	-	-	Un	-	uncharacterized LOC105728104	ncRNA	-	-	-	-	20151115

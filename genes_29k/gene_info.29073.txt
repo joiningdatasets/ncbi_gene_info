@@ -629,7 +629,7 @@
 29073	103656674	ZFP41	-	-	-	Un	-	ZFP41 zinc finger protein	protein-coding	-	-	-	-	20160917
 29073	103656675	GPIHBP1	-	-	-	Un	-	glycosylphosphatidylinositol anchored high density lipoprotein binding protein 1	protein-coding	-	-	-	-	20160917
 29073	103656676	LOC103656676	-	-	-	Un	-	uncharacterized LOC103656676	ncRNA	-	-	-	-	20151115
-29073	103656677	LY6H	-	-	-	Un	-	lymphocyte antigen 6 complex, locus H	protein-coding	-	-	-	-	20160917
+29073	103656677	LY6H	-	-	-	Un	-	lymphocyte antigen 6 family member H	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus H	20170130
 29073	103656678	LOC103656678	-	-	-	Un	-	chromosome unknown open reading frame, human C8orf33	protein-coding	-	-	-	-	20160917
 29073	103656679	RPL8	-	-	-	Un	-	ribosomal protein L8	protein-coding	-	-	-	-	20160917
 29073	103656680	LOC103656680	-	-	-	Un	-	zinc finger protein 251 pseudogene	pseudo	-	-	-	-	20151115
@@ -3695,7 +3695,7 @@
 29073	103659740	CFLAR	-	-	-	Un	-	CASP8 and FADD like apoptosis regulator	protein-coding	-	-	-	-	20160917
 29073	103659741	LOC103659741	-	-	-	Un	-	uncharacterized LOC103659741	ncRNA	-	-	-	-	20151115
 29073	103659742	CASP8	-	-	-	Un	-	caspase 8	protein-coding	-	-	-	-	20160917
-29073	103659743	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	-	20160917
+29073	103659743	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 29073	103659744	TRAK2	-	-	-	Un	-	trafficking kinesin protein 2	protein-coding	-	-	-	-	20160917
 29073	103659745	STRADB	-	-	-	Un	-	STE20-related kinase adaptor beta	protein-coding	-	-	-	-	20151115
 29073	103659746	LOC103659746	-	-	-	Un	-	40S ribosomal protein S15a pseudogene	pseudo	-	-	-	-	20151115
@@ -8918,7 +8918,7 @@
 29073	103664963	BPHL	-	-	-	Un	-	biphenyl hydrolase like	protein-coding	-	-	-	-	20160917
 29073	103664964	RIPK1	-	-	-	Un	-	receptor interacting serine/threonine kinase 1	protein-coding	-	-	-	-	20160917
 29073	103664965	DSC2	-	-	-	Un	-	desmocollin 2	protein-coding	-	-	-	-	20160917
-29073	103664966	NQO2	-	-	-	Un	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	-	20160917
+29073	103664966	NQO2	-	-	-	Un	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	NAD(P)H quinone dehydrogenase 2	20170130
 29073	103664967	LOC103664967	-	-	-	Un	-	uncharacterized LOC103664967	ncRNA	-	-	-	-	20151115
 29073	103664968	SERPINB6	-	-	-	Un	-	serpin family B member 6	protein-coding	-	-	-	-	20160917
 29073	103664969	LOC103664969	-	-	-	Un	-	tigger transposable element-derived protein 1-like	pseudo	-	-	-	-	20151115
@@ -14188,7 +14188,7 @@
 29073	103670233	RFC2	-	-	-	Un	-	replication factor C subunit 2	protein-coding	-	-	-	-	20160917
 29073	103670234	CLIP2	-	-	-	Un	-	CAP-Gly domain containing linker protein 2	protein-coding	-	-	-	-	20160917
 29073	103670235	GATSL2	-	-	-	Un	-	GATS protein like 2	protein-coding	-	-	-	-	20160917
-29073	103670236	AUTS2	-	-	-	Un	-	autism susceptibility candidate 2	protein-coding	-	-	-	-	20160917
+29073	103670236	AUTS2	-	-	-	Un	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility candidate 2	20170130
 29073	103670237	LOC103670237	-	-	-	Un	-	60S ribosomal protein L23a pseudogene	pseudo	-	-	-	-	20151115
 29073	103670238	TMEM248	-	-	-	Un	-	transmembrane protein 248	protein-coding	-	-	-	-	20160917
 29073	103670239	LOC103670239	-	-	-	Un	-	10 kDa heat shock protein, mitochondrial pseudogene	pseudo	-	-	-	-	20151115
@@ -14553,7 +14553,7 @@
 29073	103670598	LOC103670598	-	-	-	Un	-	uncharacterized LOC103670598	ncRNA	-	-	-	-	20151115
 29073	103670599	SLURP1	-	-	-	Un	-	secreted LY6/PLAUR domain containing 1	protein-coding	-	-	-	-	20151115
 29073	103670600	LOC103670600	-	-	-	Un	-	ly-6/neurotoxin-like protein 1	protein-coding	-	-	-	-	20151115
-29073	103670601	LY6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus D	protein-coding	-	-	-	-	20151115
+29073	103670601	LY6D	-	-	-	Un	-	lymphocyte antigen 6 family member D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus D	20170130
 29073	103670602	LOC103670602	-	-	-	Un	-	tropomyosin alpha-3 chain pseudogene	pseudo	-	-	-	-	20151115
 29073	103670603	GTF2A1	-	-	-	Un	-	general transcription factor IIA subunit 1	protein-coding	-	-	-	-	20160917
 29073	103670604	AGO2	-	-	-	Un	-	argonaute 2, RISC catalytic component	protein-coding	-	-	-	-	20160917
@@ -26253,13 +26253,13 @@
 29073	103682298	CLIC1	-	-	-	Un	-	chloride intracellular channel 1	protein-coding	-	-	-	-	20151115
 29073	103682299	DDAH2	-	-	-	Un	-	dimethylarginine dimethylaminohydrolase 2	protein-coding	-	-	-	-	20160806
 29073	103682300	LOC103682300	-	-	-	Un	-	60 kDa heat shock protein, mitochondrial pseudogene	pseudo	-	-	-	-	20151115
-29073	103682301	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	-	20160813
-29073	103682302	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	-	20160917
+29073	103682301	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6C	20170130
+29073	103682302	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6F	20170130
 29073	103682303	LOC103682303	-	-	-	Un	-	sperm acrosome membrane-associated protein 4-like	protein-coding	-	-	-	-	20160917
-29073	103682304	LY6G6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6D	protein-coding	-	-	-	-	20151115
+29073	103682304	LY6G6D	-	-	-	Un	-	lymphocyte antigen 6 family member G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6D	20170130
 29073	103682305	ABHD16A	-	-	-	Un	-	abhydrolase domain containing 16A	protein-coding	-	-	-	-	20160917
-29073	103682306	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	-	20151115
-29073	103682307	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	-	20151115
+29073	103682306	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5C	20170130
+29073	103682307	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5B	20170130
 29073	103682308	CSNK2B	-	-	-	Un	-	casein kinase 2 beta	protein-coding	-	-	-	-	20160729
 29073	103682309	LOC103682309	-	-	-	Un	-	uncharacterized LOC103682309	ncRNA	-	-	-	-	20151115
 29073	103682310	LOC103682310	-	-	-	Un	-	tRNA (cytosine(34)-C(5))-methyltransferase pseudogene	pseudo	-	-	-	-	20151115

@@ -702,7 +702,7 @@
 9940	808259	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20151225
 9940	808260	CYTB	-	Cytb	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20151225
 9940	808261	COX3	-	COIII	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20160924
-9940	2828237	NEWENTRY	-	-	-	-	-	Record to support submission of GeneRIFs for a gene not in Gene (Ovis ammon aries; Ovis orientalis aries; Ovis ovis; domestic sheep; lambs; sheep; wild sheep).	other	-	-	-	-	20161217
+9940	2828237	NEWENTRY	-	-	-	-	-	Record to support submission of GeneRIFs for a gene not in Gene (Ovis ammon aries; Ovis orientalis aries; Ovis ovis; domestic sheep; lambs; sheep; wild sheep).	other	-	-	-	-	20170128
 9940	100034665	NOX4	-	-	Ensembl:ENSOARG00000003844	21	-	NADPH oxidase 4	protein-coding	-	-	-	-	20160827
 9940	100034666	TYRP1	-	-	Ensembl:ENSOARG00000013796	2	-	tyrosinase related protein 1	protein-coding	-	-	-	5,6-dihydroxyindole-2-carboxylic acid oxidase	20160827
 9940	100034667	NOX1	-	-	Ensembl:ENSOARG00000001070	X	-	NADPH oxidase 1	protein-coding	-	-	-	-	20160808
@@ -3824,7 +3824,7 @@
 9940	101103846	PRC1	-	-	Ensembl:ENSOARG00000012267	18	-	protein regulator of cytokinesis 1	protein-coding	-	-	-	-	20160716
 9940	101103848	ZBED9	-	SCAND3	-	20	-	zinc finger BED-type containing 9	protein-coding	-	-	-	SCAN domain containing 3	20160827
 9940	101103849	NOL7	-	-	Ensembl:ENSOARG00000013334	20	-	nucleolar protein 7	protein-coding	-	-	-	nucleolar protein 7, 27kDa	20160716
-9940	101103850	LY6G6F	-	-	-	20	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	-	20160730
+9940	101103850	LY6G6F	-	-	-	20	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6F	20170130
 9940	101103851	KNCN	-	-	Ensembl:ENSOARG00000002531	1	-	kinocilin	protein-coding	-	-	-	-	20160827
 9940	101103853	LOC101103853	-	-	Ensembl:ENSOARG00000015389	21	-	putative olfactory receptor 10D4	protein-coding	-	-	-	-	20160827
 9940	101103854	PSRC1	-	-	Ensembl:ENSOARG00000019138	1	-	proline and serine rich coiled-coil 1	protein-coding	-	-	-	-	20160827
@@ -4052,7 +4052,7 @@
 9940	101104097	PDZRN3	-	-	-	19	-	PDZ domain containing ring finger 3	protein-coding	-	-	-	-	20160808
 9940	101104098	GPX6	-	-	-	20	-	glutathione peroxidase 6	protein-coding	-	-	-	glutathione peroxidase 6 (olfactory)	20160526
 9940	101104099	SIRT5	-	-	Ensembl:ENSOARG00000013531	20	-	sirtuin 5	protein-coding	-	-	-	-	20160716
-9940	101104100	LY6G5C	-	-	-	20	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	-	20160526
+9940	101104100	LY6G5C	-	-	-	20	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5C	20170130
 9940	101104101	CCDC89	-	-	Ensembl:ENSOARG00000015229	21	-	coiled-coil domain containing 89	protein-coding	-	-	-	-	20160526
 9940	101104102	MKNK1	-	-	Ensembl:ENSOARG00000002565	1	-	MAP kinase interacting serine/threonine kinase 1	protein-coding	-	-	-	-	20160730
 9940	101104103	ADGRL2	-	LPHN2	Ensembl:ENSOARG00000013620	1	-	adhesion G protein-coupled receptor L2	protein-coding	-	-	-	latrophilin 2	20160924
@@ -7184,7 +7184,7 @@
 9940	101107574	LNPK	-	KIAA1715	Ensembl:ENSOARG00000000151	2	-	lunapark, ER junction formation factor	protein-coding	-	-	-	-	20160827
 9940	101107575	SLC4A10	-	-	Ensembl:ENSOARG00000006594	2	-	solute carrier family 4 member 10	protein-coding	-	-	-	-	20160827
 9940	101107576	FAM3A	-	-	Ensembl:ENSOARG00000004248	X	-	family with sequence similarity 3 member A	protein-coding	-	-	-	-	20160827
-9940	101107577	ALS2CR12	-	-	Ensembl:ENSOARG00000016986	2	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 (juvenile) chromosome region, candidate 12	20160827
+9940	101107577	ALS2CR12	-	-	Ensembl:ENSOARG00000016986	2	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 (juvenile) chromosome region, candidate 12|amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 9940	101107578	ARMCX3	-	-	-	X	-	armadillo repeat containing, X-linked 3	protein-coding	-	-	-	-	20160827
 9940	101107579	B3GNT7	-	-	Ensembl:ENSOARG00000020705	2	-	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 7	protein-coding	-	-	-	-	20160827
 9940	101107580	TMEM222	-	-	Ensembl:ENSOARG00000003660	2	-	transmembrane protein 222	protein-coding	-	-	-	-	20160716
@@ -17090,7 +17090,7 @@
 9940	101118643	TRIAP1	-	-	Ensembl:ENSOARG00000012315	17	-	TP53 regulated inhibitor of apoptosis 1	protein-coding	-	-	-	-	20160910
 9940	101118644	SRRD	-	-	Ensembl:ENSOARG00000001087	17	-	SRR1 domain containing	protein-coding	-	-	-	-	20160827
 9940	101118645	LOC101118645	-	-	Ensembl:ENSOARG00000007087	18	-	uncharacterized LOC101118645	protein-coding	-	-	-	-	20160827
-9940	101118646	LY6G6C	-	-	Ensembl:ENSOARG00000005924	20	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	-	20160827
+9940	101118646	LY6G6C	-	-	Ensembl:ENSOARG00000005924	20	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6C	20170130
 9940	101118647	LOC101118647	-	MNF1	Ensembl:ENSOARG00000010327	20	-	ubiquinol-cytochrome-c reductase complex assembly factor 2	protein-coding	-	-	-	mitochondrial nucleoid factor 1	20160526
 9940	101118648	HEPHL1	-	-	Ensembl:ENSOARG00000001935	21	-	hephaestin like 1	protein-coding	-	-	-	-	20160827
 9940	101118649	LOC101118649	-	-	-	1	-	40S ribosomal protein S6 pseudogene	pseudo	-	-	-	-	20160526
@@ -17374,7 +17374,7 @@
 9940	101118958	LOC101118958	-	-	-	7	-	HIG1 domain family member 1A, mitochondrial pseudogene	pseudo	-	-	-	-	20160526
 9940	101118959	PDSS2	-	-	Ensembl:ENSOARG00000011026	8	-	decaprenyl diphosphate synthase subunit 2	protein-coding	-	-	-	prenyl (decaprenyl) diphosphate synthase, subunit 2	20161206
 9940	101118960	LOC101118960	-	-	-	8	-	trace amine-associated receptor 7a-like	protein-coding	-	-	-	-	20160730
-9940	101118961	LY6D	-	-	Ensembl:ENSOARG00000001616	9	-	lymphocyte antigen 6 complex, locus D	protein-coding	-	-	-	-	20160827
+9940	101118961	LY6D	-	-	Ensembl:ENSOARG00000001616	9	-	lymphocyte antigen 6 family member D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus D	20170130
 9940	101118962	YTHDF3	-	-	Ensembl:ENSOARG00000016882	9	-	YTH N6-methyladenosine RNA binding protein 3	protein-coding	-	-	-	YTH domain family, member 3	20160910
 9940	101118963	LOC101118963	-	-	Ensembl:ENSOARG00000014715	9	-	zinc finger protein 134-like	protein-coding	-	-	-	-	20160730
 9940	101118964	LOC101118964	-	-	-	10	-	snRNA-activating protein complex subunit 1 pseudogene	pseudo	-	-	-	-	20160526
@@ -17716,7 +17716,7 @@
 9940	101119338	ZBTB47	-	-	-	19	-	zinc finger and BTB domain containing 47	protein-coding	-	-	-	-	20160730
 9940	101119339	LHFPL5	-	-	-	20	-	lipoma HMGIC fusion partner-like 5	protein-coding	-	-	-	-	20160827
 9940	101119340	CLIC5	-	-	Ensembl:ENSOARG00000010466	20	-	chloride intracellular channel 5	protein-coding	-	-	-	-	20160526
-9940	101119341	LY6G6D	-	-	Ensembl:ENSOARG00000005880	20	-	lymphocyte antigen 6 complex, locus G6D	protein-coding	-	-	-	-	20160526
+9940	101119341	LY6G6D	-	-	Ensembl:ENSOARG00000005880	20	-	lymphocyte antigen 6 family member G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6D	20170130
 9940	101119342	OVAR-DRB1	-	DRB1	-	20	-	DLA class II histocompatibility antigen, DR-1 beta chain-like	protein-coding	-	-	-	DLA class II histocompatibility antigen, DR-1 beta chain-like|MHC DR beta chain|MHC OVAR-DRB1|MHC OVAR-DRB1.2 chain|MHC class II antigen|ovar-MHCII-DRB1	20170129
 9940	101119343	HEYL	-	-	Ensembl:ENSOARG00000020088	1	-	hes related family bHLH transcription factor with YRPW motif-like	protein-coding	-	-	-	hairy/enhancer-of-split related with YRPW motif-like protein-like	20160729
 9940	101119344	MUTYH	-	-	Ensembl:ENSOARG00000001528	1	-	mutY DNA glycosylase	protein-coding	-	-	-	mutY homolog	20160730
@@ -18177,7 +18177,7 @@
 9940	101119852	LOC101119852	-	-	-	18	-	myeloid-associated differentiation marker-like	protein-coding	-	-	-	-	20160716
 9940	101119853	LOC101119853	-	-	Ensembl:ENSOARG00000014043	19	-	5-beta-cholestane-3-alpha,7-alpha-diol 12-alpha-hydroxylase	protein-coding	-	-	-	-	20160827
 9940	101119854	SLC26A8	-	-	Ensembl:ENSOARG00000012670	20	-	solute carrier family 26 member 8	protein-coding	-	-	-	-	20160827
-9940	101119855	LY6G5B	-	-	Ensembl:ENSOARG00000006713	20	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	-	20160526
+9940	101119855	LY6G5B	-	-	Ensembl:ENSOARG00000006713	20	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5B	20170130
 9940	101119856	LOC101119856	-	-	Ensembl:ENSOARG00000015660	20	-	DLA class II histocompatibility antigen, DR-1 beta chain-like	protein-coding	-	-	-	-	20160716
 9940	101119857	HPCAL4	-	-	Ensembl:ENSOARG00000020096	1	-	hippocalcin like 4	protein-coding	-	-	-	-	20160716
 9940	101119858	FANCF	-	-	-	21	-	Fanconi anemia complementation group F	protein-coding	-	-	-	-	20160827
@@ -20990,7 +20990,7 @@
 9940	101122985	TBC1D22B	-	-	Ensembl:ENSOARG00000014435	20	-	TBC1 domain family member 22B	protein-coding	-	-	-	-	20160903
 9940	101122986	KDM1B	-	-	Ensembl:ENSOARG00000010531	20	-	lysine demethylase 1B	protein-coding	-	-	-	-	20160827
 9940	101122987	LOC101122987	-	-	-	20	-	suppressor of cytokine signaling 5-like	pseudo	-	-	-	-	20160526
-9940	101122988	NQO2	-	-	-	20	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	-	20160730
+9940	101122988	NQO2	-	-	-	20	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	NAD(P)H quinone dehydrogenase 2	20170130
 9940	101122989	LOC101122989	-	-	-	1	-	putative 60S ribosomal protein L37a	pseudo	-	-	-	-	20160526
 9940	101122990	LOC101122990	-	-	-	21	-	olfactory receptor 10G9-like	protein-coding	-	-	-	-	20160827
 9940	101122991	TMEM69	-	-	-	1	-	transmembrane protein 69	protein-coding	-	-	-	-	20160827
@@ -28076,7 +28076,7 @@
 9940	105614074	LOC105614074	-	-	-	Un	-	protein THEM6	protein-coding	-	-	-	-	20160716
 9940	105614075	LOC105614075	-	-	-	9	-	lymphocyte antigen 6A-2/6E-1-like	protein-coding	-	-	-	-	20160716
 9940	105614076	LOC105614076	-	-	-	9	-	uncharacterized LOC105614076	ncRNA	-	-	-	-	20160526
-9940	105614077	LY6K	-	-	Ensembl:ENSOARG00000001506	9	-	lymphocyte antigen 6 complex, locus K	protein-coding	-	-	-	-	20160526
+9940	105614077	LY6K	-	-	Ensembl:ENSOARG00000001506	9	-	lymphocyte antigen 6 family member K	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus K	20170130
 9940	105614078	LOC105614078	-	PSCA	-	9	-	proline-rich protein 36	protein-coding	-	-	-	prostate stem cell antigen	20160526
 9940	105614079	LOC105614079	-	-	-	1	-	filaggrin-like	protein-coding	-	-	-	-	20160716
 9940	105614080	LOC105614080	-	-	-	Un	-	uncharacterized LOC105614080	protein-coding	-	-	-	-	20160730

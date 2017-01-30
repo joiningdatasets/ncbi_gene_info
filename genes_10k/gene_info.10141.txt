@@ -3545,7 +3545,7 @@
 10141	100715788	Gpr83	-	-	-	Un	-	G protein-coupled receptor 83	protein-coding	-	-	-	-	20160813
 10141	100715789	LOC100715789	-	-	-	Un	-	protein tyrosine phosphatase type IVA 1 pseudogene	pseudo	-	-	-	-	20151115
 10141	100715790	Smim13	-	-	-	Un	-	small integral membrane protein 13	protein-coding	-	-	-	-	20160813
-10141	100715791	Nqo2	-	-	-	Un	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	-	20160903
+10141	100715791	Nqo2	-	-	-	Un	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	NAD(P)H quinone dehydrogenase 2	20170130
 10141	100715792	Noto	-	-	-	Un	-	notochord homeobox	protein-coding	-	-	-	-	20160813
 10141	100715793	LOC100715793	-	-	-	Un	-	Ig heavy chain V-I region 5-like	other	-	-	-	-	20151115
 10141	100715794	Klkb1	-	-	-	Un	-	kallikrein B1	protein-coding	-	-	-	-	20160813
@@ -5034,7 +5034,7 @@
 10141	100717430	Eif3a	-	-	-	Un	-	eukaryotic translation initiation factor 3 subunit A	protein-coding	-	-	-	-	20160810
 10141	100717431	Fam216a	-	-	-	Un	-	family with sequence similarity 216 member A	protein-coding	-	-	-	-	20160903
 10141	100717434	LOC100717434	-	-	-	Un	-	phosphoserine aminotransferase pseudogene	pseudo	-	-	-	-	20151115
-10141	100717435	Als2cr12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	-	20160811
+10141	100717435	Als2cr12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 10141	100717436	Entpd1	-	-	-	Un	-	ectonucleoside triphosphate diphosphohydrolase 1	protein-coding	-	-	-	-	20160903
 10141	100717437	Arhgap39	-	-	-	Un	-	Rho GTPase activating protein 39	protein-coding	-	-	-	-	20160813
 10141	100717438	Mcmdc2	-	-	-	Un	-	minichromosome maintenance domain containing 2	protein-coding	-	-	-	-	20160813
@@ -7265,7 +7265,7 @@
 10141	100719886	Alkbh1	-	-	-	Un	-	alkB homolog 1, histone H2A dioxygenase	protein-coding	-	-	-	alkB, alkylation repair homolog 1	20160813
 10141	100719887	Ei24	-	-	-	Un	-	EI24, autophagy associated transmembrane protein	protein-coding	-	-	-	etoposide-induced protein 2.4 homolog	20160729
 10141	100719888	Lcn8	-	-	-	Un	-	lipocalin 8	protein-coding	-	-	-	-	20160716
-10141	100719889	Ly6d	-	-	-	Un	-	lymphocyte antigen 6 complex, locus D	protein-coding	-	-	-	-	20160813
+10141	100719889	Ly6d	-	-	-	Un	-	lymphocyte antigen 6 family member D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus D	20170130
 10141	100719890	LOC100719890	-	-	-	Un	-	chromosome unknown open reading frame, human C5orf47	protein-coding	-	-	-	-	20160813
 10141	100719891	Ttc13	-	-	-	Un	-	tetratricopeptide repeat domain 13	protein-coding	-	-	-	-	20160813
 10141	100719892	Ccar1	-	-	-	Un	-	cell division cycle and apoptosis regulator 1	protein-coding	-	-	-	-	20160813
@@ -8508,7 +8508,7 @@
 10141	100721261	Dtwd2	-	-	-	Un	-	DTW domain containing 2	protein-coding	-	-	-	-	20160813
 10141	100721262	Tspo2	-	-	-	Un	-	translocator protein 2	protein-coding	-	-	-	-	20160716
 10141	100721263	Chchd1	-	-	-	Un	-	coiled-coil-helix-coiled-coil-helix domain containing 1	protein-coding	-	-	-	-	20160813
-10141	100721264	Ly6g6d	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6D	protein-coding	-	-	-	-	20151115
+10141	100721264	Ly6g6d	-	-	-	Un	-	lymphocyte antigen 6 family member G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6D	20170130
 10141	100721265	Tatdn3	-	-	-	Un	-	TatD DNase domain containing 3	protein-coding	-	-	-	-	20160813
 10141	100721266	Cntn2	-	-	-	Un	-	contactin 2	protein-coding	-	-	-	-	20160903
 10141	100721267	Nrg1	-	-	-	Un	-	neuregulin 1	protein-coding	-	-	-	-	20161224
@@ -14349,7 +14349,7 @@
 10141	100727742	Znf236	-	-	-	Un	-	zinc finger protein 236	protein-coding	-	-	-	-	20160716
 10141	100727743	Pabpc1	-	-	-	Un	-	poly(A) binding protein cytoplasmic 1	protein-coding	-	-	-	-	20160813
 10141	100727745	Dok5	-	-	-	Un	-	docking protein 5	protein-coding	-	-	-	-	20160813
-10141	100727746	Ly6h	-	-	-	Un	-	lymphocyte antigen 6 complex, locus H	protein-coding	-	-	-	-	20151115
+10141	100727746	Ly6h	-	-	-	Un	-	lymphocyte antigen 6 family member H	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus H	20170130
 10141	100727747	Znf609	-	-	-	Un	-	zinc finger protein 609	protein-coding	-	-	-	-	20151115
 10141	100727749	LOC100727749	-	-	-	Un	-	olfactory receptor 2W1-like	protein-coding	-	-	-	-	20160716
 10141	100727750	Lyar	-	-	-	Un	-	Ly1 antibody reactive	protein-coding	-	-	-	-	20160903
@@ -17120,7 +17120,7 @@
 10141	100730832	Galnt14	-	-	-	Un	-	polypeptide N-acetylgalactosaminyltransferase 14	protein-coding	-	-	-	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 14 (GalNAc-T14)	20160716
 10141	100730833	Arl10	-	-	-	Un	-	ADP ribosylation factor like GTPase 10	protein-coding	-	-	-	-	20160812
 10141	100730834	Adgrf4	-	Gpr115	-	Un	-	adhesion G protein-coupled receptor F4	protein-coding	-	-	-	G protein-coupled receptor 115	20160716
-10141	100730835	Ly6g6c	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	-	20160813
+10141	100730835	Ly6g6c	-	-	-	Un	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6C	20170130
 10141	100730836	Pfdn6	-	-	-	Un	-	prefoldin subunit 6	protein-coding	-	-	-	-	20151115
 10141	100730837	Cnst	-	-	-	Un	-	consortin, connexin sorting protein	protein-coding	-	-	-	-	20160716
 10141	100730838	Bok	-	-	-	Un	-	BOK, BCL2 family apoptosis regulator	protein-coding	-	-	-	-	20160729
@@ -17630,7 +17630,7 @@
 10141	100731391	Xdh	-	-	-	Un	-	xanthine dehydrogenase	protein-coding	-	-	-	-	20160813
 10141	100731392	Higd2a	-	-	-	Un	-	HIG1 hypoxia inducible domain family member 2A	protein-coding	-	-	-	-	20160813
 10141	100731393	Cd2ap	-	-	-	Un	-	CD2 associated protein	protein-coding	-	-	-	-	20160725
-10141	100731394	Ly6g6f	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	-	20151115
+10141	100731394	Ly6g6f	-	-	-	Un	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6F	20170130
 10141	100731395	Sccpdh	-	-	-	Un	-	saccharopine dehydrogenase (putative)	protein-coding	-	-	-	-	20160813
 10141	100731396	Pask	-	-	-	Un	-	PAS domain containing serine/threonine kinase	protein-coding	-	-	-	-	20160716
 10141	100731397	Prdx6	-	-	-	Un	-	peroxiredoxin 6	protein-coding	-	-	-	-	20151115
@@ -18126,7 +18126,7 @@
 10141	100731944	Osr1	-	-	-	Un	-	odd-skipped related transciption factor 1	protein-coding	-	-	-	odd-skipped related 1	20160813
 10141	100731945	Rnf44	-	-	-	Un	-	ring finger protein 44	protein-coding	-	-	-	-	20160903
 10141	100731946	Adgrf5	-	Gpr116	-	Un	-	adhesion G protein-coupled receptor F5	protein-coding	-	-	-	G protein-coupled receptor 116	20160903
-10141	100731947	Ly6g5c	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	-	20151115
+10141	100731947	Ly6g5c	-	-	-	Un	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5C	20170130
 10141	100731948	Rcor3	-	-	-	Un	-	REST corepressor 3	protein-coding	-	-	-	-	20160716
 10141	100731949	Sned1	-	-	-	Un	-	sushi, nidogen and EGF like domains 1	protein-coding	-	-	-	-	20160729
 10141	100731950	LOC100731950	-	-	-	Un	-	chromosome unknown open reading frame, human C1orf53	protein-coding	-	-	-	-	20151115
@@ -18373,7 +18373,7 @@
 10141	100732217	Dpy30	-	-	-	Un	-	dpy-30, histone methyltransferase complex regulatory subunit	protein-coding	-	-	-	dpy-30 homolog|protein dpy-30 homolog	20160811
 10141	100732218	Sncb	-	-	-	Un	-	synuclein beta	protein-coding	-	-	-	-	20160813
 10141	100732219	Mep1a	-	-	-	Un	-	meprin A subunit alpha	protein-coding	-	-	-	-	20160809
-10141	100732220	Ly6g5b	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	-	20151115
+10141	100732220	Ly6g5b	-	-	-	Un	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5B	20170130
 10141	100732221	Tp53bp2	-	-	-	Un	-	tumor protein p53 binding protein 2	protein-coding	-	-	-	-	20160903
 10141	100732222	LOC100732222	-	-	-	Un	-	chromosome unknown open reading frame, human C2orf54	protein-coding	-	-	-	-	20160813
 10141	100732223	Dennd1b	-	-	-	Un	-	DENN domain containing 1B	protein-coding	-	-	-	-	20160729
@@ -20965,7 +20965,7 @@
 10141	100735070	Apbb1	-	-	-	Un	-	amyloid beta precursor protein binding family B member 1	protein-coding	-	-	-	-	20160903
 10141	100735071	LOC100735071	-	-	-	Un	-	olfactory receptor 51G2-like	protein-coding	-	-	-	-	20160716
 10141	100735073	LOC100735073	-	-	-	Un	-	heat shock factor protein 2-like	pseudo	-	-	-	-	20151115
-10141	100735074	Auts2	-	-	-	Un	-	autism susceptibility candidate 2	protein-coding	-	-	-	-	20160813
+10141	100735074	Auts2	-	-	-	Un	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility candidate 2	20170130
 10141	100735076	Tmem72	-	-	-	Un	-	transmembrane protein 72	protein-coding	-	-	-	-	20160813
 10141	100735077	Nlgn2	-	-	-	Un	-	neuroligin 2	protein-coding	-	-	-	-	20160716
 10141	100735078	LOC100735078	-	-	-	Un	-	manganese-dependent ADP-ribose/CDP-alcohol diphosphatase	protein-coding	-	-	-	-	20160813
@@ -23377,7 +23377,7 @@
 10141	101789200	LOC101789200	-	-	-	Un	-	late cornified envelope protein 3A-like	protein-coding	-	-	-	-	20151115
 10141	101789202	LOC101789202	-	-	-	Un	-	uncharacterized LOC101789202	ncRNA	-	-	-	-	20151115
 10141	101789203	LOC101789203	-	-	-	Un	-	uncharacterized LOC101789203	ncRNA	-	-	-	-	20151115
-10141	101789204	Ly6k	-	-	-	Un	-	lymphocyte antigen 6 complex, locus K	protein-coding	-	-	-	-	20160102
+10141	101789204	Ly6k	-	-	-	Un	-	lymphocyte antigen 6 family member K	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus K	20170130
 10141	101789205	LOC101789205	-	-	-	Un	-	uncharacterized LOC101789205	ncRNA	-	-	-	-	20151115
 10141	101789209	LOC101789209	-	-	-	Un	-	vomeromodulin-like	protein-coding	-	-	-	-	20151115
 10141	101789210	LOC101789210	-	-	-	Un	-	PC-esterase domain-containing protein 1B-like	protein-coding	-	-	-	-	20160716

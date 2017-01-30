@@ -7806,7 +7806,7 @@
 61622	104661227	LOC104661227	-	-	-	Un	-	tubulin beta chain-like	protein-coding	-	-	-	-	20151115
 61622	104661228	RIPK1	-	-	-	Un	-	receptor interacting serine/threonine kinase 1	protein-coding	-	-	-	-	20160924
 61622	104661229	LOC104661229	-	-	-	Un	-	elongation factor 1-alpha 1-like	pseudo	-	-	-	-	20151115
-61622	104661230	NQO2	-	-	-	Un	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	-	20160924
+61622	104661230	NQO2	-	-	-	Un	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	NAD(P)H quinone dehydrogenase 2	20170130
 61622	104661231	SERPINB6	-	-	-	Un	-	serpin family B member 6	protein-coding	-	-	-	-	20160924
 61622	104661232	WRAP73	-	-	-	Un	-	WD repeat containing, antisense to TP73	protein-coding	-	-	-	-	20160924
 61622	104661233	SERPINB9	-	-	-	Un	-	serpin family B member 9	protein-coding	-	-	-	-	20160924
@@ -8498,11 +8498,11 @@
 61622	104661919	BAG6	-	-	-	Un	-	BCL2 associated athanogene 6	protein-coding	-	-	-	-	20160924
 61622	104661920	APOM	-	-	-	Un	-	apolipoprotein M	protein-coding	-	-	-	-	20160924
 61622	104661921	LOC104661921	-	-	-	Un	-	chromosome unknown open reading frame, human C6orf47	protein-coding	-	-	-	-	20160924
-61622	104661922	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	-	20151115
+61622	104661922	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5B	20170130
 61622	104661923	CSNK2B	-	-	-	Un	-	casein kinase 2 beta	protein-coding	-	-	-	-	20160729
 61622	104661924	GPANK1	-	-	-	Un	-	G-patch domain and ankyrin repeats 1	protein-coding	-	-	-	-	20160924
 61622	104661925	DENND5B	-	-	-	Un	-	DENN domain containing 5B	protein-coding	-	-	-	-	20160924
-61622	104661926	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	-	20151115
+61622	104661926	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5C	20170130
 61622	104661927	LOC104661927	-	-	-	Un	-	ribonuclease UK114 pseudogene	pseudo	-	-	-	-	20151115
 61622	104661928	LOC104661928	-	-	-	Un	-	peptidyl-prolyl cis-trans isomerase A pseudogene	pseudo	-	-	-	-	20151115
 61622	104661929	ABHD16A	-	-	-	Un	-	abhydrolase domain containing 16A	protein-coding	-	-	-	-	20160924
@@ -18443,7 +18443,7 @@
 61622	104671864	CASP8	-	-	-	Un	-	caspase 8	protein-coding	-	-	-	-	20160924
 61622	104671865	FAM210A	-	-	-	Un	-	family with sequence similarity 210 member A	protein-coding	-	-	-	-	20160924
 61622	104671866	LOC104671866	-	-	-	Un	-	39S ribosomal protein L42, mitochondrial pseudogene	pseudo	-	-	-	-	20151115
-61622	104671867	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	-	20160924
+61622	104671867	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 61622	104671868	LOC104671868	-	-	-	Un	-	AP-1 complex-associated regulatory protein-like	protein-coding	-	-	-	-	20160924
 61622	104671869	LOC104671869	-	-	-	Un	-	uncharacterized LOC104671869	protein-coding	-	-	-	-	20151115
 61622	104671870	LOC104671870	-	-	-	Un	-	protein shisa-5 pseudogene	pseudo	-	-	-	-	20151115
@@ -19514,7 +19514,7 @@
 61622	104672935	LOC104672935	-	-	-	Un	-	high mobility group protein B3-like	protein-coding	-	-	-	-	20160924
 61622	104672936	RCOR2	-	-	-	Un	-	REST corepressor 2	protein-coding	-	-	-	-	20160820
 61622	104672937	LOC104672937	-	-	-	Un	-	60S ribosomal protein L12 pseudogene	pseudo	-	-	-	-	20151115
-61622	104672938	AUTS2	-	-	-	Un	-	autism susceptibility candidate 2	protein-coding	-	-	-	-	20160924
+61622	104672938	AUTS2	-	-	-	Un	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility candidate 2	20170130
 61622	104672939	WBSCR17	-	-	-	Un	-	Williams-Beuren syndrome chromosome region 17	protein-coding	-	-	-	-	20160806
 61622	104672940	LOC104672940	-	-	-	Un	-	autism susceptibility gene 2 protein-like	protein-coding	-	-	-	-	20151115
 61622	104672941	CALN1	-	-	-	Un	-	calneuron 1	protein-coding	-	-	-	-	20151115
@@ -24717,10 +24717,10 @@
 61622	104678139	DDAH2	-	-	-	Un	-	dimethylarginine dimethylaminohydrolase 2	protein-coding	-	-	-	-	20160910
 61622	104678140	LOC104678140	-	-	-	Un	-	olfactory receptor 51A7	protein-coding	-	-	-	-	20160924
 61622	104678141	MPIG6B	-	-	-	Un	-	megakaryocyte and platelet inhibitory receptor G6b	protein-coding	-	-	-	-	20170107
-61622	104678142	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	-	20160910
-61622	104678143	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	-	20160924
+61622	104678142	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6C	20170130
+61622	104678143	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6F	20170130
 61622	104678144	LOC104678144	-	-	-	Un	-	uncharacterized LOC104678144	protein-coding	-	-	-	-	20151115
-61622	104678145	LY6G6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6D	protein-coding	-	-	-	-	20151115
+61622	104678145	LY6G6D	-	-	-	Un	-	lymphocyte antigen 6 family member G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6D	20170130
 61622	104678146	C4A	-	-	-	Un	-	complement C4A (Rodgers blood group)	protein-coding	-	-	-	-	20160924
 61622	104678147	LOC104678147	-	-	-	Un	-	chromosome unknown open reading frame, human C6orf48	protein-coding	-	-	-	-	20151115
 61622	104678148	LOC104678148	-	-	-	Un	-	olfactory receptor 51G2	protein-coding	-	-	-	-	20160924
@@ -26345,13 +26345,13 @@
 61622	104679768	LYPD2	-	-	-	Un	-	LY6/PLAUR domain containing 2	protein-coding	-	-	-	-	20151115
 61622	104679769	LOC104679769	-	-	-	Un	-	ly-6/neurotoxin-like protein 1	protein-coding	-	-	-	-	20151115
 61622	104679770	LOC104679770	-	-	-	Un	-	ly-6/neurotoxin-like protein 1	protein-coding	-	-	-	-	20151115
-61622	104679771	LY6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus D	protein-coding	-	-	-	-	20160924
+61622	104679771	LY6D	-	-	-	Un	-	lymphocyte antigen 6 family member D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus D	20170130
 61622	104679772	GML	-	-	-	Un	-	glycosylphosphatidylinositol anchored molecule like	protein-coding	-	-	-	-	20160924
 61622	104679773	LOC104679773	-	-	-	Un	-	cytochrome P450 11B1, mitochondrial	protein-coding	-	-	-	-	20160924
 61622	104679774	LOC104679774	-	-	-	Un	-	beta-glucuronidase-like	pseudo	-	-	-	-	20151115
 61622	104679775	LOC104679775	-	-	-	Un	-	cytochrome P450 11B1, mitochondrial-like	protein-coding	-	-	-	-	20160924
-61622	104679776	LY6E	-	-	-	Un	-	lymphocyte antigen 6 complex, locus E	protein-coding	-	-	-	-	20160924
-61622	104679777	LY6H	-	-	-	Un	-	lymphocyte antigen 6 complex, locus H	protein-coding	-	-	-	-	20160924
+61622	104679776	LY6E	-	-	-	Un	-	lymphocyte antigen 6 family member E	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus E	20170130
+61622	104679777	LY6H	-	-	-	Un	-	lymphocyte antigen 6 family member H	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus H	20170130
 61622	104679778	GPIHBP1	-	-	-	Un	-	glycosylphosphatidylinositol anchored high density lipoprotein binding protein 1	protein-coding	-	-	-	-	20160924
 61622	104679779	SAMD7	-	-	-	Un	-	sterile alpha motif domain containing 7	protein-coding	-	-	-	-	20151115
 61622	104679780	ZFP41	-	-	-	Un	-	ZFP41 zinc finger protein	protein-coding	-	-	-	-	20160924
@@ -26383,7 +26383,7 @@
 61622	104679806	LOC104679806	-	-	-	Un	-	brain-specific angiogenesis inhibitor 1	protein-coding	-	-	-	-	20160924
 61622	104679807	LOC104679807	-	-	-	Un	-	brain-specific angiogenesis inhibitor 1-like	protein-coding	-	-	-	-	20160924
 61622	104679808	LOC104679808	-	-	-	Un	-	maestro heat-like repeat family member 5	protein-coding	-	-	-	-	20151115
-61622	104679809	LY6K	-	-	-	Un	-	lymphocyte antigen 6 complex, locus K	protein-coding	-	-	-	-	20160924
+61622	104679809	LY6K	-	-	-	Un	-	lymphocyte antigen 6 family member K	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus K	20170130
 61622	104679810	LOC104679810	-	-	-	Un	-	cytochrome P450 11B1, mitochondrial-like	protein-coding	-	-	-	-	20160924
 61622	104679811	LOC104679811	-	-	-	Un	-	GTP:AMP phosphotransferase AK3, mitochondrial-like	pseudo	-	-	-	-	20151115
 61622	104679812	LOC104679812	-	-	-	Un	-	60S acidic ribosomal protein P0 pseudogene	pseudo	-	-	-	-	20151115

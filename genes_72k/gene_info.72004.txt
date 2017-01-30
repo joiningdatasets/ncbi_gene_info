@@ -166,7 +166,7 @@
 72004	102264416	ART4	M91_04350	-	-	Un	-	ADP-ribosyltransferase 4 (Dombrock blood group)	protein-coding	-	-	-	Ecto-ADP-ribosyltransferase 4	20160910
 72004	102264417	IL13RA2	M91_00343	-	-	Un	-	interleukin 13 receptor subunit alpha 2	protein-coding	-	-	-	Interleukin-13 receptor subunit alpha-2	20160910
 72004	102264418	ZNF189	M91_01270	-	-	Un	-	zinc finger protein 189	protein-coding	-	-	-	-	20160910
-72004	102264419	LY6G5C	M91_10764	-	-	Un	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	-	20161031
+72004	102264419	LY6G5C	M91_10764	-	-	Un	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5C	20170130
 72004	102264420	XDH	M91_13146	-	-	Un	-	xanthine dehydrogenase	protein-coding	-	-	-	Xanthine dehydrogenase/oxidase	20160730
 72004	102264421	PMM2	-	-	-	Un	-	phosphomannomutase 2	protein-coding	-	-	-	-	20160910
 72004	102264422	LOC102264422	-	-	-	Un	-	small integral membrane protein 15-like	pseudo	-	-	-	-	20160130
@@ -439,7 +439,7 @@
 72004	102264697	RERG	M91_04355	-	-	Un	-	RAS like estrogen regulated growth inhibitor	protein-coding	-	-	-	Ras-related and estrogen-regulated growth inhibitor	20160910
 72004	102264698	LOC102264698	-	-	-	Un	-	glutathione S-transferase omega-1	protein-coding	-	-	-	-	20160910
 72004	102264699	LOC102264699	-	-	-	Un	-	beta-defensin 103A-like	protein-coding	-	-	-	-	20160730
-72004	102264700	LY6G6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6D	protein-coding	-	-	-	-	20160130
+72004	102264700	LY6G6D	-	-	-	Un	-	lymphocyte antigen 6 family member G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6D	20170130
 72004	102264701	FAM136A	-	-	-	Un	-	family with sequence similarity 136 member A	protein-coding	-	-	-	-	20160910
 72004	102264702	CARHSP1	-	-	-	Un	-	calcium regulated heat stable protein 1	protein-coding	-	-	-	Calcium-regulated heat stable protein 1	20160810
 72004	102264703	ABHD18	M91_01156	-	-	Un	-	abhydrolase domain containing 18	protein-coding	-	-	-	-	20161031
@@ -1602,7 +1602,7 @@
 72004	102265892	HPN	M91_10148	-	-	Un	-	hepsin	protein-coding	-	-	-	Serine protease hepsin	20160903
 72004	102265893	NOS2	M91_10448	-	-	Un	-	nitric oxide synthase 2	protein-coding	-	-	-	Nitric oxide synthase, inducible	20160910
 72004	102265894	VPS11	-	-	-	Un	-	VPS11, CORVET/HOPS core subunit	protein-coding	-	-	-	vacuolar protein sorting-associated protein 11 homolog	20160910
-72004	102265895	LY6K	M91_10392	-	-	Un	-	lymphocyte antigen 6 complex, locus K	protein-coding	-	-	-	Lymphocyte antigen 6K	20160130
+72004	102265895	LY6K	M91_10392	-	-	Un	-	lymphocyte antigen 6 family member K	protein-coding	-	-	-	Lymphocyte antigen 6K|lymphocyte antigen 6 complex, locus K	20170130
 72004	102265896	TWISTNB	-	-	-	Un	-	TWIST neighbor	protein-coding	-	-	-	DNA-directed RNA polymerase I subunit RPA43	20160130
 72004	102265897	LOC102265897	-	-	-	Un	-	UV radiation resistance-associated gene protein pseudogene	pseudo	-	-	-	-	20160130
 72004	102265898	LOC102265898	-	-	-	Un	-	60S ribosomal protein L19 pseudogene	pseudo	-	-	-	-	20160130
@@ -1882,7 +1882,7 @@
 72004	102266176	FXYD3	M91_10150	-	-	Un	-	FXYD domain containing ion transport regulator 3	protein-coding	-	-	-	-	20160924
 72004	102266177	OSTC	M91_06100	-	-	Un	-	oligosaccharyltransferase complex non-catalytic subunit	protein-coding	-	-	-	Oligosaccharyltransferase complex subunit OSTC|oligosaccharyltransferase complex subunit (non-catalytic)	20160910
 72004	102266178	LYRM9	M91_10449	-	-	Un	-	LYR motif containing 9	protein-coding	-	-	-	-	20161031
-72004	102266179	LY6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus D	protein-coding	-	-	-	Lymphocyte antigen 6D	20160827
+72004	102266179	LY6D	-	-	-	Un	-	lymphocyte antigen 6 family member D	protein-coding	-	-	-	Lymphocyte antigen 6D|lymphocyte antigen 6 complex, locus D	20170130
 72004	102266180	TMEM196	M91_10248	-	-	Un	-	transmembrane protein 196	protein-coding	-	-	-	-	20160806
 72004	102266181	LOC102266181	M91_00584	-	-	Un	-	60S ribosomal protein L9	protein-coding	-	-	-	-	20161031
 72004	102266182	PPP1R1B	M91_05276	-	-	Un	-	protein phosphatase 1 regulatory inhibitor subunit 1B	protein-coding	-	-	-	Protein phosphatase 1 regulatory subunit 1B	20160910
@@ -7854,7 +7854,7 @@
 72004	102272312	LOC102272312	-	-	-	Un	-	NKG2-A/NKG2-B type II integral membrane protein-like	pseudo	-	-	-	-	20160130
 72004	102272313	LSP1	M91_21284	-	-	Un	-	lymphocyte-specific protein 1	protein-coding	-	-	-	-	20160910
 72004	102272314	NRGN	M91_11062	-	-	Un	-	neurogranin	protein-coding	-	-	-	-	20161031
-72004	102272315	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	Amyotrophic lateral sclerosis 2 chromosomal region candidate 12 protein	20160811
+72004	102272315	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	Amyotrophic lateral sclerosis 2 chromosomal region candidate 12 protein|amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 72004	102272316	ANKRD34B	-	-	-	Un	-	ankyrin repeat domain 34B	protein-coding	-	-	-	Ankyrin repeat domain-containing protein 34B	20160827
 72004	102272317	DBN1	-	-	-	Un	-	drebrin 1	protein-coding	-	-	-	-	20160130
 72004	102272318	DIABLO	M91_06146	-	-	Un	-	diablo IAP-binding mitochondrial protein	protein-coding	-	-	-	Diablo-like protein, mitochondrial	20160903
@@ -13142,7 +13142,7 @@
 72004	102277738	LOC102277738	-	-	-	Un	-	UDP-glucuronosyltransferase 2B31-like	pseudo	-	-	-	-	20160130
 72004	102277739	LOC102277739	-	-	-	Un	-	olfactory receptor 4K13	protein-coding	-	-	-	-	20160827
 72004	102277740	IL16	M91_03827	-	-	Un	-	interleukin 16	protein-coding	-	-	-	Pro-interleukin-16	20160910
-72004	102277741	AUTS2	-	-	-	Un	-	autism susceptibility candidate 2	protein-coding	-	-	-	-	20160910
+72004	102277741	AUTS2	-	-	-	Un	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility candidate 2	20170130
 72004	102277742	CFAP126	M91_20772	-	-	Un	-	cilia and flagella associated protein 126	protein-coding	-	-	-	UPF0740 protein C1orf192 homolog	20161031
 72004	102277743	LOC102277743	-	-	-	Un	-	60S ribosomal protein L13a pseudogene	pseudo	-	-	-	-	20160130
 72004	102277744	CHADL	-	-	-	Un	-	chondroadherin like	protein-coding	-	-	-	-	20160811
@@ -15415,7 +15415,7 @@
 72004	102280061	ZNF750	-	-	-	Un	-	zinc finger protein 750	protein-coding	-	-	-	-	20160130
 72004	102280062	GTF2H4	-	-	-	Un	-	general transcription factor IIH subunit 4	protein-coding	-	-	-	-	20160809
 72004	102280063	LOC102280063	-	-	-	Un	-	elongation factor 1-alpha 1 pseudogene	pseudo	-	-	-	-	20160130
-72004	102280064	NQO2	M91_09583	-	-	Un	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	Ribosyldihydronicotinamide dehydrogenase	20160910
+72004	102280064	NQO2	M91_09583	-	-	Un	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	NAD(P)H quinone dehydrogenase 2|Ribosyldihydronicotinamide dehydrogenase	20170130
 72004	102280065	ZCCHC3	-	-	-	Un	-	zinc finger CCHC-type containing 3	protein-coding	-	-	-	Zinc finger CCHC domain-containing protein 3	20160827
 72004	102280066	ILK	-	-	-	Un	-	integrin linked kinase	protein-coding	-	-	-	Integrin-linked protein kinase	20160903
 72004	102280067	LOC102280067	-	-	-	Un	-	39S ribosomal protein L42, mitochondrial pseudogene	pseudo	-	-	-	-	20160130
@@ -17149,7 +17149,7 @@
 72004	102281835	KCNE3	-	-	-	Un	-	potassium voltage-gated channel subfamily E regulatory subunit 3	protein-coding	-	-	-	Potassium voltage-gated channel subfamily E member 3|potassium voltage-gated channel, Isk-related family, member 3	20160827
 72004	102281836	HIBADH	-	-	-	Un	-	3-hydroxyisobutyrate dehydrogenase	protein-coding	-	-	-	3-hydroxyisobutyrate dehydrogenase, mitochondrial	20160827
 72004	102281837	CNMD	M91_19312	LECT1	-	Un	-	chondromodulin	protein-coding	-	-	-	Chondromodulin-1|leukocyte cell derived chemotaxin 1	20161023
-72004	102281838	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	-	20160130
+72004	102281838	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5B	20170130
 72004	102281839	RNF182	-	-	-	Un	-	ring finger protein 182	protein-coding	-	-	-	-	20160827
 72004	102281840	FUZ	-	-	-	Un	-	fuzzy planar cell polarity protein	protein-coding	-	-	-	Protein fuzzy-like protein|protein fuzzy homolog	20160130
 72004	102281841	USH2A	-	-	-	Un	-	usherin	protein-coding	-	-	-	-	20160910
@@ -17678,7 +17678,7 @@
 72004	102282385	POLD3	M91_09998	-	-	Un	-	DNA polymerase delta 3, accessory subunit	protein-coding	-	-	-	DNA polymerase delta subunit 3|polymerase (DNA-directed), delta 3, accessory subunit	20160910
 72004	102282386	DCAF12L2	M91_00487	-	-	Un	-	DDB1 and CUL4 associated factor 12 like 2	protein-coding	-	-	-	DDB1- and CUL4-associated factor 12-like protein 2	20160910
 72004	102282387	HOXA11	M91_04223	-	-	Un	-	homeobox A11	protein-coding	-	-	-	Homeobox protein Hox-A11	20160730
-72004	102282388	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	-	20160910
+72004	102282388	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6F	20170130
 72004	102282389	LOC102282389	-	-	-	Un	-	hypothetical protein	protein-coding	-	-	-	-	20160827
 72004	102282390	EMD	-	-	-	Un	-	emerin	protein-coding	-	-	-	-	20160910
 72004	102282391	KCTD3	-	-	-	Un	-	potassium channel tetramerization domain containing 3	protein-coding	-	-	-	-	20160910
@@ -18216,7 +18216,7 @@
 72004	102282944	ZNF26	M91_07806	-	-	Un	-	zinc finger protein 26	protein-coding	-	-	-	-	20160730
 72004	102282945	HOXA7	M91_04226	-	-	Un	-	homeobox A7	protein-coding	-	-	-	Homeobox protein Hox-A7	20160716
 72004	102282946	INTS6L	-	-	-	Un	-	integrator complex subunit 6 like	protein-coding	-	-	-	Protein DDX26B	20160813
-72004	102282947	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	-	20160910
+72004	102282947	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6C	20170130
 72004	102282948	TSPAN32	M91_06252	-	-	Un	-	tetraspanin 32	protein-coding	-	-	-	Tetraspanin-32	20160130
 72004	102282950	FUCA1	M91_02233	-	-	Un	-	fucosidase, alpha-L- 1, tissue	protein-coding	-	-	-	Tissue alpha-L-fucosidase	20160910
 72004	102282951	MROH7	M91_14960	-	-	Un	-	maestro heat like repeat family member 7	protein-coding	-	-	-	-	20161031
@@ -22534,7 +22534,7 @@
 72004	102287376	LOC102287376	-	-	-	Un	-	40S ribosomal protein SA pseudogene	pseudo	-	-	-	-	20160130
 72004	102287377	AATK	M91_17093	-	-	Un	-	apoptosis associated tyrosine kinase	protein-coding	-	-	-	Serine/threonine-protein kinase LMTK1	20160729
 72004	102287378	LOC102287378	M91_20452	-	-	Un	-	chromosome unknown open reading frame, human C6orf89	protein-coding	-	-	-	bombesin receptor-activated protein C6orf89 homolog	20161031
-72004	102287379	LY6H	M91_04725	-	-	Un	-	lymphocyte antigen 6 complex, locus H	protein-coding	-	-	-	Lymphocyte antigen 6H	20160827
+72004	102287379	LY6H	M91_04725	-	-	Un	-	lymphocyte antigen 6 family member H	protein-coding	-	-	-	Lymphocyte antigen 6H|lymphocyte antigen 6 complex, locus H	20170130
 72004	102287380	SLC25A46	M91_05786	-	-	Un	-	solute carrier family 25 member 46	protein-coding	-	-	-	-	20160811
 72004	102287381	LOC102287381	-	-	-	Un	-	olfactory receptor 4A47-like	protein-coding	-	-	-	-	20160730
 72004	102287382	ANKRD65	-	-	-	Un	-	ankyrin repeat domain 65	protein-coding	-	-	-	-	20160910
@@ -23003,7 +23003,7 @@
 72004	102287860	HMBOX1	-	-	-	Un	-	homeobox containing 1	protein-coding	-	-	-	Homeobox-containing protein 1	20160910
 72004	102287861	LOC102287861	-	-	-	Un	-	60S ribosomal protein L23a pseudogene	pseudo	-	-	-	-	20160130
 72004	102287862	PI16	-	-	-	Un	-	peptidase inhibitor 16	protein-coding	-	-	-	-	20160212
-72004	102287863	LY6E	M91_04726	-	-	Un	-	lymphocyte antigen 6 complex, locus E	protein-coding	-	-	-	Lymphocyte antigen 6E	20160130
+72004	102287863	LY6E	M91_04726	-	-	Un	-	lymphocyte antigen 6 family member E	protein-coding	-	-	-	Lymphocyte antigen 6E|lymphocyte antigen 6 complex, locus E	20170130
 72004	102287864	DUSP22	M91_04605	-	-	Un	-	dual specificity phosphatase 22	protein-coding	-	-	-	Dual specificity protein phosphatase 22	20160220
 72004	102287865	PIKFYVE	M91_15400	-	-	Un	-	phosphoinositide kinase, FYVE-type zinc finger containing	protein-coding	-	-	-	1-phosphatidylinositol-3-phosphate 5-kinase	20160729
 72004	102287866	FKBP9	M91_01575	-	-	Un	-	FK506 binding protein 9	protein-coding	-	-	-	Peptidyl-prolyl cis-trans isomerase FKBP9	20160910

@@ -243,7 +243,7 @@
 9974	108383467	ARF3	-	-	-	Un	-	ADP ribosylation factor 3	protein-coding	-	-	-	-	20160803
 9974	108383468	LOC108383468	-	-	-	Un	-	dihydropyrimidine dehydrogenase [NADP(+)]-like	protein-coding	-	-	-	-	20160803
 9974	108383469	GPIHBP1	-	-	-	Un	-	glycosylphosphatidylinositol anchored high density lipoprotein binding protein 1	protein-coding	-	-	-	-	20160803
-9974	108383470	LY6H	-	-	-	Un	-	lymphocyte antigen 6 complex, locus H	protein-coding	-	-	-	-	20160803
+9974	108383470	LY6H	-	-	-	Un	-	lymphocyte antigen 6 family member H	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus H	20170130
 9974	108383471	NUPL2	-	-	-	Un	-	nucleoporin like 2	protein-coding	-	-	-	-	20160803
 9974	108383472	LOC108383472	-	-	-	Un	-	uncharacterized LOC108383472	ncRNA	-	-	-	-	20160803
 9974	108383473	FAM110C	-	-	-	Un	-	family with sequence similarity 110 member C	protein-coding	-	-	-	-	20160803
@@ -948,7 +948,7 @@
 9974	108384172	PTPRC	-	-	-	Un	-	protein tyrosine phosphatase, receptor type C	protein-coding	-	-	-	-	20160803
 9974	108384173	LOC108384173	-	-	-	Un	-	uncharacterized LOC108384173	ncRNA	-	-	-	-	20160803
 9974	108384174	LOC108384174	-	-	-	Un	-	nucleophosmin-like	pseudo	-	-	-	-	20160803
-9974	108384175	LY6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus D	protein-coding	-	-	-	-	20160803
+9974	108384175	LY6D	-	-	-	Un	-	lymphocyte antigen 6 family member D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus D	20170130
 9974	108384176	ZC3H12C	-	-	-	Un	-	zinc finger CCCH-type containing 12C	protein-coding	-	-	-	-	20160803
 9974	108384177	LMOD2	-	-	-	Un	-	leiomodin 2	protein-coding	-	-	-	-	20160803
 9974	108384178	IQUB	-	-	-	Un	-	IQ motif and ubiquitin domain containing	protein-coding	-	-	-	-	20160803
@@ -14625,10 +14625,10 @@
 9974	108397849	KIFAP3	-	-	-	Un	-	kinesin associated protein 3	protein-coding	-	-	-	-	20160803
 9974	108397850	SAPCD1	-	-	-	Un	-	suppressor APC domain containing 1	protein-coding	-	-	-	-	20160803
 9974	108397851	GLA	-	-	-	Un	-	galactosidase alpha	protein-coding	-	-	-	-	20160803
-9974	108397852	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	-	20160803
-9974	108397853	LY6G6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6D	protein-coding	-	-	-	-	20160803
+9974	108397852	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6C	20170130
+9974	108397853	LY6G6D	-	-	-	Un	-	lymphocyte antigen 6 family member G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6D	20170130
 9974	108397854	DDX39B	-	-	-	Un	-	DExD-box helicase 39B	protein-coding	-	-	-	DEAD-box helicase 39B	20160929
-9974	108397855	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	-	20160803
+9974	108397855	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6F	20170130
 9974	108397856	LOC108397856	-	-	-	Un	-	uncharacterized LOC108397856	ncRNA	-	-	-	-	20160803
 9974	108397857	VARS	-	-	-	Un	-	valyl-tRNA synthetase	protein-coding	-	-	-	-	20160803
 9974	108397858	MSH5	-	-	-	Un	-	mutS homolog 5	protein-coding	-	-	-	-	20160803
@@ -14642,8 +14642,8 @@
 9974	108397866	GPANK1	-	-	-	Un	-	G-patch domain and ankyrin repeats 1	protein-coding	-	-	-	-	20160803
 9974	108397867	CSNK2B	-	-	-	Un	-	casein kinase 2 beta	protein-coding	-	-	-	-	20160903
 9974	108397868	ARMCX4	-	-	-	Un	-	armadillo repeat containing, X-linked 4	protein-coding	-	-	-	-	20160803
-9974	108397869	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	-	20160803
-9974	108397870	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	-	20160803
+9974	108397869	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5B	20170130
+9974	108397870	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5C	20170130
 9974	108397871	CUNH6orf47	-	-	-	Un	-	chromosome unknown C6orf47 homolog	protein-coding	-	-	-	-	20160803
 9974	108397872	APOM	-	-	-	Un	-	apolipoprotein M	protein-coding	-	-	-	-	20160803
 9974	108397873	BAG6	-	-	-	Un	-	BCL2 associated athanogene 6	protein-coding	-	-	-	-	20160803
@@ -15670,7 +15670,7 @@
 9974	108398894	IFT52	-	-	-	Un	-	intraflagellar transport 52	protein-coding	-	-	-	-	20160803
 9974	108398895	LOC108398895	-	-	-	Un	-	uncharacterized LOC108398895	ncRNA	-	-	-	-	20160803
 9974	108398896	PNLIPRP3	-	-	-	Un	-	pancreatic lipase related protein 3	protein-coding	-	-	-	-	20160803
-9974	108398897	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	-	20160803
+9974	108398897	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 9974	108398898	CASP8	-	-	-	Un	-	caspase 8	protein-coding	-	-	-	-	20160803
 9974	108398899	PTH2R	-	-	-	Un	-	parathyroid hormone 2 receptor	protein-coding	-	-	-	-	20160803
 9974	108398900	LOC108398900	-	-	-	Un	-	uncharacterized LOC108398900	protein-coding	-	-	-	-	20160803
@@ -23671,7 +23671,7 @@
 9974	108406895	SEL1L3	-	-	-	Un	-	SEL1L family member 3	protein-coding	-	-	-	-	20160803
 9974	108406896	KIAA2022	-	-	-	Un	-	KIAA2022 ortholog	protein-coding	-	-	-	-	20160803
 9974	108406897	LOC108406897	-	-	-	Un	-	chloride intracellular channel protein 6 pseudogene	pseudo	-	-	-	-	20160803
-9974	108406898	LY6E	-	-	-	Un	-	lymphocyte antigen 6 complex, locus E	protein-coding	-	-	-	-	20160803
+9974	108406898	LY6E	-	-	-	Un	-	lymphocyte antigen 6 family member E	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus E	20170130
 9974	108406899	LOC108406899	-	-	-	Un	-	lymphocyte antigen 6H-like	protein-coding	-	-	-	-	20160803
 9974	108406900	PLAT	-	-	-	Un	-	plasminogen activator, tissue type	protein-coding	-	-	-	-	20160803
 9974	108406901	AP3M2	-	-	-	Un	-	adaptor related protein complex 3 mu 2 subunit	protein-coding	-	-	-	-	20160803
@@ -26536,7 +26536,7 @@
 9974	108409760	LOC108409760	-	-	-	Un	-	10 kDa heat shock protein, mitochondrial pseudogene	pseudo	-	-	-	-	20160803
 9974	108409761	LOC108409761	-	-	-	Un	-	poly(ADP-ribose) glycohydrolase-like	protein-coding	-	-	-	-	20160803
 9974	108409762	LOC108409762	-	-	-	Un	-	alcohol dehydrogenase E chain	protein-coding	-	-	-	-	20160803
-9974	108409763	NQO2	-	-	-	Un	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	-	20160803
+9974	108409763	NQO2	-	-	-	Un	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	NAD(P)H quinone dehydrogenase 2	20170130
 9974	108409764	LOC108409764	-	-	-	Un	-	putative vomeronasal receptor-like protein 4	protein-coding	-	-	-	-	20160803
 9974	108409765	SPPL2A	-	-	-	Un	-	signal peptide peptidase like 2A	protein-coding	-	-	-	-	20160803
 9974	108409766	LOC108409766	-	-	-	Un	-	60S ribosomal protein L32 pseudogene	pseudo	-	-	-	-	20160803

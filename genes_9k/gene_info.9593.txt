@@ -2392,7 +2392,7 @@
 9593	101126551	LOC101126551	-	-	-	8	-	glyceraldehyde-3-phosphate dehydrogenase pseudogene	pseudo	-	-	-	-	20161110
 9593	101126552	LOC101126552	-	-	-	X	-	leucine-rich repeat flightless-interacting protein 2 pseudogene	pseudo	-	-	-	-	20161110
 9593	101126554	TRAPPC9	-	-	Ensembl:ENSGGOG00000002105	8	-	trafficking protein particle complex 9	protein-coding	-	-	-	-	20161110
-9593	101126555	LY6H	-	-	-	8	-	lymphocyte antigen 6 complex, locus H	protein-coding	-	-	-	-	20161110
+9593	101126555	LY6H	-	-	-	8	-	lymphocyte antigen 6 family member H	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus H	20170130
 9593	101126556	TPD52L3	-	-	Ensembl:ENSGGOG00000002017	9	-	tumor protein D52 like 3	protein-coding	-	-	-	-	20161110
 9593	101126557	LOC101126557	-	-	-	X	-	translationally-controlled tumor protein pseudogene	pseudo	-	-	-	-	20161110
 9593	101126558	SRPK3	-	-	-	X	-	SRSF protein kinase 3	protein-coding	-	-	-	-	20161110
@@ -3888,7 +3888,7 @@
 9593	101128350	PTPRS	-	-	Ensembl:ENSGGOG00000008094	19	-	protein tyrosine phosphatase, receptor type S	protein-coding	-	-	-	-	20161110
 9593	101128351	LOC101128351	-	-	Ensembl:ENSGGOG00000001134	19	-	zinc finger protein 439-like	protein-coding	-	-	-	-	20161110
 9593	101128352	NANOS3	-	-	Ensembl:ENSGGOG00000000964	19	-	nanos C2HC-type zinc finger 3	protein-coding	-	-	-	-	20161110
-9593	101128353	LY6G5B	-	-	Ensembl:ENSGGOG00000024457	6	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	-	20161110
+9593	101128353	LY6G5B	-	-	Ensembl:ENSGGOG00000024457	6	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5B	20170130
 9593	101128354	GRM4	-	-	Ensembl:ENSGGOG00000005313	6	-	glutamate metabotropic receptor 4	protein-coding	-	-	-	-	20161110
 9593	101128355	FAAP24	-	-	-	19	-	Fanconi anemia core complex associated protein 24	protein-coding	-	-	-	-	20161110
 9593	101128356	THAP8	-	-	Ensembl:ENSGGOG00000024516	19	-	THAP domain containing 8	protein-coding	-	-	-	-	20161110
@@ -4484,7 +4484,7 @@
 9593	101129049	DTNBP1	-	-	-	6	-	dystrobrevin binding protein 1	protein-coding	-	-	-	-	20161110
 9593	101129051	TYK2	-	-	Ensembl:ENSGGOG00000006028	19	-	tyrosine kinase 2	protein-coding	-	-	-	-	20161110
 9593	101129052	ZNF878	-	-	-	19	-	zinc finger protein 878	protein-coding	-	-	-	-	20161110
-9593	101129053	LY6G5C	-	-	-	6	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	-	20161110
+9593	101129053	LY6G5C	-	-	-	6	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5C	20170130
 9593	101129054	CIB3	-	-	Ensembl:ENSGGOG00000004340	19	-	calcium and integrin binding family member 3	protein-coding	-	-	-	-	20161110
 9593	101129055	GPATCH1	-	-	-	19	-	G-patch domain containing 1	protein-coding	-	-	-	-	20161110
 9593	101129056	OPN5	-	-	Ensembl:ENSGGOG00000016636	6	-	opsin 5	protein-coding	-	-	-	-	20161110
@@ -5086,7 +5086,7 @@
 9593	101129802	LOC101129802	-	-	-	20	-	high mobility group protein B3-like	pseudo	-	-	-	-	20161110
 9593	101129803	STK4	-	-	Ensembl:ENSGGOG00000003234	20	-	serine/threonine kinase 4	protein-coding	-	-	-	-	20161110
 9593	101129804	LOC101129804	-	-	-	7	-	heterogeneous nuclear ribonucleoprotein C pseudogene	pseudo	-	-	-	-	20161110
-9593	101129805	AUTS2	-	-	Ensembl:ENSGGOG00000011797	7	-	autism susceptibility candidate 2	protein-coding	-	-	-	-	20161110
+9593	101129805	AUTS2	-	-	Ensembl:ENSGGOG00000011797	7	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility candidate 2	20170130
 9593	101129806	STX16	-	-	Ensembl:ENSGGOG00000000471	20	-	syntaxin 16	protein-coding	-	-	-	-	20161110
 9593	101129807	GATSL2	-	-	-	7	-	GATS protein like 2	protein-coding	-	-	-	-	20161110
 9593	101129808	LOC101129808	-	-	-	21	-	putative vomeronasal receptor-like protein 4	protein-coding	-	-	-	-	20161110
@@ -7045,7 +7045,7 @@
 9593	101132185	ZNF300	-	-	Ensembl:ENSGGOG00000008304	5	-	zinc finger protein 300	protein-coding	-	-	-	-	20161110
 9593	101132186	LOC101132186	-	-	-	18	-	40S ribosomal protein S10 pseudogene	pseudo	-	-	-	-	20161110
 9593	101132187	LOC101132187	-	-	-	5	-	olfactory receptor 1D2-like	pseudo	-	-	-	-	20161110
-9593	101132190	NQO2	-	-	Ensembl:ENSGGOG00000011077	6	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	-	20161110
+9593	101132190	NQO2	-	-	Ensembl:ENSGGOG00000011077	6	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	NAD(P)H quinone dehydrogenase 2	20170130
 9593	101132191	LOC101132191	-	GIPC3	Ensembl:ENSGGOG00000013751	19	-	PDZ domain-containing protein GIPC3	protein-coding	-	-	-	GIPC PDZ domain containing family member 3	20161110
 9593	101132192	PSPN	-	-	-	19	-	persephin	protein-coding	-	-	-	-	20161110
 9593	101132193	LOC101132193	-	-	-	6	-	putative olfactory receptor 2W6	protein-coding	-	-	-	-	20161110
@@ -8063,7 +8063,7 @@
 9593	101133415	KIF13A	-	-	Ensembl:ENSGGOG00000016314	6	-	kinesin family member 13A	protein-coding	-	-	-	-	20161110
 9593	101133416	ANGPTL4	-	-	Ensembl:ENSGGOG00000014506	19	-	angiopoietin like 4	protein-coding	-	-	-	-	20161110
 9593	101133417	CDC37	-	-	-	19	-	cell division cycle 37	protein-coding	-	-	-	-	20161110
-9593	101133418	LY6G6C	-	-	Ensembl:ENSGGOG00000022162	6	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	-	20161110
+9593	101133418	LY6G6C	-	-	Ensembl:ENSGGOG00000022162	6	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6C	20170130
 9593	101133419	SYNGAP1	-	-	Ensembl:ENSGGOG00000009923	6	-	synaptic Ras GTPase activating protein 1	protein-coding	-	-	-	-	20161110
 9593	101133420	LOC101133420	-	-	Ensembl:ENSGGOG00000004974	19	-	placental protein 13-like	protein-coding	-	-	-	-	20161110
 9593	101133421	OGFRL1	-	-	-	6	-	opioid growth factor receptor like 1	protein-coding	-	-	-	-	20161110
@@ -8438,7 +8438,7 @@
 9593	101133880	LOC101133880	-	-	-	5	-	uncharacterized LOC101133880	protein-coding	-	-	-	-	20161110
 9593	101133881	CRB3	-	-	Ensembl:ENSGGOG00000007070	19	-	crumbs 3, cell polarity complex component	protein-coding	-	-	-	-	20161110
 9593	101133882	LOC101133882	-	-	Ensembl:ENSGGOG00000027900	6	-	histone H2A type 1	protein-coding	-	-	-	-	20161114
-9593	101133883	LY6G6D	-	-	-	6	-	lymphocyte antigen 6 complex, locus G6D	protein-coding	-	-	-	-	20161110
+9593	101133883	LY6G6D	-	-	-	6	-	lymphocyte antigen 6 family member G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6D	20170130
 9593	101133884	INSL3	-	-	-	19	-	insulin like 3	protein-coding	-	-	-	-	20161110
 9593	101133886	FAM83B	-	-	-	6	-	family with sequence similarity 83 member B	protein-coding	-	-	-	-	20161110
 9593	101133887	NAPA	-	-	Ensembl:ENSGGOG00000000703	19	-	NSF attachment protein alpha	protein-coding	-	-	-	-	20161110
@@ -11699,7 +11699,7 @@
 9593	101137838	ACTL9	-	-	Ensembl:ENSGGOG00000014253	19	-	actin like 9	protein-coding	-	-	-	-	20161110
 9593	101137839	LOC101137839	-	-	-	6	-	60S ribosomal protein L13a-like	pseudo	-	-	-	-	20161110
 9593	101137840	WDR83	-	-	Ensembl:ENSGGOG00000013383	19	-	WD repeat domain 83	protein-coding	-	-	-	-	20161110
-9593	101137841	LY6G6F	-	-	-	6	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	-	20161110
+9593	101137841	LY6G6F	-	-	-	6	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6F	20170130
 9593	101137843	LOC101137843	-	ZNF85	-	19	-	zinc finger protein 85	protein-coding	-	-	-	-	20161110
 9593	101137844	C19H19orf33	-	-	Ensembl:ENSGGOG00000023437	19	-	chromosome 19 C19orf33 homolog	protein-coding	-	-	-	immortalization up-regulated protein-like	20161110
 9593	101137846	LOC101137846	-	-	-	6	-	calponin-2 pseudogene	pseudo	-	-	-	-	20161110
@@ -13050,7 +13050,7 @@
 9593	101139505	KRT18	-	-	Ensembl:ENSGGOG00000010157	12	-	keratin 18	protein-coding	-	-	-	-	20161110
 9593	101139506	SLC4A10	-	-	Ensembl:ENSGGOG00000014910	2B	-	solute carrier family 4 member 10	protein-coding	-	-	-	-	20161110
 9593	101139507	LOC101139507	-	-	-	2B	-	60S acidic ribosomal protein P1 pseudogene	pseudo	-	-	-	-	20161110
-9593	101139508	ALS2CR12	-	-	Ensembl:ENSGGOG00000000211	2B	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	-	20161110
+9593	101139508	ALS2CR12	-	-	Ensembl:ENSGGOG00000000211	2B	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 9593	101139509	ATIC	-	-	Ensembl:ENSGGOG00000007916	2B	-	5-aminoimidazole-4-carboxamide ribonucleotide formyltransferase/IMP cyclohydrolase	protein-coding	-	-	-	-	20161110
 9593	101139511	LOC101139511	-	-	-	2B	-	vacuolar-sorting protein SNF8-like	pseudo	-	-	-	-	20161110
 9593	101139512	NEU2	-	-	Ensembl:ENSGGOG00000005494	2B	-	neuraminidase 2	protein-coding	-	-	-	-	20161110
@@ -13584,7 +13584,7 @@
 9593	101140171	LOC101140171	-	-	-	X	-	mitochondrial fission regulator 1-like	pseudo	-	-	-	-	20161110
 9593	101140173	MTBP	-	-	Ensembl:ENSGGOG00000009870	8	-	MDM2 binding protein	protein-coding	-	-	-	-	20161110
 9593	101140174	TGIF2LX	-	tgiflx	Ensembl:ENSGGOG00000014790	X	-	TGFB induced factor homeobox 2 like, X-linked	protein-coding	-	-	-	homeobox protein TGIF2LX|TGIF-like on the X	20161110
-9593	101140175	LY6D	-	-	Ensembl:ENSGGOG00000016770	8	-	lymphocyte antigen 6 complex, locus D	protein-coding	-	-	-	-	20161110
+9593	101140175	LY6D	-	-	Ensembl:ENSGGOG00000016770	8	-	lymphocyte antigen 6 family member D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus D	20170130
 9593	101140176	TMEM31	-	-	Ensembl:ENSGGOG00000025064	X	-	transmembrane protein 31	protein-coding	-	-	-	-	20161110
 9593	101140177	LOC101140177	-	-	-	X	-	cation-dependent mannose-6-phosphate receptor pseudogene	pseudo	-	-	-	-	20161110
 9593	101140178	UBE2A	-	-	Ensembl:ENSGGOG00000015009	X	-	ubiquitin conjugating enzyme E2 A	protein-coding	-	-	-	-	20161110
@@ -15129,7 +15129,7 @@
 9593	101142040	LOC101142040	-	-	-	X	-	GTP-binding protein SAR1a pseudogene	pseudo	-	-	-	-	20161110
 9593	101142041	LOC101142041	-	-	-	8	-	condensin complex subunit 3-like	pseudo	-	-	-	-	20161110
 9593	101142042	PABPC5	-	-	Ensembl:ENSGGOG00000007622	X	-	poly(A) binding protein cytoplasmic 5	protein-coding	-	-	-	Poly(A)-binding protein cytoplasmic 5	20161110
-9593	101142043	LY6K	-	-	-	8	-	lymphocyte antigen 6 complex, locus K	protein-coding	-	-	-	-	20161110
+9593	101142043	LY6K	-	-	-	8	-	lymphocyte antigen 6 family member K	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus K	20170130
 9593	101142044	SASH3	-	-	Ensembl:ENSGGOG00000015197	X	-	SAM and SH3 domain containing 3	protein-coding	-	-	-	-	20161110
 9593	101142045	UNC13B	-	-	-	9	-	unc-13 homolog B	protein-coding	-	-	-	-	20161110
 9593	101142046	LOC101142046	-	MAGEA3	Ensembl:ENSGGOG00000026086	X	-	melanoma-associated antigen 2	protein-coding	-	-	-	MAGE family member A3	20161114
@@ -16246,7 +16246,7 @@
 9593	101143392	LOC101143392	-	-	-	8	-	putative exonuclease GOR	protein-coding	-	-	-	-	20161110
 9593	101143393	OXR1	-	-	Ensembl:ENSGGOG00000006236	8	-	oxidation resistance 1	protein-coding	-	-	-	-	20161110
 9593	101143394	PCDH11X	-	PcdhX	-	X	-	protocadherin 11 X-linked	protein-coding	-	-	-	protocadherinX	20161110
-9593	101143395	LY6E	-	-	Ensembl:ENSGGOG00000001273	8	-	lymphocyte antigen 6 complex, locus E	protein-coding	-	-	-	-	20161110
+9593	101143395	LY6E	-	-	Ensembl:ENSGGOG00000001273	8	-	lymphocyte antigen 6 family member E	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus E	20170130
 9593	101143396	LOC101143396	-	-	-	9	-	interferon omega-1-like	pseudo	-	-	-	-	20161110
 9593	101143397	RUSC2	-	-	Ensembl:ENSGGOG00000009017	9	-	RUN and SH3 domain containing 2	protein-coding	-	-	-	-	20161110
 9593	101143399	LOC101143399	-	-	-	9	-	receptor-type tyrosine-protein phosphatase V-like	protein-coding	-	-	-	-	20161110

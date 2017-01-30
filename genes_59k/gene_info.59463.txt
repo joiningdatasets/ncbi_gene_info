@@ -8024,7 +8024,7 @@
 59463	102425400	DPF2	-	-	Ensembl:ENSMLUG00000003890	Un	-	double PHD fingers 2	protein-coding	-	-	-	-	20160730
 59463	102425401	LOC102425401	-	-	-	Un	-	ubiquitin conjugation factor E4 B pseudogene	pseudo	-	-	-	-	20151115
 59463	102425402	LOC102425402	-	-	-	Un	-	butyrophilin subfamily 1 member A1-like	protein-coding	-	-	-	-	20160910
-59463	102425403	NQO2	-	-	Ensembl:ENSMLUG00000000386	Un	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	-	20160910
+59463	102425403	NQO2	-	-	Ensembl:ENSMLUG00000000386	Un	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	NAD(P)H quinone dehydrogenase 2	20170130
 59463	102425404	GPR33	-	-	-	Un	-	G protein-coupled receptor 33	protein-coding	-	-	-	-	20160910
 59463	102425405	LOC102425405	-	-	-	Un	-	pre-mRNA cleavage complex 2 protein Pcf11-like	protein-coding	-	-	-	-	20160116
 59463	102425406	ERICH3	-	-	Ensembl:ENSMLUG00000005982	Un	-	glutamate rich 3	protein-coding	-	-	-	-	20160910
@@ -10868,7 +10868,7 @@
 59463	102428439	MX2	-	-	Ensembl:ENSMLUG00000024389	Un	-	MX dynamin like GTPase 2	protein-coding	-	-	-	myxovirus (influenza virus) resistance 2	20160730
 59463	102428440	LOC102428440	-	-	-	Un	-	uncharacterized LOC102428440	ncRNA	-	-	-	-	20151115
 59463	102428441	ZBTB7C	-	-	Ensembl:ENSMLUG00000030000	Un	-	zinc finger and BTB domain containing 7C	protein-coding	-	-	-	-	20160910
-59463	102428442	LY6G6C	-	-	Ensembl:ENSMLUG00000009471	Un	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	-	20160910
+59463	102428442	LY6G6C	-	-	Ensembl:ENSMLUG00000009471	Un	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6C	20170130
 59463	102428443	DFFA	-	-	Ensembl:ENSMLUG00000000194	Un	-	DNA fragmentation factor subunit alpha	protein-coding	-	-	-	-	20160910
 59463	102428444	RAB11B	-	-	-	Un	-	RAB11B, member RAS oncogene family	protein-coding	-	-	-	-	20160116
 59463	102428445	SLC22A23	-	-	Ensembl:ENSMLUG00000006824	Un	-	solute carrier family 22 member 23	protein-coding	-	-	-	-	20160811
@@ -10885,7 +10885,7 @@
 59463	102428457	LOC102428457	-	OR4	-	Un	-	olfactory receptor 4F3/4F16/4F29-like	protein-coding	-	-	-	olfactory receptor family 4	20160910
 59463	102428458	FOSB	-	-	Ensembl:ENSMLUG00000009003	Un	-	FosB proto-oncogene, AP-1 transcription factor subunit	protein-coding	-	-	-	-	20160729
 59463	102428459	LOC102428459	-	-	-	Un	-	eukaryotic translation initiation factor 4E pseudogene	pseudo	-	-	-	-	20151115
-59463	102428461	AUTS2	-	-	Ensembl:ENSMLUG00000004614	Un	-	autism susceptibility candidate 2	protein-coding	-	-	-	-	20160730
+59463	102428461	AUTS2	-	-	Ensembl:ENSMLUG00000004614	Un	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility candidate 2	20170130
 59463	102428462	LOC102428462	-	-	-	Un	-	GTPase IMAP family member 7-like	pseudo	-	-	-	-	20151115
 59463	102428463	LOC102428463	-	-	-	Un	-	HLA class II histocompatibility antigen, DRB1-1 beta chain-like	pseudo	-	-	-	-	20151115
 59463	102428464	LOC102428464	-	-	Ensembl:ENSMLUG00000011091	Un	-	kin of IRRE-like protein 3	protein-coding	-	-	-	-	20160329
@@ -11158,7 +11158,7 @@
 59463	102428755	PROK2	-	-	-	Un	-	prokineticin 2	protein-coding	-	-	-	-	20151115
 59463	102428756	ATF6B	-	-	Ensembl:ENSMLUG00000026641	Un	-	activating transcription factor 6 beta	protein-coding	-	-	-	-	20160116
 59463	102428757	TMPRSS2	-	-	-	Un	-	transmembrane protease, serine 2	protein-coding	-	-	-	-	20160910
-59463	102428758	LY6G6F	-	-	Ensembl:ENSMLUG00000009461	Un	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	-	20160910
+59463	102428758	LY6G6F	-	-	Ensembl:ENSMLUG00000009461	Un	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6F	20170130
 59463	102428759	ZBED6CL	-	-	-	Un	-	ZBED6 C-terminal like	protein-coding	-	-	-	-	20160730
 59463	102428761	ANGPTL4	-	-	Ensembl:ENSMLUG00000023180	Un	-	angiopoietin like 4	protein-coding	-	-	-	-	20160810
 59463	102428762	LOC102428762	-	-	-	Un	-	leukocyte elastase inhibitor-like	protein-coding	-	-	-	-	20160730
@@ -11719,7 +11719,7 @@
 59463	102429358	CDC40	-	-	Ensembl:ENSMLUG00000001809	Un	-	cell division cycle 40	protein-coding	-	-	-	-	20160730
 59463	102429359	LOC102429359	-	-	-	Un	-	ubiquitin-conjugating enzyme E2 D2B-like	pseudo	-	-	-	-	20151115
 59463	102429360	LOC102429360	-	-	-	Un	-	carcinoembryonic antigen-related cell adhesion molecule 3-like	protein-coding	-	-	-	-	20160910
-59463	102429361	LY6G5C	-	-	Ensembl:ENSMLUG00000026524	Un	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	-	20160329
+59463	102429361	LY6G5C	-	-	Ensembl:ENSMLUG00000026524	Un	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5C	20170130
 59463	102429362	LOC102429362	-	REPIN1	-	Un	-	replication initiator 1	protein-coding	-	-	-	-	20160910
 59463	102429363	CENPS	-	-	-	Un	-	centromere protein S	protein-coding	-	-	-	-	20160910
 59463	102429364	RPS28	-	-	Ensembl:ENSMLUG00000023621	Un	-	ribosomal protein S28	protein-coding	-	-	-	-	20151115
@@ -11999,7 +11999,7 @@
 59463	102429656	LOC102429656	-	-	-	Un	-	carcinoembryonic antigen-related cell adhesion molecule 21-like	protein-coding	-	-	-	-	20160730
 59463	102429657	PPT2	-	-	Ensembl:ENSMLUG00000000519	Un	-	palmitoyl-protein thioesterase 2	protein-coding	-	-	-	-	20160910
 59463	102429658	LOC102429658	-	-	Ensembl:ENSMLUG00000007354	Un	-	chromosome unknown open reading frame, human C1orf158	protein-coding	-	-	-	-	20151115
-59463	102429659	LY6G5B	-	-	Ensembl:ENSMLUG00000026027	Un	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	-	20160329
+59463	102429659	LY6G5B	-	-	Ensembl:ENSMLUG00000026027	Un	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5B	20170130
 59463	102429660	LYN	-	-	Ensembl:ENSMLUG00000014860	Un	-	LYN proto-oncogene, Src family tyrosine kinase	protein-coding	-	-	-	v-yes-1 Yamaguchi sarcoma viral related oncogene homolog	20160730
 59463	102429661	PEX14	-	-	-	Un	-	peroxisomal biogenesis factor 14	protein-coding	-	-	-	-	20160730
 59463	102429662	KANK3	-	-	Ensembl:ENSMLUG00000029771	Un	-	KN motif and ankyrin repeat domains 3	protein-coding	-	-	-	-	20160910
@@ -21344,7 +21344,7 @@
 59463	102439692	CCDC87	-	-	Ensembl:ENSMLUG00000004067	Un	-	coiled-coil domain containing 87	protein-coding	-	-	-	-	20160910
 59463	102439693	LOC102439693	-	-	-	Un	-	KATNB1-like protein 1 pseudogene	pseudo	-	-	-	-	20151115
 59463	102439694	ARMC2	-	-	Ensembl:ENSMLUG00000006860	Un	-	armadillo repeat containing 2	protein-coding	-	-	-	-	20160910
-59463	102439695	ALS2CR12	-	-	Ensembl:ENSMLUG00000015546	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	-	20160811
+59463	102439695	ALS2CR12	-	-	Ensembl:ENSMLUG00000015546	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 59463	102439696	LOC102439696	-	-	-	Un	-	zinc finger protein 345-like	protein-coding	-	-	-	-	20160730
 59463	102439697	LANCL3	-	-	Ensembl:ENSMLUG00000024975	Un	-	LanC like 3	protein-coding	-	-	-	-	20160729
 59463	102439698	LOC102439698	-	-	-	Un	-	ribosome biogenesis protein BRX1 homolog pseudogene	pseudo	-	-	-	-	20151115

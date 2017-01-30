@@ -3191,7 +3191,7 @@
 30611	100943860	LOC100943860	-	-	-	Un	-	40S ribosomal protein S6 pseudogene	pseudo	-	-	-	-	20151115
 30611	100943861	REXO1	-	-	Ensembl:ENSOGAG00000027475	Un	-	RNA exonuclease 1 homolog	protein-coding	-	-	-	-	20160729
 30611	100943862	UBD	-	-	Ensembl:ENSOGAG00000030720	Un	-	ubiquitin D	protein-coding	-	-	-	-	20160827
-30611	100943863	LY6G6C	-	-	Ensembl:ENSOGAG00000031312	Un	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	-	20160827
+30611	100943863	LY6G6C	-	-	Ensembl:ENSOGAG00000031312	Un	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6C	20170130
 30611	100943864	GRM4	-	-	Ensembl:ENSOGAG00000029055	Un	-	glutamate metabotropic receptor 4	protein-coding	-	-	-	-	20160827
 30611	100943865	TOMM6	-	PRICKLE4	-	-	-	translocase of outer mitochondrial membrane 6 homolog (yeast)	protein-coding	-	-	-	mitochondrial import receptor subunit TOM6 homolog|prickle homolog 4	20160402
 30611	100943866	RPL10A	-	-	-	Un	-	ribosomal protein L10a	protein-coding	-	-	-	-	20160716
@@ -7203,7 +7203,7 @@
 30611	100948506	PREX1	-	-	Ensembl:ENSOGAG00000002497	Un	-	phosphatidylinositol-3,4,5-trisphosphate dependent Rac exchange factor 1	protein-coding	-	-	-	-	20160827
 30611	100948507	BCAS1	-	-	-	Un	-	breast carcinoma amplified sequence 1	protein-coding	-	-	-	-	20151115
 30611	100948508	SPTLC3	-	-	Ensembl:ENSOGAG00000011703	Un	-	serine palmitoyltransferase long chain base subunit 3	protein-coding	-	-	-	-	20160827
-30611	100948509	NQO2	-	-	Ensembl:ENSOGAG00000029985	Un	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	-	20160729
+30611	100948509	NQO2	-	-	Ensembl:ENSOGAG00000029985	Un	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	NAD(P)H quinone dehydrogenase 2	20170130
 30611	100948510	TSHZ1	-	-	Ensembl:ENSOGAG00000007341	Un	-	teashirt zinc finger homeobox 1	protein-coding	-	-	-	-	20160827
 30611	100948511	DNAH5	-	-	Ensembl:ENSOGAG00000009433	Un	-	dynein axonemal heavy chain 5	protein-coding	-	-	-	-	20160729
 30611	100948512	CLN5	-	-	Ensembl:ENSOGAG00000000248	Un	-	ceroid-lipofuscinosis, neuronal 5	protein-coding	-	-	-	-	20160716
@@ -7653,7 +7653,7 @@
 30611	100949031	NPHP4	-	-	Ensembl:ENSOGAG00000006776	Un	-	nephrocystin 4	protein-coding	-	-	-	-	20160806
 30611	100949034	LOC100949034	-	-	-	Un	-	AP-2 complex subunit mu-like	pseudo	-	-	-	-	20151115
 30611	100949035	LOC100949035	-	-	-	Un	-	death-inducer obliterator 1 pseudogene	pseudo	-	-	-	-	20151115
-30611	100949036	AUTS2	-	-	Ensembl:ENSOGAG00000004276	Un	-	autism susceptibility candidate 2	protein-coding	-	-	-	-	20160827
+30611	100949036	AUTS2	-	-	Ensembl:ENSOGAG00000004276	Un	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility candidate 2	20170130
 30611	100949037	OTOL1	-	-	Ensembl:ENSOGAG00000031827	Un	-	otolin 1	protein-coding	-	-	-	-	20151115
 30611	100949038	LOC100949038	-	-	-	Un	-	POU domain, class 5, transcription factor 1-like	pseudo	-	-	-	-	20151115
 30611	100949039	SURF4	-	-	-	Un	-	surfeit 4	protein-coding	-	-	-	-	20151115
@@ -8170,7 +8170,7 @@
 30611	100949642	GRINA	-	-	Ensembl:ENSOGAG00000011958	Un	-	glutamate ionotropic receptor NMDA type subunit associated protein 1	protein-coding	-	-	-	-	20160827
 30611	100949643	LOC100949643	-	-	Ensembl:ENSOGAG00000011852	Un	-	olfactory receptor 5I1	protein-coding	-	-	-	-	20160827
 30611	100949645	LOC100949645	-	-	-	Un	-	bromodomain-containing protein 7 pseudogene	pseudo	-	-	-	-	20151115
-30611	100949646	LY6K	-	-	-	Un	-	lymphocyte antigen 6 complex, locus K	protein-coding	-	-	-	-	20151115
+30611	100949646	LY6K	-	-	-	Un	-	lymphocyte antigen 6 family member K	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus K	20170130
 30611	100949647	LOC100949647	-	-	-	Un	-	immunoglobulin omega chain-like	pseudo	-	-	-	-	20151115
 30611	100949648	ABCC3	-	-	-	Un	-	ATP binding cassette subfamily C member 3	protein-coding	-	-	-	-	20160810
 30611	100949649	LOC100949649	-	-	-	Un	-	taste receptor type 2 member 10-like	protein-coding	-	-	-	-	20160716
@@ -8338,7 +8338,7 @@
 30611	100949845	LOC100949845	-	-	-	Un	-	uridine-cytidine kinase 1 pseudogene	pseudo	-	-	-	-	20151115
 30611	100949846	LOC100949846	-	-	Ensembl:ENSOGAG00000025706	Un	-	olfactory receptor 2G3-like	protein-coding	-	-	-	-	20160827
 30611	100949847	NMUR1	-	-	-	Un	-	neuromedin U receptor 1	protein-coding	-	-	-	-	20160827
-30611	100949848	ALS2CR12	-	-	Ensembl:ENSOGAG00000010736	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	-	20160811
+30611	100949848	ALS2CR12	-	-	Ensembl:ENSOGAG00000010736	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 30611	100949849	LOC100949849	-	-	-	Un	-	60S ribosomal protein L27 pseudogene	pseudo	-	-	-	-	20151115
 30611	100949850	NDN	-	-	Ensembl:ENSOGAG00000000285	Un	-	necdin, MAGE family member	protein-coding	-	-	-	-	20160827
 30611	100949851	NCBP1	-	-	Ensembl:ENSOGAG00000013888	Un	-	nuclear cap binding protein subunit 1	protein-coding	-	-	-	-	20160827
@@ -8438,7 +8438,7 @@
 30611	100949962	RGL1	-	-	Ensembl:ENSOGAG00000003120	Un	-	ral guanine nucleotide dissociation stimulator like 1	protein-coding	-	-	-	-	20160827
 30611	100949963	GUCY1A3	-	-	Ensembl:ENSOGAG00000017072	Un	-	guanylate cyclase 1 soluble subunit alpha	protein-coding	-	-	-	-	20160827
 30611	100949964	NUDT11	-	-	Ensembl:ENSOGAG00000034819	Un	-	nudix hydrolase 11	protein-coding	-	-	-	-	20160811
-30611	100949965	LY6D	-	-	Ensembl:ENSOGAG00000032652	Un	-	lymphocyte antigen 6 complex, locus D	protein-coding	-	-	-	-	20151115
+30611	100949965	LY6D	-	-	Ensembl:ENSOGAG00000032652	Un	-	lymphocyte antigen 6 family member D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus D	20170130
 30611	100949966	LOC100949966	-	-	-	Un	-	Ig kappa chain V-III region NG9-like	other	-	-	-	-	20151115
 30611	100949967	LOC100949967	-	-	-	Un	-	taste receptor type 2 member 10-like	protein-coding	-	-	-	-	20160827
 30611	100949969	LOC100949969	-	-	Ensembl:ENSOGAG00000024573	Un	-	protein FAM127C-like	protein-coding	-	-	-	-	20160827
@@ -14911,7 +14911,7 @@
 30611	100957294	VIPR2	-	-	Ensembl:ENSOGAG00000008327	Un	-	vasoactive intestinal peptide receptor 2	protein-coding	-	-	-	-	20160827
 30611	100957295	LOC100957295	-	-	-	Un	-	heterogeneous nuclear ribonucleoprotein A1-like	pseudo	-	-	-	-	20151115
 30611	100957296	LOC100957296	-	-	-	Un	-	chromosome unknown open reading frame, human C1orf189	protein-coding	-	-	-	-	20160827
-30611	100957297	LY6H	-	-	-	Un	-	lymphocyte antigen 6 complex, locus H	protein-coding	-	-	-	-	20160827
+30611	100957297	LY6H	-	-	-	Un	-	lymphocyte antigen 6 family member H	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus H	20170130
 30611	100957298	LOC100957298	-	-	-	Un	-	fatty acid desaturase 2-like protein FADS2P1	protein-coding	-	-	-	-	20160716
 30611	100957299	LOC100957299	-	-	-	Un	-	T-complex protein 1 subunit delta-like	pseudo	-	-	-	-	20151115
 30611	100957300	XPR1	-	-	Ensembl:ENSOGAG00000002019	Un	-	xenotropic and polytropic retrovirus receptor 1	protein-coding	-	-	-	-	20160827
@@ -15373,7 +15373,7 @@
 30611	100957810	MMP14	-	-	Ensembl:ENSOGAG00000012736	Un	-	matrix metallopeptidase 14	protein-coding	-	-	-	-	20160827
 30611	100957811	LOC100957811	-	-	-	Un	-	protein BEX4-like	protein-coding	-	-	-	-	20160827
 30611	100957812	SERTAD1	-	-	Ensembl:ENSOGAG00000001180	Un	-	SERTA domain containing 1	protein-coding	-	-	-	-	20160827
-30611	100957814	LY6E	-	-	Ensembl:ENSOGAG00000013341	Un	-	lymphocyte antigen 6 complex, locus E	protein-coding	-	-	-	-	20160827
+30611	100957814	LY6E	-	-	Ensembl:ENSOGAG00000013341	Un	-	lymphocyte antigen 6 family member E	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus E	20170130
 30611	100957815	VPS37C	-	-	Ensembl:ENSOGAG00000026945	Un	-	VPS37C, ESCRT-I subunit	protein-coding	-	-	-	-	20160827
 30611	100957816	LOC100957816	-	-	-	Un	-	elongation factor 1-alpha 1 pseudogene	pseudo	-	-	-	-	20151115
 30611	100957817	NAT14	-	-	Ensembl:ENSOGAG00000027146	Un	-	N-acetyltransferase 14 (putative)	protein-coding	-	-	-	-	20160729
@@ -18953,7 +18953,7 @@
 30611	100961942	CDC34	-	-	Ensembl:ENSOGAG00000004610	Un	-	cell division cycle 34	protein-coding	-	-	-	cell division cycle 34 homolog	20151115
 30611	100961943	LOC100961943	-	-	-	Un	-	40S ribosomal protein S18 pseudogene	pseudo	-	-	-	-	20151115
 30611	100961944	CCDC167	-	-	-	Un	-	coiled-coil domain containing 167	protein-coding	-	-	-	-	20160827
-30611	100961945	LY6G5C	-	-	Ensembl:ENSOGAG00000027034	Un	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	-	20151115
+30611	100961945	LY6G5C	-	-	Ensembl:ENSOGAG00000027034	Un	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5C	20170130
 30611	100961946	TM9SF2	-	-	Ensembl:ENSOGAG00000007453	Un	-	transmembrane 9 superfamily member 2	protein-coding	-	-	-	-	20160827
 30611	100961947	LOC100961947	-	-	-	Un	-	LYR motif-containing protein 1-like	pseudo	-	-	-	-	20151115
 30611	100961948	LOC100961948	-	-	-	Un	-	centromere protein L pseudogene	pseudo	-	-	-	-	20151115

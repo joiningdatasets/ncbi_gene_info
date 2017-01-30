@@ -7905,7 +7905,7 @@
 34839	102011276	Rps20	-	-	-	Un	-	ribosomal protein S20	protein-coding	-	-	-	-	20160910
 34839	102011277	Riox2	-	Mina	-	Un	-	ribosomal oxygenase 2	protein-coding	-	-	-	MYC induced nuclear antigen	20170107
 34839	102011278	Pisd	-	-	-	Un	-	phosphatidylserine decarboxylase	protein-coding	-	-	-	-	20160910
-34839	102011279	Auts2	-	-	-	Un	-	autism susceptibility candidate 2	protein-coding	-	-	-	-	20160822
+34839	102011279	Auts2	-	-	-	Un	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility candidate 2	20170130
 34839	102011280	LOC102011280	-	-	-	Un	-	probable methyltransferase-like protein 15	pseudo	-	-	-	-	20160822
 34839	102011281	Cdk4	-	-	-	Un	-	cyclin dependent kinase 4	protein-coding	-	-	-	-	20160910
 34839	102011282	Ptgdr	-	-	-	Un	-	prostaglandin D2 receptor	protein-coding	-	-	-	-	20160910
@@ -14159,7 +14159,7 @@
 34839	102017962	Fam20c	-	-	-	Un	-	FAM20C, golgi associated secretory pathway kinase	protein-coding	-	-	-	-	20160822
 34839	102017963	LOC102017963	-	-	-	Un	-	uncharacterized LOC102017963	ncRNA	-	-	-	-	20160822
 34839	102017964	Nedd9	-	-	-	Un	-	neural precursor cell expressed, developmentally down-regulated 9	protein-coding	-	-	-	-	20160910
-34839	102017965	Nqo2	-	-	-	Un	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	-	20160910
+34839	102017965	Nqo2	-	-	-	Un	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	NAD(P)H quinone dehydrogenase 2	20170130
 34839	102017966	Sik2	-	-	-	Un	-	salt inducible kinase 2	protein-coding	-	-	-	-	20160910
 34839	102017967	Tmem170b	-	-	-	Un	-	transmembrane protein 170B	protein-coding	-	-	-	-	20160822
 34839	102017969	Ppp1r36	-	-	-	Un	-	protein phosphatase 1 regulatory subunit 36	protein-coding	-	-	-	-	20160822
@@ -14789,7 +14789,7 @@
 34839	102018638	Reg4	-	-	-	Un	-	regenerating family member 4	protein-coding	-	-	-	-	20160822
 34839	102018639	LOC102018639	-	-	-	Un	-	polycomb complex protein BMI-1-like	pseudo	-	-	-	-	20160822
 34839	102018640	LOC102018640	-	-	-	Un	-	melanoma-associated antigen B1-like	protein-coding	-	-	-	-	20160910
-34839	102018641	Ly6g5b	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	-	20160822
+34839	102018641	Ly6g5b	-	-	-	Un	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5B	20170130
 34839	102018642	Grm2	-	-	-	Un	-	glutamate metabotropic receptor 2	protein-coding	-	-	-	-	20160910
 34839	102018643	LOC102018643	-	-	-	Un	-	tubulin alpha-1 chain-like	pseudo	-	-	-	-	20160822
 34839	102018644	LOC102018644	-	-	-	Un	-	uncharacterized LOC102018644	ncRNA	-	-	-	-	20160822
@@ -16102,7 +16102,7 @@
 34839	102020044	Fancb	-	-	-	Un	-	Fanconi anemia complementation group B	protein-coding	-	-	-	-	20160822
 34839	102020045	Fndc7	-	-	-	Un	-	fibronectin type III domain containing 7	protein-coding	-	-	-	-	20160910
 34839	102020046	Spen	-	-	-	Un	-	spen family transcriptional repressor	protein-coding	-	-	-	spen homolog, transcriptional regulator	20160822
-34839	102020047	Ly6g5c	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	-	20160822
+34839	102020047	Ly6g5c	-	-	-	Un	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5C	20170130
 34839	102020048	LOC102020048	-	-	-	Un	-	IQ domain-containing protein F5-like	protein-coding	-	-	-	-	20160822
 34839	102020049	Taf8	-	-	-	Un	-	TATA-box binding protein associated factor 8	protein-coding	-	-	-	-	20160910
 34839	102020050	Rtl1	-	-	-	Un	-	retrotransposon-like 1	protein-coding	-	-	-	-	20160910
@@ -17369,7 +17369,7 @@
 34839	102021404	Chmp2a	-	-	-	Un	-	charged multivesicular body protein 2A	protein-coding	-	-	-	-	20160827
 34839	102021405	Rit2	-	-	-	Un	-	Ras like without CAAX 2	protein-coding	-	-	-	-	20160910
 34839	102021406	LOC102021406	-	-	-	Un	-	histone H2A	protein-coding	-	-	-	-	20160822
-34839	102021407	Als2cr12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	-	20160822
+34839	102021407	Als2cr12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 34839	102021408	LOC102021408	-	-	-	Un	-	Ig heavy chain V region 1B43-like	other	-	-	-	-	20160822
 34839	102021409	Lasp1	-	-	-	Un	-	LIM and SH3 protein 1	protein-coding	-	-	-	-	20160822
 34839	102021410	Gfap	-	-	-	Un	-	glial fibrillary acidic protein	protein-coding	-	-	-	-	20160910
@@ -17729,7 +17729,7 @@
 34839	102021793	Bnc2	-	-	-	Un	-	basonuclin 2	protein-coding	-	-	-	-	20160910
 34839	102021795	Hdx	-	-	-	Un	-	highly divergent homeobox	protein-coding	-	-	-	-	20160822
 34839	102021796	LOC102021796	-	-	-	Un	-	ras-related protein Ral-A pseudogene	pseudo	-	-	-	-	20160822
-34839	102021797	Ly6g6f	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	-	20160822
+34839	102021797	Ly6g6f	-	-	-	Un	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6F	20170130
 34839	102021798	Mst1r	-	-	-	Un	-	macrophage stimulating 1 receptor	protein-coding	-	-	-	macrophage stimulating 1 receptor (c-met-related tyrosine kinase)	20160910
 34839	102021800	LOC102021800	-	-	-	Un	-	disintegrin and metalloproteinase domain-containing protein 18-like	protein-coding	-	-	-	-	20160822
 34839	102021801	Nup210l	-	-	-	Un	-	nucleoporin 210 like	protein-coding	-	-	-	-	20160822
@@ -18353,7 +18353,7 @@
 34839	102022457	Rfx4	-	-	-	Un	-	regulatory factor X4	protein-coding	-	-	-	-	20160910
 34839	102022458	LOC102022458	-	-	-	Un	-	translation initiation factor IF-2-like	protein-coding	-	-	-	-	20160822
 34839	102022459	Ints7	-	-	-	Un	-	integrator complex subunit 7	protein-coding	-	-	-	-	20160822
-34839	102022460	Ly6d	-	-	-	Un	-	lymphocyte antigen 6 complex, locus D	protein-coding	-	-	-	-	20160822
+34839	102022460	Ly6d	-	-	-	Un	-	lymphocyte antigen 6 family member D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus D	20170130
 34839	102022461	Ptpn7	-	-	-	Un	-	protein tyrosine phosphatase, non-receptor type 7	protein-coding	-	-	-	-	20160822
 34839	102022462	Soat1	-	-	-	Un	-	sterol O-acyltransferase 1	protein-coding	-	-	-	-	20160822
 34839	102022463	LOC102022463	-	-	-	Un	-	chromosome unknown open reading frame, human C3orf38	protein-coding	-	-	-	-	20160910
@@ -18615,7 +18615,7 @@
 34839	102022737	LOC102022737	-	Taar6	-	Un	-	trace amine-associated receptor 6	protein-coding	-	-	-	-	20160910
 34839	102022738	Znf711	-	-	-	Un	-	zinc finger protein 711	protein-coding	-	-	-	-	20160910
 34839	102022739	Gopc	-	-	-	Un	-	golgi associated PDZ and coiled-coil motif containing	protein-coding	-	-	-	-	20160822
-34839	102022740	Ly6g6d	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6D	protein-coding	-	-	-	-	20160822
+34839	102022740	Ly6g6d	-	-	-	Un	-	lymphocyte antigen 6 family member G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6D	20170130
 34839	102022741	LOC102022741	-	-	-	Un	-	flocculation protein FLO11-like	protein-coding	-	-	-	-	20160910
 34839	102022742	Mtch1	-	-	-	Un	-	mitochondrial carrier 1	protein-coding	-	-	-	-	20160910
 34839	102022743	Chrnb3	-	-	-	Un	-	cholinergic receptor nicotinic beta 3 subunit	protein-coding	-	-	-	-	20160822
@@ -21920,7 +21920,7 @@
 34839	102026285	Zbtb8os	-	-	-	Un	-	zinc finger and BTB domain containing 8 opposite strand	protein-coding	-	-	-	-	20160910
 34839	102026286	Arl1	-	-	-	Un	-	ADP ribosylation factor like GTPase 1	protein-coding	-	-	-	-	20160822
 34839	102026287	LOC102026287	-	-	-	Un	-	uncharacterized LOC102026287	ncRNA	-	-	-	-	20160822
-34839	102026288	Ly6h	-	-	-	Un	-	lymphocyte antigen 6 complex, locus H	protein-coding	-	-	-	-	20160910
+34839	102026288	Ly6h	-	-	-	Un	-	lymphocyte antigen 6 family member H	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus H	20170130
 34839	102026289	Hgh1	-	Fam203a	-	Un	-	HGH1 homolog	protein-coding	-	-	-	family with sequence similarity 203, member A	20160910
 34839	102026290	LOC102026290	-	-	-	Un	-	chromosome unknown open reading frame, human C1orf53	protein-coding	-	-	-	-	20160822
 34839	102026291	Sntg1	-	-	-	Un	-	syntrophin gamma 1	protein-coding	-	-	-	-	20160822
@@ -22388,7 +22388,7 @@
 34839	102026789	Vangl1	-	-	-	Un	-	VANGL planar cell polarity protein 1	protein-coding	-	-	-	-	20160910
 34839	102026790	LOC102026790	-	-	-	Un	-	mimitin, mitochondrial pseudogene	pseudo	-	-	-	-	20160822
 34839	102026791	LOC102026791	-	-	-	Un	-	uncharacterized LOC102026791	protein-coding	-	-	-	-	20160822
-34839	102026792	Ly6g6c	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	-	20160910
+34839	102026792	Ly6g6c	-	-	-	Un	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6C	20170130
 34839	102026793	Col11a2	-	-	-	Un	-	collagen type XI alpha 2 chain	protein-coding	-	-	-	-	20160910
 34839	102026794	Alas1	-	-	-	Un	-	5'-aminolevulinate synthase 1	protein-coding	-	-	-	aminolevulinate, delta-, synthase 1	20160910
 34839	102026795	LOC102026795	-	-	-	Un	-	uncharacterized LOC102026795	pseudo	-	-	-	-	20160822

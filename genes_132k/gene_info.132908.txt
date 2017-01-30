@@ -8562,7 +8562,7 @@
 132908	105296713	JPH1	-	-	-	Un	-	junctophilin 1	protein-coding	-	-	-	junctophilin-1	20170128
 132908	105296714	LOC105296714	-	-	-	Un	-	leucine-rich repeat-containing protein 31 pseudogene	pseudo	-	-	-	-	20151115
 132908	105296715	GATSL2	-	-	-	Un	-	GATS protein like 2	protein-coding	-	-	-	GATS-like protein 2	20170128
-132908	105296716	AUTS2	-	-	-	Un	-	autism susceptibility candidate 2	protein-coding	-	-	-	autism susceptibility gene 2 protein	20170128
+132908	105296716	AUTS2	-	-	-	Un	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility gene 2 protein|autism susceptibility candidate 2	20170130
 132908	105296717	LOC105296717	-	-	-	Un	-	60S ribosomal protein L7a-like	pseudo	-	-	-	-	20151115
 132908	105296718	WBSCR17	-	-	-	Un	-	Williams-Beuren syndrome chromosome region 17	protein-coding	-	-	-	putative polypeptide N-acetylgalactosaminyltransferase-like protein 3	20170128
 132908	105296719	CALN1	-	-	-	Un	-	calneuron 1	protein-coding	-	-	-	calcium-binding protein 8	20170128
@@ -8625,7 +8625,7 @@
 132908	105296776	LOC105296776	-	-	-	Un	-	tubulin beta-2A chain	protein-coding	-	-	-	tubulin beta-2A chain	20170128
 132908	105296777	BPHL	-	-	-	Un	-	biphenyl hydrolase like	protein-coding	-	-	-	valacyclovir hydrolase	20170128
 132908	105296778	RIPK1	-	-	-	Un	-	receptor interacting serine/threonine kinase 1	protein-coding	-	-	-	receptor-interacting serine/threonine-protein kinase 1	20170128
-132908	105296779	NQO2	-	-	-	Un	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	ribosyldihydronicotinamide dehydrogenase [quinone]	20170128
+132908	105296779	NQO2	-	-	-	Un	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	ribosyldihydronicotinamide dehydrogenase [quinone]|NAD(P)H quinone dehydrogenase 2	20170130
 132908	105296780	PPM1J	-	-	-	Un	-	protein phosphatase, Mg2+/Mn2+ dependent 1J	protein-coding	-	-	-	protein phosphatase 1J	20170128
 132908	105296781	LOC105296781	-	-	-	Un	-	26S protease regulatory subunit 6A pseudogene	pseudo	-	-	-	-	20151115
 132908	105296782	LOC105296782	-	-	-	Un	-	protein FAM161A pseudogene	pseudo	-	-	-	-	20151115
@@ -9972,7 +9972,7 @@
 132908	105298123	STRADB	-	-	-	Un	-	STE20-related kinase adaptor beta	protein-coding	-	-	-	STE20-related kinase adapter protein beta	20170128
 132908	105298124	TRAK2	-	-	-	Un	-	trafficking kinesin protein 2	protein-coding	-	-	-	LOW QUALITY PROTEIN: trafficking kinesin-binding protein 2	20170128
 132908	105298125	LOC105298125	-	-	-	Un	-	annexin A1-like	pseudo	-	-	-	-	20151115
-132908	105298126	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosomal region candidate gene 12 protein	20170128
+132908	105298126	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosomal region candidate gene 12 protein|amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 132908	105298127	CASP8	-	-	-	Un	-	caspase 8	protein-coding	-	-	-	caspase-8	20170128
 132908	105298128	CASP10	-	-	-	Un	-	caspase 10	protein-coding	-	-	-	caspase-10	20170128
 132908	105298129	CFLAR	-	-	-	Un	-	CASP8 and FADD like apoptosis regulator	protein-coding	-	-	-	CASP8 and FADD-like apoptosis regulator	20170128
@@ -13872,8 +13872,8 @@
 132908	105302023	LOC105302023	-	-	-	Un	-	cytochrome P450 11B1, mitochondrial	protein-coding	-	-	-	cytochrome P450 11B1, mitochondrial	20170128
 132908	105302024	GML	-	-	-	Un	-	glycosylphosphatidylinositol anchored molecule like	protein-coding	-	-	-	glycosyl-phosphatidylinositol-anchored molecule-like protein	20170128
 132908	105302025	TSPAN19	-	-	-	Un	-	tetraspanin 19	protein-coding	-	-	-	putative tetraspanin-19	20170128
-132908	105302026	LY6K	-	-	-	Un	-	lymphocyte antigen 6 complex, locus K	protein-coding	-	-	-	lymphocyte antigen 6K	20170128
-132908	105302027	LY6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus D	protein-coding	-	-	-	lymphocyte antigen 6D	20170128
+132908	105302026	LY6K	-	-	-	Un	-	lymphocyte antigen 6 family member K	protein-coding	-	-	-	lymphocyte antigen 6K|lymphocyte antigen 6 complex, locus K	20170130
+132908	105302027	LY6D	-	-	-	Un	-	lymphocyte antigen 6 family member D	protein-coding	-	-	-	lymphocyte antigen 6D|lymphocyte antigen 6 complex, locus D	20170130
 132908	105302028	LYNX1	-	-	-	Un	-	Ly6/neurotoxin 1	protein-coding	-	-	-	ly-6/neurotoxin-like protein 1	20170128
 132908	105302029	LOC105302029	-	-	-	Un	-	ly6/PLAUR domain-containing protein 2-like	protein-coding	-	-	-	ly6/PLAUR domain-containing protein 2-like	20170128
 132908	105302030	PSCA	-	-	-	Un	-	prostate stem cell antigen	protein-coding	-	-	-	prostate stem cell antigen	20170128
@@ -17156,12 +17156,12 @@
 132908	105305307	SPTSSB	-	-	-	Un	-	serine palmitoyltransferase small subunit B	protein-coding	-	-	-	serine palmitoyltransferase small subunit B	20170128
 132908	105305308	DDAH2	-	-	-	Un	-	dimethylarginine dimethylaminohydrolase 2	protein-coding	-	-	-	N(G),N(G)-dimethylarginine dimethylaminohydrolase 2	20170128
 132908	105305309	MPIG6B	-	-	-	Un	-	megakaryocyte and platelet inhibitory receptor G6b	protein-coding	-	-	-	protein G6b	20170128
-132908	105305310	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6c	20170128
-132908	105305311	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6f	20170128
+132908	105305310	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6c|lymphocyte antigen 6 complex, locus G6C	20170130
+132908	105305311	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6f|lymphocyte antigen 6 complex, locus G6F	20170130
 132908	105305312	ABHD16A	-	-	-	Un	-	abhydrolase domain containing 16A	protein-coding	-	-	-	abhydrolase domain-containing protein 16A	20170128
 132908	105305313	GPANK1	-	-	-	Un	-	G-patch domain and ankyrin repeats 1	protein-coding	-	-	-	G patch domain and ankyrin repeat-containing protein 1	20170128
-132908	105305314	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G5b	20170128
-132908	105305315	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G5c	20170128
+132908	105305314	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G5b|lymphocyte antigen 6 complex, locus G5B	20170130
+132908	105305315	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G5c|lymphocyte antigen 6 complex, locus G5C	20170130
 132908	105305316	LOC105305316	-	-	-	Un	-	chromosome unknown open reading frame, human C6orf47	protein-coding	-	-	-	uncharacterized protein C6orf47 homolog	20170128
 132908	105305317	BAG6	-	-	-	Un	-	BCL2 associated athanogene 6	protein-coding	-	-	-	large proline-rich protein BAG6	20170128
 132908	105305318	APOM	-	-	-	Un	-	apolipoprotein M	protein-coding	-	-	-	apolipoprotein M	20170128

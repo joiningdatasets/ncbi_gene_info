@@ -6185,7 +6185,7 @@
 10160	101566248	LOC101566248	-	-	-	Un	-	S-formylglutathione hydrolase-like	pseudo	-	-	-	-	20151115
 10160	101566249	LOC101566249	-	-	-	Un	-	OTU domain-containing protein 6B pseudogene	pseudo	-	-	-	-	20151115
 10160	101566250	LOC101566250	-	-	-	Un	-	polyhomeotic-like protein 1 pseudogene	pseudo	-	-	-	-	20151115
-10160	101566251	Als2cr12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	-	20160903
+10160	101566251	Als2cr12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 10160	101566252	LOC101566252	-	-	-	Un	-	epidermal growth factor receptor substrate 15 pseudogene	pseudo	-	-	-	-	20151115
 10160	101566253	LOC101566253	-	-	-	Un	-	60S ribosomal protein L15-like	pseudo	-	-	-	-	20151115
 10160	101566254	Irgq	-	-	-	Un	-	immunity related GTPase Q	protein-coding	-	-	-	-	20160903
@@ -9306,7 +9306,7 @@
 10160	101569659	LOC101569659	-	-	-	Un	-	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A member 5 pseudogene	pseudo	-	-	-	-	20151115
 10160	101569660	Fscn2	-	-	-	Un	-	fascin actin-bundling protein 2, retinal	protein-coding	-	-	-	fascin homolog 2, actin-bundling protein, retinal	20160903
 10160	101569661	Ctnnbip1	-	-	-	Un	-	catenin beta interacting protein 1	protein-coding	-	-	-	-	20160903
-10160	101569662	Ly6g6d	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6D	protein-coding	-	-	-	-	20151115
+10160	101569662	Ly6g6d	-	-	-	Un	-	lymphocyte antigen 6 family member G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6D	20170130
 10160	101569663	Snw1	-	-	-	Un	-	SNW domain containing 1	protein-coding	-	-	-	-	20160903
 10160	101569664	LOC101569664	-	-	-	Un	-	histone H2B type 2-E-like	protein-coding	-	-	-	-	20160903
 10160	101569665	LOC101569665	-	-	-	Un	-	kynurenine/alpha-aminoadipate aminotransferase, mitochondrial-like	protein-coding	-	-	-	-	20151115
@@ -10036,7 +10036,7 @@
 10160	101570460	LOC101570460	-	-	-	Un	-	ras-related protein Rab-5A pseudogene	pseudo	-	-	-	-	20151115
 10160	101570461	LOC101570461	-	-	-	Un	-	zinc finger protein 883-like	protein-coding	-	-	-	-	20160716
 10160	101570462	Ube4b	-	-	-	Un	-	ubiquitination factor E4B	protein-coding	-	-	-	-	20160903
-10160	101570463	Ly6g5c	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	-	20151115
+10160	101570463	Ly6g5c	-	-	-	Un	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5C	20170130
 10160	101570464	Ahsa1	-	-	-	Un	-	activator of HSP90 ATPase activity 1	protein-coding	-	-	-	-	20161126
 10160	101570465	LOC101570465	-	-	-	Un	-	histone H3	protein-coding	-	-	-	-	20160730
 10160	101570466	LOC101570466	-	-	-	Un	-	M-phase phosphoprotein 6 pseudogene	pseudo	-	-	-	-	20151115
@@ -10406,7 +10406,7 @@
 10160	101570860	Atp12a	-	-	-	Un	-	ATPase H+/K+ transporting non-gastric alpha2 subunit	protein-coding	-	-	-	-	20160903
 10160	101570861	Sgms1	-	-	-	Un	-	sphingomyelin synthase 1	protein-coding	-	-	-	-	20160903
 10160	101570862	LOC101570862	-	-	-	Un	-	zinc finger protein 431-like	protein-coding	-	-	-	-	20160716
-10160	101570863	Ly6g5b	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	-	20151115
+10160	101570863	Ly6g5b	-	-	-	Un	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5B	20170130
 10160	101570864	Uvssa	-	-	-	Un	-	UV stimulated scaffold protein A	protein-coding	-	-	-	-	20160903
 10160	101570865	Vipas39	-	-	-	Un	-	VPS33B interacting protein, apical-basolateral polarity regulator, spe-39 homolog	protein-coding	-	-	-	-	20161031
 10160	101570866	LOC101570866	-	-	-	Un	-	E3 ubiquitin-protein ligase TRIM38-like	pseudo	-	-	-	-	20151115
@@ -15476,7 +15476,7 @@
 10160	101576400	Armc10	-	-	-	Un	-	armadillo repeat containing 10	protein-coding	-	-	-	-	20160903
 10160	101576401	Klhdc3	-	-	-	Un	-	kelch domain containing 3	protein-coding	-	-	-	-	20160903
 10160	101576402	Fbxo44	-	-	-	Un	-	F-box protein 44	protein-coding	-	-	-	-	20160903
-10160	101576403	Ly6g6c	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	-	20151115
+10160	101576403	Ly6g6c	-	-	-	Un	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6C	20170130
 10160	101576404	LOC101576404	-	-	-	Un	-	protein NipSnap homolog 3A	protein-coding	-	-	-	-	20160716
 10160	101576405	LOC101576405	-	-	-	Un	-	hypoxanthine-guanine phosphoribosyltransferase-like	pseudo	-	-	-	-	20151115
 10160	101576406	LOC101576406	-	Cmah	-	Un	-	cytidine monophosphate-N-acetylneuraminic acid hydroxylase	protein-coding	-	-	-	cytidine monophospho-N-acetylneuraminic acid hydroxylase	20160716
@@ -15845,7 +15845,7 @@
 10160	101576802	LOC101576802	-	-	-	Un	-	zinc finger CCCH domain-containing protein 11A pseudogene	pseudo	-	-	-	-	20151115
 10160	101576803	Fbxl13	-	-	-	Un	-	F-box and leucine rich repeat protein 13	protein-coding	-	-	-	-	20160729
 10160	101576805	LOC101576805	-	-	-	Un	-	LYR motif-containing protein 2	protein-coding	-	-	-	-	20160903
-10160	101576806	Ly6g6f	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	-	20151115
+10160	101576806	Ly6g6f	-	-	-	Un	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6F	20170130
 10160	101576807	LOC101576807	-	-	-	Un	-	phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit beta isoform pseudogene	pseudo	-	-	-	-	20151115
 10160	101576808	LOC101576808	-	-	-	Un	-	PCI domain-containing protein 2 pseudogene	pseudo	-	-	-	-	20151115
 10160	101576809	Gmnn	-	-	-	Un	-	geminin, DNA replication inhibitor	protein-coding	-	-	-	-	20160903
@@ -21790,7 +21790,7 @@
 10160	101583343	LOC101583343	-	-	-	Un	-	40S ribosomal protein SA-like	pseudo	-	-	-	-	20151115
 10160	101583344	LOC101583344	-	-	-	Un	-	olfactory receptor 5M8-like	pseudo	-	-	-	-	20151115
 10160	101583345	LOC101583345	-	-	-	Un	-	non-histone chromosomal protein HMG-14 pseudogene	pseudo	-	-	-	-	20151115
-10160	101583346	Nqo2	-	-	-	Un	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	-	20160903
+10160	101583346	Nqo2	-	-	-	Un	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	NAD(P)H quinone dehydrogenase 2	20170130
 10160	101583347	Rab33b	-	-	-	Un	-	RAB33B, member RAS oncogene family	protein-coding	-	-	-	-	20160903
 10160	101583348	Bclaf1	-	-	-	Un	-	BCL2 associated transcription factor 1	protein-coding	-	-	-	-	20160729
 10160	101583350	LOC101583350	-	-	-	Un	-	nudC domain-containing protein 2 pseudogene	pseudo	-	-	-	-	20151115
@@ -24375,7 +24375,7 @@
 10160	101586157	LOC101586157	-	-	-	Un	-	cytochrome c oxidase protein 20 homolog	protein-coding	-	-	-	-	20160903
 10160	101586159	Trim2	-	-	-	Un	-	tripartite motif containing 2	protein-coding	-	-	-	-	20160903
 10160	101586160	Gdpgp1	-	-	-	Un	-	GDP-D-glucose phosphorylase 1	protein-coding	-	-	-	-	20160903
-10160	101586161	Ly6h	-	-	-	Un	-	lymphocyte antigen 6 complex, locus H	protein-coding	-	-	-	-	20160903
+10160	101586161	Ly6h	-	-	-	Un	-	lymphocyte antigen 6 family member H	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus H	20170130
 10160	101586163	LOC101586163	-	-	-	Un	-	NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial pseudogene	pseudo	-	-	-	-	20151115
 10160	101586164	Npffr1	-	-	-	Un	-	neuropeptide FF receptor 1	protein-coding	-	-	-	-	20160903
 10160	101586165	Wdr46	-	-	-	Un	-	WD repeat domain 46	protein-coding	-	-	-	-	20160903
@@ -27981,7 +27981,7 @@
 10160	101590112	Fgb	-	-	-	Un	-	fibrinogen beta chain	protein-coding	-	-	-	-	20160903
 10160	101590113	Egflam	-	-	-	Un	-	EGF like, fibronectin type III and laminin G domains	protein-coding	-	-	-	-	20160903
 10160	101590114	Wdr73	-	-	-	Un	-	WD repeat domain 73	protein-coding	-	-	-	-	20160903
-10160	101590115	Ly6d	-	-	-	Un	-	lymphocyte antigen 6 complex, locus D	protein-coding	-	-	-	-	20151115
+10160	101590115	Ly6d	-	-	-	Un	-	lymphocyte antigen 6 family member D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus D	20170130
 10160	101590116	LOC101590116	-	-	-	Un	-	signal recognition particle 14 kDa protein-like	protein-coding	-	-	-	-	20160716
 10160	101590117	Odf2l	-	-	-	Un	-	outer dense fiber of sperm tails 2 like	protein-coding	-	-	-	-	20160729
 10160	101590118	LOC101590118	-	-	-	Un	-	nuclease-sensitive element-binding protein 1 pseudogene	pseudo	-	-	-	-	20151115
@@ -30874,7 +30874,7 @@
 10160	101593288	LOC101593288	-	-	-	Un	-	mitochondrial import inner membrane translocase subunit Tim8 B pseudogene	pseudo	-	-	-	-	20151115
 10160	101593289	Smarcd2	-	-	-	Un	-	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 2	protein-coding	-	-	-	-	20160903
 10160	101593290	LOC101593290	-	-	-	Un	-	40S ribosomal protein SA pseudogene	pseudo	-	-	-	-	20151115
-10160	101593291	Auts2	-	-	-	Un	-	autism susceptibility candidate 2	protein-coding	-	-	-	-	20160903
+10160	101593291	Auts2	-	-	-	Un	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility candidate 2	20170130
 10160	101593292	Col28a1	-	-	-	Un	-	collagen type XXVIII alpha 1 chain	protein-coding	-	-	-	-	20160903
 10160	101593293	P2rx3	-	-	-	Un	-	purinergic receptor P2X 3	protein-coding	-	-	-	purinergic receptor P2X, ligand-gated ion channel, 3	20160903
 10160	101593294	Smtnl1	-	-	-	Un	-	smoothelin like 1	protein-coding	-	-	-	-	20160903

@@ -1156,7 +1156,7 @@
 9986	100301546	CD44	-	-	Ensembl:ENSOCUG00000000715	1	-	CD44 molecule (Indian blood group)	protein-coding	-	-	-	CD44 antigen	20160808
 9986	100301547	KAP6.1.1	-	-	Ensembl:ENSOCUG00000017166	14	-	keratin associated protein KAP6.1.1	protein-coding	-	-	-	keratin associated protein KAP6.1.1	20160626
 9986	100301549	HOXD13	-	-	Ensembl:ENSOCUG00000029547	7	-	homeobox D13	protein-coding	-	-	-	-	20161005
-9986	100301550	NQO2	-	-	Ensembl:ENSOCUG00000016499	Un	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	NAD(P)H dehydrogenase, quinone 2|NRH:quinone oxidoreductase 2	20160808
+9986	100301550	NQO2	-	-	Ensembl:ENSOCUG00000016499	Un	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	NAD(P)H dehydrogenase, quinone 2|NAD(P)H quinone dehydrogenase 2|NRH:quinone oxidoreductase 2	20170130
 9986	100301551	TNC	-	-	Ensembl:ENSOCUG00000011500	Un	-	tenascin C	protein-coding	-	-	-	-	20160917
 9986	100301552	NPSR1	-	NPSSR1	Ensembl:ENSOCUG00000005142	10	-	neuropeptide S receptor 1	protein-coding	-	-	-	neuropeptide S receptor	20160808
 9986	100301553	CRH	-	-	-	3	-	corticotropin releasing hormone	protein-coding	-	-	-	corticoliberin|corticotrophin-releasing factor	20160808
@@ -4934,7 +4934,7 @@
 9986	100341097	CDH19	-	-	Ensembl:ENSOCUG00000017601	9	-	cadherin 19	protein-coding	-	-	-	cadherin 19, type 2	20160917
 9986	100341098	POU5F2	-	-	-	11	-	POU domain class 5, transcription factor 2	protein-coding	-	-	-	-	20160806
 9986	100341099	GPX6	-	-	Ensembl:ENSOCUG00000016829	12	-	glutathione peroxidase 6	protein-coding	-	-	-	glutathione peroxidase 6|glutathione peroxidase 6 (olfactory)	20160808
-9986	100341100	LY6G5B	-	-	-	12	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex G5B	20160626
+9986	100341100	LY6G5B	-	-	-	12	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex G5B|lymphocyte antigen 6 complex, locus G5B	20170130
 9986	100341101	LOC100341101	-	-	-	12	-	olfactory receptor 14J1-like	protein-coding	-	-	-	-	20160917
 9986	100341103	RIPPLY2	-	-	-	12	-	ripply transcriptional repressor 2	protein-coding	-	-	-	-	20160917
 9986	100341104	LOC100341104	-	-	Ensembl:ENSOCUG00000011952	12	-	glutathione S-transferase Yc	protein-coding	-	-	-	-	20160806
@@ -11699,7 +11699,7 @@
 9986	100348732	GOT2	-	FABP-1|FABPpm|mAspAT	Ensembl:ENSOCUG00000003871	5	-	glutamic-oxaloacetic transaminase 2	protein-coding	-	-	-	Aspartate aminotransferase, mitochondrial|Fatty acid-binding protein|Glutamate oxaloacetate transaminase 2|Kynurenine aminotransferase 4|Kynurenine aminotransferase IV|Kynurenine--oxoglutarate transaminase 4|Kynurenine--oxoglutarate transaminase IV|Plasma membrane-associated fatty acid-binding protein|Transaminase A|glutamic-oxaloacetic transaminase 2, mitochondrial	20161031
 9986	100348733	LOC100348733	-	-	-	7	-	low molecular weight phosphotyrosine protein phosphatase pseudogene	pseudo	-	-	-	-	20160626
 9986	100348734	SF3B1	-	-	Ensembl:ENSOCUG00000012722	7	-	splicing factor 3b subunit 1	protein-coding	-	-	-	splicing factor 3b, subunit 1, 155kDa	20160917
-9986	100348735	ALS2CR12	-	-	Ensembl:ENSOCUG00000007135	7	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 (juvenile) chromosome region, candidate 12	20160626
+9986	100348735	ALS2CR12	-	-	Ensembl:ENSOCUG00000007135	7	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 (juvenile) chromosome region, candidate 12|amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 9986	100348736	CYP27A1	-	CYP27	Ensembl:ENSOCUG00000003377	7	-	sterol 26-hydroxylase, mitochondrial	protein-coding	-	-	-	sterol 26-hydroxylase, mitochondrial|5-beta-cholestane-3-alpha,7-alpha,12-alpha-triol 27-hydroxylase|cytochrome P-450C27/25|cytochrome P450 27|sterol 27-hydroxylase|vitamin D(3) 25-hydroxylase	20161031
 9986	100348737	FAM234B	-	KIAA1467	Ensembl:ENSOCUG00000012826	8	-	family with sequence similarity 234 member B	protein-coding	-	-	-	-	20160917
 9986	100348738	KIAA1551	-	-	-	8	-	KIAA1551 ortholog	protein-coding	-	-	-	-	20160917
@@ -14009,7 +14009,7 @@
 9986	100351330	TRIM7	-	-	Ensembl:ENSOCUG00000003233	11	-	tripartite motif containing 7	protein-coding	-	-	-	-	20160917
 9986	100351331	RAI14	-	-	Ensembl:ENSOCUG00000009122	11	-	retinoic acid induced 14	protein-coding	-	-	-	-	20160917
 9986	100351332	GMNN	-	-	Ensembl:ENSOCUG00000000728	12	-	geminin, DNA replication inhibitor	protein-coding	-	-	-	-	20160806
-9986	100351333	LY6G6D	-	-	-	12	-	lymphocyte antigen 6 complex, locus G6D	protein-coding	-	-	-	-	20161031
+9986	100351333	LY6G6D	-	-	-	12	-	lymphocyte antigen 6 family member G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6D	20170130
 9986	100351334	MYO6	-	-	Ensembl:ENSOCUG00000024606	12	-	myosin VI	protein-coding	-	-	-	-	20160917
 9986	100351335	LOC100351335	-	-	Ensembl:ENSOCUG00000017695	13	-	olfactory receptor 6N1	protein-coding	-	-	-	-	20160806
 9986	100351336	LOC100351336	-	-	Ensembl:ENSOCUG00000024498	13	-	60S ribosomal protein L9 pseudogene	pseudo	-	-	-	-	20160626
@@ -14225,7 +14225,7 @@
 9986	100351569	ATF7	-	-	Ensembl:ENSOCUG00000005707	4	-	activating transcription factor 7	protein-coding	-	-	-	-	20160626
 9986	100351570	LGALS7	-	-	-	5	-	galectin 7	protein-coding	-	-	-	lectin, galactoside-binding, soluble, 7	20160827
 9986	100351571	LOC100351571	-	-	-	5	-	glucosamine-6-phosphate isomerase 1-like	pseudo	-	-	-	-	20160626
-9986	100351572	AUTS2	-	-	-	6	-	autism susceptibility candidate 2	protein-coding	-	-	-	-	20160917
+9986	100351572	AUTS2	-	-	-	6	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility candidate 2	20170130
 9986	100351573	FGL2	-	-	Ensembl:ENSOCUG00000013675	7	-	fibrinogen like 2	protein-coding	-	-	-	-	20160827
 9986	100351575	LOC100351575	-	-	-	7	-	40S ribosomal protein S3a pseudogene	pseudo	-	-	-	-	20160626
 9986	100351576	LOC100351576	-	-	-	7	-	uncharacterized protein C6orf62 homolog pseudogene	pseudo	-	-	-	-	20160626
@@ -14237,7 +14237,7 @@
 9986	100351582	WDR36	-	-	Ensembl:ENSOCUG00000003129	11	-	WD repeat domain 36	protein-coding	-	-	-	-	20160917
 9986	100351583	TTC23L	-	-	-	11	-	tetratricopeptide repeat domain 23 like	protein-coding	-	-	-	-	20160917
 9986	100351584	TDP2	-	-	Ensembl:ENSOCUG00000013773	12	-	tyrosyl-DNA phosphodiesterase 2	protein-coding	-	-	-	TRAF and TNF receptor-associated protein	20160626
-9986	100351585	LY6G6C	-	-	Ensembl:ENSOCUG00000007958	12	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	-	20161005
+9986	100351585	LY6G6C	-	-	Ensembl:ENSOCUG00000007958	12	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6C	20170130
 9986	100351586	DNAJB6	-	-	Ensembl:ENSOCUG00000000064	13	-	DnaJ heat shock protein family (Hsp40) member B6	protein-coding	-	-	-	DnaJ (Hsp40) homolog, subfamily B, member 6	20160917
 9986	100351587	LOC100351587	-	-	-	13	-	olfactory receptor 6K6	protein-coding	-	-	-	-	20160917
 9986	100351588	RAP1A	-	-	Ensembl:ENSOCUG00000029303	13	-	RAP1A, member of RAS oncogene family	protein-coding	-	-	-	-	20161005
@@ -22524,7 +22524,7 @@
 9986	103346749	LOC103346749	-	-	-	Un	-	uncharacterized LOC103346749	pseudo	-	-	-	-	20160626
 9986	103346750	LOC103346750	-	-	Ensembl:ENSOCUG00000024156	Un	-	uncharacterized LOC103346750	protein-coding	-	-	-	-	20160917
 9986	103346751	LOC103346751	-	-	-	Un	-	NIF3-like protein 1 pseudogene	pseudo	-	-	-	-	20160626
-9986	103346752	LY6K	-	-	Ensembl:ENSOCUG00000021008	Un	-	lymphocyte antigen 6 complex, locus K	protein-coding	-	-	-	-	20160626
+9986	103346752	LY6K	-	-	Ensembl:ENSOCUG00000021008	Un	-	lymphocyte antigen 6 family member K	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus K	20170130
 9986	103346753	FADD	-	-	Ensembl:ENSOCUG00000015189	Un	-	Fas associated via death domain	protein-coding	-	-	-	Fas (TNFRSF6)-associated via death domain	20160917
 9986	103346754	LOC103346754	-	-	-	Un	-	liprin-alpha-1-like	protein-coding	-	-	-	-	20160626
 9986	103346756	LOC103346756	-	-	-	Un	-	CTD small phosphatase-like protein pseudogene	pseudo	-	-	-	-	20160626
@@ -24915,8 +24915,8 @@
 9986	103349717	CCHCR1	-	-	-	12	-	coiled-coil alpha-helical rod protein 1	protein-coding	-	-	-	-	20160626
 9986	103349718	LST1	-	-	-	12	-	leukocyte specific transcript 1	protein-coding	-	-	-	-	20160917
 9986	103349719	LOC103349719	-	-	-	12	-	protein PRRC2A-like	protein-coding	-	-	-	-	20160626
-9986	103349720	LY6G5C	-	-	-	12	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	-	20160626
-9986	103349721	LY6G6F	-	-	-	12	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	-	20160626
+9986	103349720	LY6G5C	-	-	-	12	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5C	20170130
+9986	103349721	LY6G6F	-	-	-	12	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6F	20170130
 9986	103349722	LOC103349722	-	-	-	12	-	uncharacterized LOC103349722	ncRNA	-	-	-	-	20160626
 9986	103349723	ZBTB12	-	-	-	12	-	zinc finger and BTB domain containing 12	protein-coding	-	-	-	-	20160626
 9986	103349725	LOC103349725	-	-	-	12	-	pheromone-regulated protein PRM7-like	protein-coding	-	-	-	-	20160626

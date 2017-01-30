@@ -4755,15 +4755,15 @@
 885580	104852294	Apom	H920_17544	-	-	Un	-	apolipoprotein M	protein-coding	-	-	-	apolipoprotein M	20170124
 885580	104852295	CUNH6orf47	H920_17545	-	-	Un	-	chromosome unknown C6orf47 homolog	protein-coding	-	-	-	uncharacterized protein C6orf47 homolog	20170124
 885580	104852296	Gpank1	H920_17546	-	-	Un	-	G-patch domain and ankyrin repeats 1	protein-coding	-	-	-	G patch domain and ankyrin repeat-containing protein 1|G patch domain and ankyrin repeats-containing protein 1	20170124
-885580	104852297	Ly6g5b	H920_17548	-	-	Un	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G5b	20170124
+885580	104852297	Ly6g5b	H920_17548	-	-	Un	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G5b|lymphocyte antigen 6 complex, locus G5B	20170130
 885580	104852298	Abhd16a	H920_17550	-	-	Un	-	abhydrolase domain containing 16A	protein-coding	-	-	-	protein ABHD16A|Abhydrolase domain-containing protein 16A	20170124
 885580	104852299	LOC104852299	-	-	-	Un	-	uncharacterized LOC104852299	ncRNA	-	-	-	-	20161126
-885580	104852300	Ly6g6f	H920_17551	-	-	Un	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6f	20170124
-885580	104852301	Ly6g6d	H920_17553	-	-	Un	-	lymphocyte antigen 6 complex, locus G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6d	20170124
+885580	104852300	Ly6g6f	H920_17551	-	-	Un	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6f|lymphocyte antigen 6 complex, locus G6F	20170130
+885580	104852301	Ly6g6d	H920_17553	-	-	Un	-	lymphocyte antigen 6 family member G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6d|lymphocyte antigen 6 complex, locus G6D	20170130
 885580	104852302	LOC104852302	H920_01763	Mucin-12	-	-	-	mucin-12-like	protein-coding	-	-	-	-	20161126
 885580	104852303	LOC104852303	H920_17552	-	-	Un	-	sperm acrosome membrane-associated protein 4	protein-coding	-	-	-	sperm acrosome membrane-associated protein 4	20170124
 885580	104852304	Mpig6b	H920_17555	CUNH6orf25	-	Un	-	megakaryocyte and platelet inhibitory receptor G6b	protein-coding	-	-	-	protein G6b|Protein G6b	20170124
-885580	104852305	Ly6g6c	H920_17554	-	-	Un	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6c	20170124
+885580	104852305	Ly6g6c	H920_17554	-	-	Un	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6c|lymphocyte antigen 6 complex, locus G6C	20170130
 885580	104852306	Ddah2	H920_17556	-	-	Un	-	dimethylarginine dimethylaminohydrolase 2	protein-coding	-	-	-	N(G),N(G)-dimethylarginine dimethylaminohydrolase 2	20170124
 885580	104852307	Msh5	H920_17558	-	-	Un	-	mutS homolog 5	protein-coding	-	-	-	mutS protein homolog 5|MutS protein like protein 5	20170124
 885580	104852308	LOC104852308	-	-	-	Un	-	flocculation protein FLO11-like	protein-coding	-	-	-	flocculation protein FLO11-like	20170124
@@ -4800,7 +4800,7 @@
 885580	104852340	Ncr3	-	-	-	Un	-	natural cytotoxicity triggering receptor 3	protein-coding	-	-	-	natural cytotoxicity triggering receptor 3	20170124
 885580	104852341	Prrc2a	-	-	-	Un	-	proline rich coiled-coil 2A	protein-coding	-	-	-	protein PRRC2A	20170124
 885580	104852342	Csnk2b	H920_17547	-	-	Un	-	casein kinase 2 beta	protein-coding	-	-	-	casein kinase II subunit beta|Casein kinase II subunit beta	20170124
-885580	104852343	Ly6g5c	H920_17549	-	-	Un	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G5c	20170124
+885580	104852343	Ly6g5c	H920_17549	-	-	Un	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G5c|lymphocyte antigen 6 complex, locus G5C	20170130
 885580	104852344	Vars	-	-	-	Un	-	valyl-tRNA synthetase	protein-coding	-	-	-	valine--tRNA ligase	20170124
 885580	104852345	LOC104852345	-	-	-	Un	-	heat shock 70 kDa protein 1B	protein-coding	-	-	-	heat shock 70 kDa protein 1B	20170124
 885580	104852346	LOC104852346	-	-	-	Un	-	heat shock 70 kDa protein 1B-like	protein-coding	-	-	-	heat shock 70 kDa protein 1B-like	20170124
@@ -9883,7 +9883,7 @@
 885580	104857567	LOC104857567	-	-	-	Un	-	uncharacterized LOC104857567	ncRNA	-	-	-	-	20161126
 885580	104857568	Trak2	H920_02341	-	-	Un	-	trafficking kinesin protein 2	protein-coding	-	-	-	trafficking kinesin-binding protein 2|Trafficking kinesin-binding protein 2	20170124
 885580	104857569	Casp8	H920_02343	Caspase-8	-	Un	-	caspase 8	protein-coding	-	-	-	caspase-8	20170124
-885580	104857570	Als2cr12	H920_02342	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosomal region candidate gene 12 protein|Amyotrophic lateral sclerosis 2 chromosomal region candidate gene 12 protein	20170124
+885580	104857570	Als2cr12	H920_02342	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosomal region candidate gene 12 protein|Amyotrophic lateral sclerosis 2 chromosomal region candidate gene 12 protein|amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 885580	104857571	Cflar	H920_02344	-	-	Un	-	CASP8 and FADD like apoptosis regulator	protein-coding	-	-	-	CASP8 and FADD-like apoptosis regulator	20170124
 885580	104857572	Fam126b	H920_02346	-	-	Un	-	family with sequence similarity 126 member B	protein-coding	-	-	-	protein FAM126B|Protein FAM126B	20170124
 885580	104857573	Ndufb3	H920_02345	-	-	Un	-	NADH:ubiquinone oxidoreductase subunit B3	protein-coding	-	-	-	NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 3	20170124
@@ -13580,7 +13580,7 @@
 885580	104861358	LOC104861358	H920_04731	-	-	Un	-	serpin B9	protein-coding	-	-	-	serpin B9	20170124
 885580	104861359	LOC104861359	H920_04732	-	-	Un	-	serpin B9	protein-coding	-	-	-	serpin B9	20170124
 885580	104861360	LOC104861360	H920_04733	-	-	Un	-	serpin B6	protein-coding	-	-	-	serpin B6	20170124
-885580	104861361	Nqo2	H920_04734	-	-	Un	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	ribosyldihydronicotinamide dehydrogenase [quinone]|Ribosyldihydronicotinamide dehydrogenase	20170124
+885580	104861361	Nqo2	H920_04734	-	-	Un	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	ribosyldihydronicotinamide dehydrogenase [quinone]|NAD(P)H quinone dehydrogenase 2|Ribosyldihydronicotinamide dehydrogenase	20170130
 885580	104861362	Ripk1	H920_04735	-	-	Un	-	receptor interacting serine/threonine kinase 1	protein-coding	-	-	-	receptor-interacting serine/threonine-protein kinase 1|Receptor-interacting serine/threonine-protein kinase 1	20170124
 885580	104861363	LOC104861363	H920_04737	-	-	Un	-	tubulin beta-2A chain	protein-coding	-	-	-	tubulin beta-2A chain	20170124
 885580	104861364	LOC104861364	H920_04739	-	-	Un	-	tubulin beta chain	protein-coding	-	-	-	tubulin beta chain|Tubulin beta-2B chain	20170124
@@ -24779,16 +24779,16 @@
 885580	104872866	Lypd2	H920_11793	-	-	Un	-	LY6/PLAUR domain containing 2	protein-coding	-	-	-	ly6/PLAUR domain-containing protein 2|Ly6/PLAUR domain-containing protein 2	20170124
 885580	104872867	LOC104872867	H920_11794	-	-	Un	-	ly-6/neurotoxin-like protein 1	protein-coding	-	-	-	ly-6/neurotoxin-like protein 1|Secreted Ly-6/uPAR-related protein 2	20170124
 885580	104872868	Lynx1	H920_11795	-	-	Un	-	Ly6/neurotoxin 1	protein-coding	-	-	-	ly-6/neurotoxin-like protein 1|Ly-6/neurotoxin-like protein 1	20170124
-885580	104872869	Ly6d	H920_11796	-	-	Un	-	lymphocyte antigen 6 complex, locus D	protein-coding	-	-	-	lymphocyte antigen 6D|Lymphocyte antigen 6D	20170124
-885580	104872870	Ly6k	H920_11798	-	-	Un	-	lymphocyte antigen 6 complex, locus K	protein-coding	-	-	-	lymphocyte antigen 6K|Lymphocyte antigen 6K	20170124
+885580	104872869	Ly6d	H920_11796	-	-	Un	-	lymphocyte antigen 6 family member D	protein-coding	-	-	-	lymphocyte antigen 6D|Lymphocyte antigen 6D|lymphocyte antigen 6 complex, locus D	20170130
+885580	104872870	Ly6k	H920_11798	-	-	Un	-	lymphocyte antigen 6 family member K	protein-coding	-	-	-	lymphocyte antigen 6K|Lymphocyte antigen 6K|lymphocyte antigen 6 complex, locus K	20170130
 885580	104872871	LOC104872871	-	-	-	Un	-	laccase domain-containing protein 1 pseudogene	pseudo	-	-	-	-	20161126
 885580	104872872	Gml	H920_11799	-	-	Un	-	glycosylphosphatidylinositol anchored molecule like	protein-coding	-	-	-	glycosyl-phosphatidylinositol-anchored molecule-like protein|Glycosyl-phosphatidylinositol-anchored molecule-like protein	20170124
 885580	104872873	LOC104872873	H920_11801	-	-	Un	-	cytochrome P450 11B2, mitochondrial	protein-coding	-	-	-	cytochrome P450 11B2, mitochondrial|Cytochrome P450 11B1, mitochondrial	20170124
 885580	104872874	LOC104872874	H920_11802	-	-	Un	-	cytochrome P450 11B1, mitochondrial	protein-coding	-	-	-	cytochrome P450 11B1, mitochondrial|cytochrome P450 11B2, mitochondrial	20170124
-885580	104872875	Ly6e	H920_11803	-	-	Un	-	lymphocyte antigen 6 complex, locus E	protein-coding	-	-	-	lymphocyte antigen 6E|Lymphocyte antigen 6E	20170124
-885580	104872876	Ly6l	-	-	-	Un	-	lymphocyte antigen 6 complex, locus L	protein-coding	-	-	-	lymphocyte antigen 6L|lymphocyte antigen 6H	20170124
+885580	104872875	Ly6e	H920_11803	-	-	Un	-	lymphocyte antigen 6 family member E	protein-coding	-	-	-	lymphocyte antigen 6E|Lymphocyte antigen 6E|lymphocyte antigen 6 complex, locus E	20170130
+885580	104872876	Ly6l	-	-	-	Un	-	lymphocyte antigen 6 family member L	protein-coding	-	-	-	lymphocyte antigen 6L|lymphocyte antigen 6 complex, locus L|lymphocyte antigen 6H	20170130
 885580	104872877	LOC104872877	-	-	-	Un	-	uncharacterized LOC104872877	ncRNA	-	-	-	-	20161126
-885580	104872878	Ly6h	H920_11804	-	-	Un	-	lymphocyte antigen 6 complex, locus H	protein-coding	-	-	-	lymphocyte antigen 6H|Lymphocyte antigen 6H	20170124
+885580	104872878	Ly6h	H920_11804	-	-	Un	-	lymphocyte antigen 6 family member H	protein-coding	-	-	-	lymphocyte antigen 6H|Lymphocyte antigen 6H|lymphocyte antigen 6 complex, locus H	20170130
 885580	104872879	LOC104872879	-	-	-	Un	-	uncharacterized LOC104872879	ncRNA	-	-	-	-	20161126
 885580	104872880	LOC104872880	-	-	-	Un	-	uncharacterized LOC104872880	ncRNA	-	-	-	-	20161126
 885580	104872881	Gpihbp1	H920_11805	-	-	Un	-	glycosylphosphatidylinositol anchored high density lipoprotein binding protein 1	protein-coding	-	-	-	glycosylphosphatidylinositol-anchored high density lipoprotein-binding protein 1|Glycosylphosphatidylinositol-anchored high density lipoprotein-binding protein 1	20170124
@@ -28288,7 +28288,7 @@
 885580	104876475	LOC104876475	-	-	-	Un	-	CD63 antigen pseudogene	pseudo	-	-	-	-	20161126
 885580	104876476	LOC104876476	H920_13965	-	-	Un	-	IST1 homolog	protein-coding	-	-	-	IST1 homolog|IST1 like protein	20170124
 885580	104876477	LOC104876477	H920_13975	-	-	Un	-	putative polypeptide N-acetylgalactosaminyltransferase-like protein 3	protein-coding	-	-	-	putative polypeptide N-acetylgalactosaminyltransferase-like protein 3	20170124
-885580	104876478	Auts2	H920_13978	-	-	Un	-	autism susceptibility candidate 2	protein-coding	-	-	-	autism susceptibility gene 2 protein|Autism susceptibility gene 2 protein	20170124
+885580	104876478	Auts2	H920_13978	-	-	Un	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility gene 2 protein|Autism susceptibility gene 2 protein|autism susceptibility candidate 2	20170130
 885580	104876479	Gns	H920_13983	-	-	Un	-	glucosamine (N-acetyl)-6-sulfatase	protein-coding	-	-	-	N-acetylglucosamine-6-sulfatase	20170124
 885580	104876480	Tbk1	H920_13985	-	-	Un	-	TANK binding kinase 1	protein-coding	-	-	-	serine/threonine-protein kinase TBK1|Serine/threonine-protein kinase TBK1	20170124
 885580	104876481	Xpot	H920_13986	Exportin-T	-	Un	-	exportin for tRNA	protein-coding	-	-	-	exportin-T	20170124

@@ -722,7 +722,7 @@
 10181	101696970	LOC101696970	-	-	-	Un	-	uncharacterized LOC101696970	ncRNA	-	-	-	-	20151115
 10181	101696971	Ppp5c	GW7_18116	-	-	Un	-	protein phosphatase 5 catalytic subunit	protein-coding	-	-	-	Serine/threonine-protein phosphatase 5	20160813
 10181	101696973	Tmem175	-	-	-	Un	-	transmembrane protein 175	protein-coding	-	-	-	-	20160903
-10181	101696975	Nqo2	-	-	-	Un	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	-	20160903
+10181	101696975	Nqo2	-	-	-	Un	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	NAD(P)H quinone dehydrogenase 2	20170130
 10181	101696976	Gdf5	GW7_21277	-	-	Un	-	growth differentiation factor 5	protein-coding	-	-	-	Growth/differentiation factor 5	20160903
 10181	101696977	Mmp2	GW7_06029	-	-	Un	-	matrix metallopeptidase 2	protein-coding	-	-	-	72 kDa type IV collagenase|matrix metallopeptidase 2 (gelatinase A, 72kDa gelatinase, 72kDa type IV collagenase)	20160903
 10181	101696978	Fam47e	-	-	-	Un	-	family with sequence similarity 47 member E	protein-coding	-	-	-	-	20160812
@@ -3541,7 +3541,7 @@
 10181	101699974	Gtf2h5	-	-	-	Un	-	general transcription factor IIH subunit 5	protein-coding	-	-	-	-	20160812
 10181	101699975	Git1	-	-	-	Un	-	GIT ArfGAP 1	protein-coding	-	-	-	-	20160903
 10181	101699976	LOC101699976	-	-	-	Un	-	peptidyl-prolyl cis-trans isomerase FKBP7-like	pseudo	-	-	-	-	20151115
-10181	101699978	Ly6e	-	-	-	Un	-	lymphocyte antigen 6 complex, locus E	protein-coding	-	-	-	-	20160903
+10181	101699978	Ly6e	-	-	-	Un	-	lymphocyte antigen 6 family member E	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus E	20170130
 10181	101699979	LOC101699979	GW7_17527	Ttc30b	-	Un	-	tetratricopeptide repeat protein 30B	protein-coding	-	-	-	Tetratricopeptide repeat protein 30A|tetratricopeptide repeat domain 30B	20160903
 10181	101699980	LOC101699980	-	-	-	Un	-	GTP-binding nuclear protein Ran pseudogene	pseudo	-	-	-	-	20151115
 10181	101699981	LOC101699981	-	-	-	Un	-	S-adenosylmethionine decarboxylase proenzyme 1-like	pseudo	-	-	-	-	20151115
@@ -7472,7 +7472,7 @@
 10181	101704189	Calhm2	GW7_15923	-	-	Un	-	calcium homeostasis modulator 2	protein-coding	-	-	-	Calcium homeostasis modulator protein 2	20160813
 10181	101704190	Znf350	-	-	-	Un	-	zinc finger protein 350	protein-coding	-	-	-	-	20160903
 10181	101704191	Grm4	GW7_16118	-	-	Un	-	glutamate metabotropic receptor 4	protein-coding	-	-	-	Metabotropic glutamate receptor 4	20160903
-10181	101704192	Ly6g6c	GW7_04786	-	-	Un	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	Lymphocyte antigen 6 complex locus protein G6c	20160903
+10181	101704192	Ly6g6c	GW7_04786	-	-	Un	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	Lymphocyte antigen 6 complex locus protein G6c|lymphocyte antigen 6 complex, locus G6C	20170130
 10181	101704193	LOC101704193	-	-	-	Un	-	trem-like transcript 4 protein	protein-coding	-	-	-	-	20151115
 10181	101704194	Rnf4	-	-	-	Un	-	ring finger protein 4	protein-coding	-	-	-	-	20160903
 10181	101704195	Pax9	GW7_03990	-	-	Un	-	paired box 9	protein-coding	-	-	-	Paired box protein Pax-9	20160716
@@ -7629,7 +7629,7 @@
 10181	101704360	Magix	-	-	-	Un	-	MAGI family member, X-linked	protein-coding	-	-	-	-	20160716
 10181	101704362	LOC101704362	-	-	-	Un	-	protein farnesyltransferase/geranylgeranyltransferase type-1 subunit alpha pseudogene	pseudo	-	-	-	-	20151115
 10181	101704363	LOC101704363	-	-	-	Un	-	40S ribosomal protein S3a pseudogene	pseudo	-	-	-	-	20151115
-10181	101704364	Als2cr12	GW7_09081	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	Amyotrophic lateral sclerosis 2 chromosomal region candidate gene 12 protein-like protein	20160811
+10181	101704364	Als2cr12	GW7_09081	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	Amyotrophic lateral sclerosis 2 chromosomal region candidate gene 12 protein-like protein|amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 10181	101704365	LOC101704365	GW7_03029	-	-	Un	-	proline-rich protein 20A	protein-coding	-	-	-	Proline-rich protein 20	20160903
 10181	101704366	Upf1	-	-	-	Un	-	UPF1, RNA helicase and ATPase	protein-coding	-	-	-	-	20160903
 10181	101704367	LOC101704367	GW7_19953	-	-	Un	-	cytochrome b561 domain-containing protein 2	protein-coding	-	-	-	-	20160813
@@ -8346,7 +8346,7 @@
 10181	101705140	Ddx21	GW7_18635	-	-	Un	-	DExD-box helicase 21	protein-coding	-	-	-	DEAD-box helicase 21|Nucleolar RNA helicase 2	20160929
 10181	101705141	Znf584	-	-	-	Un	-	zinc finger protein 584	protein-coding	-	-	-	-	20160903
 10181	101705142	Rpl28	GW7_11643	-	-	Un	-	ribosomal protein L28	protein-coding	-	-	-	60S ribosomal protein L28	20160813
-10181	101705143	Ly6g6d	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6D	protein-coding	-	-	-	-	20151115
+10181	101705143	Ly6g6d	-	-	-	Un	-	lymphocyte antigen 6 family member G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6D	20170130
 10181	101705144	Klk11	-	-	-	Un	-	kallikrein related peptidase 11	protein-coding	-	-	-	-	20161031
 10181	101705145	Hfe	-	-	-	Un	-	hemochromatosis	protein-coding	-	-	-	hereditary hemochromatosis protein homolog	20160903
 10181	101705146	Nhlrc1	-	-	-	Un	-	NHL repeat containing E3 ubiquitin protein ligase 1	protein-coding	-	-	-	-	20160903
@@ -8932,7 +8932,7 @@
 10181	101705759	LOC101705759	-	-	-	Un	-	F-box-like/WD repeat-containing protein TBL1XR1 pseudogene	pseudo	-	-	-	-	20151115
 10181	101705760	Lrit3	-	-	-	Un	-	leucine rich repeat, Ig-like and transmembrane domains 3	protein-coding	-	-	-	-	20160729
 10181	101705761	Tead2	-	-	-	Un	-	TEA domain transcription factor 2	protein-coding	-	-	-	-	20160903
-10181	101705762	Ly6g6f	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	-	20151115
+10181	101705762	Ly6g6f	-	-	-	Un	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6F	20170130
 10181	101705763	Pacrgl	-	-	-	Un	-	PARK2 coregulated like	protein-coding	-	-	-	-	20160729
 10181	101705764	Esrrg	-	-	-	Un	-	estrogen related receptor gamma	protein-coding	-	-	-	-	20160729
 10181	101705765	LOC101705765	-	-	-	Un	-	uncharacterized LOC101705765	protein-coding	-	-	-	-	20160716
@@ -10963,7 +10963,7 @@
 10181	101707932	LOC101707932	GW7_05616	-	-	Un	-	zinc finger protein 416	protein-coding	-	-	-	-	20160716
 10181	101707933	LOC101707933	-	-	-	Un	-	uncharacterized LOC101707933	ncRNA	-	-	-	-	20151115
 10181	101707934	Hrc	GW7_13612	-	-	Un	-	histidine rich calcium binding protein	protein-coding	-	-	-	Sarcoplasmic reticulum histidine-rich calcium-binding protein	20151115
-10181	101707935	Ly6g5b	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	-	20151115
+10181	101707935	Ly6g5b	-	-	-	Un	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5B	20170130
 10181	101707936	LOC101707936	GW7_18095	Opa3	-	Un	-	optic atrophy 3 protein	protein-coding	-	-	-	optic atrophy 3 (autosomal recessive, with chorea and spastic paraplegia)	20160813
 10181	101707937	Slit2	GW7_15068	-	-	Un	-	slit guidance ligand 2	protein-coding	-	-	-	Slit-like protein 2 protein|slit homolog 2	20160903
 10181	101707938	LOC101707938	-	-	-	Un	-	E3 ubiquitin-protein ligase RLIM pseudogene	pseudo	-	-	-	-	20151115
@@ -16862,7 +16862,7 @@
 10181	101714269	Mdfi	-	-	-	Un	-	MyoD family inhibitor	protein-coding	-	-	-	-	20160903
 10181	101714270	Inafm1	-	Prr24	-	Un	-	InaF motif containing 1	protein-coding	-	-	-	proline rich 24	20160903
 10181	101714271	Zscan4	-	-	-	Un	-	zinc finger and SCAN domain containing 4	protein-coding	-	-	-	-	20160716
-10181	101714272	Ly6g5c	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	-	20151115
+10181	101714272	Ly6g5c	-	-	-	Un	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5C	20170130
 10181	101714273	Tbc1d14	GW7_14560	-	-	Un	-	TBC1 domain family member 14	protein-coding	-	-	-	-	20160811
 10181	101714274	Slc17a3	-	-	-	Un	-	solute carrier family 17 member 3	protein-coding	-	-	-	solute carrier family 17 (sodium phosphate), member 2	20161031
 10181	101714275	LOC101714275	-	-	-	Un	-	FUN14 domain-containing protein 1-like	pseudo	-	-	-	-	20151115
@@ -20292,7 +20292,7 @@
 10181	101717928	Zfp14	GW7_03532	-	-	Un	-	ZFP14 zinc finger protein	protein-coding	-	-	-	Zinc finger protein 14-like protein	20170128
 10181	101717930	Abcc3	-	-	-	Un	-	ATP binding cassette subfamily C member 3	protein-coding	-	-	-	-	20160903
 10181	101717932	Stam	-	-	-	Un	-	signal transducing adaptor molecule	protein-coding	-	-	-	-	20160903
-10181	101717933	Auts2	-	-	-	Un	-	autism susceptibility candidate 2	protein-coding	-	-	-	-	20160903
+10181	101717933	Auts2	-	-	-	Un	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility candidate 2	20170130
 10181	101717934	LOC101717934	-	-	-	Un	-	tumor protein D52 pseudogene	pseudo	-	-	-	-	20151115
 10181	101717935	LOC101717935	-	-	-	Un	-	beta-defensin 122-like	protein-coding	-	-	-	-	20160903
 10181	101717936	LOC101717936	GW7_05452	-	-	Un	-	olfactory receptor 4C11	protein-coding	-	-	-	-	20160813

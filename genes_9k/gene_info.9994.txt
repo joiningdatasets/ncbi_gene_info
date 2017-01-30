@@ -5145,7 +5145,7 @@
 9994	107138606	Casp10	-	-	-	Un	-	caspase 10	protein-coding	-	-	-	-	20160730
 9994	107138607	Casp8	-	-	-	Un	-	caspase 8	protein-coding	-	-	-	-	20160730
 9994	107138608	LOC107138608	-	-	-	Un	-	SOSS complex subunit C pseudogene	pseudo	-	-	-	-	20160130
-9994	107138609	Als2cr12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	-	20160626
+9994	107138609	Als2cr12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 9994	107138610	Trak2	-	-	-	Un	-	trafficking kinesin protein 2	protein-coding	-	-	-	-	20160730
 9994	107138611	Stradb	-	-	-	Un	-	STE20-related kinase adaptor beta	protein-coding	-	-	-	-	20160220
 9994	107138612	Cep250	-	-	-	Un	-	centrosomal protein 250	protein-coding	-	-	-	-	20160730
@@ -9511,10 +9511,10 @@
 9994	107142972	Them6	-	-	-	Un	-	thioesterase superfamily member 6	protein-coding	-	-	-	-	20160730
 9994	107142973	Slurp1	-	-	-	Un	-	secreted LY6/PLAUR domain containing 1	protein-coding	-	-	-	-	20160220
 9994	107142974	Lynx1	-	-	-	Un	-	Ly6/neurotoxin 1	protein-coding	-	-	-	-	20160730
-9994	107142975	Ly6d	-	-	-	Un	-	lymphocyte antigen 6 complex, locus D	protein-coding	-	-	-	-	20160730
+9994	107142975	Ly6d	-	-	-	Un	-	lymphocyte antigen 6 family member D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus D	20170130
 9994	107142976	LOC107142976	-	-	-	Un	-	uncharacterized LOC107142976	ncRNA	-	-	-	-	20160130
 9994	107142977	LOC107142977	-	-	-	Un	-	uncharacterized LOC107142977	ncRNA	-	-	-	-	20160130
-9994	107142978	Ly6e	-	-	-	Un	-	lymphocyte antigen 6 complex, locus E	protein-coding	-	-	-	-	20160730
+9994	107142978	Ly6e	-	-	-	Un	-	lymphocyte antigen 6 family member E	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus E	20170130
 9994	107142979	LOC107142979	-	-	-	Un	-	prothymosin alpha	protein-coding	-	-	-	-	20160924
 9994	107142980	Rhpn1	-	-	-	Un	-	rhophilin Rho GTPase binding protein 1	protein-coding	-	-	-	-	20160730
 9994	107142981	Megf10	-	-	-	Un	-	multiple EGF like domains 10	protein-coding	-	-	-	-	20160730
@@ -9608,7 +9608,7 @@
 9994	107143069	LOC107143069	-	-	-	Un	-	uncharacterized LOC107143069	ncRNA	-	-	-	-	20160130
 9994	107143070	LOC107143070	-	-	-	Un	-	signal-regulatory protein beta-1 isoform 3-like	protein-coding	-	-	-	-	20160730
 9994	107143071	LOC107143071	-	-	-	Un	-	cytochrome P450 11B3, mitochondrial-like	protein-coding	-	-	-	-	20160730
-9994	107143072	Ly6h	-	-	-	Un	-	lymphocyte antigen 6 complex, locus H	protein-coding	-	-	-	-	20160910
+9994	107143072	Ly6h	-	-	-	Un	-	lymphocyte antigen 6 family member H	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus H	20170130
 9994	107143073	Scrt1	-	-	-	Un	-	scratch family transcriptional repressor 1	protein-coding	-	-	-	-	20160910
 9994	107143074	LOC107143074	-	-	-	Un	-	ribosome biogenesis protein NSA2 homolog	pseudo	-	-	-	-	20160130
 9994	107143075	LOC107143075	-	-	-	Un	-	transcription factor BTF3 pseudogene	pseudo	-	-	-	-	20160130
@@ -10261,7 +10261,7 @@
 9994	107143722	Gpank1	-	-	-	Un	-	G-patch domain and ankyrin repeats 1	protein-coding	-	-	-	-	20160730
 9994	107143723	Csnk2b	-	-	-	Un	-	casein kinase 2 beta	protein-coding	-	-	-	-	20160220
 9994	107143724	Slc25a21	-	-	-	Un	-	solute carrier family 25 member 21	protein-coding	-	-	-	-	20160730
-9994	107143725	Ly6g5b	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	-	20160130
+9994	107143725	Ly6g5b	-	-	-	Un	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5B	20170130
 9994	107143726	Abhd16a	-	-	-	Un	-	abhydrolase domain containing 16A	protein-coding	-	-	-	-	20160730
 9994	107143727	Mpig6b	-	-	-	Un	-	megakaryocyte and platelet inhibitory receptor G6b	protein-coding	-	-	-	-	20170107
 9994	107143728	Ddah2	-	-	-	Un	-	dimethylarginine dimethylaminohydrolase 2	protein-coding	-	-	-	-	20160730
@@ -10585,11 +10585,11 @@
 9994	107144046	Ltb	-	-	-	Un	-	lymphotoxin beta	protein-coding	-	-	-	-	20160220
 9994	107144047	LOC107144047	-	-	-	Un	-	T-cell receptor alpha chain V region 2B4-like	other	-	-	-	-	20160130
 9994	107144048	Lst1	-	-	-	Un	-	leukocyte specific transcript 1	protein-coding	-	-	-	-	20160730
-9994	107144049	Ly6g5c	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	-	20160130
-9994	107144050	Ly6g6f	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	-	20160730
+9994	107144049	Ly6g5c	-	-	-	Un	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5C	20170130
+9994	107144050	Ly6g6f	-	-	-	Un	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6F	20170130
 9994	107144051	LOC107144051	-	-	-	Un	-	sperm acrosome membrane-associated protein 4-like	protein-coding	-	-	-	-	20160730
-9994	107144052	Ly6g6d	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6D	protein-coding	-	-	-	-	20160130
-9994	107144053	Ly6g6c	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	-	20160910
+9994	107144052	Ly6g6d	-	-	-	Un	-	lymphocyte antigen 6 family member G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6D	20170130
+9994	107144053	Ly6g6c	-	-	-	Un	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6C	20170130
 9994	107144054	Fkbpl	-	-	-	Un	-	FK506 binding protein like	protein-coding	-	-	-	-	20160730
 9994	107144055	LOC107144055	-	-	-	Un	-	protein cornichon homolog 4-like	pseudo	-	-	-	-	20160130
 9994	107144056	LOC107144056	-	-	-	Un	-	protein cornichon homolog 4 pseudogene	pseudo	-	-	-	-	20160130
@@ -13115,7 +13115,7 @@
 9994	107146576	LOC107146576	-	-	-	Un	-	glycolipid transfer protein pseudogene	pseudo	-	-	-	-	20160130
 9994	107146577	LOC107146577	-	-	-	Un	-	nuclear inhibitor of protein phosphatase 1 pseudogene	pseudo	-	-	-	-	20160130
 9994	107146578	LOC107146578	-	-	-	Un	-	putative polypeptide N-acetylgalactosaminyltransferase-like protein 3	protein-coding	-	-	-	-	20160730
-9994	107146579	Auts2	-	-	-	Un	-	autism susceptibility candidate 2	protein-coding	-	-	-	-	20160730
+9994	107146579	Auts2	-	-	-	Un	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility candidate 2	20170130
 9994	107146580	Gatsl2	-	-	-	Un	-	GATS protein like 2	protein-coding	-	-	-	-	20160730
 9994	107146581	Ncf1	-	-	-	Un	-	neutrophil cytosolic factor 1	protein-coding	-	-	-	-	20160730
 9994	107146582	Clip2	-	-	-	Un	-	CAP-Gly domain containing linker protein 2	protein-coding	-	-	-	-	20160730
@@ -27527,7 +27527,7 @@
 9994	107160988	LOC107160988	-	-	-	Un	-	olfactory receptor 52Z1-like	protein-coding	-	-	-	-	20160730
 9994	107160989	LOC107160989	-	-	-	Un	-	septin-7 pseudogene	pseudo	-	-	-	-	20160130
 9994	107160990	LOC107160990	-	-	-	Un	-	claudin domain-containing protein 1 pseudogene	pseudo	-	-	-	-	20160130
-9994	107160991	Nqo2	-	-	-	Un	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	-	20160730
+9994	107160991	Nqo2	-	-	-	Un	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	NAD(P)H quinone dehydrogenase 2	20170130
 9994	107160992	LOC107160992	-	-	-	Un	-	serpin B6-like	protein-coding	-	-	-	-	20160730
 9994	107160993	LOC107160993	-	-	-	Un	-	chromatin modification-related protein MEAF6	protein-coding	-	-	-	-	20160730
 9994	107160994	LOC107160994	-	-	-	Un	-	serpin B6-like	protein-coding	-	-	-	-	20160730

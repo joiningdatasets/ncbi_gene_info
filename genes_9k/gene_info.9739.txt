@@ -4354,7 +4354,7 @@
 9739	101321012	ANKRD39	-	-	-	Un	-	ankyrin repeat domain 39	protein-coding	-	-	-	-	20170117
 9739	101321013	LOC101321013	-	-	-	Un	-	60S ribosomal protein L9 pseudogene	pseudo	-	-	-	-	20170117
 9739	101321014	NUP50	-	-	-	Un	-	nucleoporin 50	protein-coding	-	-	-	-	20170117
-9739	101321015	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	-	20170117
+9739	101321015	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 9739	101321016	LOC101321016	-	-	-	Un	-	40S ribosomal protein S3 pseudogene	pseudo	-	-	-	-	20170117
 9739	101321017	FTL	-	FT	-	Un	-	ferritin light chain	protein-coding	-	-	-	ferritin light chain|ferritin L subunit	20170117
 9739	101321018	KCNA7	-	-	-	Un	-	potassium voltage-gated channel subfamily A member 7	protein-coding	-	-	-	-	20170117
@@ -7214,7 +7214,7 @@
 9739	101324722	PWP2	-	-	-	Un	-	PWP2 periodic tryptophan protein homolog (yeast)	protein-coding	-	-	-	periodic tryptophan protein 2 homolog	20170117
 9739	101324723	CUNH10orf82	-	-	-	Un	-	chromosome unknown C10orf82 homolog	protein-coding	-	-	-	-	20170117
 9739	101324724	DOC2A	-	-	-	Un	-	double C2 domain alpha	protein-coding	-	-	-	-	20170117
-9739	101324725	NQO2	-	-	-	Un	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	-	20170117
+9739	101324725	NQO2	-	-	-	Un	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	NAD(P)H quinone dehydrogenase 2	20170130
 9739	101324726	OGFOD1	-	-	-	Un	-	2-oxoglutarate and iron dependent oxygenase domain containing 1	protein-coding	-	-	-	-	20170117
 9739	101324727	MTHFD1L	-	-	-	Un	-	methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 1-like	protein-coding	-	-	-	-	20170117
 9739	101324729	KPNA5	-	-	-	Un	-	karyopherin subunit alpha 5	protein-coding	-	-	-	-	20170117
@@ -8020,7 +8020,7 @@
 9739	101325735	CTNNBIP1	-	-	-	Un	-	catenin beta interacting protein 1	protein-coding	-	-	-	-	20170117
 9739	101325736	TAS2R1	-	-	-	Un	-	taste 2 receptor member 1	protein-coding	-	-	-	-	20170117
 9739	101325737	IPP	-	-	-	Un	-	intracisternal A particle-promoted polypeptide	protein-coding	-	-	-	-	20170117
-9739	101325738	LY6E	-	-	-	Un	-	lymphocyte antigen 6 complex, locus E	protein-coding	-	-	-	-	20170117
+9739	101325738	LY6E	-	-	-	Un	-	lymphocyte antigen 6 family member E	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus E	20170130
 9739	101325740	EBNA1BP2	-	-	-	Un	-	EBNA1 binding protein 2	protein-coding	-	-	-	-	20170117
 9739	101325741	RAB29	-	-	-	Un	-	RAB29, member RAS oncogene family	protein-coding	-	-	-	-	20170117
 9739	101325742	PSMB11	-	-	-	Un	-	proteasome subunit beta 11	protein-coding	-	-	-	-	20170117
@@ -12205,7 +12205,7 @@
 9739	101331028	LOC101331028	-	-	-	Un	-	transmembrane protein 256 pseudogene	pseudo	-	-	-	-	20170117
 9739	101331030	GGH	-	-	-	Un	-	gamma-glutamyl hydrolase	protein-coding	-	-	-	-	20170117
 9739	101331031	MFHAS1	-	-	-	Un	-	malignant fibrous histiocytoma amplified sequence 1	protein-coding	-	-	-	-	20170117
-9739	101331032	AUTS2	-	-	-	Un	-	autism susceptibility candidate 2	protein-coding	-	-	-	-	20170117
+9739	101331032	AUTS2	-	-	-	Un	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility candidate 2	20170130
 9739	101331033	TRIM13	-	-	-	Un	-	tripartite motif containing 13	protein-coding	-	-	-	-	20170117
 9739	101331034	ZHX3	-	-	-	Un	-	zinc fingers and homeoboxes 3	protein-coding	-	-	-	-	20170117
 9739	101331035	RASGRP1	-	-	-	Un	-	RAS guanyl releasing protein 1	protein-coding	-	-	-	-	20170117

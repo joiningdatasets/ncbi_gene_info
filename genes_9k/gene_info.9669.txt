@@ -6510,7 +6510,7 @@
 9669	101676807	SPACA9	-	-	Ensembl:ENSMPUG00000012496	Un	-	sperm acrosome associated 9	protein-coding	-	-	-	Rsb-66 protein	20160903
 9669	101676809	LOC101676809	-	IFIT2	Ensembl:ENSMPUG00000006489	Un	-	interferon-induced protein with tetratricopeptide repeats 2	protein-coding	-	-	-	-	20160903
 9669	101676810	SLC25A36	-	-	Ensembl:ENSMPUG00000012317	Un	-	solute carrier family 25 member 36	protein-coding	-	-	-	solute carrier family 25 (pyrimidine nucleotide carrier ), member 36	20160903
-9669	101676811	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	-	20160903
+9669	101676811	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6C	20170130
 9669	101676813	LOXL1	-	-	Ensembl:ENSMPUG00000017254	Un	-	lysyl oxidase like 1	protein-coding	-	-	-	-	20160903
 9669	101676814	AAGAB	-	-	Ensembl:ENSMPUG00000000292	Un	-	alpha- and gamma-adaptin binding protein	protein-coding	-	-	-	-	20160716
 9669	101676815	RORA	-	-	-	Un	-	RAR related orphan receptor A	protein-coding	-	-	-	-	20160729
@@ -7586,7 +7586,7 @@
 9669	101677974	LOC101677974	-	-	-	Un	-	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 5-like	pseudo	-	-	-	-	20151115
 9669	101677975	LOC101677975	-	-	-	Un	-	uncharacterized LOC101677975	ncRNA	-	-	-	-	20151115
 9669	101677976	FAS	-	-	Ensembl:ENSMPUG00000006508	Un	-	Fas cell surface death receptor	protein-coding	-	-	-	-	20160716
-9669	101677977	LY6G6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6D	protein-coding	-	-	-	-	20151115
+9669	101677977	LY6G6D	-	-	-	Un	-	lymphocyte antigen 6 family member G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6D	20170130
 9669	101677978	ARFIP2	-	-	Ensembl:ENSMPUG00000005613	Un	-	ADP ribosylation factor interacting protein 2	protein-coding	-	-	-	-	20160810
 9669	101677980	SMAD3	-	-	Ensembl:ENSMPUG00000000304	Un	-	SMAD family member 3	protein-coding	-	-	-	-	20160329
 9669	101677981	LOC101677981	-	-	Ensembl:ENSMPUG00000018666	Un	-	olfactory receptor 10AG1-like	protein-coding	-	-	-	-	20160903
@@ -7843,7 +7843,7 @@
 9669	101678260	SLC5A3	-	-	-	Un	-	solute carrier family 5 member 3	protein-coding	-	-	-	-	20160729
 9669	101678262	BCAP31	-	-	Ensembl:ENSMPUG00000008469	Un	-	B-cell receptor-associated protein 31	protein-coding	-	-	-	-	20160903
 9669	101678263	ACTA2	-	-	Ensembl:ENSMPUG00000006517	Un	-	actin, alpha 2, smooth muscle, aorta	protein-coding	-	-	-	-	20160806
-9669	101678264	LY6G6F	-	-	Ensembl:ENSMPUG00000011112	Un	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	-	20160903
+9669	101678264	LY6G6F	-	-	Ensembl:ENSMPUG00000011112	Un	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6F	20170130
 9669	101678265	LOC101678265	-	-	-	Un	-	uncharacterized LOC101678265	ncRNA	-	-	-	-	20151115
 9669	101678266	TRIM3	-	-	Ensembl:ENSMPUG00000005622	Un	-	tripartite motif containing 3	protein-coding	-	-	-	-	20160903
 9669	101678267	ODF3L1	-	-	-	Un	-	outer dense fiber of sperm tails 3 like 1	protein-coding	-	-	-	-	20160729
@@ -8158,7 +8158,7 @@
 9669	101678604	RBBP4	-	-	Ensembl:ENSMPUG00000015214	Un	-	RB binding protein 4, chromatin remodeling factor	protein-coding	-	-	-	-	20160903
 9669	101678605	LOC101678605	-	TTLL13	Ensembl:ENSMPUG00000015719	Un	-	tubulin polyglutamylase TTLL13	protein-coding	-	-	-	tubulin tyrosine ligase-like family, member 13	20160903
 9669	101678606	LOC101678606	-	-	-	Un	-	60S ribosomal protein L14-like	pseudo	-	-	-	-	20151115
-9669	101678607	ALS2CR12	-	-	Ensembl:ENSMPUG00000000243	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	-	20160827
+9669	101678607	ALS2CR12	-	-	Ensembl:ENSMPUG00000000243	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 9669	101678608	TRNP1	-	-	-	Un	-	TMF1-regulated nuclear protein 1	protein-coding	-	-	-	-	20151115
 9669	101678609	FBXO47	-	-	Ensembl:ENSMPUG00000015058	Un	-	F-box protein 47	protein-coding	-	-	-	-	20151115
 9669	101678610	ALKBH6	-	-	Ensembl:ENSMPUG00000005804	Un	-	alkB homolog 6	protein-coding	-	-	-	alkB, alkylation repair homolog 6	20160903
@@ -8870,7 +8870,7 @@
 9669	101679375	ABHD14A	-	-	Ensembl:ENSMPUG00000011754	Un	-	abhydrolase domain containing 14A	protein-coding	-	-	-	-	20160903
 9669	101679376	AQP10	-	-	Ensembl:ENSMPUG00000007728	Un	-	aquaporin 10	protein-coding	-	-	-	-	20160903
 9669	101679377	LOC101679377	-	-	Ensembl:ENSMPUG00000009563	Un	-	glycine N-acyltransferase-like protein 3	protein-coding	-	-	-	-	20160903
-9669	101679378	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	-	20160213
+9669	101679378	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5B	20170130
 9669	101679379	MIB2	-	-	Ensembl:ENSMPUG00000014407	Un	-	mindbomb E3 ubiquitin protein ligase 2	protein-coding	-	-	-	mindbomb-like protein 2	20160716
 9669	101679380	LOC101679380	-	-	-	Un	-	olfactory receptor 6C1-like	protein-coding	-	-	-	-	20160716
 9669	101679381	REPS2	-	-	Ensembl:ENSMPUG00000002827	Un	-	RALBP1 associated Eps domain containing 2	protein-coding	-	-	-	-	20160329
@@ -9141,7 +9141,7 @@
 9669	101679674	LOC101679674	-	-	-	Un	-	glycine N-acyltransferase-like protein 3	protein-coding	-	-	-	-	20160903
 9669	101679675	LOC101679675	-	-	-	Un	-	uncharacterized LOC101679675	ncRNA	-	-	-	-	20151115
 9669	101679676	HMGN5	-	-	-	Un	-	high mobility group nucleosome binding domain 5	protein-coding	-	-	-	high mobility group nucleosome binding domain 1 pseudogene	20160102
-9669	101679677	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	-	20151115
+9669	101679677	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5C	20170130
 9669	101679678	NADK	-	-	-	Un	-	NAD kinase	protein-coding	-	-	-	-	20160716
 9669	101679679	LOC101679679	-	-	-	Un	-	olfactory receptor 6C3-like	pseudo	-	-	-	-	20151115
 9669	101679680	TBC1D9B	-	-	Ensembl:ENSMPUG00000000629	Un	-	TBC1 domain family member 9B	protein-coding	-	-	-	-	20160810
@@ -14066,7 +14066,7 @@
 9669	101684985	LOC101684985	-	-	-	Un	-	protein FAM204A pseudogene	pseudo	-	-	-	-	20151115
 9669	101684986	NTPCR	-	-	-	Un	-	nucleoside-triphosphatase, cancer-related	protein-coding	-	-	-	-	20161031
 9669	101684987	TRAPPC3L	-	-	-	Un	-	trafficking protein particle complex 3 like	protein-coding	-	-	-	-	20160903
-9669	101684988	NQO2	-	-	Ensembl:ENSMPUG00000000451	Un	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	-	20160903
+9669	101684988	NQO2	-	-	Ensembl:ENSMPUG00000000451	Un	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	NAD(P)H quinone dehydrogenase 2	20170130
 9669	101684989	SMIM13	-	-	-	Un	-	small integral membrane protein 13	protein-coding	-	-	-	-	20160903
 9669	101684990	RHBDD1	-	-	Ensembl:ENSMPUG00000001180	Un	-	rhomboid domain containing 1	protein-coding	-	-	-	-	20160903
 9669	101684991	ZNF469	-	-	-	Un	-	zinc finger protein 469	protein-coding	-	-	-	-	20160716
@@ -17754,7 +17754,7 @@
 9669	101688947	FMNL3	-	-	Ensembl:ENSMPUG00000014569	Un	-	formin like 3	protein-coding	-	-	-	-	20160903
 9669	101688948	CD55	-	-	-	Un	-	CD55 molecule (Cromer blood group)	protein-coding	-	-	-	-	20160729
 9669	101688949	TMEM9	-	-	Ensembl:ENSMPUG00000010586	Un	-	transmembrane protein 9	protein-coding	-	-	-	-	20160903
-9669	101688950	LY6H	-	-	Ensembl:ENSMPUG00000008510	Un	-	lymphocyte antigen 6 complex, locus H	protein-coding	-	-	-	-	20160903
+9669	101688950	LY6H	-	-	Ensembl:ENSMPUG00000008510	Un	-	lymphocyte antigen 6 family member H	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus H	20170130
 9669	101688951	NLRP12	-	-	Ensembl:ENSMPUG00000010010	Un	-	NLR family pyrin domain containing 12	protein-coding	-	-	-	-	20160903
 9669	101688952	SLC27A4	-	-	Ensembl:ENSMPUG00000013194	Un	-	solute carrier family 27 member 4	protein-coding	-	-	-	solute carrier family 27 , member 4	20160729
 9669	101688953	CLDN17	-	-	-	Un	-	claudin 17	protein-coding	-	-	-	-	20160903
@@ -18978,7 +18978,7 @@
 9669	101690264	LOC101690264	-	-	Ensembl:ENSMPUG00000018331	Un	-	olfactory receptor 56B1-like	protein-coding	-	-	-	-	20160903
 9669	101690265	FOXH1	-	-	Ensembl:ENSMPUG00000006130	Un	-	forkhead box H1	protein-coding	-	-	-	-	20151115
 9669	101690266	LOC101690266	-	-	-	Un	-	60S ribosomal protein L18a-like	protein-coding	-	-	-	-	20151115
-9669	101690267	LY6E	-	-	Ensembl:ENSMPUG00000008536	Un	-	lymphocyte antigen 6 complex, locus E	protein-coding	-	-	-	lymphocyte antigen 6E	20160813
+9669	101690267	LY6E	-	-	Ensembl:ENSMPUG00000008536	Un	-	lymphocyte antigen 6 family member E	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus E|lymphocyte antigen 6E	20170130
 9669	101690268	LOC101690268	-	-	-	Un	-	uncharacterized LOC101690268	ncRNA	-	-	-	-	20151115
 9669	101690270	GTF3C5	-	-	Ensembl:ENSMPUG00000012459	Un	-	general transcription factor IIIC subunit 5	protein-coding	-	-	-	proteinral transcription factor IIIC, polypeptide 5, 63kDa	20160810
 9669	101690271	LOC101690271	-	-	-	Un	-	keratin-associated protein 6-2-like	protein-coding	-	-	-	-	20151115
@@ -19540,7 +19540,7 @@
 9669	101690871	LOC101690871	-	-	Ensembl:ENSMPUG00000019677	Un	-	olfactory receptor 10H1-like	protein-coding	-	-	-	-	20160716
 9669	101690872	LOC101690872	-	-	-	Un	-	olfactory receptor 7C1-like	protein-coding	-	-	-	-	20160716
 9669	101690873	LOC101690873	-	-	-	Un	-	uncharacterized LOC101690873	ncRNA	-	-	-	-	20151115
-9669	101690874	AUTS2	-	-	Ensembl:ENSMPUG00000016184	Un	-	autism susceptibility candidate 2	protein-coding	-	-	-	-	20160903
+9669	101690874	AUTS2	-	-	Ensembl:ENSMPUG00000016184	Un	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility candidate 2	20170130
 9669	101690876	RPL7	-	-	Ensembl:ENSMPUG00000010240	Un	-	ribosomal protein L7	protein-coding	-	-	-	-	20160716
 9669	101690877	LOC101690877	-	-	-	Un	-	adapter protein CIKS pseudogene	pseudo	-	-	-	-	20151115
 9669	101690878	LOC101690878	-	-	-	Un	-	uncharacterized LOC101690878	ncRNA	-	-	-	-	20151115
@@ -19813,7 +19813,7 @@
 9669	101691175	AOAH	-	-	Ensembl:ENSMPUG00000007811	Un	-	acyloxyacyl hydrolase	protein-coding	-	-	-	-	20160903
 9669	101691176	ZCRB1	-	-	Ensembl:ENSMPUG00000000327	Un	-	zinc finger CCHC-type and RNA binding motif containing 1	protein-coding	-	-	-	-	20160903
 9669	101691177	LOC101691177	-	-	-	Un	-	uncharacterized LOC101691177	ncRNA	-	-	-	-	20160213
-9669	101691179	LY6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus D	protein-coding	-	-	-	-	20160213
+9669	101691179	LY6D	-	-	-	Un	-	lymphocyte antigen 6 family member D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus D	20170130
 9669	101691180	TWIST2	-	-	Ensembl:ENSMPUG00000019429	Un	-	twist family bHLH transcription factor 2	protein-coding	-	-	-	twist basic helix-loop-helix transcription factor 2|twist-like protein 2	20160806
 9669	101691181	LPAR5	-	-	Ensembl:ENSMPUG00000020129	Un	-	lysophosphatidic acid receptor 5	protein-coding	-	-	-	-	20160903
 9669	101691182	LOC101691182	-	-	-	Un	-	28S ribosomal protein S35, mitochondrial-like	pseudo	-	-	-	-	20151115

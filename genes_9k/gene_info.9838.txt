@@ -3127,7 +3127,7 @@
 9838	105087257	CPLX3	-	-	-	Un	-	complexin 3	protein-coding	-	-	-	-	20160910
 9838	105087258	CSK	-	-	-	Un	-	c-src tyrosine kinase	protein-coding	-	-	-	-	20151115
 9838	105087259	AMZ1	-	-	-	Un	-	archaelysin family metallopeptidase 1	protein-coding	-	-	-	-	20160924
-9838	105087260	NQO2	-	-	-	Un	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	-	20160924
+9838	105087260	NQO2	-	-	-	Un	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	NAD(P)H quinone dehydrogenase 2	20170130
 9838	105087261	LOC105087261	-	-	-	Un	-	cytochrome P450 1A2	protein-coding	-	-	-	-	20160924
 9838	105087262	LOC105087262	-	-	-	Un	-	cytochrome P450 1A1	protein-coding	-	-	-	-	20160924
 9838	105087263	EDC3	-	-	-	Un	-	enhancer of mRNA decapping 3	protein-coding	-	-	-	-	20160924
@@ -3325,13 +3325,13 @@
 9838	105087455	DDAH2	-	-	-	Un	-	dimethylarginine dimethylaminohydrolase 2	protein-coding	-	-	-	-	20160924
 9838	105087456	MPIG6B	-	-	-	Un	-	megakaryocyte and platelet inhibitory receptor G6b	protein-coding	-	-	-	-	20170107
 9838	105087457	LSMEM2	-	-	-	Un	-	leucine rich single-pass membrane protein 2	protein-coding	-	-	-	-	20160924
-9838	105087458	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	-	20160903
-9838	105087459	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	-	20160924
+9838	105087458	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6C	20170130
+9838	105087459	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6F	20170130
 9838	105087460	LOC105087460	-	-	-	Un	-	sperm acrosome membrane-associated protein 4-like	protein-coding	-	-	-	-	20160924
-9838	105087461	LY6G6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6D	protein-coding	-	-	-	-	20151115
+9838	105087461	LY6G6D	-	-	-	Un	-	lymphocyte antigen 6 family member G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6D	20170130
 9838	105087462	GPANK1	-	-	-	Un	-	G-patch domain and ankyrin repeats 1	protein-coding	-	-	-	-	20160924
 9838	105087463	CSNK2B	-	-	-	Un	-	casein kinase 2 beta	protein-coding	-	-	-	-	20160729
-9838	105087464	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	-	20151115
+9838	105087464	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5B	20170130
 9838	105087465	LOC105087465	-	-	-	Un	-	chromosome unknown open reading frame, human C6orf47	protein-coding	-	-	-	-	20160924
 9838	105087466	IFRD2	-	-	-	Un	-	interferon related developmental regulator 2	protein-coding	-	-	-	-	20160924
 9838	105087467	APOM	-	-	-	Un	-	apolipoprotein M	protein-coding	-	-	-	-	20160910
@@ -3385,7 +3385,7 @@
 9838	105087515	ZBTB12	-	-	-	Un	-	zinc finger and BTB domain containing 12	protein-coding	-	-	-	-	20160924
 9838	105087516	LOC105087516	-	-	-	Un	-	heat shock 70 kDa protein 1B-like	protein-coding	-	-	-	-	20160924
 9838	105087517	ABHD16A	-	-	-	Un	-	abhydrolase domain containing 16A	protein-coding	-	-	-	-	20160924
-9838	105087518	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	-	20151115
+9838	105087518	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5C	20170130
 9838	105087519	NCR3	-	-	-	Un	-	natural cytotoxicity triggering receptor 3	protein-coding	-	-	-	-	20151115
 9838	105087520	GNAI2	-	-	-	Un	-	G protein subunit alpha i2	protein-coding	-	-	-	-	20160924
 9838	105087521	DDX39B	-	-	-	Un	-	DExD-box helicase 39B	protein-coding	-	-	-	DEAD-box helicase 39B	20160929
@@ -5600,7 +5600,7 @@
 9838	105089730	MLXIPL	-	-	-	Un	-	MLX interacting protein like	protein-coding	-	-	-	-	20160924
 9838	105089731	WBSCR28	-	-	-	Un	-	Williams-Beuren syndrome chromosome region 28	protein-coding	-	-	-	-	20160924
 9838	105089732	RFC2	-	-	-	Un	-	replication factor C subunit 2	protein-coding	-	-	-	-	20160924
-9838	105089733	AUTS2	-	-	-	Un	-	autism susceptibility candidate 2	protein-coding	-	-	-	-	20160924
+9838	105089733	AUTS2	-	-	-	Un	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility candidate 2	20170130
 9838	105089734	LOC105089734	-	-	-	Un	-	uncharacterized LOC105089734	pseudo	-	-	-	-	20151115
 9838	105089735	CALN1	-	-	-	Un	-	calneuron 1	protein-coding	-	-	-	-	20160910
 9838	105089736	LOC105089736	-	-	-	Un	-	mitochondrial ribonuclease P protein 1-like	pseudo	-	-	-	-	20151115
@@ -15055,7 +15055,7 @@
 9838	105099185	KCTD18	-	-	-	Un	-	potassium channel tetramerization domain containing 18	protein-coding	-	-	-	-	20160924
 9838	105099186	SGO2	-	-	-	Un	-	shugoshin 2	protein-coding	-	-	-	-	20160729
 9838	105099187	LOC105099187	-	-	-	Un	-	ras-related protein R-Ras2 pseudogene	pseudo	-	-	-	-	20151115
-9838	105099188	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	-	20160811
+9838	105099188	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 9838	105099189	INPP1	-	-	-	Un	-	inositol polyphosphate-1-phosphatase	protein-coding	-	-	-	-	20151115
 9838	105099190	LOC105099190	-	-	-	Un	-	UDP-N-acetylglucosamine transporter pseudogene	pseudo	-	-	-	-	20151115
 9838	105099191	LOC105099191	-	-	-	Un	-	rho GTPase-activating protein 20-like	protein-coding	-	-	-	-	20151115
@@ -19750,9 +19750,9 @@
 9838	105103880	LOC105103880	-	-	-	Un	-	uncharacterized LOC105103880	ncRNA	-	-	-	-	20151115
 9838	105103881	ZFP41	-	-	-	Un	-	ZFP41 zinc finger protein	protein-coding	-	-	-	-	20160924
 9838	105103882	GLI4	-	-	-	Un	-	GLI family zinc finger 4	protein-coding	-	-	-	-	20160924
-9838	105103883	LY6H	-	-	-	Un	-	lymphocyte antigen 6 complex, locus H	protein-coding	-	-	-	-	20160924
+9838	105103883	LY6H	-	-	-	Un	-	lymphocyte antigen 6 family member H	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus H	20170130
 9838	105103884	GPIHBP1	-	-	-	Un	-	glycosylphosphatidylinositol anchored high density lipoprotein binding protein 1	protein-coding	-	-	-	-	20151115
-9838	105103885	LY6E	-	-	-	Un	-	lymphocyte antigen 6 complex, locus E	protein-coding	-	-	-	-	20160910
+9838	105103885	LY6E	-	-	-	Un	-	lymphocyte antigen 6 family member E	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus E	20170130
 9838	105103886	TMIE	-	-	-	Un	-	transmembrane inner ear	protein-coding	-	-	-	-	20160924
 9838	105103887	MAFA	-	-	-	Un	-	MAF bZIP transcription factor A	protein-coding	-	-	-	-	20160729
 9838	105103888	ZNF696	-	-	-	Un	-	zinc finger protein 696	protein-coding	-	-	-	-	20160924
@@ -22293,7 +22293,7 @@
 9838	105106423	MSTO1	-	-	-	Un	-	misato 1, mitochondrial distribution and morphology regulator	protein-coding	-	-	-	-	20151115
 9838	105106424	LOC105106424	-	-	-	Un	-	ly-6/neurotoxin-like protein 1	protein-coding	-	-	-	-	20151115
 9838	105106425	LOC105106425	-	-	-	Un	-	ly-6/neurotoxin-like protein 1	protein-coding	-	-	-	-	20160924
-9838	105106426	LY6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus D	protein-coding	-	-	-	-	20151115
+9838	105106426	LY6D	-	-	-	Un	-	lymphocyte antigen 6 family member D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus D	20170130
 9838	105106427	LOC105106427	-	-	-	Un	-	cytochrome P450 11B1, mitochondrial	protein-coding	-	-	-	-	20160924
 9838	105106428	JRK	-	-	-	Un	-	Jrk helix-turn-helix protein	protein-coding	-	-	-	-	20160924
 9838	105106429	PSCA	-	-	-	Un	-	prostate stem cell antigen	protein-coding	-	-	-	-	20160924

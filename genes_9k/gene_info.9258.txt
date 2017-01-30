@@ -5499,7 +5499,7 @@
 9258	100079674	MAN1A1	-	-	-	Un	-	mannosidase alpha class 1A member 1	protein-coding	-	-	-	-	20161005
 9258	100079675	ORNANAV1R-PS4057	-	-	-	Un	-	vomeronasal 1 receptor ornAnaV1R-ps4057 pseudogene	pseudo	-	-	-	-	20161005
 9258	100079676	GSG1L	-	-	-	Un	-	GSG1 like	protein-coding	-	-	-	-	20161005
-9258	100079677	NQO2	-	-	-	Un	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	NAD(P)H dehydrogenase, quinone 2	20161005
+9258	100079677	NQO2	-	-	-	Un	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	NAD(P)H dehydrogenase, quinone 2|NAD(P)H quinone dehydrogenase 2	20170130
 9258	100079678	RCHY1	-	-	-	Un	-	ring finger and CHY zinc finger domain containing 1	protein-coding	-	-	-	ring finger and CHY zinc finger domain containing 1, E3 ubiquitin protein ligase	20161005
 9258	100079679	LGMN	-	-	-	Un	-	legumain	protein-coding	-	-	-	-	20161005
 9258	100079680	GRIA3	-	-	-	Un	-	glutamate ionotropic receptor AMPA type subunit 3	protein-coding	-	-	-	glutamate receptor, ionotrophic, AMPA 3|glutamate receptor, ionotropic, AMPA 3	20161005
@@ -22174,7 +22174,7 @@
 9258	103169345	LOC103169345	-	-	-	Un	-	uncharacterized LOC103169345	ncRNA	-	-	-	-	20160419
 9258	103169346	LOC103169346	-	-	-	Un	-	nucleolar complex protein 2 homolog	protein-coding	-	-	-	-	20160419
 9258	103169348	TNFAIP1	-	-	-	Un	-	TNF alpha induced protein 1	protein-coding	-	-	-	tumor necrosis factor, alpha-induced protein 1 (endothelial)	20160419
-9258	103169349	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 (juvenile) chromosome region, candidate 12	20160629
+9258	103169349	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 (juvenile) chromosome region, candidate 12|amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 9258	103169350	LOC103169350	-	-	-	Un	-	tau-tubulin kinase 2-like	protein-coding	-	-	-	-	20160910
 9258	103169351	LOC103169351	-	-	-	Un	-	coiled-coil domain-containing protein 150-like	protein-coding	-	-	-	-	20160419
 9258	103169352	LOC103169352	-	-	-	Un	-	uncharacterized LOC103169352	ncRNA	-	-	-	-	20160419
@@ -23159,7 +23159,7 @@
 9258	103170548	DUSP22	-	-	-	Un	-	dual specificity phosphatase 22	protein-coding	-	-	-	-	20160419
 9258	103170549	PSMG4	-	-	-	Un	-	proteasome assembly chaperone 4	protein-coding	-	-	-	proteasome (prosome, macropain) assembly chaperone 4	20160910
 9258	103170550	LOC103170550	-	-	-	Un	-	uncharacterized LOC103170550	ncRNA	-	-	-	-	20160419
-9258	103170551	LY6K	-	-	-	Un	-	lymphocyte antigen 6 complex, locus K	protein-coding	-	-	-	-	20160910
+9258	103170551	LY6K	-	-	-	Un	-	lymphocyte antigen 6 family member K	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus K	20170130
 9258	103170552	LOC103170552	-	-	-	Un	-	lymphocyte antigen 6E-like	protein-coding	-	-	-	-	20160910
 9258	103170553	LOC103170553	-	-	-	Un	-	uncharacterized LOC103170553	ncRNA	-	-	-	-	20160419
 9258	103170554	LOC103170554	-	-	-	Un	-	uncharacterized LOC103170554	ncRNA	-	-	-	-	20160419

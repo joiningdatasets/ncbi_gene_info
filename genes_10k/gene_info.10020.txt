@@ -4467,7 +4467,7 @@
 10020	105984480	Ggps1	-	-	-	Un	-	geranylgeranyl diphosphate synthase 1	protein-coding	-	-	-	-	20160722
 10020	105984481	LOC105984481	-	-	-	Un	-	uncharacterized LOC105984481	ncRNA	-	-	-	-	20160722
 10020	105984482	Celf2	-	-	-	Un	-	CUGBP Elav-like family member 2	protein-coding	-	-	-	-	20170124
-10020	105984483	Als2cr12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	-	20160811
+10020	105984483	Als2cr12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 10020	105984484	LOC105984484	-	-	-	Un	-	alpha-1-antitrypsin-like	protein-coding	-	-	-	-	20160722
 10020	105984485	LOC105984485	-	-	-	Un	-	40S ribosomal protein S10 pseudogene	pseudo	-	-	-	-	20160722
 10020	105984486	Kif5b	-	-	-	Un	-	kinesin family member 5B	protein-coding	-	-	-	-	20160722
@@ -5876,7 +5876,7 @@
 10020	105985889	LOC105985889	-	-	-	Un	-	leukocyte elastase inhibitor-like	protein-coding	-	-	-	-	20160722
 10020	105985890	LOC105985890	-	-	-	Un	-	F-box only protein 34-like	pseudo	-	-	-	-	20160722
 10020	105985891	Dytn	-	-	-	Un	-	dystrotelin	protein-coding	-	-	-	-	20160722
-10020	105985892	Nqo2	-	-	-	Un	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	-	20160729
+10020	105985892	Nqo2	-	-	-	Un	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	NAD(P)H quinone dehydrogenase 2	20170130
 10020	105985893	LOC105985893	-	-	-	Un	-	sperm motility kinase-like	protein-coding	-	-	-	-	20160722
 10020	105985894	Rpp40	-	-	-	Un	-	ribonuclease P/MRP subunit p40	protein-coding	-	-	-	-	20160729
 10020	105985895	Cdyl	-	-	-	Un	-	chromodomain Y-like	protein-coding	-	-	-	-	20160722
@@ -12308,7 +12308,7 @@
 10020	105992321	LOC105992321	-	-	-	Un	-	septin-7 pseudogene	pseudo	-	-	-	-	20160722
 10020	105992322	Chrac1	-	-	-	Un	-	chromatin accessibility complex 1	protein-coding	-	-	-	-	20160722
 10020	105992323	Adcy8	-	-	-	Un	-	adenylate cyclase 8	protein-coding	-	-	-	-	20160729
-10020	105992324	Ly6d	-	-	-	Un	-	lymphocyte antigen 6 complex, locus D	protein-coding	-	-	-	-	20160722
+10020	105992324	Ly6d	-	-	-	Un	-	lymphocyte antigen 6 family member D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus D	20170130
 10020	105992325	Ptp4a3	-	-	-	Un	-	protein tyrosine phosphatase type IVA, member 3	protein-coding	-	-	-	-	20160722
 10020	105992326	Dusp26	-	-	-	Un	-	dual specificity phosphatase 26	protein-coding	-	-	-	dual specificity phosphatase 26 (putative)	20161206
 10020	105992327	LOC105992327	-	-	-	Un	-	lymphocyte antigen 6K-like	protein-coding	-	-	-	-	20160722
@@ -17031,7 +17031,7 @@
 10020	105997044	LOC105997044	-	-	-	Un	-	putative olfactory receptor 2B3	protein-coding	-	-	-	-	20160722
 10020	105997045	LOC105997045	-	-	-	Un	-	olfactory receptor 2B11-like	protein-coding	-	-	-	-	20160722
 10020	105997046	LOC105997046	-	-	-	Un	-	olfactory receptor 1361-like	protein-coding	-	-	-	-	20160722
-10020	105997047	Ly6g6c	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	-	20160722
+10020	105997047	Ly6g6c	-	-	-	Un	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6C	20170130
 10020	105997048	Klhdc7a	-	-	-	Un	-	kelch domain containing 7A	protein-coding	-	-	-	-	20160722
 10020	105997049	LOC105997049	-	-	-	Un	-	olfactory receptor 2B11-like	protein-coding	-	-	-	-	20160722
 10020	105997050	LOC105997050	-	-	-	Un	-	olfactory receptor 2B6-like	protein-coding	-	-	-	-	20160722
@@ -17042,7 +17042,7 @@
 10020	105997055	LOC105997055	-	-	-	Un	-	olfactory receptor 5V1-like	protein-coding	-	-	-	-	20160722
 10020	105997056	LOC105997056	-	-	-	Un	-	olfactory receptor 2J3-like	pseudo	-	-	-	-	20160722
 10020	105997057	LOC105997057	-	-	-	Un	-	10 kDa heat shock protein, mitochondrial pseudogene	pseudo	-	-	-	-	20160722
-10020	105997058	Ly6g6d	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6D	protein-coding	-	-	-	-	20160722
+10020	105997058	Ly6g6d	-	-	-	Un	-	lymphocyte antigen 6 family member G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6D	20170130
 10020	105997059	Mib2	-	-	-	Un	-	mindbomb E3 ubiquitin protein ligase 2	protein-coding	-	-	-	-	20160722
 10020	105997060	Trim10	-	-	-	Un	-	tripartite motif containing 10	protein-coding	-	-	-	-	20160722
 10020	105997061	Trim15	-	-	-	Un	-	tripartite motif containing 15	protein-coding	-	-	-	-	20160722
@@ -17063,7 +17063,7 @@
 10020	105997076	LOC105997076	-	-	-	Un	-	tripartite motif-containing protein 26	protein-coding	-	-	-	-	20160722
 10020	105997077	LOC105997077	-	-	-	Un	-	60S ribosomal protein L35a pseudogene	pseudo	-	-	-	-	20160722
 10020	105997078	Abhd16a	-	-	-	Un	-	abhydrolase domain containing 16A	protein-coding	-	-	-	-	20160722
-10020	105997079	Ly6g6f	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	-	20160722
+10020	105997079	Ly6g6f	-	-	-	Un	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6F	20170130
 10020	105997080	Vars	-	-	-	Un	-	valyl-tRNA synthetase	protein-coding	-	-	-	-	20160722
 10020	105997081	Nfkbil1	-	-	-	Un	-	NFKB inhibitor like 1	protein-coding	-	-	-	-	20160729
 10020	105997082	LOC105997082	-	-	-	Un	-	chromosome unknown open reading frame, human C6orf47	protein-coding	-	-	-	-	20160722
@@ -18447,7 +18447,7 @@
 10020	105998460	Clip2	-	-	-	Un	-	CAP-Gly domain containing linker protein 2	protein-coding	-	-	-	-	20160809
 10020	105998461	Gatsl2	-	-	-	Un	-	GATS protein like 2	protein-coding	-	-	-	-	20160729
 10020	105998462	Fbxo2	-	-	-	Un	-	F-box protein 2	protein-coding	-	-	-	-	20160722
-10020	105998463	Auts2	-	-	-	Un	-	autism susceptibility candidate 2	protein-coding	-	-	-	-	20160722
+10020	105998463	Auts2	-	-	-	Un	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility candidate 2	20170130
 10020	105998464	Wbscr17	-	-	-	Un	-	Williams-Beuren syndrome chromosome region 17	protein-coding	-	-	-	-	20160722
 10020	105998465	LOC105998465	-	-	-	Un	-	S-adenosyl-L-methionine-dependent tRNA 4-demethylwyosine synthase-like	protein-coding	-	-	-	-	20160722
 10020	105998466	Psph	-	-	-	Un	-	phosphoserine phosphatase	protein-coding	-	-	-	-	20160722
@@ -18952,7 +18952,7 @@
 10020	105998965	LOC105998965	-	-	-	Un	-	proto-oncogene serine/threonine-protein kinase mos-like	pseudo	-	-	-	-	20160722
 10020	105998966	LOC105998966	-	-	-	Un	-	40S ribosomal protein SA-like	pseudo	-	-	-	-	20160722
 10020	105998967	LOC105998967	-	-	-	Un	-	heme oxygenase 1 pseudogene	pseudo	-	-	-	-	20160722
-10020	105998968	Ly6h	-	-	-	Un	-	lymphocyte antigen 6 complex, locus H	protein-coding	-	-	-	-	20160722
+10020	105998968	Ly6h	-	-	-	Un	-	lymphocyte antigen 6 family member H	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus H	20170130
 10020	105998969	Rhpn1	-	-	-	Un	-	rhophilin Rho GTPase binding protein 1	protein-coding	-	-	-	-	20160729
 10020	105998970	Mafa	-	-	-	Un	-	MAF bZIP transcription factor A	protein-coding	-	-	-	-	20160729
 10020	105998971	Zc3h3	-	-	-	Un	-	zinc finger CCCH-type containing 3	protein-coding	-	-	-	-	20160722

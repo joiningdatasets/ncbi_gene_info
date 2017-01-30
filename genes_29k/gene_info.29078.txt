@@ -2995,7 +2995,7 @@
 29078	103286051	RFC2	-	-	-	Un	-	replication factor C subunit 2	protein-coding	-	-	-	-	20160910
 29078	103286052	GTF2IRD1	-	-	-	Un	-	GTF2I repeat domain containing 1	protein-coding	-	-	-	-	20160910
 29078	103286053	GATSL2	-	-	-	Un	-	GATS protein like 2	protein-coding	-	-	-	-	20160910
-29078	103286054	AUTS2	-	-	-	Un	-	autism susceptibility candidate 2	protein-coding	-	-	-	-	20160910
+29078	103286054	AUTS2	-	-	-	Un	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility candidate 2	20170130
 29078	103286055	WBSCR17	-	-	-	Un	-	Williams-Beuren syndrome chromosome region 17	protein-coding	-	-	-	-	20160910
 29078	103286056	NRG2	-	-	-	Un	-	neuregulin 2	protein-coding	-	-	-	-	20160910
 29078	103286057	CALN1	-	-	-	Un	-	calneuron 1	protein-coding	-	-	-	-	20160910
@@ -7481,7 +7481,7 @@
 29078	103290537	CDK15	-	-	-	Un	-	cyclin dependent kinase 15	protein-coding	-	-	-	-	20160729
 29078	103290538	STRADB	-	-	-	Un	-	STE20-related kinase adaptor beta	protein-coding	-	-	-	-	20160910
 29078	103290539	TRAK2	-	-	-	Un	-	trafficking kinesin protein 2	protein-coding	-	-	-	-	20160910
-29078	103290540	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	-	20160811
+29078	103290540	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 29078	103290541	CASP8	-	-	-	Un	-	caspase 8	protein-coding	-	-	-	-	20160910
 29078	103290542	CFLAR	-	-	-	Un	-	CASP8 and FADD like apoptosis regulator	protein-coding	-	-	-	-	20160910
 29078	103290543	NDUFB3	-	-	-	Un	-	NADH:ubiquinone oxidoreductase subunit B3	protein-coding	-	-	-	-	20160910
@@ -17408,10 +17408,10 @@
 29078	103300464	MSH5	-	-	-	Un	-	mutS homolog 5	protein-coding	-	-	-	-	20160910
 29078	103300465	MPIG6B	-	-	-	Un	-	megakaryocyte and platelet inhibitory receptor G6b	protein-coding	-	-	-	-	20170107
 29078	103300466	IQCF1	-	-	-	Un	-	IQ motif containing F1	protein-coding	-	-	-	-	20151115
-29078	103300467	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	-	20160910
-29078	103300468	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	-	20160910
+29078	103300467	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6C	20170130
+29078	103300468	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6F	20170130
 29078	103300469	ABHD16A	-	-	-	Un	-	abhydrolase domain containing 16A	protein-coding	-	-	-	-	20160910
-29078	103300470	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	-	20151115
+29078	103300470	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5B	20170130
 29078	103300471	CSNK2B	-	-	-	Un	-	casein kinase 2 beta	protein-coding	-	-	-	-	20160729
 29078	103300472	GPANK1	-	-	-	Un	-	G-patch domain and ankyrin repeats 1	protein-coding	-	-	-	-	20160910
 29078	103300473	LOC103300473	-	-	-	Un	-	chromosome unknown open reading frame, human C6orf47	protein-coding	-	-	-	-	20160910
@@ -17474,7 +17474,7 @@
 29078	103300530	VWA7	-	-	-	Un	-	von Willebrand factor A domain containing 7	protein-coding	-	-	-	-	20160910
 29078	103300531	SAPCD1	-	-	-	Un	-	suppressor APC domain containing 1	protein-coding	-	-	-	-	20160910
 29078	103300532	LOC103300532	-	-	-	Un	-	sperm acrosome membrane-associated protein 4-like	protein-coding	-	-	-	-	20151115
-29078	103300533	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	-	20151115
+29078	103300533	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5C	20170130
 29078	103300534	APOM	-	-	-	Un	-	apolipoprotein M	protein-coding	-	-	-	-	20160910
 29078	103300535	BAG6	-	-	-	Un	-	BCL2 associated athanogene 6	protein-coding	-	-	-	-	20160910
 29078	103300536	NCR3	-	-	-	Un	-	natural cytotoxicity triggering receptor 3	protein-coding	-	-	-	-	20160910
@@ -19612,8 +19612,8 @@
 29078	103302668	IMPA2	-	-	-	Un	-	inositol monophosphatase 2	protein-coding	-	-	-	-	20160729
 29078	103302669	ZC3H3	-	-	-	Un	-	zinc finger CCCH-type containing 3	protein-coding	-	-	-	-	20160910
 29078	103302670	GLI4	-	-	-	Un	-	GLI family zinc finger 4	protein-coding	-	-	-	-	20160910
-29078	103302671	LY6H	-	-	-	Un	-	lymphocyte antigen 6 complex, locus H	protein-coding	-	-	-	-	20160910
-29078	103302672	LY6E	-	-	-	Un	-	lymphocyte antigen 6 complex, locus E	protein-coding	-	-	-	-	20160910
+29078	103302671	LY6H	-	-	-	Un	-	lymphocyte antigen 6 family member H	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus H	20170130
+29078	103302672	LY6E	-	-	-	Un	-	lymphocyte antigen 6 family member E	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus E	20170130
 29078	103302673	LOC103302673	-	-	-	Un	-	cytochrome P450 11B1, mitochondrial	protein-coding	-	-	-	-	20160910
 29078	103302674	LYNX1	-	-	-	Un	-	Ly6/neurotoxin 1	protein-coding	-	-	-	-	20160626
 29078	103302675	THEM6	-	-	-	Un	-	thioesterase superfamily member 6	protein-coding	-	-	-	-	20160910
@@ -19665,7 +19665,7 @@
 29078	103302721	GPIHBP1	-	-	-	Un	-	glycosylphosphatidylinositol anchored high density lipoprotein binding protein 1	protein-coding	-	-	-	-	20151115
 29078	103302722	LOC103302722	-	-	-	Un	-	lymphocyte antigen 6H-like	protein-coding	-	-	-	-	20160910
 29078	103302723	GML	-	-	-	Un	-	glycosylphosphatidylinositol anchored molecule like	protein-coding	-	-	-	-	20151115
-29078	103302724	LY6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus D	protein-coding	-	-	-	-	20160910
+29078	103302724	LY6D	-	-	-	Un	-	lymphocyte antigen 6 family member D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus D	20170130
 29078	103302725	LOC103302725	-	-	-	Un	-	ly6/PLAUR domain-containing protein 2-like	protein-coding	-	-	-	-	20151115
 29078	103302726	APCDD1	-	-	-	Un	-	APC down-regulated 1	protein-coding	-	-	-	-	20160910
 29078	103302727	JRK	-	-	-	Un	-	Jrk helix-turn-helix protein	protein-coding	-	-	-	-	20160910
@@ -19827,7 +19827,7 @@
 29078	103302883	PXDC1	-	-	-	Un	-	PX domain containing 1	protein-coding	-	-	-	-	20160910
 29078	103302884	ZBTB14	-	-	-	Un	-	zinc finger and BTB domain containing 14	protein-coding	-	-	-	-	20160910
 29078	103302885	LOC103302885	-	-	-	Un	-	tubulin beta-2B chain	protein-coding	-	-	-	-	20151115
-29078	103302886	NQO2	-	-	-	Un	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	-	20160910
+29078	103302886	NQO2	-	-	-	Un	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	NAD(P)H quinone dehydrogenase 2	20170130
 29078	103302887	LOC103302887	-	-	-	Un	-	hydroxyacyl-coenzyme A dehydrogenase, mitochondrial pseudogene	pseudo	-	-	-	-	20151115
 29078	103302888	LGMN	-	-	-	Un	-	legumain	protein-coding	-	-	-	-	20160910
 29078	103302889	DDX24	-	-	-	Un	-	DEAD-box helicase 24	protein-coding	-	-	-	-	20160910

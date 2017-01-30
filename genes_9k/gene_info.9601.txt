@@ -2901,7 +2901,7 @@
 9601	100174413	ALOX15	-	12-LOX|L-12LO	Ensembl:ENSPPYG00000007837	17	-	arachidonate 15-lipoxygenase	protein-coding	-	-	-	arachidonate 15-lipoxygenase|12/15-lipoxygenase|15-LOX|arachidonate 12-lipoxygenase, leukocyte-type|arachidonate omega-6 lipoxygenase	20161031
 9601	100174415	DNAJC22	-	-	Ensembl:ENSPPYG00000004487	12	-	DnaJ heat shock protein family (Hsp40) member C22	protein-coding	-	-	-	dnaJ homolog subfamily C member 22|DnaJ (Hsp40) homolog, subfamily C, member 22|DnaJ homolog subfamily B member 15	20161031
 9601	100174416	RUSC2	-	-	-	9	-	RUN and SH3 domain containing 2	protein-coding	-	-	-	iporin	20160827
-9601	100174417	NQO2	-	-	Ensembl:ENSPPYG00000016176	6	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	ribosyldihydronicotinamide dehydrogenase [quinone]|NAD(P)H dehydrogenase, quinone 2|NRH dehydrogenase [quinone] 2|NRH:quinone oxidoreductase 2|QR2|Ribosyldihydronicotinamide dehydrogenase|quinone reductase 2	20161031
+9601	100174417	NQO2	-	-	Ensembl:ENSPPYG00000016176	6	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	ribosyldihydronicotinamide dehydrogenase [quinone]|NAD(P)H dehydrogenase, quinone 2|NAD(P)H quinone dehydrogenase 2|NRH dehydrogenase [quinone] 2|NRH:quinone oxidoreductase 2|QR2|Ribosyldihydronicotinamide dehydrogenase|quinone reductase 2	20170130
 9601	100174418	NOB1	-	-	Ensembl:ENSPPYG00000007509	16	-	NIN1/PSMD8 binding protein 1 homolog	protein-coding	-	-	-	RNA-binding protein NOB1|NIN1/RPN12 binding protein 1 homolog	20161031
 9601	100174419	PRPSAP2	-	-	Ensembl:ENSPPYG00000008054	17	-	phosphoribosyl pyrophosphate synthetase associated protein 2	protein-coding	-	-	-	phosphoribosyl pyrophosphate synthase-associated protein 2|PRPP synthase-associated protein 2|PRPP synthetase-associated protein 2	20161031
 9601	100174420	XPC	-	-	Ensembl:ENSPPYG00000013401	3	-	XPC complex subunit, DNA damage recognition and repair factor	protein-coding	-	-	-	xeroderma pigmentosum, complementation group C	20160818
@@ -4012,7 +4012,7 @@
 9601	100431514	LOC100431514	-	-	-	9	-	transmembrane protein 8B	protein-coding	-	-	-	-	20160813
 9601	100431517	TNFRSF10C	-	-	-	8	-	TNF receptor superfamily member 10c	protein-coding	-	-	-	-	20160729
 9601	100431520	LOC100431520	-	-	-	14	-	Ig heavy chain V-I region V35-like	other	-	-	-	-	20151115
-9601	100431522	LY6H	-	-	Ensembl:ENSPPYG00000018929	8	-	lymphocyte antigen 6 complex, locus H	protein-coding	-	-	-	-	20160917
+9601	100431522	LY6H	-	-	Ensembl:ENSPPYG00000018929	8	-	lymphocyte antigen 6 family member H	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus H	20170130
 9601	100431524	LOC100431524	-	-	-	16	-	putative high mobility group protein B3-like protein	pseudo	-	-	-	-	20151115
 9601	100431525	LOC100431525	-	-	-	16	-	olfactory receptor 1F1	protein-coding	-	-	-	-	20160806
 9601	100431526	LOC100431526	-	-	-	9	-	A-kinase anchor protein 8 pseudogene	pseudo	-	-	-	-	20160526
@@ -5283,7 +5283,7 @@
 9601	100433227	MRPS23	-	-	Ensembl:ENSPPYG00000025941	17	-	mitochondrial ribosomal protein S23	protein-coding	-	-	-	-	20160806
 9601	100433228	LOC100433228	-	-	-	2B	-	apoptosis inhibitor 5-like	protein-coding	-	-	-	-	20160917
 9601	100433229	IGFBP4	-	-	Ensembl:ENSPPYG00000008459	17	-	insulin like growth factor binding protein 4	protein-coding	-	-	-	-	20160809
-9601	100433230	ALS2CR12	-	-	-	2B	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	-	20160811
+9601	100433230	ALS2CR12	-	-	-	2B	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 9601	100433231	LOC100433231	-	-	-	17	-	26S proteasome non-ATPase regulatory subunit 7 pseudogene	pseudo	-	-	-	-	20160526
 9601	100433232	SPHK1	-	-	Ensembl:ENSPPYG00000008657	17	-	sphingosine kinase 1	protein-coding	-	-	-	-	20160827
 9601	100433234	TEX44	-	C2BH2orf57	-	2B	-	testis expressed 44	protein-coding	-	-	-	-	20161106
@@ -15906,7 +15906,7 @@
 9601	100447573	LOC100447573	-	-	-	6	-	putative uncharacterized protein FLJ36797	protein-coding	-	-	-	-	20160526
 9601	100447574	LOC100447574	-	-	-	2A	-	E3 SUMO-protein ligase RanBP2-like	protein-coding	-	-	-	-	20160806
 9601	100447575	LOC100447575	-	-	-	2B	-	HIG1 domain family member 1A, mitochondrial pseudogene	pseudo	-	-	-	-	20151115
-9601	100447576	AUTS2	-	-	-	7	-	autism susceptibility candidate 2	protein-coding	-	-	-	-	20160917
+9601	100447576	AUTS2	-	-	-	7	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility candidate 2	20170130
 9601	100447578	LOC100447578	-	-	-	4	-	UDP-glucuronosyltransferase 2A3-like	pseudo	-	-	-	-	20151115
 9601	100447580	TFEC	-	-	Ensembl:ENSPPYG00000017928	7	-	transcription factor EC	protein-coding	-	-	-	-	20160917
 9601	100447582	LOC100447582	-	-	-	8	-	putative exonuclease GOR	pseudo	-	-	-	-	20151115
@@ -20902,7 +20902,7 @@
 9601	100454295	LOC100454295	-	-	-	22	-	beta-crystallin B2-like	pseudo	-	-	-	-	20160526
 9601	100454296	AFF4	-	-	Ensembl:ENSPPYG00000015775	5	-	AF4/FMR2 family member 4	protein-coding	-	-	-	-	20160827
 9601	100454298	PCSK1N	-	-	Ensembl:ENSPPYG00000020322	X	-	proprotein convertase subtilisin/kexin type 1 inhibitor	protein-coding	-	-	-	-	20160806
-9601	100454299	LY6G5C	-	-	Ensembl:ENSPPYG00000016449	6	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	-	20160526
+9601	100454299	LY6G5C	-	-	Ensembl:ENSPPYG00000016449	6	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5C	20170130
 9601	100454300	LOC100454300	-	NXF2|NXF2B	Ensembl:ENSPPYG00000020565	X	-	nuclear RNA export factor 2	protein-coding	-	-	-	nuclear RNA export factor 2B	20160806
 9601	100454303	GPR63	-	-	Ensembl:ENSPPYG00000016856	6	-	G protein-coupled receptor 63	protein-coding	-	-	-	-	20160806
 9601	100454304	GPRC6A	-	-	Ensembl:ENSPPYG00000016959	6	-	G protein-coupled receptor class C group 6 member A	protein-coding	-	-	-	G protein-coupled receptor, family C, group 6, member A	20160827
@@ -21186,7 +21186,7 @@
 9601	100454670	ZCCHC10	-	-	Ensembl:ENSPPYG00000015776	5	-	zinc finger CCHC-type containing 10	protein-coding	-	-	-	-	20160917
 9601	100454671	MBTPS2	-	YY2	Ensembl:ENSPPYG00000020181	X	-	membrane bound transcription factor peptidase, site 2	protein-coding	-	-	-	membrane-bound transcription factor site-2 protease|Membrane-bound transcription factor site-2 protease|S2P endopeptidase|YY2 transcription factor|endopeptidase S2P|site-2 protease	20161224
 9601	100454672	ERAS	-	-	Ensembl:ENSPPYG00000020321	X	-	ES cell expressed Ras	protein-coding	-	-	-	-	20160806
-9601	100454673	LY6G6F	-	-	-	6	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	-	20160827
+9601	100454673	LY6G6F	-	-	-	6	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6F	20170130
 9601	100454674	LOC100454674	-	-	-	X	-	uncharacterized LOC100454674	ncRNA	-	-	-	-	20160526
 9601	100454675	GABRQ	-	-	Ensembl:ENSPPYG00000020829	X	-	gamma-aminobutyric acid type A receptor theta subunit	protein-coding	-	-	-	gamma-aminobutyric acid (GABA) receptor, theta	20160917
 9601	100454676	LOC100454676	-	-	-	1	-	carboxy-terminal domain RNA polymerase II polypeptide A small phosphatase 2-like	pseudo	-	-	-	-	20151115
@@ -22354,7 +22354,7 @@
 9601	100456269	LOC100456269	-	-	-	8	-	CUB and sushi domain-containing protein 1-like	protein-coding	-	-	-	-	20160526
 9601	100456273	LOC100456273	-	-	-	13	-	transcription factor Sp3-like	pseudo	-	-	-	-	20151115
 9601	100456274	RUNX1T1	-	-	Ensembl:ENSPPYG00000018741	8	-	RUNX1 translocation partner 1	protein-coding	-	-	-	-	20160917
-9601	100456276	LY6K	-	-	-	8	-	lymphocyte antigen 6 complex, locus K	protein-coding	-	-	-	-	20160806
+9601	100456276	LY6K	-	-	-	8	-	lymphocyte antigen 6 family member K	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus K	20170130
 9601	100456277	LOC100456277	-	-	-	16	-	putative NPIP-like protein ENSP00000381263	protein-coding	-	-	-	-	20160917
 9601	100456278	LOC100456278	-	-	-	9	-	DDB1- and CUL4-associated factor 10-like	protein-coding	-	-	-	-	20160806
 9601	100456279	LOC100456279	-	-	-	17	-	uncharacterized LOC100456279	ncRNA	-	-	-	-	20151115
@@ -22680,7 +22680,7 @@
 9601	100456723	LOC100456723	-	-	-	7	-	40S ribosomal protein S23 pseudogene	pseudo	-	-	-	-	20160526
 9601	100456724	LOC100456724	-	-	-	4	-	putative tripartite motif-containing protein 75	protein-coding	-	-	-	-	20160917
 9601	100456725	LOC100456725	-	-	-	5	-	signal peptidase complex subunit 2-like	pseudo	-	-	-	-	20151115
-9601	100456726	LY6D	-	-	-	8	-	lymphocyte antigen 6 complex, locus D	protein-coding	-	-	-	-	20160806
+9601	100456726	LY6D	-	-	-	8	-	lymphocyte antigen 6 family member D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus D	20170130
 9601	100456729	SORBS3	-	-	Ensembl:ENSPPYG00000018423	8	-	sorbin and SH3 domain containing 3	protein-coding	-	-	-	-	20160526
 9601	100456732	LOC100456732	-	SLC10A5	-	8	-	sodium/bile acid cotransporter 5	protein-coding	-	-	-	solute carrier family 10 (sodium/bile acid cotransporter family), member 5	20160806
 9601	100456733	SPAG1	-	-	Ensembl:ENSPPYG00000018787	8	-	sperm associated antigen 1	protein-coding	-	-	-	-	20160917
@@ -26507,7 +26507,7 @@
 9601	100461865	LOC100461865	-	-	-	9	-	tyrosine-protein kinase ABL1-like	protein-coding	-	-	-	-	20160806
 9601	100461866	LOC100461866	-	-	-	7	-	T-cell receptor beta chain V region CTL-L17-like	other	-	-	-	-	20160526
 9601	100461871	LOC100461871	-	-	-	8	-	60S ribosomal protein L6-like	pseudo	-	-	-	-	20160526
-9601	100461873	LY6E	-	-	Ensembl:ENSPPYG00000018927	8	-	lymphocyte antigen 6 complex, locus E	protein-coding	-	-	-	-	20160827
+9601	100461873	LY6E	-	-	Ensembl:ENSPPYG00000018927	8	-	lymphocyte antigen 6 family member E	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus E	20170130
 9601	100461874	LOC100461874	-	-	-	16	-	clusterin-associated protein 1-like	protein-coding	-	-	-	-	20160917
 9601	100461875	CCIN	-	-	Ensembl:ENSPPYG00000019070	9	-	calicin	protein-coding	-	-	-	-	20160806
 9601	100461876	LOC100461876	-	-	-	16	-	small EDRK-rich factor 1 pseudogene	pseudo	-	-	-	-	20151115
@@ -31461,8 +31461,8 @@
 9601	103890861	LOC103890861	-	-	-	6	-	uncharacterized LOC103890861	ncRNA	-	-	-	-	20160526
 9601	103890862	LOC103890862	-	-	-	6	-	uncharacterized LOC103890862	protein-coding	-	-	-	-	20160526
 9601	103890863	C6H6orf47	-	-	Ensembl:ENSPPYG00000016446	6	-	chromosome 6 open reading frame, human C6orf47	protein-coding	-	-	-	-	20160806
-9601	103890864	LY6G5B	-	-	-	6	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	-	20160526
-9601	103890865	LY6G6D	-	-	-	6	-	lymphocyte antigen 6 complex, locus G6D	protein-coding	-	-	-	-	20160526
+9601	103890864	LY6G5B	-	-	-	6	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5B	20170130
+9601	103890865	LY6G6D	-	-	-	6	-	lymphocyte antigen 6 family member G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6D	20170130
 9601	103890866	C6H6orf48	-	-	-	6	-	chromosome 6 open reading frame, human C6orf48	protein-coding	-	-	-	-	20160526
 9601	103890867	LOC103890867	-	-	-	6	-	uncharacterized LOC103890867	ncRNA	-	-	-	-	20160526
 9601	103890868	CFB	-	-	Ensembl:ENSPPYG00000016470	6	-	complement factor B	protein-coding	-	-	-	-	20160917

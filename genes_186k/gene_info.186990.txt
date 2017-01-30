@@ -1964,11 +1964,11 @@
 186990	109373098	APOM	-	-	-	Un	-	apolipoprotein M	protein-coding	-	-	-	apolipoprotein M	20170126
 186990	109373099	ABHD16A	-	-	-	Un	-	abhydrolase domain containing 16A	protein-coding	-	-	-	protein ABHD16A	20170126
 186990	109373100	LOC109373100	-	-	-	Un	-	uncharacterized LOC109373100	protein-coding	-	-	-	uncharacterized protein LOC109373100	20170126
-186990	109373101	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6f	20170126
+186990	109373101	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6f|lymphocyte antigen 6 complex, locus G6F	20170130
 186990	109373102	DDAH2	-	-	-	Un	-	dimethylarginine dimethylaminohydrolase 2	protein-coding	-	-	-	N(G),N(G)-dimethylarginine dimethylaminohydrolase 2	20170126
 186990	109373103	MPIG6B	-	CUNH6orf25	-	Un	-	megakaryocyte and platelet inhibitory receptor G6b	protein-coding	-	-	-	protein G6b	20170126
-186990	109373104	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6c	20170126
-186990	109373105	LY6G6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6d	20170126
+186990	109373104	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6c|lymphocyte antigen 6 complex, locus G6C	20170130
+186990	109373105	LY6G6D	-	-	-	Un	-	lymphocyte antigen 6 family member G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6d|lymphocyte antigen 6 complex, locus G6D	20170130
 186990	109373106	LOC109373106	-	DRB	-	Un	-	H-2 class II histocompatibility antigen, E-S beta chain	protein-coding	-	-	-	H-2 class II histocompatibility antigen, E-S beta chain|MHC class II antigen	20170126
 186990	109373107	DHX36	-	-	-	Un	-	DEAH-box helicase 36	protein-coding	-	-	-	ATP-dependent RNA helicase DHX36	20170126
 186990	109373108	LOC109373108	-	-	-	Un	-	HLA class II histocompatibility antigen, DQ alpha 2 chain-like	protein-coding	-	-	-	HLA class II histocompatibility antigen, DQ alpha 2 chain-like	20170126
@@ -1988,9 +1988,9 @@
 186990	109373122	RNF5	-	-	-	Un	-	ring finger protein 5	protein-coding	-	-	-	E3 ubiquitin-protein ligase RNF5	20170126
 186990	109373123	GPANK1	-	-	-	Un	-	G-patch domain and ankyrin repeats 1	protein-coding	-	-	-	G patch domain and ankyrin repeat-containing protein 1	20170126
 186990	109373124	GPR149	-	-	-	Un	-	G protein-coupled receptor 149	protein-coding	-	-	-	probable G-protein coupled receptor 149	20170126
-186990	109373125	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G5b	20170126
+186990	109373125	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G5b|lymphocyte antigen 6 complex, locus G5B	20170130
 186990	109373126	CSNK2B	-	-	-	Un	-	casein kinase 2 beta	protein-coding	-	-	-	casein kinase II subunit beta	20170126
-186990	109373127	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G5c	20170126
+186990	109373127	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G5c|lymphocyte antigen 6 complex, locus G5C	20170130
 186990	109373128	LOC109373128	-	-	-	Un	-	complement C4-A-like	protein-coding	-	-	-	complement C4-A-like	20170126
 186990	109373129	PCDH19	-	-	-	Un	-	protocadherin 19	protein-coding	-	-	-	protocadherin-19	20170126
 186990	109373130	TSPAN6	-	-	-	Un	-	tetraspanin 6	protein-coding	-	-	-	tetraspanin-6	20170126
@@ -8063,7 +8063,7 @@
 186990	109379197	LOC109379197	-	-	-	Un	-	aldehyde oxidase 4-like	protein-coding	-	-	-	aldehyde oxidase 4-like	20170126
 186990	109379198	LOC109379198	-	-	-	Un	-	aldehyde oxidase 2-like	protein-coding	-	-	-	aldehyde oxidase 2-like	20170126
 186990	109379199	ORC2	-	-	-	Un	-	origin recognition complex subunit 2	protein-coding	-	-	-	origin recognition complex subunit 2	20170126
-186990	109379200	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	LOW QUALITY PROTEIN: amyotrophic lateral sclerosis 2 chromosomal region candidate gene 12 protein	20170126
+186990	109379200	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	LOW QUALITY PROTEIN: amyotrophic lateral sclerosis 2 chromosomal region candidate gene 12 protein|amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 186990	109379201	TRAK2	-	-	-	Un	-	trafficking kinesin protein 2	protein-coding	-	-	-	trafficking kinesin-binding protein 2	20170126
 186990	109379202	ALS2CR11	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 11	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosomal region candidate gene 11 protein	20170126
 186990	109379203	MPP4	-	-	-	Un	-	membrane palmitoylated protein 4	protein-coding	-	-	-	MAGUK p55 subfamily member 4	20170126
@@ -18010,7 +18010,7 @@
 186990	109389144	LOC109389144	-	-	-	Un	-	60S ribosomal protein L32 pseudogene	pseudo	-	-	-	-	20161222
 186990	109389145	LOC109389145	-	-	-	Un	-	transcription factor BTF3 pseudogene	pseudo	-	-	-	-	20161222
 186990	109389146	LOC109389146	-	-	-	Un	-	translationally-controlled tumor protein pseudogene	pseudo	-	-	-	-	20161222
-186990	109389147	AUTS2	-	-	-	Un	-	autism susceptibility candidate 2	protein-coding	-	-	-	autism susceptibility gene 2 protein	20170126
+186990	109389147	AUTS2	-	-	-	Un	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility gene 2 protein|autism susceptibility candidate 2	20170130
 186990	109389148	LOC109389148	-	-	-	Un	-	cytochrome b-245 light chain	protein-coding	-	-	-	cytochrome b-245 light chain	20170126
 186990	109389149	WTIP	-	-	-	Un	-	Wilms tumor 1 interacting protein	protein-coding	-	-	-	Wilms tumor protein 1-interacting protein	20170126
 186990	109389150	CHST8	-	-	-	Un	-	carbohydrate sulfotransferase 8	protein-coding	-	-	-	carbohydrate sulfotransferase 8	20170126
@@ -19670,10 +19670,10 @@
 186990	109390804	TRNAI-UAU	-	-	-	Un	-	transfer RNA isoleucine (anticodon UAU)	tRNA	-	-	-	-	20161222
 186990	109390805	EVA1B	-	-	-	Un	-	eva-1 homolog B	protein-coding	-	-	-	protein eva-1 homolog B	20170126
 186990	109390806	LYNX1	-	-	-	Un	-	Ly6/neurotoxin 1	protein-coding	-	-	-	ly-6/neurotoxin-like protein 1	20170126
-186990	109390807	LY6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus D	protein-coding	-	-	-	lymphocyte antigen 6D	20170126
+186990	109390807	LY6D	-	-	-	Un	-	lymphocyte antigen 6 family member D	protein-coding	-	-	-	lymphocyte antigen 6D|lymphocyte antigen 6 complex, locus D	20170130
 186990	109390808	LOC109390808	-	-	-	Un	-	uncharacterized LOC109390808	ncRNA	-	-	-	-	20161222
 186990	109390809	LOC109390809	-	-	-	Un	-	ly6/PLAUR domain-containing protein 2-like	protein-coding	-	-	-	ly6/PLAUR domain-containing protein 2-like	20170126
-186990	109390810	LY6E	-	-	-	Un	-	lymphocyte antigen 6 complex, locus E	protein-coding	-	-	-	lymphocyte antigen 6E	20170126
+186990	109390810	LY6E	-	-	-	Un	-	lymphocyte antigen 6 family member E	protein-coding	-	-	-	lymphocyte antigen 6E|lymphocyte antigen 6 complex, locus E	20170130
 186990	109390811	LOC109390811	-	-	-	Un	-	40S ribosomal protein S24 pseudogene	pseudo	-	-	-	-	20161222
 186990	109390812	LOC109390812	-	-	-	Un	-	uncharacterized LOC109390812	protein-coding	-	-	-	uncharacterized protein LOC109390812	20170126
 186990	109390813	THEM6	-	-	-	Un	-	thioesterase superfamily member 6	protein-coding	-	-	-	protein THEM6	20170126
@@ -19704,7 +19704,7 @@
 186990	109390838	A3GALT2	-	-	-	Un	-	alpha 1,3-galactosyltransferase 2	protein-coding	-	-	-	alpha-1,3-galactosyltransferase 2	20170126
 186990	109390839	TSTA3	-	-	-	Un	-	tissue specific transplantation antigen P35B	protein-coding	-	-	-	GDP-L-fucose synthase	20170126
 186990	109390840	PYCRL	-	-	-	Un	-	pyrroline-5-carboxylate reductase-like	protein-coding	-	-	-	pyrroline-5-carboxylate reductase 3	20170126
-186990	109390841	LY6H	-	-	-	Un	-	lymphocyte antigen 6 complex, locus H	protein-coding	-	-	-	lymphocyte antigen 6H	20170126
+186990	109390841	LY6H	-	-	-	Un	-	lymphocyte antigen 6 family member H	protein-coding	-	-	-	lymphocyte antigen 6H|lymphocyte antigen 6 complex, locus H	20170130
 186990	109390842	GPIHBP1	-	-	-	Un	-	glycosylphosphatidylinositol anchored high density lipoprotein binding protein 1	protein-coding	-	-	-	glycosylphosphatidylinositol-anchored high density lipoprotein-binding protein 1	20170126
 186990	109390843	ZFP41	-	-	-	Un	-	ZFP41 zinc finger protein	protein-coding	-	-	-	zinc finger protein 41 homolog	20170126
 186990	109390844	LOC109390844	-	-	-	Un	-	uncharacterized LOC109390844	ncRNA	-	-	-	-	20161222

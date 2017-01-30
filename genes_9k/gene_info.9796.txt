@@ -32,7 +32,7 @@
 9796	807854	ATP6	-	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20151121
 9796	807855	ND3	-	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20151121
 9796	807856	COX3	-	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20160917
-9796	4852081	NEWENTRY	-	-	-	-	-	Record to support submission of GeneRIFs for a gene not in Gene (Equus ferus caballus; Equus przewalskii f. caballus; Equus przewalskii forma caballus; domestic horse; equine; horse).	other	-	-	-	-	20161029
+9796	4852081	NEWENTRY	-	-	-	-	-	Record to support submission of GeneRIFs for a gene not in Gene (Equus ferus caballus; Equus przewalskii f. caballus; Equus przewalskii forma caballus; domestic horse; equine; horse).	other	-	-	-	-	20170128
 9796	100009677	HK2	-	HKII	Ensembl:ENSECAG00000021905	15	-	hexokinase 2	protein-coding	-	-	-	hexokinase-2|HK II|hexokinase II|hexokinase type II	20161031
 9796	100009678	FMOD	-	-	Ensembl:ENSECAG00000017864	5	-	fibromodulin	protein-coding	-	-	-	fibromodulin	20160917
 9796	100009679	HSPA8	-	-	Ensembl:ENSECAG00000013510	7	-	heat shock protein family A (Hsp70) member 8	protein-coding	-	-	-	heat shock cognate 71 kDa protein|heat shock 70 kDa protein 8|heat shock 70kDa protein 8|heat shock cognate 71 kDa protein-like protein|heat shock protein 70 cognate	20161031
@@ -1098,7 +1098,7 @@
 9796	100050513	NDC1	-	TMEM48	Ensembl:ENSECAG00000016387	2	-	NDC1 transmembrane nucleoporin	protein-coding	-	-	-	transmembrane protein 48	20160910
 9796	100050514	TMEM82	-	-	-	2	-	transmembrane protein 82	protein-coding	-	-	-	-	20160910
 9796	100050515	FAM217A	-	-	-	20	-	family with sequence similarity 217 member A	protein-coding	-	-	-	-	20160827
-9796	100050516	LY6G6F	-	-	Ensembl:ENSECAG00000016484	20	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	-	20160924
+9796	100050516	LY6G6F	-	-	Ensembl:ENSECAG00000016484	20	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6F	20170130
 9796	100050517	TRIM23	-	-	Ensembl:ENSECAG00000000855	21	-	tripartite motif containing 23	protein-coding	-	-	-	-	20160910
 9796	100050518	RBBP9	-	-	Ensembl:ENSECAG00000001333	22	-	RB binding protein 9, serine hydrolase	protein-coding	-	-	-	-	20160924
 9796	100050519	C22H20orf85	-	-	Ensembl:ENSECAG00000022514	22	-	chromosome 22 open reading frame, human C20orf85	protein-coding	-	-	-	-	20160924
@@ -3298,7 +3298,7 @@
 9796	100053145	LOC100053145	-	-	-	12	-	protein tilB homolog	pseudo	-	-	-	-	20160526
 9796	100053147	RNF181	-	-	Ensembl:ENSECAG00000000327	15	-	ring finger protein 181	protein-coding	-	-	-	-	20160924
 9796	100053148	EPCAM	-	-	Ensembl:ENSECAG00000024630	15	-	epithelial cell adhesion molecule	protein-coding	-	-	-	-	20160526
-9796	100053149	LY6G6C	-	-	-	16	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	-	20160526
+9796	100053149	LY6G6C	-	-	-	16	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6C	20170130
 9796	100053150	DAG1	-	-	Ensembl:ENSECAG00000009665	16	-	dystroglycan 1	protein-coding	-	-	-	dystroglycan 1 (dystrophin-associated glycoprotein 1)	20160924
 9796	100053151	CEP63	-	-	Ensembl:ENSECAG00000010318	16	-	centrosomal protein 63	protein-coding	-	-	-	centrosomal protein of 63 kDa	20160910
 9796	100053153	MAP3K20	-	-	Ensembl:ENSECAG00000000477	18	-	mitogen-activated protein kinase kinase kinase 20	protein-coding	-	-	-	mitogen-activated protein kinase kinase kinase MLT	20161023
@@ -6989,7 +6989,7 @@
 9796	100057863	DNASE1L3	-	-	Ensembl:ENSECAG00000015857	16	-	deoxyribonuclease 1 like 3	protein-coding	-	-	-	-	20160813
 9796	100057865	GHSR	-	-	Ensembl:ENSECAG00000017722	19	-	growth hormone secretagogue receptor	protein-coding	-	-	-	-	20160924
 9796	100057866	E2F2	-	-	Ensembl:ENSECAG00000023922	2	-	E2F transcription factor 2	protein-coding	-	-	-	-	20160924
-9796	100057868	NQO2	-	-	Ensembl:ENSECAG00000008386	20	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	-	20160910
+9796	100057868	NQO2	-	-	Ensembl:ENSECAG00000008386	20	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	NAD(P)H quinone dehydrogenase 2	20170130
 9796	100057869	LOC100057869	-	-	-	20	-	spliceosome RNA helicase DDX39B-like	pseudo	-	-	-	-	20160526
 9796	100057871	SS18L1	-	-	Ensembl:ENSECAG00000018310	22	-	SS18L1, nBAF chromatin remodeling complex subunit	protein-coding	-	-	-	-	20160910
 9796	100057873	DNAJC25	-	-	Ensembl:ENSECAG00000012451	25	-	DnaJ heat shock protein family (Hsp40) member C25	protein-coding	-	-	-	DnaJ (Hsp40) homolog, subfamily C , member 25|dnaJ-like protein subfamily c member 25-like protein	20160526
@@ -10547,7 +10547,7 @@
 9796	100062559	SEMA7A	-	-	Ensembl:ENSECAG00000000173	1	-	semaphorin 7A (John Milton Hagen blood group)	protein-coding	-	-	-	-	20160729
 9796	100062560	ABCA8	-	-	Ensembl:ENSECAG00000018992	11	-	ATP binding cassette subfamily A member 8	protein-coding	-	-	-	ATP-binding cassette, sub-family A (ABC1), member 8	20160910
 9796	100062561	RANGRF	-	-	Ensembl:ENSECAG00000015228	11	-	RAN guanine nucleotide release factor	protein-coding	-	-	-	-	20160924
-9796	100062562	AUTS2	-	-	Ensembl:ENSECAG00000009074	13	-	autism susceptibility candidate 2	protein-coding	-	-	-	-	20160730
+9796	100062562	AUTS2	-	-	Ensembl:ENSECAG00000009074	13	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility candidate 2	20170130
 9796	100062564	KLHL3	-	-	Ensembl:ENSECAG00000022073	14	-	kelch like family member 3	protein-coding	-	-	-	kelch-like 3	20160827
 9796	100062565	FAHD2A	-	-	Ensembl:ENSECAG00000012586	15	-	fumarylacetoacetate hydrolase domain containing 2A	protein-coding	-	-	-	-	20160716
 9796	100062566	LOC100062566	-	-	-	16	-	uncharacterized LOC100062566	protein-coding	-	-	-	-	20160716
@@ -11346,7 +11346,7 @@
 9796	100063677	LOC100063677	-	-	-	Un	-	olfactory receptor 4C16-like	pseudo	-	-	-	-	20151124
 9796	100063678	NANOS3	-	-	-	Un	-	nanos C2HC-type zinc finger 3	protein-coding	-	-	-	-	20160730
 9796	100063679	EQUCABV1R-PS941	-	-	-	10	-	vomeronasal 1 receptor equCabV1R-ps941 pseudogene	pseudo	-	-	-	-	20160526
-9796	100063680	LY6D	-	-	Ensembl:ENSECAG00000006509	9	-	lymphocyte antigen 6 complex, locus D	protein-coding	-	-	-	-	20160924
+9796	100063680	LY6D	-	-	Ensembl:ENSECAG00000006509	9	-	lymphocyte antigen 6 family member D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus D	20170130
 9796	100063681	MXRA5	-	-	Ensembl:ENSECAG00000017487	X	-	matrix remodeling associated 5	protein-coding	-	-	-	-	20160910
 9796	100063683	ZNF185	-	-	-	X	-	zinc finger protein 185 (LIM domain)	protein-coding	-	-	-	-	20160730
 9796	100063685	OIT3	-	-	Ensembl:ENSECAG00000009029	1	-	oncoprotein induced transcript 3	protein-coding	-	-	-	-	20160917
@@ -13149,7 +13149,7 @@
 9796	100066188	EPHA5	-	-	Ensembl:ENSECAG00000000530	3	-	EPH receptor A5	protein-coding	-	-	-	-	20160924
 9796	100066190	LOC100066190	-	-	Ensembl:ENSECAG00000003575	12	-	olfactory receptor 5G3-like	protein-coding	-	-	-	-	20160730
 9796	100066192	LOC100066192	-	-	-	10	-	sialic acid-binding Ig-like lectin 13	pseudo	-	-	-	-	20160526
-9796	100066193	LY6E	-	-	Ensembl:ENSECAG00000003310	9	-	lymphocyte antigen 6 complex, locus E	protein-coding	-	-	-	-	20160910
+9796	100066193	LY6E	-	-	Ensembl:ENSECAG00000003310	9	-	lymphocyte antigen 6 family member E	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus E	20170130
 9796	100066194	RHOU	-	-	-	1	-	ras homolog family member U	protein-coding	-	-	-	rho-related GTP-binding protein RhoU-like	20160730
 9796	100066195	TNFRSF18	-	-	-	2	-	TNF receptor superfamily member 18	protein-coding	-	-	-	tumor necrosis factor receptor superfamily, member 18	20160729
 9796	100066197	USP21	-	-	Ensembl:ENSECAG00000016189	5	-	ubiquitin specific peptidase 21	protein-coding	-	-	-	-	20160924
@@ -13403,7 +13403,7 @@
 9796	100066525	STXBP2	-	-	-	7	-	syntaxin binding protein 2	protein-coding	-	-	-	-	20160730
 9796	100066526	GLTP	-	-	Ensembl:ENSECAG00000006004	8	-	glycolipid transfer protein	protein-coding	-	-	-	-	20160910
 9796	100066528	SULT1B1	-	-	-	3	-	sulfotransferase family 1B member 1	protein-coding	-	-	-	sulfotransferase family, cytosolic, 1B, member 1	20160716
-9796	100066529	ALS2CR12	-	-	Ensembl:ENSECAG00000008300	18	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 (juvenile) chromosome region, candidate 12	20160730
+9796	100066529	ALS2CR12	-	-	Ensembl:ENSECAG00000008300	18	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 (juvenile) chromosome region, candidate 12|amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 9796	100066533	SELENOH	-	C12H11orf31|SELH	-	12	-	selenoprotein H	protein-coding	-	-	-	selenoprotein H	20160924
 9796	100066535	LOC100066535	-	-	-	20	-	butyrophilin subfamily 3 member A3-like	protein-coding	-	-	-	-	20160730
 9796	100066538	LACE1	-	-	Ensembl:ENSECAG00000023503	10	-	lactation elevated 1	protein-coding	-	-	-	Lactation elevated protein 1-like protein	20160716
@@ -18886,7 +18886,7 @@
 9796	100146700	MYO1F	-	-	-	7	-	myosin IF	protein-coding	-	-	-	-	20160730
 9796	100146702	LOC100146702	-	-	-	7	-	olfactory receptor 7G2-like	pseudo	-	-	-	-	20160526
 9796	100146703	LOC100146703	-	-	-	Un	-	target of rapamycin complex subunit LST8-like	protein-coding	-	-	-	-	20160730
-9796	100146704	LY6G5B	-	-	Ensembl:ENSECAG00000008410	20	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	-	20160526
+9796	100146704	LY6G5B	-	-	Ensembl:ENSECAG00000008410	20	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5B	20170130
 9796	100146705	ATF5	-	-	-	10	-	activating transcription factor 5	protein-coding	-	-	-	-	20160526
 9796	100146706	PPP1R13L	-	-	-	10	-	protein phosphatase 1 regulatory subunit 13 like	protein-coding	-	-	-	-	20160827
 9796	100146707	PPP1R26	-	-	-	25	-	protein phosphatase 1 regulatory subunit 26	protein-coding	-	-	-	-	20160827
@@ -20620,7 +20620,7 @@
 9796	100629987	LOC100629987	-	-	-	21	-	FUN14 domain-containing protein 1 pseudogene	pseudo	-	-	-	-	20160526
 9796	100629988	C9H8orf22	-	-	-	9	-	chromosome 9 open reading frame, human C8orf22	protein-coding	-	-	-	-	20160813
 9796	100629994	ZNF76	-	-	Ensembl:ENSECAG00000014843	20	-	zinc finger protein 76	protein-coding	-	-	-	-	20160924
-9796	100629995	LY6G5C	-	-	Ensembl:ENSECAG00000011814	20	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	-	20160526
+9796	100629995	LY6G5C	-	-	Ensembl:ENSECAG00000011814	20	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5C	20170130
 9796	100629996	LOC100629996	-	-	-	20	-	60S ribosomal protein L36a-like	pseudo	-	-	-	-	20160526
 9796	100629997	CXCL13	-	-	-	3	-	C-X-C motif chemokine ligand 13	protein-coding	-	-	-	-	20160729
 9796	100629999	LOC100629999	-	-	-	Un	-	rho GTPase-activating protein 20-like	protein-coding	-	-	-	-	20151124
@@ -21646,7 +21646,7 @@
 9796	102147910	LOC102147910	-	-	-	5	-	ubiquitin-60S ribosomal protein L40 pseudogene	pseudo	-	-	-	-	20160526
 9796	102147912	LOC102147912	-	-	-	Un	-	brain-specific angiogenesis inhibitor 1-like	protein-coding	-	-	-	-	20160730
 9796	102147914	LOC102147914	-	-	-	X	-	uncharacterized protein C53C9.2-like	protein-coding	-	-	-	-	20160526
-9796	102147915	LY6G6D	-	-	Ensembl:ENSECAG00000019886	20	-	lymphocyte antigen 6 complex, locus G6D	protein-coding	-	-	-	-	20160526
+9796	102147915	LY6G6D	-	-	Ensembl:ENSECAG00000019886	20	-	lymphocyte antigen 6 family member G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6D	20170130
 9796	102147916	LOC102147916	-	-	-	22	-	BPI fold-containing family A member 3-like	pseudo	-	-	-	-	20160526
 9796	102147917	LOC102147917	-	-	-	23	-	FERM domain-containing protein 3-like	protein-coding	-	-	-	-	20160730
 9796	102147918	LOC102147918	-	-	-	25	-	uncharacterized LOC102147918	ncRNA	-	-	-	-	20160526

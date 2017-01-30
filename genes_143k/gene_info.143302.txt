@@ -1329,7 +1329,7 @@
 143302	101619573	PKIB	-	-	-	Un	-	cAMP-dependent protein kinase inhibitor beta	protein-coding	-	-	-	cAMP-dependent protein kinase inhibitor beta|protein kinase (cAMP-dependent, catalytic) inhibitor beta	20170128
 143302	101619574	SMPDL3A	-	-	-	Un	-	sphingomyelin phosphodiesterase acid like 3A	protein-coding	-	-	-	acid sphingomyelinase-like phosphodiesterase 3a	20170128
 143302	101619575	NAP1L4	-	-	-	Un	-	nucleosome assembly protein 1 like 4	protein-coding	-	-	-	nucleosome assembly protein 1-like 4	20170128
-143302	101619576	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G5b	20170128
+143302	101619576	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G5b|lymphocyte antigen 6 complex, locus G5B	20170130
 143302	101619577	PLCH2	-	-	-	Un	-	phospholipase C eta 2	protein-coding	-	-	-	1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase eta-2	20170128
 143302	101619578	DLX1	-	-	-	Un	-	distal-less homeobox 1	protein-coding	-	-	-	homeobox protein DLX-1	20170128
 143302	101619579	CEP131	-	AZI1	-	Un	-	centrosomal protein 131	protein-coding	-	-	-	centrosomal protein of 131 kDa|5-azacytidine induced 1	20170128
@@ -1545,7 +1545,7 @@
 143302	101619805	SLC25A27	-	-	-	Un	-	solute carrier family 25 member 27	protein-coding	-	-	-	mitochondrial uncoupling protein 4	20170128
 143302	101619807	FABP7	-	-	-	Un	-	fatty acid binding protein 7	protein-coding	-	-	-	fatty acid-binding protein, brain	20170128
 143302	101619808	LOC101619808	-	-	-	Un	-	inactive phospholipase C-like protein 2 pseudogene	pseudo	-	-	-	-	20151115
-143302	101619809	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G5c	20170128
+143302	101619809	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G5c|lymphocyte antigen 6 complex, locus G5C	20170130
 143302	101619810	PEX10	-	-	-	Un	-	peroxisomal biogenesis factor 10	protein-coding	-	-	-	peroxisome biogenesis factor 10	20170128
 143302	101619811	METAP1D	-	-	-	Un	-	methionyl aminopeptidase type 1D, mitochondrial	protein-coding	-	-	-	LOW QUALITY PROTEIN: methionine aminopeptidase 1D, mitochondrial	20170128
 143302	101619813	PLK4	-	-	-	Un	-	polo like kinase 4	protein-coding	-	-	-	serine/threonine-protein kinase PLK4	20170128
@@ -1767,7 +1767,7 @@
 143302	101620042	CLVS2	-	-	-	Un	-	clavesin 2	protein-coding	-	-	-	clavesin-2	20170128
 143302	101620043	TRDN	-	-	-	Un	-	triadin	protein-coding	-	-	-	triadin	20170128
 143302	101620044	SLC22A18	-	-	-	Un	-	solute carrier family 22 member 18	protein-coding	-	-	-	solute carrier family 22 member 18	20170128
-143302	101620045	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6f	20170128
+143302	101620045	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6f|lymphocyte antigen 6 complex, locus G6F	20170130
 143302	101620046	MORN1	-	-	-	Un	-	MORN repeat containing 1	protein-coding	-	-	-	MORN repeat-containing protein 1	20170128
 143302	101620047	HAT1	-	-	-	Un	-	histone acetyltransferase 1	protein-coding	-	-	-	histone acetyltransferase type B catalytic subunit	20170128
 143302	101620048	LOC101620048	-	AATK	-	Un	-	serine/threonine-protein kinase LMTK1	protein-coding	-	-	-	serine/threonine-protein kinase LMTK1|apoptosis-associated tyrosine kinase	20170128
@@ -7161,7 +7161,7 @@
 143302	101625902	SUMO1	-	-	-	Un	-	small ubiquitin-like modifier 1	protein-coding	-	-	-	small ubiquitin-related modifier 1|SMT3 suppressor of mif two 3 homolog 1	20170128
 143302	101625903	LOC101625903	-	-	-	Un	-	cofilin-1 pseudogene	pseudo	-	-	-	-	20151115
 143302	101625904	LOC101625904	-	-	-	Un	-	olfactory receptor 2G3-like	protein-coding	-	-	-	olfactory receptor 2G3-like	20170128
-143302	101625905	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosomal region candidate gene 12 protein	20170128
+143302	101625905	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosomal region candidate gene 12 protein|amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 143302	101625906	LTN1	-	-	-	Un	-	listerin E3 ubiquitin protein ligase 1	protein-coding	-	-	-	E3 ubiquitin-protein ligase listerin	20170128
 143302	101625907	SPATA16	-	-	-	Un	-	spermatogenesis associated 16	protein-coding	-	-	-	spermatogenesis-associated protein 16	20170128
 143302	101625908	GNAT1	-	-	-	Un	-	G protein subunit alpha transducin 1	protein-coding	-	-	-	guanine nucleotide-binding protein G(t) subunit alpha-1	20170128
@@ -8239,7 +8239,7 @@
 143302	101627072	NLGN3	-	-	-	Un	-	neuroligin 3	protein-coding	-	-	-	neuroligin-3	20170128
 143302	101627073	LOC101627073	-	-	-	Un	-	T-cell receptor alpha chain V region HPB-MLT-like	other	-	-	-	-	20151115
 143302	101627074	LOC101627074	-	-	-	Un	-	olfactory receptor 10C1-like	protein-coding	-	-	-	olfactory receptor 10C1-like	20170128
-143302	101627075	NQO2	-	-	-	Un	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	ribosyldihydronicotinamide dehydrogenase [quinone]	20170128
+143302	101627075	NQO2	-	-	-	Un	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	ribosyldihydronicotinamide dehydrogenase [quinone]|NAD(P)H quinone dehydrogenase 2	20170130
 143302	101627076	CSNK2B	-	-	-	Un	-	casein kinase 2 beta	protein-coding	-	-	-	casein kinase II subunit beta	20170128
 143302	101627077	B3GALT1	-	-	-	Un	-	beta-1,3-galactosyltransferase 1	protein-coding	-	-	-	beta-1,3-galactosyltransferase 1	20170128
 143302	101627078	NDUFB3	-	-	-	-	-	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 3, 12kDa	protein-coding	-	-	-	-	20160402
@@ -8655,7 +8655,7 @@
 143302	101627521	LOC101627521	-	-	-	Un	-	olfactory receptor 2H2-like	protein-coding	-	-	-	olfactory receptor 2H2-like	20170128
 143302	101627522	BPHL	-	-	-	Un	-	biphenyl hydrolase like	protein-coding	-	-	-	valacyclovir hydrolase	20170128
 143302	101627523	MMS22L	-	-	-	Un	-	MMS22 like, DNA repair protein	protein-coding	-	-	-	protein MMS22-like	20170128
-143302	101627524	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6c	20170128
+143302	101627524	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6c|lymphocyte antigen 6 complex, locus G6C	20170130
 143302	101627525	MPP4	-	-	-	Un	-	membrane palmitoylated protein 4	protein-coding	-	-	-	MAGUK p55 subfamily member 4	20170128
 143302	101627526	DFNB59	-	-	-	Un	-	deafness, autosomal recessive 59	protein-coding	-	-	-	pejvakin	20170128
 143302	101627527	SCN9A	-	-	-	Un	-	sodium voltage-gated channel alpha subunit 9	protein-coding	-	-	-	sodium channel protein type 9 subunit alpha|sodium channel, voltage-gated, type IX, alpha subunit	20170128
@@ -15012,7 +15012,7 @@
 143302	101634328	KIF16B	-	-	-	Un	-	kinesin family member 16B	protein-coding	-	-	-	kinesin-like protein KIF16B	20170128
 143302	101634329	SLC51B	-	-	-	Un	-	solute carrier family 51 beta subunit	protein-coding	-	-	-	organic solute transporter subunit beta	20170128
 143302	101634330	TEX9	-	-	-	Un	-	testis expressed 9	protein-coding	-	-	-	testis-expressed sequence 9 protein	20170128
-143302	101634331	AUTS2	-	-	-	Un	-	autism susceptibility candidate 2	protein-coding	-	-	-	autism susceptibility gene 2 protein	20170128
+143302	101634331	AUTS2	-	-	-	Un	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility gene 2 protein|autism susceptibility candidate 2	20170130
 143302	101634332	NANOS3	-	-	-	Un	-	nanos C2HC-type zinc finger 3	protein-coding	-	-	-	nanos homolog 3	20170128
 143302	101634333	FAM20C	-	-	-	Un	-	FAM20C, golgi associated secretory pathway kinase	protein-coding	-	-	-	extracellular serine/threonine protein kinase FAM20C	20170128
 143302	101634334	RAB3A	-	-	-	Un	-	RAB3A, member RAS oncogene family	protein-coding	-	-	-	ras-related protein Rab-3A	20170128
@@ -18233,7 +18233,7 @@
 143302	101637829	AKIRIN1	-	-	-	Un	-	akirin 1	protein-coding	-	-	-	akirin-1	20170128
 143302	101637830	TNFRSF25	-	-	-	Un	-	TNF receptor superfamily member 25	protein-coding	-	-	-	tumor necrosis factor receptor superfamily member 25	20170128
 143302	101637831	EFCAB7	-	-	-	Un	-	EF-hand calcium binding domain 7	protein-coding	-	-	-	EF-hand calcium-binding domain-containing protein 7	20170128
-143302	101637832	LY6E	-	-	-	Un	-	lymphocyte antigen 6 complex, locus E	protein-coding	-	-	-	lymphocyte antigen 6E	20170128
+143302	101637832	LY6E	-	-	-	Un	-	lymphocyte antigen 6 family member E	protein-coding	-	-	-	lymphocyte antigen 6E|lymphocyte antigen 6 complex, locus E	20170130
 143302	101637833	HGH1	-	FAM203A	-	Un	-	HGH1 homolog	protein-coding	-	-	-	protein HGH1 homolog|family with sequence similarity 203, member A	20170128
 143302	101637834	LOC101637834	-	-	-	Un	-	40S ribosomal protein SA-like	protein-coding	-	-	-	LOW QUALITY PROTEIN: 40S ribosomal protein SA-like	20170128
 143302	101637835	TFAM	-	-	-	Un	-	transcription factor A, mitochondrial	protein-coding	-	-	-	transcription factor A, mitochondrial	20170128
@@ -19691,7 +19691,7 @@
 143302	105854551	LOC105854551	-	-	-	Un	-	putative HLA class I histocompatibility antigen, alpha chain H	protein-coding	-	-	-	putative HLA class I histocompatibility antigen, alpha chain H	20170128
 143302	105854552	SAPCD1	-	-	-	Un	-	suppressor APC domain containing 1	protein-coding	-	-	-	LOW QUALITY PROTEIN: suppressor APC domain-containing protein 1	20170128
 143302	105854553	LOC105854553	-	-	-	Un	-	butyrophilin subfamily 3 member A2-like	protein-coding	-	-	-	butyrophilin subfamily 3 member A2-like	20170128
-143302	105854554	LY6G6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6d	20170128
+143302	105854554	LY6G6D	-	-	-	Un	-	lymphocyte antigen 6 family member G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6d|lymphocyte antigen 6 complex, locus G6D	20170130
 143302	105854555	LOC105854555	-	-	-	Un	-	sperm acrosome membrane-associated protein 4-like	protein-coding	-	-	-	sperm acrosome membrane-associated protein 4-like	20170128
 143302	105854556	LOC105854556	-	-	-	Un	-	zinc finger protein 683 pseudogene	pseudo	-	-	-	-	20151115
 143302	105854557	LOC105854557	-	-	-	Un	-	endogenous retrovirus group K member 19 Pol protein-like	protein-coding	-	-	-	LOW QUALITY PROTEIN: endogenous retrovirus group K member 19 Pol protein-like	20170128

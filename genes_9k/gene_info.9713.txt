@@ -1764,7 +1764,7 @@
 9713	102727205	WDR54	-	-	-	Un	-	WD repeat domain 54	protein-coding	-	-	-	-	20160910
 9713	102727206	ALG12	-	-	-	Un	-	ALG12, alpha-1,6-mannosyltransferase	protein-coding	-	-	-	-	20160910
 9713	102727207	LOC102727207	-	-	-	Un	-	chromosome unknown open reading frame, human C12orf74	protein-coding	-	-	-	-	20160910
-9713	102727208	NQO2	-	-	-	Un	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	-	20160910
+9713	102727208	NQO2	-	-	-	Un	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	NAD(P)H quinone dehydrogenase 2	20170130
 9713	102727209	PDCD4	-	-	-	Un	-	programmed cell death 4	protein-coding	-	-	-	programmed cell death 4 (neoplastic transformation inhibitor)	20161206
 9713	102727210	HFE	-	-	-	Un	-	hemochromatosis	protein-coding	-	-	-	hereditary hemochromatosis protein homolog	20160910
 9713	102727211	DDX56	-	-	-	Un	-	DEAD-box helicase 56	protein-coding	-	-	-	-	20160910
@@ -7075,7 +7075,7 @@
 9713	102732516	LOC102732516	-	-	-	Un	-	histone deacetylase complex subunit SAP18-like	pseudo	-	-	-	-	20151115
 9713	102732517	LOC102732517	-	-	-	Un	-	glutathione S-transferase mu 1 pseudogene	pseudo	-	-	-	-	20151115
 9713	102732518	LOC102732518	-	-	-	Un	-	COP9 signalosome complex subunit 5-like	pseudo	-	-	-	-	20151115
-9713	102732519	LY6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus D	protein-coding	-	-	-	-	20151115
+9713	102732519	LY6D	-	-	-	Un	-	lymphocyte antigen 6 family member D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus D	20170130
 9713	102732520	LOC102732520	-	-	-	Un	-	calcium-transporting ATPase type 2C member 1-like	protein-coding	-	-	-	-	20160910
 9713	102732521	SAMM50	-	-	-	Un	-	SAMM50 sorting and assembly machinery component	protein-coding	-	-	-	-	20161031
 9713	102732522	LOC102732522	-	-	-	Un	-	basic transcription factor 3 pseudogene	pseudo	-	-	-	-	20151115
@@ -8290,7 +8290,7 @@
 9713	102733731	LOC102733731	-	-	-	Un	-	atrial natriuretic peptide-converting enzyme-like	protein-coding	-	-	-	-	20160910
 9713	102733732	SLC25A23	-	-	-	Un	-	solute carrier family 25 member 23	protein-coding	-	-	-	-	20160910
 9713	102733733	DNAJC5	-	-	-	Un	-	DnaJ heat shock protein family (Hsp40) member C5	protein-coding	-	-	-	-	20160910
-9713	102733734	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	-	20160811
+9713	102733734	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 9713	102733735	SOX30	-	-	-	Un	-	SRY-box 30	protein-coding	-	-	-	-	20160810
 9713	102733736	GLB1L2	-	-	-	Un	-	galactosidase, beta 1-like 2	protein-coding	-	-	-	-	20160910
 9713	102733737	LOC102733737	-	-	-	Un	-	F-box only protein 36-like	protein-coding	-	-	-	-	20160910
@@ -12254,7 +12254,7 @@
 9713	102737695	CABP1	-	-	-	Un	-	calcium binding protein 1	protein-coding	-	-	-	-	20151115
 9713	102737696	C1R	-	-	-	Un	-	complement C1r	protein-coding	-	-	-	-	20160910
 9713	102737697	CDKL5	-	-	-	Un	-	cyclin dependent kinase like 5	protein-coding	-	-	-	-	20160910
-9713	102737698	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	-	20160910
+9713	102737698	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6C	20170130
 9713	102737699	SYT16	-	-	-	Un	-	synaptotagmin 16	protein-coding	-	-	-	-	20160811
 9713	102737700	LOC102737700	-	-	-	Un	-	actin related protein 2/3 complex, subunit 3, 21kDa pseudogene	pseudo	-	-	-	-	20151115
 9713	102737701	LOC102737701	-	-	-	Un	-	dystrophin-like	protein-coding	-	-	-	-	20160910
@@ -12549,7 +12549,7 @@
 9713	102737990	DDX5	-	-	-	Un	-	DEAD-box helicase 5	protein-coding	-	-	-	-	20160729
 9713	102737991	MLEC	-	-	-	Un	-	malectin	protein-coding	-	-	-	-	20160827
 9713	102737992	LOC102737992	-	-	-	Un	-	glyceraldehyde-3-phosphate dehydrogenase pseudogene	pseudo	-	-	-	-	20151115
-9713	102737993	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	-	20151115
+9713	102737993	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5C	20170130
 9713	102737994	SNAPC1	-	-	-	Un	-	small nuclear RNA activating complex polypeptide 1	protein-coding	-	-	-	-	20160910
 9713	102737995	DUSP12	-	-	-	Un	-	dual specificity phosphatase 12	protein-coding	-	-	-	-	20151115
 9713	102737996	SLC28A1	-	-	-	Un	-	solute carrier family 28 member 1	protein-coding	-	-	-	-	20160910
@@ -12855,7 +12855,7 @@
 9713	102738296	UNC119B	-	-	-	Un	-	unc-119 lipid binding chaperone B	protein-coding	-	-	-	-	20160910
 9713	102738297	BEND2	-	-	-	Un	-	BEN domain containing 2	protein-coding	-	-	-	-	20160626
 9713	102738298	KCND1	-	-	-	Un	-	potassium voltage-gated channel subfamily D member 1	protein-coding	-	-	-	-	20160910
-9713	102738299	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	-	20151115
+9713	102738299	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5B	20170130
 9713	102738300	HIF1A	-	-	-	Un	-	hypoxia inducible factor 1 alpha subunit	protein-coding	-	-	-	-	20160910
 9713	102738301	LOC102738301	-	-	-	Un	-	proteasome (prosome, macropain) activator subunit 3 (PA28 gamma; Ki) pseudogene	pseudo	-	-	-	-	20151115
 9713	102738302	ACADVL	-	-	-	Un	-	acyl-CoA dehydrogenase, very long chain	protein-coding	-	-	-	-	20151115
@@ -19354,7 +19354,7 @@
 9713	102744795	LOC102744795	-	-	-	Un	-	collagen alpha-1(V) chain-like	protein-coding	-	-	-	-	20160910
 9713	102744796	LOC102744796	-	-	-	Un	-	26S protease regulatory subunit 4-like	pseudo	-	-	-	-	20151115
 9713	102744797	OSGIN2	-	-	-	Un	-	oxidative stress induced growth inhibitor family member 2	protein-coding	-	-	-	-	20160910
-9713	102744798	LY6H	-	-	-	Un	-	lymphocyte antigen 6 complex, locus H	protein-coding	-	-	-	-	20160910
+9713	102744798	LY6H	-	-	-	Un	-	lymphocyte antigen 6 family member H	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus H	20170130
 9713	102744799	LOC102744799	-	-	-	Un	-	C-terminal binding protein 2 pseudogene	pseudo	-	-	-	-	20151115
 9713	102744800	POU2F3	-	-	-	Un	-	POU class 2 homeobox 3	protein-coding	-	-	-	-	20160910
 9713	102744801	PLEKHF2	-	-	-	Un	-	pleckstrin homology domain containing, family F (with FYVE domain) member 2	protein-coding	-	-	-	-	20160910
@@ -22239,7 +22239,7 @@
 9713	102747680	CCDC7	-	-	-	Un	-	coiled-coil domain containing 7	protein-coding	-	-	-	-	20160910
 9713	102747681	RSG1	-	-	-	Un	-	REM2 and RAB like small GTPase 1	protein-coding	-	-	-	-	20160729
 9713	102747682	FAM150B	-	-	-	Un	-	family with sequence similarity 150 member B	protein-coding	-	-	-	-	20160910
-9713	102747683	LY6G6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6D	protein-coding	-	-	-	-	20151115
+9713	102747683	LY6G6D	-	-	-	Un	-	lymphocyte antigen 6 family member G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6D	20170130
 9713	102747684	LOC102747684	-	-	-	Un	-	T-box transcription factor TBX5-like	protein-coding	-	-	-	-	20160910
 9713	102747685	LOC102747685	-	-	-	Un	-	uncharacterized LOC102747685	ncRNA	-	-	-	-	20151115
 9713	102747686	B4GALNT1	-	-	-	Un	-	beta-1,4-N-acetyl-galactosaminyltransferase 1	protein-coding	-	-	-	-	20160910

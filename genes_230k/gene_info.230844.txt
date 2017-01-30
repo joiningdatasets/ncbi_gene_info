@@ -2403,7 +2403,7 @@
 230844	102905211	LOC102905211	-	-	-	Un	-	transcription factor Spi-C pseudogene	pseudo	-	-	-	-	20160323
 230844	102905212	LOC102905212	-	-	-	Un	-	olfactory receptor 52L1	protein-coding	-	-	-	olfactory receptor 52L1	20170125
 230844	102905213	Ache	-	-	-	Un	-	acetylcholinesterase (Cartwright blood group)	protein-coding	-	-	-	acetylcholinesterase	20170125
-230844	102905214	Auts2	-	-	-	Un	-	autism susceptibility candidate 2	protein-coding	-	-	-	autism susceptibility gene 2 protein	20170125
+230844	102905214	Auts2	-	-	-	Un	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility gene 2 protein|autism susceptibility candidate 2	20170130
 230844	102905215	Gapdh	-	-	-	Un	-	glyceraldehyde-3-phosphate dehydrogenase	protein-coding	-	-	-	glyceraldehyde-3-phosphate dehydrogenase	20170125
 230844	102905216	LOC102905216	-	-	-	Un	-	AN1-type zinc finger protein 2B	protein-coding	-	-	-	AN1-type zinc finger protein 2B	20170125
 230844	102905217	Cysltr1	-	-	-	Un	-	cysteinyl leukotriene receptor 1	protein-coding	-	-	-	cysteinyl leukotriene receptor 1	20170125
@@ -14185,7 +14185,7 @@
 230844	102917654	Plac1	-	-	-	Un	-	placenta specific 1	protein-coding	-	-	-	placenta-specific protein 1	20170125
 230844	102917655	Trim8	-	-	-	Un	-	tripartite motif containing 8	protein-coding	-	-	-	probable E3 ubiquitin-protein ligase TRIM8	20170125
 230844	102917656	Ptpa	-	-	-	Un	-	protein phosphatase 2 phosphatase activator	protein-coding	-	-	-	serine/threonine-protein phosphatase 2A activator|protein phosphatase 2A activator, regulatory subunit 4	20170125
-230844	102917657	Nqo2	-	-	-	Un	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	ribosyldihydronicotinamide dehydrogenase [quinone]	20170125
+230844	102917657	Nqo2	-	-	-	Un	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	ribosyldihydronicotinamide dehydrogenase [quinone]|NAD(P)H quinone dehydrogenase 2	20170130
 230844	102917658	LOC102917658	-	Ugt2b15	-	Un	-	UDP-glucuronosyltransferase 2B17	protein-coding	-	-	-	UDP-glucuronosyltransferase 2B17|UDP glucuronosyltransferase 2 family, polypeptide B15	20170125
 230844	102917659	LOC102917659	-	-	-	Un	-	nuclear autoantigen Sp-100-like	protein-coding	-	-	-	nuclear autoantigen Sp-100-like	20170125
 230844	102917660	LOC102917660	-	Cst8	-	Un	-	cystatin-8	protein-coding	-	-	-	cystatin-8|cystatin 8 (cystatin-related epididymal specific)	20170125
@@ -18506,7 +18506,7 @@
 230844	102922223	LOC102922223	-	-	-	Un	-	39S ribosomal protein L22, mitochondrial pseudogene	pseudo	-	-	-	-	20160323
 230844	102922224	LOC102922224	-	-	-	Un	-	olfactory receptor 9I1-like	protein-coding	-	-	-	olfactory receptor 9I1-like	20170125
 230844	102922225	Cry2	-	-	-	Un	-	cryptochrome circadian clock 2	protein-coding	-	-	-	cryptochrome-2	20170125
-230844	102922226	Als2cr12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosomal region candidate gene 12 protein|amyotrophic lateral sclerosis 2 (juvenile) chromosome region, candidate 12|amyotrophic lateral sclerosis 2 chromosomal region candidate gene 12 protein homolog	20170125
+230844	102922226	Als2cr12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosomal region candidate gene 12 protein|amyotrophic lateral sclerosis 2 (juvenile) chromosome region, candidate 12|amyotrophic lateral sclerosis 2 chromosomal region candidate gene 12 protein homolog|amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 230844	102922227	Npas3	-	-	-	Un	-	neuronal PAS domain protein 3	protein-coding	-	-	-	neuronal PAS domain-containing protein 3	20170125
 230844	102922230	LOC102922230	-	-	-	Un	-	taste receptor type 2 member 102-like	protein-coding	-	-	-	LOW QUALITY PROTEIN: taste receptor type 2 member 102-like	20170125
 230844	102922231	Mtmr10	-	-	-	Un	-	myotubularin related protein 10	protein-coding	-	-	-	myotubularin-related protein 10	20170125
@@ -19149,7 +19149,7 @@
 230844	102922918	Tlx1	-	-	-	Un	-	T-cell leukemia homeobox 1	protein-coding	-	-	-	T-cell leukemia homeobox protein 1	20170125
 230844	102922919	LOC102922919	-	-	-	Un	-	T-cell receptor alpha chain V region 2B4-like	other	-	-	-	-	20160323
 230844	102922920	LOC102922920	-	-	-	Un	-	putative UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase LOC100288842	protein-coding	-	-	-	putative UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase LOC100288842	20170125
-230844	102922921	Ly6d	-	-	-	Un	-	lymphocyte antigen 6 complex, locus D	protein-coding	-	-	-	lymphocyte antigen 6D	20170125
+230844	102922921	Ly6d	-	-	-	Un	-	lymphocyte antigen 6 family member D	protein-coding	-	-	-	lymphocyte antigen 6D|lymphocyte antigen 6 complex, locus D	20170130
 230844	102922922	LOC102922922	-	-	-	Un	-	olfactory receptor 5AL1-like	protein-coding	-	-	-	olfactory receptor 5AL1-like	20170125
 230844	102922924	Mesdc2	-	-	-	Un	-	mesoderm development candidate 2	protein-coding	-	-	-	LDLR chaperone MESD	20170125
 230844	102922925	Abhd2	-	-	-	Un	-	abhydrolase domain containing 2	protein-coding	-	-	-	abhydrolase domain-containing protein 2	20170125
@@ -20496,7 +20496,7 @@
 230844	102924354	Gabpa	-	-	-	Un	-	GA binding protein transcription factor alpha subunit	protein-coding	-	-	-	GA-binding protein alpha chain|GA binding protein transcription factor, alpha subunit 60kDa	20170125
 230844	102924355	LOC102924355	-	-	-	Un	-	RNA-binding protein FUS-like	pseudo	-	-	-	-	20160323
 230844	102924357	LOC102924357	-	-	-	Un	-	protein VPRBP-like	protein-coding	-	-	-	protein VPRBP-like	20170125
-230844	102924358	Ly6e	-	-	-	Un	-	lymphocyte antigen 6 complex, locus E	protein-coding	-	-	-	lymphocyte antigen 6E	20170125
+230844	102924358	Ly6e	-	-	-	Un	-	lymphocyte antigen 6 family member E	protein-coding	-	-	-	lymphocyte antigen 6E|lymphocyte antigen 6 complex, locus E	20170130
 230844	102924360	Cops9	-	Myeov2	-	Un	-	COP9 signalosome subunit 9	protein-coding	-	-	-	myeloma-overexpressed gene 2 protein|myeloma overexpressed 2|myeloma-overexpressed gene 2 protein homolog	20170125
 230844	102924361	LOC102924361	-	-	-	Un	-	olfactory receptor 1094-like	pseudo	-	-	-	-	20160323
 230844	102924362	Bace1	-	-	-	Un	-	beta-secretase 1	protein-coding	-	-	-	beta-secretase 1	20170125
@@ -21235,7 +21235,7 @@
 230844	102925143	Muc13	-	-	-	Un	-	mucin 13, cell surface associated	protein-coding	-	-	-	mucin-13	20170125
 230844	102925144	Ccdc3	-	-	-	Un	-	coiled-coil domain containing 3	protein-coding	-	-	-	coiled-coil domain-containing protein 3	20170125
 230844	102925145	Nif3l1	-	-	-	Un	-	NGG1 interacting factor 3 like 1	protein-coding	-	-	-	NIF3-like protein 1|NIF3 NGG1 interacting factor 3-like 1	20170125
-230844	102925146	Ly6g6f	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6f	20170125
+230844	102925146	Ly6g6f	-	-	-	Un	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6f|lymphocyte antigen 6 complex, locus G6F	20170130
 230844	102925147	LOC102925147	-	-	-	Un	-	dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit STT3A pseudogene	pseudo	-	-	-	-	20160323
 230844	102925148	Slc45a1	-	-	-	Un	-	solute carrier family 45 member 1	protein-coding	-	-	-	proton-associated sugar transporter A	20170125
 230844	102925149	LOC102925149	-	-	-	Un	-	vacuolar protein-sorting-associated protein 36 pseudogene	pseudo	-	-	-	-	20160323
@@ -21818,7 +21818,7 @@
 230844	102925762	Adcy5	-	-	-	Un	-	adenylate cyclase 5	protein-coding	-	-	-	adenylate cyclase type 5	20170125
 230844	102925763	Ucma	-	-	-	Un	-	upper zone of growth plate and cartilage matrix associated	protein-coding	-	-	-	unique cartilage matrix-associated protein	20170125
 230844	102925764	Clk1	-	-	-	Un	-	CDC like kinase 1	protein-coding	-	-	-	dual specificity protein kinase CLK1	20170125
-230844	102925765	Ly6g6d	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6d	20170125
+230844	102925765	Ly6g6d	-	-	-	Un	-	lymphocyte antigen 6 family member G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6d|lymphocyte antigen 6 complex, locus G6D	20170130
 230844	102925766	LOC102925766	-	-	-	Un	-	60S ribosomal protein L14 pseudogene	pseudo	-	-	-	-	20160323
 230844	102925767	LOC102925767	-	-	-	Un	-	60S ribosomal protein L22-like	protein-coding	-	-	-	60S ribosomal protein L22-like	20170125
 230844	102925768	Cad	-	-	-	Un	-	carbamoyl-phosphate synthetase 2, aspartate transcarbamylase, and dihydroorotase	protein-coding	-	-	-	CAD protein	20170125
@@ -22118,7 +22118,7 @@
 230844	102926074	Dirc2	-	-	-	Un	-	disrupted in renal carcinoma 2	protein-coding	-	-	-	disrupted in renal carcinoma protein 2|disrupted in renal carcinoma protein 2 homolog	20170125
 230844	102926075	Sephs1	-	-	-	Un	-	selenophosphate synthetase 1	protein-coding	-	-	-	selenide, water dikinase 1	20170125
 230844	102926076	Bzw1	-	-	-	Un	-	basic leucine zipper and W2 domains 1	protein-coding	-	-	-	basic leucine zipper and W2 domain-containing protein 1	20170125
-230844	102926077	Ly6g6c	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6c	20170125
+230844	102926077	Ly6g6c	-	-	-	Un	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6c|lymphocyte antigen 6 complex, locus G6C	20170130
 230844	102926078	LOC102926078	-	-	-	Un	-	60S ribosomal protein L29 pseudogene	pseudo	-	-	-	-	20160323
 230844	102926079	Atraid	-	-	-	Un	-	all-trans retinoic acid induced differentiation factor	protein-coding	-	-	-	all-trans retinoic acid-induced differentiation factor	20170125
 230844	102926080	LOC102926080	-	-	-	Un	-	PRELI domain-containing protein 1, mitochondrial pseudogene	pseudo	-	-	-	-	20160323
@@ -24573,7 +24573,7 @@
 230844	102928675	LOC102928675	-	-	-	Un	-	transcriptional adapter 3 pseudogene	pseudo	-	-	-	-	20160323
 230844	102928676	LOC102928676	-	-	-	Un	-	olfactory receptor 9I1-like	protein-coding	-	-	-	olfactory receptor 9I1-like	20170125
 230844	102928677	LOC102928677	-	-	-	Un	-	olfactory receptor 13C3	protein-coding	-	-	-	olfactory receptor 13C3	20170125
-230844	102928678	Ly6g5b	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	LOW QUALITY PROTEIN: lymphocyte antigen 6 complex locus protein G5b	20170125
+230844	102928678	Ly6g5b	-	-	-	Un	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	LOW QUALITY PROTEIN: lymphocyte antigen 6 complex locus protein G5b|lymphocyte antigen 6 complex, locus G5B	20170130
 230844	102928679	LOC102928679	-	-	-	Un	-	prostaglandin E synthase 3 pseudogene	pseudo	-	-	-	-	20160323
 230844	102928680	Ost4	-	-	-	Un	-	oligosaccharyltransferase complex subunit 4, non-catalytic	protein-coding	-	-	-	dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 4|oligosaccharyltransferase 4 homolog	20170125
 230844	102928682	LOC102928682	-	-	-	Un	-	uncharacterized LOC102928682	protein-coding	-	-	-	uncharacterized protein LOC102928682	20170125

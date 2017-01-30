@@ -596,7 +596,7 @@
 10029	100750541	LOC100750541	I79_003179	-	-	Un	-	disintegrin and metalloproteinase domain-containing protein 25	protein-coding	-	-	-	-	20161129
 10029	100750542	Slc45a1	I79_020167	-	-	Un	-	solute carrier family 45 member 1	protein-coding	-	-	-	Proton-associated sugar transporter A	20161129
 10029	100750544	Rad21	I79_003557	-	-	Un	-	RAD21 cohesin complex component	protein-coding	-	-	-	Double-strand-break repair protein rad21-like|RAD21 homolog|double-strand-break repair protein rad21 homolog|putative double-strand-break repair protein rad21 like protein	20161129
-10029	100750545	Auts2	-	-	-	Un	-	autism susceptibility candidate 2	protein-coding	-	-	-	-	20161129
+10029	100750545	Auts2	-	-	-	Un	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility candidate 2	20170130
 10029	100750546	LOC100750546	-	-	-	Un	-	SRA stem-loop-interacting RNA-binding protein, mitochondrial pseudogene	pseudo	-	-	-	-	20161129
 10029	100750547	Got1l1	-	-	-	Un	-	glutamic-oxaloacetic transaminase 1-like 1	protein-coding	-	-	-	-	20161129
 10029	100750548	LOC100750548	-	-	-	Un	-	lysozyme C-1	protein-coding	-	-	-	Lysozyme C	20161129
@@ -9083,7 +9083,7 @@
 10029	100759913	LOC100759913	-	-	-	Un	-	RLA class II histocompatibility antigen, DP alpha-1 chain	protein-coding	-	-	-	-	20161129
 10029	100759915	LOC100759915	-	-	-	Un	-	olfactory receptor 5M10	protein-coding	-	-	-	olfactory receptor 5M10-like protein	20161129
 10029	100759916	LOC100759916	-	-	-	Un	-	E3 ubiquitin-protein ligase RNF5 pseudogene	pseudo	-	-	-	-	20161129
-10029	100759917	Als2cr12	I79_014609	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	Amyotrophic lateral sclerosis 2 chromosomal region candidate gene 12 protein-like|amyotrophic lateral sclerosis 2 (juvenile) chromosome region, candidate 12|amyotrophic lateral sclerosis 2 chromosomal region candidate gene 12 protein homolog	20161129
+10029	100759917	Als2cr12	I79_014609	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	Amyotrophic lateral sclerosis 2 chromosomal region candidate gene 12 protein-like|amyotrophic lateral sclerosis 2 (juvenile) chromosome region, candidate 12|amyotrophic lateral sclerosis 2 chromosomal region candidate gene 12 protein homolog|amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 10029	100759918	Tor2a	I79_014782	Torsin-2A	-	Un	-	torsin family 2 member A	protein-coding	-	-	-	-	20161129
 10029	100759919	Lrrc14	-	-	-	Un	-	leucine rich repeat containing 14	protein-coding	-	-	-	Leucine-rich repeat-containing protein 14	20161129
 10029	100759920	Mturn	-	-	-	Un	-	maturin, neural progenitor differentiation regulator homolog	protein-coding	-	-	-	-	20161129
@@ -9909,7 +9909,7 @@
 10029	100760824	LOC100760824	-	-	-	Un	-	ATP synthase subunit gamma, mitochondrial	protein-coding	-	-	-	-	20161129
 10029	100760825	Kctd3	I79_000102	-	-	Un	-	potassium channel tetramerization domain containing 3	protein-coding	-	-	-	BTB/POZ domain-containing protein KCTD3	20161129
 10029	100760826	Slc15a1	I79_000381	-	-	Un	-	solute carrier family 15 member 1	protein-coding	-	-	-	solute carrier family 15 (oligopeptide transporter), member 1	20161129
-10029	100760827	Nqo2	-	-	-	3	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	NAD(P)H dehydrogenase, quinone 2	20161129
+10029	100760827	Nqo2	-	-	-	3	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	NAD(P)H dehydrogenase, quinone 2|NAD(P)H quinone dehydrogenase 2	20170130
 10029	100760828	LOC100760828	-	-	-	Un	-	nucleophosmin pseudogene	pseudo	-	-	-	-	20161129
 10029	100760829	LOC100760829	-	-	-	Un	-	CMRF35-like molecule	protein-coding	-	-	-	-	20161129
 10029	100760830	Fam163b	I79_022686	-	-	Un	-	family with sequence similarity 163 member B	protein-coding	-	-	-	UPF0417 protein FAM163B	20161129
@@ -11394,7 +11394,7 @@
 10029	100762451	LOC100762451	-	-	-	-	-	uncharacterized LOC100762451	protein-coding	-	-	-	-	20160402
 10029	100762452	Scyl3	I79_016168	-	-	Un	-	SCY1 like pseudokinase 3	protein-coding	-	-	-	SCY1-like 3|protein-associating with the carboxyl-terminal domain of ezrin	20161129
 10029	100762453	LOC100762453	-	-	-	Un	-	L-aminoadipate-semialdehyde dehydrogenase-phosphopantetheinyl transferase pseudogene	pseudo	-	-	-	-	20161129
-10029	100762454	Ly6g6c	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	Lymphocyte antigen 6 complex locus protein G6c	20161129
+10029	100762454	Ly6g6c	-	-	-	Un	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	Lymphocyte antigen 6 complex locus protein G6c|lymphocyte antigen 6 complex, locus G6C	20170130
 10029	100762455	Barhl2	I79_017027	-	-	Un	-	BarH like homeobox 2	protein-coding	-	-	-	BarH-like 2 homeobox protein	20161129
 10029	100762456	LOC100762456	I79_017203	-	-	Un	-	vomeronasal type-2 receptor 116	protein-coding	-	-	-	Vomeronasal type-2 receptor 26	20161129
 10029	100762457	Mrps16	I79_017690	-	-	1	-	mitochondrial ribosomal protein S16	protein-coding	-	-	-	28S ribosomal protein S16, mitochondrial	20161129
@@ -11658,7 +11658,7 @@
 10029	100762739	Actr6	-	-	-	Un	-	ARP6 actin-related protein 6 homolog	protein-coding	-	-	-	Actin-related protein 6	20161129
 10029	100762740	LOC100762740	I79_015458	Ccr5	-	4	-	C-C chemokine receptor type 5	protein-coding	-	-	-	chemokine (C-C motif) receptor 5	20161129
 10029	100762742	LOC100762742	-	-	-	Un	-	cellular nucleic acid-binding protein pseudogene	pseudo	-	-	-	-	20161129
-10029	100762743	Ly6g6d	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6D	protein-coding	-	-	-	Lymphocyte antigen 6 complex locus protein G6d	20161129
+10029	100762743	Ly6g6d	-	-	-	Un	-	lymphocyte antigen 6 family member G6D	protein-coding	-	-	-	Lymphocyte antigen 6 complex locus protein G6d|lymphocyte antigen 6 complex, locus G6D	20170130
 10029	100762744	LOC100762744	-	-	-	Un	-	60S ribosomal protein L37 pseudogene	pseudo	-	-	-	-	20161129
 10029	100762745	LOC100762745	-	-	-	Un	-	putative gustatory receptor clone PTE03	protein-coding	-	-	-	-	20161129
 10029	100762746	Cfap70	-	Ttc18	-	Un	-	cilia and flagella associated protein 70	protein-coding	-	-	-	tetratricopeptide repeat domain 18	20161129
@@ -16646,7 +16646,7 @@
 10029	100768298	LOC100768298	-	-	-	Un	-	olfactory receptor 4N4-like	protein-coding	-	-	-	-	20161129
 10029	100768300	LOC100768300	-	-	-	Un	-	vomeronasal secretory protein 2-like	protein-coding	-	-	-	-	20161129
 10029	100768301	LOC100768301	I79_022818	-	-	Un	-	uncharacterized LOC100768301	protein-coding	-	-	-	-	20161129
-10029	100768302	Ly6e	I79_023226	-	-	Un	-	lymphocyte antigen 6 complex, locus E	protein-coding	-	-	-	Lymphocyte antigen 6E	20161129
+10029	100768302	Ly6e	I79_023226	-	-	Un	-	lymphocyte antigen 6 family member E	protein-coding	-	-	-	Lymphocyte antigen 6E|lymphocyte antigen 6 complex, locus E	20170130
 10029	100768303	Mgme1	-	-	-	Un	-	mitochondrial genome maintenance exonuclease 1	protein-coding	-	-	-	Uncharacterized protein C20orf72-like|uncharacterized protein C20orf72 homolog	20161129
 10029	100768304	LOC100768304	I79_023304	-	-	Un	-	vigilin	protein-coding	-	-	-	vigilin-like protein	20161129
 10029	100768306	Ciita	I79_002131	-	-	Un	-	class II major histocompatibility complex transactivator	protein-coding	-	-	-	MHC class II transactivator|class II transactivator	20161129
@@ -19221,7 +19221,7 @@
 10029	100771131	LOC100771131	-	-	-	Un	-	N-acetyltransferase 8-like	pseudo	-	-	-	-	20161129
 10029	100771132	Fam46b	I79_016184	-	-	2	-	family with sequence similarity 46 member B	protein-coding	-	-	-	Protein FAM46B	20161129
 10029	100771133	LOC100771133	-	-	-	Un	-	dual specificity protein phosphatase CDC14B pseudogene	pseudo	-	-	-	-	20161129
-10029	100771134	Ly6g6f	I79_016461	-	-	Un	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	Lymphocyte antigen 6 complex locus protein G6f	20161129
+10029	100771134	Ly6g6f	I79_016461	-	-	Un	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	Lymphocyte antigen 6 complex locus protein G6f|lymphocyte antigen 6 complex, locus G6F	20170130
 10029	100771135	Trpv1	-	-	-	Un	-	transient receptor potential cation channel subfamily V member 1	protein-coding	-	-	-	-	20161129
 10029	100771136	Asb1	I79_017461	-	-	Un	-	ankyrin repeat and SOCS box containing 1	protein-coding	-	-	-	Ankyrin repeat and SOCS box protein 1	20161129
 10029	100771138	LOC100771138	-	-	-	Un	-	mucin-3A-like	protein-coding	-	-	-	-	20161129
@@ -19745,7 +19745,7 @@
 10029	100771707	Snrpb2	-	-	-	Un	-	small nuclear ribonucleoprotein polypeptide B2	protein-coding	-	-	-	small nuclear ribonucleoprotein polypeptide B	20161129
 10029	100771708	LOC100771708	-	-	-	Un	-	probable N-acetyltransferase CML2	protein-coding	-	-	-	-	20161129
 10029	100771709	Zdhhc18	I79_016193	-	-	2	-	zinc finger DHHC-type containing 18	protein-coding	-	-	-	Palmitoyltransferase ZDHHC18	20161129
-10029	100771711	Ly6g5b	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	-	20161129
+10029	100771711	Ly6g5b	-	-	-	Un	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5B	20170130
 10029	100771713	LOC100771713	-	-	-	Un	-	60S ribosomal protein L9 pseudogene	pseudo	-	-	-	-	20161129
 10029	100771714	LOC100771714	-	-	-	Un	-	vomeronasal type-1 receptor 4-like	protein-coding	-	-	-	-	20161129
 10029	100771715	Fam110d	-	-	-	Un	-	family with sequence similarity 110 member D	protein-coding	-	-	-	-	20161129
@@ -22051,7 +22051,7 @@
 10029	100774256	Necap2	-	-	-	Un	-	NECAP endocytosis associated 2	protein-coding	-	-	-	Adaptin ear-binding coat-associated protein 2	20161129
 10029	100774257	LOC100774257	-	-	-	Un	-	UBX domain-containing protein 2A-like	pseudo	-	-	-	-	20161129
 10029	100774258	LOC100774258	-	Slc6a3	-	Un	-	sodium-dependent dopamine transporter	protein-coding	-	-	-	sodium-dependent noradrenaline transporter|solute carrier family 6 (neurotransmitter transporter, dopamine), member 3	20161129
-10029	100774259	Ly6d	-	-	-	Un	-	lymphocyte antigen 6 complex, locus D	protein-coding	-	-	-	Lymphocyte antigen 6D	20161129
+10029	100774259	Ly6d	-	-	-	Un	-	lymphocyte antigen 6 family member D	protein-coding	-	-	-	Lymphocyte antigen 6D|lymphocyte antigen 6 complex, locus D	20170130
 10029	100774262	Ccdc63	I79_004268	-	-	Un	-	coiled-coil domain containing 63	protein-coding	-	-	-	Coiled-coil domain-containing protein 63	20161129
 10029	100774263	Cd2bp2	-	-	-	Un	-	CD2 cytoplasmic tail binding protein 2	protein-coding	-	-	-	CD2 antigen cytoplasmic tail-binding protein 2	20161129
 10029	100774266	Tnfaip2	I79_004687	-	-	Un	-	TNF alpha induced protein 2	protein-coding	-	-	-	tumor necrosis factor, alpha-induced protein 2	20161129
@@ -24170,7 +24170,7 @@
 10029	103160067	LOC103160067	-	-	-	Un	-	uncharacterized LOC103160067	ncRNA	-	-	-	-	20160601
 10029	103160068	LOC103160068	-	-	-	Un	-	rRNA-processing protein FCF1 homolog	pseudo	-	-	-	-	20160601
 10029	103160069	LOC103160069	-	-	-	Un	-	NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 9 pseudogene	pseudo	-	-	-	-	20160601
-10029	103160070	Ly6g5c	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	-	20160601
+10029	103160070	Ly6g5c	-	-	-	Un	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5C	20170130
 10029	103160071	LOC103160071	-	-	-	Un	-	grpE protein homolog 2, mitochondrial pseudogene	pseudo	-	-	-	-	20160601
 10029	103160074	LOC103160074	-	-	-	Un	-	transmembrane protein 163-like	protein-coding	-	-	-	-	20160601
 10029	103160076	LOC103160076	-	-	-	Un	-	60S ribosomal protein L24 pseudogene	pseudo	-	-	-	-	20160601

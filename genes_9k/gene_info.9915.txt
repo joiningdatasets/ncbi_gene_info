@@ -15205,7 +15205,7 @@
 9915	109568173	ZC3H3	-	-	-	14	-	zinc finger CCCH-type containing 3	protein-coding	-	-	-	-	20170114
 9915	109568174	PARP10	-	-	-	14	-	poly(ADP-ribose) polymerase family member 10	protein-coding	-	-	-	-	20170114
 9915	109568175	SLURP1	-	-	-	14	-	secreted LY6/PLAUR domain containing 1	protein-coding	-	-	-	-	20170114
-9915	109568176	LY6K	-	-	-	14	-	lymphocyte antigen 6 complex, locus K	protein-coding	-	-	-	-	20170114
+9915	109568176	LY6K	-	-	-	14	-	lymphocyte antigen 6 family member K	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus K	20170130
 9915	109568177	LOC109568177	-	-	-	14	-	cytochrome P450 11B1, mitochondrial-like	protein-coding	-	-	-	-	20170114
 9915	109568178	DARS	-	-	-	2	-	aspartyl-tRNA synthetase	protein-coding	-	-	-	-	20170124
 9915	109568179	ZFP41	-	-	-	14	-	ZFP41 zinc finger protein	protein-coding	-	-	-	-	20170114
@@ -15434,9 +15434,9 @@
 9915	109568402	CCDC166	-	-	-	14	-	coiled-coil domain containing 166	protein-coding	-	-	-	-	20170114
 9915	109568403	GML	-	-	-	14	-	glycosylphosphatidylinositol anchored molecule like	protein-coding	-	-	-	-	20170114
 9915	109568404	LOC109568404	-	-	-	14	-	glycosyl-phosphatidylinositol-anchored molecule-like protein	protein-coding	-	-	-	-	20170114
-9915	109568405	LY6H	-	-	-	14	-	lymphocyte antigen 6 complex, locus H	protein-coding	-	-	-	-	20170114
-9915	109568406	LY6L	-	-	-	14	-	lymphocyte antigen 6 complex, locus L	protein-coding	-	-	-	-	20170114
-9915	109568407	LY6E	-	-	-	14	-	lymphocyte antigen 6 complex, locus E	protein-coding	-	-	-	-	20170114
+9915	109568405	LY6H	-	-	-	14	-	lymphocyte antigen 6 family member H	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus H	20170130
+9915	109568406	LY6L	-	-	-	14	-	lymphocyte antigen 6 family member L	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus L	20170130
+9915	109568407	LY6E	-	-	-	14	-	lymphocyte antigen 6 family member E	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus E	20170130
 9915	109568408	GPR39	-	-	-	2	-	G protein-coupled receptor 39	protein-coding	-	-	-	-	20170114
 9915	109568409	LYPD2	-	-	-	14	-	LY6/PLAUR domain containing 2	protein-coding	-	-	-	-	20170114
 9915	109568410	GRINA	-	-	-	14	-	glutamate ionotropic receptor NMDA type subunit associated protein 1	protein-coding	-	-	-	-	20170124
@@ -16564,7 +16564,7 @@
 9915	109569532	LOC109569532	-	-	-	15	-	achaete-scute homolog 3-like	protein-coding	-	-	-	-	20170114
 9915	109569533	MAML2	-	-	-	15	-	mastermind like transcriptional coactivator 2	protein-coding	-	-	-	-	20170114
 9915	109569534	CCDC82	-	-	-	15	-	coiled-coil domain containing 82	protein-coding	-	-	-	-	20170114
-9915	109569535	ALS2CR12	-	-	-	2	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	-	20170114
+9915	109569535	ALS2CR12	-	-	-	2	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 9915	109569536	ARHGEF12	-	-	-	15	-	Rho guanine nucleotide exchange factor 12	protein-coding	-	-	-	-	20170114
 9915	109569537	PCSK7	-	-	-	15	-	proprotein convertase subtilisin/kexin type 7	protein-coding	-	-	-	-	20170124
 9915	109569538	TAGLN	-	-	-	15	-	transgelin	protein-coding	-	-	-	-	20170124
@@ -23805,7 +23805,7 @@
 9915	109576773	LOC109576773	-	-	-	23	-	chorionic somatomammotropin hormone 2	protein-coding	-	-	-	-	20170114
 9915	109576774	LOC109576774	-	-	-	2	-	gamma-crystallin F	protein-coding	-	-	-	-	20170114
 9915	109576775	LOC109576775	-	-	-	23	-	filamin-binding LIM protein 1 pseudogene	pseudo	-	-	-	-	20170114
-9915	109576776	LY6G6C	-	-	-	23	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	-	20170114
+9915	109576776	LY6G6C	-	-	-	23	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6C	20170130
 9915	109576777	TFAP2D	-	-	-	23	-	transcription factor AP-2 delta	protein-coding	-	-	-	-	20170114
 9915	109576778	CLPS	-	-	-	23	-	colipase	protein-coding	-	-	-	-	20170114
 9915	109576779	BTN1A1	-	-	-	23	-	butyrophilin subfamily 1 member A1	protein-coding	-	-	-	-	20170124
@@ -24288,9 +24288,9 @@
 9915	109577256	PHACTR1	-	-	-	23	-	phosphatase and actin regulator 1	protein-coding	-	-	-	-	20170114
 9915	109577257	LOC109577257	-	-	-	23	-	uncharacterized LOC109577257	ncRNA	-	-	-	-	20170114
 9915	109577258	FOXP4	-	-	-	23	-	forkhead box P4	protein-coding	-	-	-	-	20170114
-9915	109577259	LY6G6D	-	-	-	23	-	lymphocyte antigen 6 complex, locus G6D	protein-coding	-	-	-	-	20170114
+9915	109577259	LY6G6D	-	-	-	23	-	lymphocyte antigen 6 family member G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6D	20170130
 9915	109577260	LOC109577260	-	-	-	23	-	uncharacterized LOC109577260	protein-coding	-	-	-	-	20170114
-9915	109577261	LY6G6F	-	-	-	23	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	-	20170114
+9915	109577261	LY6G6F	-	-	-	23	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6F	20170130
 9915	109577262	ABHD16A	-	-	-	23	-	abhydrolase domain containing 16A	protein-coding	-	-	-	-	20170114
 9915	109577263	TBCC	-	-	-	23	-	tubulin folding cofactor C	protein-coding	-	-	-	-	20170114
 9915	109577264	RIPK1	-	-	-	23	-	receptor interacting serine/threonine kinase 1	protein-coding	-	-	-	-	20170124
@@ -24305,7 +24305,7 @@
 9915	109577273	LOC109577273	-	-	-	23	-	uncharacterized LOC109577273	ncRNA	-	-	-	-	20170114
 9915	109577274	RNF8	-	-	-	23	-	ring finger protein 8	protein-coding	-	-	-	-	20170114
 9915	109577275	LOC109577275	-	-	-	2	-	uncharacterized LOC109577275	pseudo	-	-	-	-	20170114
-9915	109577276	NQO2	-	-	-	23	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	-	20170114
+9915	109577276	NQO2	-	-	-	23	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	NAD(P)H quinone dehydrogenase 2	20170130
 9915	109577277	LOC109577277	-	-	-	23	-	serpin B6	protein-coding	-	-	-	-	20170124
 9915	109577278	LOC109577278	-	-	-	23	-	transmembrane protein 14C	protein-coding	-	-	-	-	20170124
 9915	109577279	LOC109577279	-	-	-	23	-	uncharacterized LOC109577279	ncRNA	-	-	-	-	20170114

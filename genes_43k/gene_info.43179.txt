@@ -5535,7 +5535,7 @@
 43179	101959955	Znf319	-	-	Ensembl:ENSSTOG00000019944	Un	-	zinc finger protein 319	protein-coding	-	-	-	-	20160910
 43179	101959956	LOC101959956	-	-	Ensembl:ENSSTOG00000008240	Un	-	cathepsin G-like	protein-coding	-	-	-	-	20151115
 43179	101959957	Aars	-	-	Ensembl:ENSSTOG00000006856	Un	-	alanyl-tRNA synthetase	protein-coding	-	-	-	-	20160910
-43179	101959958	Ly6g6c	-	-	Ensembl:ENSSTOG00000013066	Un	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	-	20160910
+43179	101959958	Ly6g6c	-	-	Ensembl:ENSSTOG00000013066	Un	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6C	20170130
 43179	101959959	Tap1	-	-	Ensembl:ENSSTOG00000003451	Un	-	transporter 1, ATP binding cassette subfamily B member	protein-coding	-	-	-	-	20160910
 43179	101959960	Megf6	-	-	Ensembl:ENSSTOG00000025809	Un	-	multiple EGF like domains 6	protein-coding	-	-	-	-	20160910
 43179	101959961	LOC101959961	-	-	-	Un	-	olfactory receptor 2Y1-like	pseudo	-	-	-	-	20151115
@@ -5809,7 +5809,7 @@
 43179	101960236	Usb1	-	-	Ensembl:ENSSTOG00000007548	Un	-	U6 snRNA biogenesis phosphodiesterase 1	protein-coding	-	-	-	-	20160910
 43179	101960237	LOC101960237	-	-	-	Un	-	mast cell protease 8-like	pseudo	-	-	-	-	20151115
 43179	101960238	Exosc6	-	-	Ensembl:ENSSTOG00000006849	Un	-	exosome component 6	protein-coding	-	-	-	-	20151115
-43179	101960239	Ly6g6d	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6D	protein-coding	-	-	-	-	20151115
+43179	101960239	Ly6g6d	-	-	-	Un	-	lymphocyte antigen 6 family member G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6D	20170130
 43179	101960240	Chat	-	-	Ensembl:ENSSTOG00000019512	Un	-	choline O-acetyltransferase	protein-coding	-	-	-	-	20160910
 43179	101960241	LOC101960241	-	-	-	Un	-	tubulin alpha-1A chain pseudogene	pseudo	-	-	-	-	20151115
 43179	101960242	Prdm16	-	-	-	Un	-	PR/SET domain 16	protein-coding	-	-	-	-	20160730
@@ -6091,7 +6091,7 @@
 43179	101960523	Ripk3	-	-	Ensembl:ENSSTOG00000002445	Un	-	receptor interacting serine/threonine kinase 3	protein-coding	-	-	-	-	20160810
 43179	101960524	LOC101960524	-	-	-	Un	-	chromosome unknown open reading frame, human C16orf86	protein-coding	-	-	-	-	20160910
 43179	101960525	LOC101960525	-	Clec18a	Ensembl:ENSSTOG00000010164	Un	-	C-type lectin domain family 18 member A	protein-coding	-	-	-	-	20160827
-43179	101960526	Ly6g6f	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	-	20160910
+43179	101960526	Ly6g6f	-	-	-	Un	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6F	20170130
 43179	101960527	Hs2st1	-	-	-	Un	-	heparan sulfate 2-O-sulfotransferase 1	protein-coding	-	-	-	-	20160910
 43179	101960528	Ttc34	-	-	-	Un	-	tetratricopeptide repeat domain 34	protein-coding	-	-	-	-	20160910
 43179	101960529	LOC101960529	-	-	-	Un	-	olfactory receptor 10-like	pseudo	-	-	-	-	20151115
@@ -6651,7 +6651,7 @@
 43179	101961095	Fcn3	-	-	-	Un	-	ficolin 3	protein-coding	-	-	-	ficolin (collagen/fibrinogen domain containing) 3 (Hakata antigen)	20160910
 43179	101961096	Nrl	-	-	Ensembl:ENSSTOG00000021648	Un	-	neural retina leucine zipper	protein-coding	-	-	-	-	20160910
 43179	101961097	LOC101961097	-	-	Ensembl:ENSSTOG00000002036	Un	-	ATP synthase subunit epsilon, mitochondrial	protein-coding	-	-	-	-	20160910
-43179	101961098	Ly6g5c	-	-	Ensembl:ENSSTOG00000013012	Un	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	-	20151115
+43179	101961098	Ly6g5c	-	-	Ensembl:ENSSTOG00000013012	Un	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5C	20170130
 43179	101961099	Paqr8	-	-	Ensembl:ENSSTOG00000013049	Un	-	progestin and adipoQ receptor family member 8	protein-coding	-	-	-	-	20160910
 43179	101961100	Mrpl2	-	-	Ensembl:ENSSTOG00000023948	Un	-	mitochondrial ribosomal protein L2	protein-coding	-	-	-	-	20160910
 43179	101961101	LOC101961101	-	-	-	Un	-	costars family protein ABRACL pseudogene	pseudo	-	-	-	-	20151115
@@ -11835,7 +11835,7 @@
 43179	101966483	Ldoc1l	-	-	Ensembl:ENSSTOG00000005224	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	-	20160910
 43179	101966484	LOC101966484	-	-	Ensembl:ENSSTOG00000021130	Un	-	HLA class I histocompatibility antigen, B-42 alpha chain-like	protein-coding	-	-	-	-	20160730
 43179	101966485	LOC101966485	-	-	-	Un	-	olfactory receptor 2B11-like	pseudo	-	-	-	-	20151115
-43179	101966486	Als2cr12	-	-	Ensembl:ENSSTOG00000006296	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	-	20160811
+43179	101966486	Als2cr12	-	-	Ensembl:ENSSTOG00000006296	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 43179	101966487	Msmb	-	-	-	Un	-	microseminoprotein beta	protein-coding	-	-	-	-	20160910
 43179	101966488	Gfral	-	-	Ensembl:ENSSTOG00000006853	Un	-	GDNF family receptor alpha like	protein-coding	-	-	-	-	20160910
 43179	101966489	Grk4	-	-	Ensembl:ENSSTOG00000009753	Un	-	G protein-coupled receptor kinase 4	protein-coding	-	-	-	-	20160730
@@ -12822,7 +12822,7 @@
 43179	101967508	Bbx	-	-	-	Un	-	BBX, HMG-box containing	protein-coding	-	-	-	-	20160910
 43179	101967509	Tcf7	-	-	Ensembl:ENSSTOG00000010550	Un	-	transcription factor 7 (T-cell specific, HMG-box)	protein-coding	-	-	-	-	20160730
 43179	101967511	LOC101967511	-	-	-	Un	-	ubiquitin-conjugating enzyme E2 variant 2 pseudogene	pseudo	-	-	-	-	20151115
-43179	101967512	Ly6h	-	-	Ensembl:ENSSTOG00000001914	Un	-	lymphocyte antigen 6 complex, locus H	protein-coding	-	-	-	-	20160910
+43179	101967512	Ly6h	-	-	Ensembl:ENSSTOG00000001914	Un	-	lymphocyte antigen 6 family member H	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus H	20170130
 43179	101967513	Cacna1b	-	-	Ensembl:ENSSTOG00000004575	Un	-	calcium voltage-gated channel subunit alpha1 B	protein-coding	-	-	-	-	20160910
 43179	101967514	Sntb1	-	-	-	Un	-	syntrophin beta 1	protein-coding	-	-	-	-	20160910
 43179	101967515	Grhl2	-	-	Ensembl:ENSSTOG00000001498	Un	-	grainyhead like transcription factor 2	protein-coding	-	-	-	grainyhead-like 2|grainyhead-like protein 2 homolog	20160910
@@ -13102,7 +13102,7 @@
 43179	101967800	Btbd17	-	-	Ensembl:ENSSTOG00000024917	Un	-	BTB domain containing 17	protein-coding	-	-	-	-	20160910
 43179	101967801	Znf891	-	-	-	Un	-	zinc finger protein 891	protein-coding	-	-	-	-	20160730
 43179	101967802	Fmnl2	-	-	-	Un	-	formin like 2	protein-coding	-	-	-	-	20160811
-43179	101967803	Ly6e	-	-	Ensembl:ENSSTOG00000023544	Un	-	lymphocyte antigen 6 complex, locus E	protein-coding	-	-	-	-	20160910
+43179	101967803	Ly6e	-	-	Ensembl:ENSSTOG00000023544	Un	-	lymphocyte antigen 6 family member E	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus E	20170130
 43179	101967804	Mrpl13	-	-	Ensembl:ENSSTOG00000014264	Un	-	mitochondrial ribosomal protein L13	protein-coding	-	-	-	-	20160730
 43179	101967805	Nrsn1	-	-	Ensembl:ENSSTOG00000028055	Un	-	neurensin 1	protein-coding	-	-	-	-	20160910
 43179	101967807	Shf	-	-	-	Un	-	Src homology 2 domain containing F	protein-coding	-	-	-	-	20160910
@@ -13930,7 +13930,7 @@
 43179	101968668	Stam2	-	-	-	Un	-	signal transducing adaptor molecule 2	protein-coding	-	-	-	-	20160910
 43179	101968669	LOC101968669	-	-	-	Un	-	ectonucleoside triphosphate diphosphohydrolase 5-like	pseudo	-	-	-	-	20151115
 43179	101968670	Spaca4	-	-	-	Un	-	sperm acrosome associated 4	protein-coding	-	-	-	-	20151115
-43179	101968671	Ly6d	-	-	Ensembl:ENSSTOG00000016531	Un	-	lymphocyte antigen 6 complex, locus D	protein-coding	-	-	-	-	20160730
+43179	101968671	Ly6d	-	-	Ensembl:ENSSTOG00000016531	Un	-	lymphocyte antigen 6 family member D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus D	20170130
 43179	101968672	Arrdc1	-	-	Ensembl:ENSSTOG00000012006	Un	-	arrestin domain containing 1	protein-coding	-	-	-	-	20160910
 43179	101968673	Deptor	-	-	Ensembl:ENSSTOG00000013845	Un	-	DEP domain containing MTOR interacting protein	protein-coding	-	-	-	-	20161206
 43179	101968674	LOC101968674	-	-	Ensembl:ENSSTOG00000025803	Un	-	chromosome unknown open reading frame, human C6orf62	protein-coding	-	-	-	-	20160910
@@ -15537,7 +15537,7 @@
 43179	101970357	LOC101970357	-	-	-	Un	-	dual specificity protein phosphatase 18-like	pseudo	-	-	-	-	20151115
 43179	101970358	Ap4m1	-	-	Ensembl:ENSSTOG00000009043	Un	-	adaptor related protein complex 4 mu 1 subunit	protein-coding	-	-	-	-	20160910
 43179	101970359	Cldn4	-	-	Ensembl:ENSSTOG00000020536	Un	-	claudin 4	protein-coding	-	-	-	-	20160910
-43179	101970360	Auts2	-	-	-	Un	-	autism susceptibility candidate 2	protein-coding	-	-	-	-	20151115
+43179	101970360	Auts2	-	-	-	Un	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility candidate 2	20170130
 43179	101970361	Scamp1	-	-	Ensembl:ENSSTOG00000023531	Un	-	secretory carrier membrane protein 1	protein-coding	-	-	-	-	20160910
 43179	101970362	LOC101970362	-	-	-	Un	-	UPF0454 protein C12orf49 homolog pseudogene	pseudo	-	-	-	-	20151115
 43179	101970363	Lzts1	-	-	Ensembl:ENSSTOG00000025467	Un	-	leucine zipper tumor suppressor 1	protein-coding	-	-	-	leucine zipper, putative tumor suppressor 1	20160910
@@ -22812,7 +22812,7 @@
 43179	101977966	LOC101977966	-	-	-	Un	-	60S ribosomal protein L9 pseudogene	pseudo	-	-	-	-	20151115
 43179	101977967	LOC101977967	-	-	Ensembl:ENSSTOG00000025614	Un	-	saoe class I histocompatibility antigen, A alpha chain-like	protein-coding	-	-	-	-	20160730
 43179	101977968	Atxn1l	-	-	Ensembl:ENSSTOG00000024179	Un	-	ataxin 1 like	protein-coding	-	-	-	-	20160910
-43179	101977969	Ly6g5b	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	-	20151115
+43179	101977969	Ly6g5b	-	-	-	Un	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5B	20170130
 43179	101977970	Daxx	-	-	Ensembl:ENSSTOG00000002441	Un	-	death domain associated protein	protein-coding	-	-	-	-	20160730
 43179	101977971	LOC101977971	-	-	-	Un	-	aspartate aminotransferase, mitochondrial pseudogene	pseudo	-	-	-	-	20151115
 43179	101977972	Fcrl6	-	-	Ensembl:ENSSTOG00000002291	Un	-	Fc receptor like 6	protein-coding	-	-	-	-	20160910

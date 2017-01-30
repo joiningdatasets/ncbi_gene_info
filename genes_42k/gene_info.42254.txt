@@ -2031,7 +2031,7 @@
 42254	101538852	LOC101538852	-	-	-	Un	-	olfactory receptor 6C6	protein-coding	-	-	-	-	20160903
 42254	101538853	LOC101538853	-	-	-	Un	-	alpha-1-acid glycoprotein-like	protein-coding	-	-	-	-	20160903
 42254	101538854	LOC101538854	-	-	-	Un	-	olfactory receptor 52H1-like	protein-coding	-	-	-	-	20160903
-42254	101538855	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	-	20160903
+42254	101538855	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6C	20170130
 42254	101538856	SLC4A8	-	-	-	Un	-	solute carrier family 4 member 8	protein-coding	-	-	-	-	20160903
 42254	101538857	ABHD12	-	-	-	Un	-	abhydrolase domain containing 12	protein-coding	-	-	-	-	20160903
 42254	101538859	SULT1C2	-	-	-	Un	-	sulfotransferase family 1C member 2	protein-coding	-	-	-	-	20160903
@@ -5040,7 +5040,7 @@
 42254	101542095	LOC101542095	-	-	-	Un	-	phosphoserine aminotransferase pseudogene	pseudo	-	-	-	-	20151115
 42254	101542096	LOC101542096	-	-	-	Un	-	THAP domain-containing protein 4-like	protein-coding	-	-	-	-	20151115
 42254	101542097	LOC101542097	-	-	-	Un	-	ETS domain-containing transcription factor ERF	protein-coding	-	-	-	-	20160903
-42254	101542098	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	-	20160811
+42254	101542098	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 42254	101542099	TMEM101	-	-	-	Un	-	transmembrane protein 101	protein-coding	-	-	-	-	20160903
 42254	101542100	ATG101	-	-	-	Un	-	autophagy related 101	protein-coding	-	-	-	-	20160903
 42254	101542101	GNB5	-	-	-	Un	-	G protein subunit beta 5	protein-coding	-	-	-	-	20160903
@@ -6595,7 +6595,7 @@
 42254	101543776	NKX6-2	-	-	-	Un	-	NK6 homeobox 2	protein-coding	-	-	-	-	20160903
 42254	101543777	PSMD12	-	-	-	Un	-	proteasome 26S subunit, non-ATPase 12	protein-coding	-	-	-	-	20160809
 42254	101543778	ART5	-	-	-	Un	-	ADP-ribosyltransferase 5	protein-coding	-	-	-	-	20160903
-42254	101543779	LY6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus D	protein-coding	-	-	-	-	20151115
+42254	101543779	LY6D	-	-	-	Un	-	lymphocyte antigen 6 family member D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus D	20170130
 42254	101543780	HAPLN2	-	-	-	Un	-	hyaluronan and proteoglycan link protein 2	protein-coding	-	-	-	-	20160903
 42254	101543781	LOC101543781	-	-	-	Un	-	1,25-dihydroxyvitamin D(3) 24-hydroxylase, mitochondrial	protein-coding	-	-	-	-	20160903
 42254	101543782	LOC101543782	-	-	-	Un	-	olfactory receptor 7D4-like	protein-coding	-	-	-	-	20160903
@@ -7323,7 +7323,7 @@
 42254	101544553	BPTF	-	-	-	Un	-	bromodomain PHD finger transcription factor	protein-coding	-	-	-	-	20160716
 42254	101544554	LOC101544554	-	-	-	Un	-	nuclear pore complex protein Nup98-Nup96-like	protein-coding	-	-	-	-	20160716
 42254	101544555	ACTN3	-	-	-	Un	-	actinin alpha 3	protein-coding	-	-	-	-	20160903
-42254	101544556	LY6E	-	-	-	Un	-	lymphocyte antigen 6 complex, locus E	protein-coding	-	-	-	-	20160903
+42254	101544556	LY6E	-	-	-	Un	-	lymphocyte antigen 6 family member E	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus E	20170130
 42254	101544557	TXNDC5	-	-	-	Un	-	thioredoxin domain containing 5	protein-coding	-	-	-	-	20160903
 42254	101544558	AMBRA1	-	-	-	Un	-	autophagy and beclin 1 regulator 1	protein-coding	-	-	-	-	20160903
 42254	101544559	MRPL24	-	-	-	Un	-	mitochondrial ribosomal protein L24	protein-coding	-	-	-	-	20160903
@@ -7828,7 +7828,7 @@
 42254	101545092	PLEKHB1	-	-	-	Un	-	pleckstrin homology domain containing B1	protein-coding	-	-	-	-	20160903
 42254	101545093	LOC101545093	-	-	-	Un	-	olfactory receptor 52E8-like	protein-coding	-	-	-	-	20160903
 42254	101545094	LOC101545094	-	RBM14|RBM4	-	Un	-	RNA-binding protein 14	protein-coding	-	-	-	RNA binding motif protein 14|RNA binding motif protein 4	20160903
-42254	101545095	LY6H	-	-	-	Un	-	lymphocyte antigen 6 complex, locus H	protein-coding	-	-	-	-	20160903
+42254	101545095	LY6H	-	-	-	Un	-	lymphocyte antigen 6 family member H	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus H	20170130
 42254	101545096	SNRNP48	-	-	-	Un	-	small nuclear ribonucleoprotein U11/U12 subunit 48	protein-coding	-	-	-	-	20160729
 42254	101545097	INSRR	-	-	-	Un	-	insulin receptor related receptor	protein-coding	-	-	-	-	20160903
 42254	101545098	LOC101545098	-	BCAS1	-	Un	-	breast carcinoma-amplified sequence 1 homolog	protein-coding	-	-	-	breast carcinoma amplified sequence 1	20151115
@@ -13166,7 +13166,7 @@
 42254	101550874	LOC101550874	-	-	-	Un	-	olfactory receptor 18-like	protein-coding	-	-	-	-	20160903
 42254	101550875	PHF7	-	-	-	Un	-	PHD finger protein 7	protein-coding	-	-	-	-	20160903
 42254	101550876	ITGAM	-	-	-	Un	-	integrin subunit alpha M	protein-coding	-	-	-	-	20160903
-42254	101550877	AUTS2	-	-	-	Un	-	autism susceptibility candidate 2	protein-coding	-	-	-	-	20160716
+42254	101550877	AUTS2	-	-	-	Un	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility candidate 2	20170130
 42254	101550878	HSD11B1	-	-	-	Un	-	hydroxysteroid 11-beta dehydrogenase 1	protein-coding	-	-	-	-	20160903
 42254	101550879	PDE4A	-	-	-	Un	-	phosphodiesterase 4A	protein-coding	-	-	-	-	20160903
 42254	101550880	GXYLT1	-	-	-	Un	-	glucoside xylosyltransferase 1	protein-coding	-	-	-	-	20151115

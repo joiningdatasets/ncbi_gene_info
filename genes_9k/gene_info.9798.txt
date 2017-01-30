@@ -2070,7 +2070,7 @@
 9798	103541950	ZNF469	-	-	-	Un	-	zinc finger protein 469	protein-coding	-	-	-	-	20160917
 9798	103541951	RLIM	-	-	-	Un	-	ring finger protein, LIM domain interacting	protein-coding	-	-	-	-	20160917
 9798	103541952	LOC103541952	-	-	-	Un	-	uncharacterized LOC103541952	ncRNA	-	-	-	-	20151115
-9798	103541953	LY6H	-	-	-	Un	-	lymphocyte antigen 6 complex, locus H	protein-coding	-	-	-	-	20160924
+9798	103541953	LY6H	-	-	-	Un	-	lymphocyte antigen 6 family member H	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus H	20170130
 9798	103541954	LOC103541954	-	-	-	Un	-	poly(A) polymerase alpha pseudogene	pseudo	-	-	-	-	20151115
 9798	103541955	LOC103541955	-	-	-	Un	-	protein unc-13 homolog B-like	protein-coding	-	-	-	-	20160917
 9798	103541956	LOC103541956	-	-	-	Un	-	uncharacterized LOC103541956	ncRNA	-	-	-	-	20151115
@@ -4274,7 +4274,7 @@
 9798	103544154	TERF2IP	-	-	-	Un	-	TERF2 interacting protein	protein-coding	-	-	-	-	20160917
 9798	103544155	LOC103544155	-	-	-	Un	-	uncharacterized LOC103544155	ncRNA	-	-	-	-	20151115
 9798	103544156	LOC103544156	-	-	-	Un	-	isoaspartyl peptidase/L-asparaginase-like	protein-coding	-	-	-	-	20151115
-9798	103544157	LY6E	-	-	-	Un	-	lymphocyte antigen 6 complex, locus E	protein-coding	-	-	-	-	20160917
+9798	103544157	LY6E	-	-	-	Un	-	lymphocyte antigen 6 family member E	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus E	20170130
 9798	103544158	LOC103544158	-	-	-	Un	-	uncharacterized LOC103544158	ncRNA	-	-	-	-	20151115
 9798	103544159	DDX17	-	-	-	Un	-	DEAD-box helicase 17	protein-coding	-	-	-	-	20160729
 9798	103544160	LOC103544160	-	-	-	Un	-	uncharacterized LOC103544160	ncRNA	-	-	-	-	20151115
@@ -8247,7 +8247,7 @@
 9798	103548127	LOC103548127	-	-	-	Un	-	uncharacterized LOC103548127	ncRNA	-	-	-	-	20151115
 9798	103548128	SERPINB6	-	-	-	Un	-	serpin family B member 6	protein-coding	-	-	-	-	20160924
 9798	103548129	LOC103548129	-	-	-	Un	-	uncharacterized LOC103548129	ncRNA	-	-	-	-	20151115
-9798	103548130	NQO2	-	-	-	Un	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	-	20160917
+9798	103548130	NQO2	-	-	-	Un	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	NAD(P)H quinone dehydrogenase 2	20170130
 9798	103548131	WRNIP1	-	-	-	Un	-	Werner helicase interacting protein 1	protein-coding	-	-	-	-	20160917
 9798	103548132	LOC103548132	-	-	-	Un	-	uncharacterized LOC103548132	protein-coding	-	-	-	-	20151115
 9798	103548133	MRPL14	-	-	-	Un	-	mitochondrial ribosomal protein L14	protein-coding	-	-	-	-	20160917
@@ -13914,7 +13914,7 @@
 9798	103553794	LOC103553794	-	-	-	Un	-	uncharacterized LOC103553794	ncRNA	-	-	-	-	20151115
 9798	103553795	LOC103553795	-	-	-	Un	-	olfactory receptor 52I2-like	pseudo	-	-	-	-	20151115
 9798	103553796	ETAA1	-	-	-	Un	-	Ewing tumor associated antigen 1	protein-coding	-	-	-	-	20160917
-9798	103553797	AUTS2	-	-	-	Un	-	autism susceptibility candidate 2	protein-coding	-	-	-	-	20160917
+9798	103553797	AUTS2	-	-	-	Un	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility candidate 2	20170130
 9798	103553798	LOC103553798	-	-	-	Un	-	uncharacterized LOC103553798	ncRNA	-	-	-	-	20151115
 9798	103553799	PAK1	-	-	-	Un	-	p21 (RAC1) activated kinase 1	protein-coding	-	-	-	-	20160729
 9798	103553800	LOC103553800	-	-	-	Un	-	uncharacterized LOC103553800	ncRNA	-	-	-	-	20151115
@@ -22598,12 +22598,12 @@
 9798	103562478	LOC103562478	-	-	-	Un	-	chromosome unknown open reading frame, human C6orf47	protein-coding	-	-	-	-	20160917
 9798	103562479	CSNK2B	-	-	-	Un	-	casein kinase 2 beta	protein-coding	-	-	-	-	20160729
 9798	103562480	GPANK1	-	-	-	Un	-	G-patch domain and ankyrin repeats 1	protein-coding	-	-	-	-	20160917
-9798	103562481	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	-	20151115
-9798	103562482	LY6G6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6D	protein-coding	-	-	-	-	20151115
-9798	103562483	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	-	20160924
+9798	103562481	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5B	20170130
+9798	103562482	LY6G6D	-	-	-	Un	-	lymphocyte antigen 6 family member G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6D	20170130
+9798	103562483	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6F	20170130
 9798	103562484	ABHD16A	-	-	-	Un	-	abhydrolase domain containing 16A	protein-coding	-	-	-	-	20160924
-9798	103562485	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	-	20151115
-9798	103562486	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	-	20160917
+9798	103562485	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5C	20170130
+9798	103562486	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6C	20170130
 9798	103562487	DDAH2	-	-	-	Un	-	dimethylarginine dimethylaminohydrolase 2	protein-coding	-	-	-	-	20160917
 9798	103562488	MSH5	-	-	-	Un	-	mutS homolog 5	protein-coding	-	-	-	-	20160917
 9798	103562489	CLIC1	-	-	-	Un	-	chloride intracellular channel 1	protein-coding	-	-	-	-	20151115
@@ -25800,7 +25800,7 @@
 9798	103565680	APOBEC3H	-	-	-	Un	-	apolipoprotein B mRNA editing enzyme catalytic subunit 3H	protein-coding	-	-	-	-	20160917
 9798	103565681	LOC103565681	-	-	-	Un	-	cytochrome P450 4B1-like	pseudo	-	-	-	-	20151115
 9798	103565682	STRADB	-	-	-	Un	-	STE20-related kinase adaptor beta	protein-coding	-	-	-	-	20160910
-9798	103565683	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	-	20160811
+9798	103565683	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 9798	103565684	TRAK2	-	-	-	Un	-	trafficking kinesin protein 2	protein-coding	-	-	-	-	20160917
 9798	103565685	CASP8	-	-	-	Un	-	caspase 8	protein-coding	-	-	-	-	20160924
 9798	103565686	LOC103565686	-	-	-	Un	-	uncharacterized LOC103565686	protein-coding	-	-	-	-	20160917
@@ -27646,10 +27646,10 @@
 9798	103567526	FOXK1	-	-	-	Un	-	forkhead box K1	protein-coding	-	-	-	-	20160917
 9798	103567527	THEM6	-	-	-	Un	-	thioesterase superfamily member 6	protein-coding	-	-	-	-	20160917
 9798	103567528	LOC103567528	-	-	-	Un	-	ly6/PLAUR domain-containing protein 2-like	protein-coding	-	-	-	-	20151115
-9798	103567529	LY6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus D	protein-coding	-	-	-	-	20160917
+9798	103567529	LY6D	-	-	-	Un	-	lymphocyte antigen 6 family member D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus D	20170130
 9798	103567530	LOC103567530	-	-	-	Un	-	uncharacterized LOC103567530	ncRNA	-	-	-	-	20151115
 9798	103567531	LOC103567531	-	-	-	Un	-	ly6/PLAUR domain-containing protein 2-like	protein-coding	-	-	-	-	20160716
-9798	103567532	LY6K	-	-	-	Un	-	lymphocyte antigen 6 complex, locus K	protein-coding	-	-	-	-	20160917
+9798	103567532	LY6K	-	-	-	Un	-	lymphocyte antigen 6 family member K	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus K	20170130
 9798	103567533	LOC103567533	-	-	-	Un	-	uncharacterized LOC103567533	ncRNA	-	-	-	-	20151115
 9798	103567534	LOC103567534	-	-	-	Un	-	chromobox protein homolog 3 pseudogene	pseudo	-	-	-	-	20151115
 9798	103567535	SELENOW	-	SEPW1	-	Un	-	selenoprotein W	protein-coding	-	-	-	selenoprotein W, 1	20160924

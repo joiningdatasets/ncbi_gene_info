@@ -3728,7 +3728,7 @@
 225400	102755118	RAB5A	-	-	-	Un	-	RAB5A, member RAS oncogene family	protein-coding	-	-	-	ras-related protein Rab-5A	20170125
 225400	102755119	TUSC2	MDA_GLEAN10023201	-	-	Un	-	tumor suppressor candidate 2	protein-coding	-	-	-	tumor suppressor candidate 2	20170125
 225400	102755120	FAM96A	MDA_GLEAN10015325	-	-	Un	-	family with sequence similarity 96 member A	protein-coding	-	-	-	MIP18 family protein FAM96A	20170125
-225400	102755121	AUTS2	MDA_GLEAN10017249	-	-	Un	-	autism susceptibility candidate 2	protein-coding	-	-	-	LOW QUALITY PROTEIN: autism susceptibility gene 2 protein|Autism susceptibility protein 2 protein	20170125
+225400	102755121	AUTS2	MDA_GLEAN10017249	-	-	Un	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	LOW QUALITY PROTEIN: autism susceptibility gene 2 protein|Autism susceptibility protein 2 protein|autism susceptibility candidate 2	20170130
 225400	102755122	YIF1A	MDA_GLEAN10017870	-	-	Un	-	Yip1 interacting factor homolog A, membrane trafficking protein	protein-coding	-	-	-	protein YIF1A|Protein YIF1A	20170125
 225400	102755123	PLCB3	MDA_GLEAN10017958	-	-	Un	-	phospholipase C beta 3	protein-coding	-	-	-	1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta-3|1-phosphatidylinositol-4,5-bisphosphate phosphodiesterase beta-3|phospholipase C, beta 3 (phosphatidylinositol-specific)	20170125
 225400	102755124	LOC102755124	-	-	-	Un	-	glycerophosphodiester phosphodiesterase 1 pseudogene	pseudo	-	-	-	-	20160211
@@ -10732,7 +10732,7 @@
 225400	102762593	LRRC17	-	-	-	Un	-	leucine rich repeat containing 17	protein-coding	-	-	-	leucine-rich repeat-containing protein 17	20170125
 225400	102762594	LOC102762594	-	-	-	Un	-	uncharacterized LOC102762594	ncRNA	-	-	-	-	20160211
 225400	102762595	TIFA	-	-	-	Un	-	TRAF interacting protein with forkhead associated domain	protein-coding	-	-	-	TRAF-interacting protein with FHA domain-containing protein A	20170125
-225400	102762596	ALS2CR12	MDA_GLEAN10008507	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosomal region candidate gene 12 protein|Amyotrophic lateral sclerosis 2 chromosomal region candidate protein 12 protein|amyotrophic lateral sclerosis 2 (juvenile) chromosome region, candidate 12	20170125
+225400	102762596	ALS2CR12	MDA_GLEAN10008507	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosomal region candidate gene 12 protein|Amyotrophic lateral sclerosis 2 chromosomal region candidate protein 12 protein|amyotrophic lateral sclerosis 2 (juvenile) chromosome region, candidate 12|amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 225400	102762597	TMEM161B	-	-	-	Un	-	transmembrane protein 161B	protein-coding	-	-	-	transmembrane protein 161B	20170125
 225400	102762598	FAM81B	-	-	-	Un	-	family with sequence similarity 81 member B	protein-coding	-	-	-	protein FAM81B	20170125
 225400	102762599	CNNM2	MDA_GLEAN10023346	-	-	Un	-	cyclin and CBS domain divalent metal cation transport mediator 2	protein-coding	-	-	-	metal transporter CNNM2|Metal transporter CNNM2|cyclin M2	20170125
@@ -10978,7 +10978,7 @@
 225400	102762849	SECTM1	MDA_GLEAN10010216	-	-	Un	-	secreted and transmembrane 1	protein-coding	-	-	-	secreted and transmembrane protein 1|Secreted and transmembrane protein 1	20170125
 225400	102762851	CHRAC1	-	-	-	Un	-	chromatin accessibility complex 1	protein-coding	-	-	-	chromatin accessibility complex protein 1	20170125
 225400	102762852	FEN1	MDA_GLEAN10009067	-	-	Un	-	flap structure-specific endonuclease 1	protein-coding	-	-	-	flap endonuclease 1|Flap endonuclease 1	20170125
-225400	102762853	LY6G5B	MDA_GLEAN10005626	-	-	Un	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G5b|Lymphocyte antigen 6 complex locus protein G5b	20170125
+225400	102762853	LY6G5B	MDA_GLEAN10005626	-	-	Un	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G5b|Lymphocyte antigen 6 complex locus protein G5b|lymphocyte antigen 6 complex, locus G5B	20170130
 225400	102762854	PPP2R1A	-	-	-	Un	-	protein phosphatase 2 scaffold subunit Aalpha	protein-coding	-	-	-	serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A alpha isoform	20170125
 225400	102762855	TRMT1L	MDA_GLEAN10017484	-	-	Un	-	tRNA methyltransferase 1 like	protein-coding	-	-	-	TRMT1-like protein|tRNA methyltransferase 1 homolog (S. cerevisiae)-like	20170125
 225400	102762856	LOC102762856	-	-	-	Un	-	butyrophilin subfamily 3 member A2-like	protein-coding	-	-	-	LOW QUALITY PROTEIN: butyrophilin subfamily 3 member A2-like	20170125
@@ -11247,7 +11247,7 @@
 225400	102763134	KCNK9	-	-	-	Un	-	potassium two pore domain channel subfamily K member 9	protein-coding	-	-	-	potassium channel subfamily K member 9|potassium channel, subfamily K, member 9	20170125
 225400	102763136	OXSM	MDA_GLEAN10006481	-	-	Un	-	3-oxoacyl-ACP synthase, mitochondrial	protein-coding	-	-	-	3-oxoacyl-[acyl-carrier-protein] synthase, mitochondrial	20170125
 225400	102763137	FADS3	MDA_GLEAN10009070	-	-	Un	-	fatty acid desaturase 3	protein-coding	-	-	-	LOW QUALITY PROTEIN: fatty acid desaturase 3	20170125
-225400	102763138	LY6G5C	MDA_GLEAN10005627	-	-	Un	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G5c|Lymphocyte antigen 6 complex locus protein G5c	20170125
+225400	102763138	LY6G5C	MDA_GLEAN10005627	-	-	Un	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G5c|Lymphocyte antigen 6 complex locus protein G5c|lymphocyte antigen 6 complex, locus G5C	20170130
 225400	102763139	LOC102763139	-	-	-	Un	-	zinc finger protein 615-like	protein-coding	-	-	-	LOW QUALITY PROTEIN: zinc finger protein 615-like	20170125
 225400	102763140	FAM129A	MDA_GLEAN10017486	-	-	Un	-	family with sequence similarity 129 member A	protein-coding	-	-	-	protein Niban|Protein Niban	20170125
 225400	102763141	LOC102763141	MDA_GLEAN10019646	-	-	Un	-	chromosome unknown open reading frame, human C8orf48	protein-coding	-	-	-	uncharacterized protein C8orf48 homolog	20170125
@@ -11520,7 +11520,7 @@
 225400	102763424	LOC102763424	MDA_GLEAN10010223	-	-	Un	-	chromosome unknown open reading frame, human C17orf62	protein-coding	-	-	-	uncharacterized protein C17orf62 homolog	20170125
 225400	102763426	COL22A1	-	-	-	Un	-	collagen type XXII alpha 1 chain	protein-coding	-	-	-	LOW QUALITY PROTEIN: collagen alpha-1(XXII) chain|collagen, type XXII, alpha 1	20170125
 225400	102763427	SLC4A7	MDA_GLEAN10006478	-	-	Un	-	solute carrier family 4 member 7	protein-coding	-	-	-	sodium bicarbonate cotransporter 3|Sodium bicarbonate cotransporter 3	20170125
-225400	102763429	LY6G6F	MDA_GLEAN10005629	-	-	Un	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6f|Lymphocyte antigen 6 complex locus protein G6f	20170125
+225400	102763429	LY6G6F	MDA_GLEAN10005629	-	-	Un	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6f|Lymphocyte antigen 6 complex locus protein G6f|lymphocyte antigen 6 complex, locus G6F	20170130
 225400	102763430	LOC102763430	-	-	-	Un	-	zinc finger protein 211-like	protein-coding	-	-	-	LOW QUALITY PROTEIN: zinc finger protein 211-like	20170125
 225400	102763431	LOC102763431	-	-	-	Un	-	lysine--tRNA ligase pseudogene	pseudo	-	-	-	-	20160211
 225400	102763432	SGCZ	MDA_GLEAN10019647	-	-	Un	-	sarcoglycan zeta	protein-coding	-	-	-	zeta-sarcoglycan|Zeta-sarcoglycan	20170125
@@ -12071,7 +12071,7 @@
 225400	102764007	KHDRBS3	MDA_GLEAN10015389	-	-	Un	-	KH RNA binding domain containing, signal transduction associated 3	protein-coding	-	-	-	KH domain-containing, RNA-binding, signal transduction-associated protein 3|KH domain-containing, RNA-binding, signal transduction-associated protein 2	20170125
 225400	102764008	LOC102764008	MDA_GLEAN10007563	-	-	Un	-	solute carrier family 35 member E2	protein-coding	-	-	-	solute carrier family 35 member E2	20170125
 225400	102764009	LOC102764009	-	-	-	Un	-	60S ribosomal protein L39 pseudogene	pseudo	-	-	-	-	20160211
-225400	102764010	LY6G6C	MDA_GLEAN10005631	-	-	Un	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6c|Lymphocyte antigen 6 complex locus protein G6c	20170125
+225400	102764010	LY6G6C	MDA_GLEAN10005631	-	-	Un	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6c|Lymphocyte antigen 6 complex locus protein G6c|lymphocyte antigen 6 complex, locus G6C	20170130
 225400	102764011	LOC102764011	-	-	-	Un	-	40S ribosomal protein S29 pseudogene	pseudo	-	-	-	-	20160211
 225400	102764012	LOC102764012	-	-	-	Un	-	succinyl-CoA ligase [ADP/GDP-forming] subunit alpha, mitochondrial pseudogene	pseudo	-	-	-	-	20160211
 225400	102764013	COLGALT2	MDA_GLEAN10017496	-	-	Un	-	collagen beta(1-O)galactosyltransferase 2	protein-coding	-	-	-	procollagen galactosyltransferase 2|Procollagen galactosyltransferase 2	20170125
@@ -14988,7 +14988,7 @@
 225400	102767112	ASAP2	MDA_GLEAN10012544	-	-	Un	-	ArfGAP with SH3 domain, ankyrin repeat and PH domain 2	protein-coding	-	-	-	arf-GAP with SH3 domain, ANK repeat and PH domain-containing protein 2|Arf-GAP with SH3 domain, ANK repeat and PH domain-containing protein 2	20170125
 225400	102767113	RNF122	MDA_GLEAN10024948	-	-	Un	-	ring finger protein 122	protein-coding	-	-	-	RING finger protein 122	20170125
 225400	102767114	FBXL16	MDA_GLEAN10007621	-	-	Un	-	F-box and leucine rich repeat protein 16	protein-coding	-	-	-	F-box/LRR-repeat protein 16	20170125
-225400	102767115	NQO2	MDA_GLEAN10009275	-	-	Un	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	ribosyldihydronicotinamide dehydrogenase [quinone]|Ribosyldihydronicotinamide dehydrogenase	20170125
+225400	102767115	NQO2	MDA_GLEAN10009275	-	-	Un	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	ribosyldihydronicotinamide dehydrogenase [quinone]|NAD(P)H quinone dehydrogenase 2|Ribosyldihydronicotinamide dehydrogenase	20170130
 225400	102767116	LOC102767116	-	-	-	Un	-	uncharacterized LOC102767116	ncRNA	-	-	-	-	20160211
 225400	102767117	SSR4	MDA_GLEAN10006523	-	-	Un	-	signal sequence receptor subunit 4	protein-coding	-	-	-	translocon-associated protein subunit delta|Translocon-associated protein subunit delta	20170125
 225400	102767118	LOC102767118	-	-	-	Un	-	phosphatidylinositol 3-kinase regulatory subunit beta pseudogene	pseudo	-	-	-	-	20160211
@@ -26426,7 +26426,7 @@
 225400	107184877	LOC107184877	-	-	-	Un	-	60S ribosomal protein L23a pseudogene	pseudo	-	-	-	-	20160212
 225400	107184878	LOC107184878	-	-	-	Un	-	uncharacterized LOC107184878	ncRNA	-	-	-	-	20160212
 225400	107184879	LOC107184879	-	-	-	Un	-	epiplakin-like	protein-coding	-	-	-	epiplakin-like	20170125
-225400	107184880	LY6H	-	-	-	Un	-	lymphocyte antigen 6 complex, locus H	protein-coding	-	-	-	lymphocyte antigen 6H	20170125
+225400	107184880	LY6H	-	-	-	Un	-	lymphocyte antigen 6 family member H	protein-coding	-	-	-	lymphocyte antigen 6H|lymphocyte antigen 6 complex, locus H	20170130
 225400	107184881	LOC107184881	-	-	-	Un	-	uncharacterized LOC107184881	ncRNA	-	-	-	-	20160212
 225400	107184882	LOC107184882	-	-	-	Un	-	uncharacterized LOC107184882	ncRNA	-	-	-	-	20160212
 225400	107184883	LOC107184883	-	-	-	Un	-	uncharacterized LOC107184883	ncRNA	-	-	-	-	20160212

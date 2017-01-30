@@ -7638,7 +7638,7 @@
 61853	100588529	RAB42	-	-	-	24	-	RAB42, member RAS oncogene family	protein-coding	-	-	-	-	20160822
 61853	100588530	IFNLR1	-	IL28RA	-	24	-	interferon lambda receptor 1	protein-coding	-	-	-	interleukin 28 receptor, alpha (interferon, lambda receptor)	20160822
 61853	100588531	DEUP1	-	-	-	15	-	deuterosome assembly protein 1	protein-coding	-	-	-	-	20160822
-61853	100588533	LY6G5B	-	-	-	1a	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	-	20160822
+61853	100588533	LY6G5B	-	-	-	1a	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5B	20170130
 61853	100588534	ROBO4	-	-	-	15	-	roundabout guidance receptor 4	protein-coding	-	-	-	roundabout homolog 4, magic roundabout	20160822
 61853	100588535	L3MBTL1	-	-	-	13	-	l(3)mbt-like 1 (Drosophila)	protein-coding	-	-	-	-	20160827
 61853	100588537	MMGT1	-	-	-	X	-	membrane magnesium transporter 1	protein-coding	-	-	-	-	20160822
@@ -7914,7 +7914,7 @@
 61853	100588863	OPRD1	-	-	-	24	-	opioid receptor delta 1	protein-coding	-	-	-	-	20160822
 61853	100588864	EYA3	-	-	-	24	-	EYA transcriptional coactivator and phosphatase 3	protein-coding	-	-	-	eyes absent homolog 3	20160822
 61853	100588866	SMCO4	-	-	-	15	-	single-pass membrane protein with coiled-coil domains 4	protein-coding	-	-	-	-	20160917
-61853	100588867	LY6G5C	-	-	-	1a	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	-	20160822
+61853	100588867	LY6G5C	-	-	-	1a	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5C	20170130
 61853	100588868	SLC37A2	-	-	-	15	-	solute carrier family 37 member 2	protein-coding	-	-	-	solute carrier family 37 (glycerol-3-phosphate transporter), member 2	20160822
 61853	100588870	ASIC4	-	ACCN4	-	22a	-	acid sensing ion channel subunit family member 4	protein-coding	-	-	-	acid-sensing (proton-gated) ion channel family member 4|amiloride-sensitive cation channel 4, pituitary	20160822
 61853	100588871	MTX2	-	-	-	22a	-	metaxin 2	protein-coding	-	-	-	-	20160822
@@ -8466,7 +8466,7 @@
 61853	100589525	CFAP97	-	-	-	7b	-	cilia and flagella associated protein 97	protein-coding	-	-	-	-	20160822
 61853	100589527	NABP2	-	-	-	11	-	nucleic acid binding protein 2	protein-coding	-	-	-	-	20160822
 61853	100589528	ATPIF1	-	-	-	24	-	ATPase inhibitory factor 1	protein-coding	-	-	-	-	20160822
-61853	100589529	LY6G6F	-	-	-	1a	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	-	20160822
+61853	100589529	LY6G6F	-	-	-	1a	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6F	20170130
 61853	100589530	LOC100589530	-	-	-	8	-	uncharacterized LOC100589530	ncRNA	-	-	-	-	20160822
 61853	100589531	PATE4	-	-	-	15	-	prostate and testis expressed 4	protein-coding	-	-	-	-	20160822
 61853	100589532	ANKAR	-	-	-	22a	-	ankyrin and armadillo repeat containing	protein-coding	-	-	-	-	20160822
@@ -10037,7 +10037,7 @@
 61853	100591453	LOC100591453	-	-	-	11	-	delta(3,5)-Delta(2,4)-dienoyl-CoA isomerase, mitochondrial	protein-coding	-	-	-	-	20160822
 61853	100591455	LOC100591455	-	-	-	15	-	centrosomal protein of 295 kDa-like	protein-coding	-	-	-	-	20160822
 61853	100591456	ZNF391	-	-	-	1a	-	zinc finger protein 391	protein-coding	-	-	-	-	20160822
-61853	100591457	LY6G6C	-	-	-	1a	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	-	20160822
+61853	100591457	LY6G6C	-	-	-	1a	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6C	20170130
 61853	100591458	PLCG1	-	-	-	13	-	phospholipase C gamma 1	protein-coding	-	-	-	-	20160822
 61853	100591459	LOC100591459	-	-	-	14	-	phosphatidylinositol 4-kinase type 2-alpha-like	pseudo	-	-	-	-	20160822
 61853	100591460	SLC38A8	-	-	-	2	-	solute carrier family 38 member 8	protein-coding	-	-	-	-	20160822
@@ -11465,7 +11465,7 @@
 61853	100593189	SPEN	-	-	-	24	-	spen family transcriptional repressor	protein-coding	-	-	-	spen homolog, transcriptional regulator	20160822
 61853	100593190	CHRM2	-	-	-	13	-	cholinergic receptor muscarinic 2	protein-coding	-	-	-	-	20160822
 61853	100593191	LOC100593191	-	-	-	10	-	60S ribosomal protein L11 pseudogene	pseudo	-	-	-	-	20160822
-61853	100593193	LY6D	-	-	-	16	-	lymphocyte antigen 6 complex, locus D	protein-coding	-	-	-	-	20160822
+61853	100593193	LY6D	-	-	-	16	-	lymphocyte antigen 6 family member D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus D	20170130
 61853	100593195	PPP3R1	-	-	-	14	-	protein phosphatase 3 regulatory subunit B, alpha	protein-coding	-	-	-	-	20160822
 61853	100593196	LOC100593196	-	-	-	4	-	olfactory receptor 4C16-like	protein-coding	-	-	-	-	20160827
 61853	100593199	KCNN4	-	-	-	17	-	potassium calcium-activated channel subfamily N member 4	protein-coding	-	-	-	potassium intermediate/small conductance calcium-activated channel, subfamily N, member 4	20160822
@@ -12161,7 +12161,7 @@
 61853	100594050	LINC01620	-	-	-	13	-	long intergenic non-protein coding RNA 1620	protein-coding	-	-	-	-	20160822
 61853	100594051	KCNE4	-	-	-	22a	-	potassium voltage-gated channel subfamily E regulatory subunit 4	protein-coding	-	-	-	potassium voltage-gated channel, Isk-related family, member 4	20160822
 61853	100594052	LOC100594052	-	-	-	Un	-	60S ribosomal protein L22 pseudogene	pseudo	-	-	-	-	20160822
-61853	100594053	ALS2CR12	-	-	-	22a	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	-	20160822
+61853	100594053	ALS2CR12	-	-	-	22a	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 61853	100594054	HR	-	-	-	8	-	HR, lysine demethylase and nuclear receptor corepressor	protein-coding	-	-	-	hair growth associated	20161021
 61853	100594055	TYR	-	-	-	15	-	tyrosinase	protein-coding	-	-	-	tyrosinase (oculocutaneous albinism IA)	20161221
 61853	100594056	LOC100594056	-	-	-	15	-	activating transcription factor 7-interacting protein 2-like	pseudo	-	-	-	-	20160822
@@ -12302,7 +12302,7 @@
 61853	100594218	KAZN	-	-	-	24	-	kazrin, periplakin interacting protein	protein-coding	-	-	-	-	20160822
 61853	100594219	LOC100594219	-	-	-	2	-	60S ribosomal protein L7-like	pseudo	-	-	-	-	20160822
 61853	100594220	LOC100594220	-	-	-	21	-	transcription factor BTF3 pseudogene	pseudo	-	-	-	-	20160822
-61853	100594221	LY6E	-	-	-	16	-	lymphocyte antigen 6 complex, locus E	protein-coding	-	-	-	-	20160822
+61853	100594221	LY6E	-	-	-	16	-	lymphocyte antigen 6 family member E	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus E	20170130
 61853	100594222	DCX	-	-	-	X	-	doublecortin	protein-coding	-	-	-	-	20160827
 61853	100594224	LOC100594224	-	-	-	4	-	olfactory receptor 140-like	protein-coding	-	-	-	-	20160822
 61853	100594228	SLFN13	-	-	-	19	-	schlafen family member 13	protein-coding	-	-	-	-	20160827
@@ -13218,7 +13218,7 @@
 61853	100595377	AQP4	-	-	-	4	-	aquaporin 4	protein-coding	-	-	-	-	20160822
 61853	100595378	LOC100595378	-	-	-	Un	-	angiogenic factor with G patch and FHA domains 1 pseudogene	pseudo	-	-	-	-	20160822
 61853	100595379	TMPRSS3	-	-	-	25	-	transmembrane protease, serine 3	protein-coding	-	-	-	-	20160822
-61853	100595380	LY6H	-	-	-	16	-	lymphocyte antigen 6 complex, locus H	protein-coding	-	-	-	-	20160822
+61853	100595380	LY6H	-	-	-	16	-	lymphocyte antigen 6 family member H	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus H	20170130
 61853	100595382	LOC100595382	-	-	-	X	-	cancer/testis antigen 47B-like	protein-coding	-	-	-	-	20160822
 61853	100595383	CCDC85A	-	-	-	14	-	coiled-coil domain containing 85A	protein-coding	-	-	-	-	20160822
 61853	100595385	PROKR1	-	-	-	14	-	prokineticin receptor 1	protein-coding	-	-	-	-	20160822
@@ -15260,7 +15260,7 @@
 61853	100597912	LOC100597912	-	-	-	7b	-	tetratricopeptide repeat protein 39C pseudogene	pseudo	-	-	-	-	20160822
 61853	100597914	SRSF4	-	-	-	24	-	serine and arginine rich splicing factor 4	protein-coding	-	-	-	-	20160822
 61853	100597916	LOC100597916	-	-	-	13	-	ferritin light chain-like	pseudo	-	-	-	-	20160822
-61853	100597917	NQO2	-	-	-	8	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	-	20160822
+61853	100597917	NQO2	-	-	-	8	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	NAD(P)H quinone dehydrogenase 2	20170130
 61853	100597921	SERTAD4	-	-	-	5	-	SERTA domain containing 4	protein-coding	-	-	-	-	20160822
 61853	100597923	METTL15	-	-	-	15	-	methyltransferase like 15	protein-coding	-	-	-	-	20160822
 61853	100597925	SFXN3	-	-	-	3	-	sideroflexin 3	protein-coding	-	-	-	-	20160822
@@ -19789,7 +19789,7 @@
 61853	100603403	RABEP2	-	-	-	2	-	rabaptin, RAB GTPase binding effector protein 2	protein-coding	-	-	-	-	20160822
 61853	100603404	BRWD1	-	-	-	25	-	bromodomain and WD repeat domain containing 1	protein-coding	-	-	-	-	20160822
 61853	100603406	LOC100603406	-	-	-	X	-	BTB/POZ domain-containing protein KCTD9-like	protein-coding	-	-	-	-	20160822
-61853	100603407	LY6K	-	-	-	16	-	lymphocyte antigen 6 complex, locus K	protein-coding	-	-	-	-	20160822
+61853	100603407	LY6K	-	-	-	16	-	lymphocyte antigen 6 family member K	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus K	20170130
 61853	100603408	SMARCA1	-	-	-	X	-	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 1	protein-coding	-	-	-	-	20160822
 61853	100603409	TEP1	-	-	-	22a	-	telomerase associated protein 1	protein-coding	-	-	-	-	20160822
 61853	100603410	PCP2	-	-	-	10	-	Purkinje cell protein 2	protein-coding	-	-	-	Purkinje cell protein 2 homolog	20160822
@@ -22147,7 +22147,7 @@
 61853	100606259	TRIM59	-	-	-	11	-	tripartite motif containing 59	protein-coding	-	-	-	-	20160822
 61853	100606260	TMEM212	-	-	-	11	-	transmembrane protein 212	protein-coding	-	-	-	-	20160822
 61853	100606261	DEGS2	-	-	-	22a	-	delta 4-desaturase, sphingolipid 2	protein-coding	-	-	-	-	20160822
-61853	100606262	AUTS2	-	-	-	17	-	autism susceptibility candidate 2	protein-coding	-	-	-	-	20160822
+61853	100606262	AUTS2	-	-	-	17	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility candidate 2	20170130
 61853	100606263	TAF3	-	-	-	9	-	TATA-box binding protein associated factor 3	protein-coding	-	-	-	-	20160822
 61853	100606264	PFKFB1	-	-	-	X	-	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 1	protein-coding	-	-	-	-	20160827
 61853	100606265	LOC100606265	-	-	-	9	-	pre-mRNA-splicing factor 38A pseudogene	pseudo	-	-	-	-	20160822

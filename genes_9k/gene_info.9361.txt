@@ -5367,7 +5367,7 @@
 9361	101416908	TNFRSF13B	-	-	Ensembl:ENSDNOG00000033413	Un	-	TNF receptor superfamily member 13B	protein-coding	-	-	-	-	20160729
 9361	101416909	TNFRSF11A	-	-	-	Un	-	TNF receptor superfamily member 11a	protein-coding	-	-	-	-	20160729
 9361	101416910	GSDMA	-	-	-	Un	-	gasdermin A	protein-coding	-	-	-	-	20160716
-9361	101416911	NQO2	-	-	Ensembl:ENSDNOG00000031821	Un	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	-	20160827
+9361	101416911	NQO2	-	-	Ensembl:ENSDNOG00000031821	Un	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	NAD(P)H quinone dehydrogenase 2	20170130
 9361	101416912	XRCC4	-	-	Ensembl:ENSDNOG00000039320	Un	-	X-ray repair cross complementing 4	protein-coding	-	-	-	-	20160827
 9361	101416913	LOC101416913	-	-	-	Un	-	elongation factor 1-alpha 1 pseudogene	pseudo	-	-	-	-	20151115
 9361	101416914	LOC101416914	-	-	-	Un	-	fructose-bisphosphate aldolase B pseudogene	pseudo	-	-	-	-	20151115
@@ -8949,7 +8949,7 @@
 9361	101421178	ASH2L	-	-	Ensembl:ENSDNOG00000009759	Un	-	ASH2 like histone lysine methyltransferase complex subunit	protein-coding	-	-	-	-	20160827
 9361	101421179	NELFE	-	-	Ensembl:ENSDNOG00000041886	Un	-	negative elongation factor complex member E	protein-coding	-	-	-	-	20160827
 9361	101421180	LOC101421180	-	-	-	Un	-	uncharacterized LOC101421180	ncRNA	-	-	-	-	20151115
-9361	101421181	LY6K	-	-	-	Un	-	lymphocyte antigen 6 complex, locus K	protein-coding	-	-	-	-	20151115
+9361	101421181	LY6K	-	-	-	Un	-	lymphocyte antigen 6 family member K	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus K	20170130
 9361	101421182	LOC101421182	-	-	Ensembl:ENSDNOG00000032472	Un	-	olfactory receptor 6C2-like	protein-coding	-	-	-	-	20160827
 9361	101421183	LOC101421183	-	-	-	Un	-	DCN1-like protein 4	protein-coding	-	-	-	-	20151115
 9361	101421184	ZNF572	-	-	-	Un	-	zinc finger protein 572	protein-coding	-	-	-	-	20160716
@@ -18182,7 +18182,7 @@
 9361	101432094	LOC101432094	-	-	-	Un	-	G-protein coupled receptor 183	protein-coding	-	-	-	-	20160716
 9361	101432095	WEE2	-	-	-	Un	-	WEE1 homolog 2	protein-coding	-	-	-	-	20160730
 9361	101432096	LOC101432096	-	-	-	Un	-	cadherin-17 pseudogene	pseudo	-	-	-	-	20151115
-9361	101432097	ALS2CR12	-	-	Ensembl:ENSDNOG00000014593	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	-	20160811
+9361	101432097	ALS2CR12	-	-	Ensembl:ENSDNOG00000014593	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 9361	101432098	AKAP9	-	-	-	Un	-	A-kinase anchoring protein 9	protein-coding	-	-	-	A kinase (PRKA) anchor protein (yotiao) 9	20160810
 9361	101432100	FAIM2	-	-	-	Un	-	Fas apoptotic inhibitory molecule 2	protein-coding	-	-	-	-	20151115
 9361	101432101	LOC101432101	-	-	-	Un	-	actin-binding LIM protein 3-like	protein-coding	-	-	-	-	20151115
@@ -24243,7 +24243,7 @@
 9361	101439190	LOC101439190	-	-	-	Un	-	ATM interactor-like	pseudo	-	-	-	-	20151115
 9361	101439191	ARSB	-	-	Ensembl:ENSDNOG00000044463	Un	-	arylsulfatase B	protein-coding	-	-	-	-	20160827
 9361	101439193	LOC101439193	-	-	-	Un	-	mitochondrial calcium uniporter regulator 1-like	pseudo	-	-	-	-	20151115
-9361	101439194	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	-	20151115
+9361	101439194	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5C	20170130
 9361	101439195	LOC101439195	-	-	-	Un	-	chromosome unknown open reading frame, human C11orf96	protein-coding	-	-	-	-	20160827
 9361	101439196	LOC101439196	-	-	Ensembl:ENSDNOG00000041430	Un	-	60S ribosomal protein L26-like	protein-coding	-	-	-	-	20160827
 9361	101439197	LOC101439197	-	-	Ensembl:ENSDNOG00000045600	Un	-	ral guanine nucleotide dissociation stimulator-like	protein-coding	-	-	-	-	20160716
@@ -24623,7 +24623,7 @@
 9361	101439629	LOC101439629	-	-	-	Un	-	T-cell receptor alpha chain V region CTL-F3-like	other	-	-	-	-	20151115
 9361	101439631	DICER1	-	-	Ensembl:ENSDNOG00000004190	Un	-	dicer 1, ribonuclease III	protein-coding	-	-	-	-	20160827
 9361	101439633	LOC101439633	-	-	-	Un	-	cationic amino acid transporter 4-like	protein-coding	-	-	-	-	20160716
-9361	101439634	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	-	20151115
+9361	101439634	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5B	20170130
 9361	101439635	DNASE2	-	-	-	Un	-	deoxyribonuclease 2, lysosomal	protein-coding	-	-	-	-	20160728
 9361	101439640	LRRC32	-	-	Ensembl:ENSDNOG00000036201	Un	-	leucine rich repeat containing 32	protein-coding	-	-	-	-	20160827
 9361	101439641	THSD4	-	-	Ensembl:ENSDNOG00000002153	Un	-	thrombospondin type 1 domain containing 4	protein-coding	-	-	-	-	20160827
@@ -24816,7 +24816,7 @@
 9361	101439856	RBM27	-	-	Ensembl:ENSDNOG00000019753	Un	-	RNA binding motif protein 27	protein-coding	-	-	-	-	20160827
 9361	101439857	PHLDA2	-	-	-	-	-	pleckstrin homology-like domain, family A, member 2	protein-coding	-	-	-	-	20160402
 9361	101439858	SRP72	-	-	-	Un	-	signal recognition particle 72	protein-coding	-	-	-	-	20160827
-9361	101439859	AUTS2	-	-	-	Un	-	autism susceptibility candidate 2	protein-coding	-	-	-	-	20160827
+9361	101439859	AUTS2	-	-	-	Un	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility candidate 2	20170130
 9361	101439860	ZNF358	-	-	-	Un	-	zinc finger protein 358	protein-coding	-	-	-	-	20160716
 9361	101439861	LOC101439861	-	-	-	Un	-	E3 SUMO-protein ligase PIAS2-like	pseudo	-	-	-	-	20151115
 9361	101439862	KCTD21	-	-	Ensembl:ENSDNOG00000011063	Un	-	potassium channel tetramerization domain containing 21	protein-coding	-	-	-	potassium channel tetramerisation domain containing 21	20160827
@@ -26773,7 +26773,7 @@
 9361	101442142	TRIO	-	-	Ensembl:ENSDNOG00000009371	Un	-	trio Rho guanine nucleotide exchange factor	protein-coding	-	-	-	-	20160716
 9361	101442143	SERPINA3	-	-	Ensembl:ENSDNOG00000009568	Un	-	serpin family A member 3	protein-coding	-	-	-	-	20160729
 9361	101442144	ITM2B	-	-	Ensembl:ENSDNOG00000039110	Un	-	integral membrane protein 2B	protein-coding	-	-	-	-	20160827
-9361	101442145	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	-	20160716
+9361	101442145	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6C	20170130
 9361	101442146	MRPS18A	-	-	Ensembl:ENSDNOG00000035755	Un	-	mitochondrial ribosomal protein S18A	protein-coding	-	-	-	-	20160827
 9361	101442147	LOC101442147	-	-	-	Un	-	40S ribosomal protein S11-like	pseudo	-	-	-	-	20151115
 9361	101442148	LYST	-	-	Ensembl:ENSDNOG00000005742	Un	-	lysosomal trafficking regulator	protein-coding	-	-	-	-	20160827
@@ -28269,7 +28269,7 @@
 9361	101443920	LOC101443920	-	-	-	Un	-	succinyl-CoA ligase [ADP-forming] subunit beta, mitochondrial-like	protein-coding	-	-	-	-	20160827
 9361	101443921	DENR	-	-	-	Un	-	density regulated re-initiation and release factor	protein-coding	-	-	-	-	20160827
 9361	101443922	LOC101443922	-	-	-	Un	-	polypyrimidine tract-binding protein 1-like	pseudo	-	-	-	-	20151115
-9361	101443923	LY6G6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6D	protein-coding	-	-	-	-	20151115
+9361	101443923	LY6G6D	-	-	-	Un	-	lymphocyte antigen 6 family member G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6D	20170130
 9361	101443924	POLH	-	-	Ensembl:ENSDNOG00000047483	Un	-	DNA polymerase eta	protein-coding	-	-	-	polymerase (DNA directed), eta	20160827
 9361	101443925	LOC101443925	-	-	-	Un	-	drebrin-like	protein-coding	-	-	-	-	20151115
 9361	101443926	GPR137B	-	-	-	Un	-	G protein-coupled receptor 137B	protein-coding	-	-	-	-	20151115
@@ -29037,7 +29037,7 @@
 9361	101444837	LOC101444837	-	-	-	Un	-	protein N-terminal asparagine amidohydrolase-like	pseudo	-	-	-	-	20151115
 9361	101444838	LOC101444838	-	HCAR2	-	Un	-	hydroxycarboxylic acid receptor 2	protein-coding	-	-	-	-	20160716
 9361	101444839	LOC101444839	-	-	-	Un	-	protein tyrosine phosphatase type IVA 1 pseudogene	pseudo	-	-	-	-	20151115
-9361	101444840	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	-	20151115
+9361	101444840	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6F	20170130
 9361	101444841	LOC101444841	-	-	-	Un	-	adenylate cyclase type 3-like	protein-coding	-	-	-	-	20151115
 9361	101444842	LOC101444842	-	-	-	Un	-	multimerin-1-like	pseudo	-	-	-	-	20151115
 9361	101444843	ARCN1	-	-	Ensembl:ENSDNOG00000010003	Un	-	archain 1	protein-coding	-	-	-	-	20151115

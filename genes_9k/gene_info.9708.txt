@@ -2451,7 +2451,7 @@
 9708	101364574	HSPA9	-	-	-	Un	-	heat shock protein family A (Hsp70) member 9	protein-coding	-	-	-	-	20160809
 9708	101364575	TGFBR2	-	-	-	Un	-	transforming growth factor beta receptor 2	protein-coding	-	-	-	-	20160827
 9708	101364576	FAM103A1	-	-	-	Un	-	family with sequence similarity 103 member A1	protein-coding	-	-	-	-	20160827
-9708	101364577	LY6E	-	-	-	Un	-	lymphocyte antigen 6 complex, locus E	protein-coding	-	-	-	-	20160827
+9708	101364577	LY6E	-	-	-	Un	-	lymphocyte antigen 6 family member E	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus E	20170130
 9708	101364578	MOSPD2	-	-	-	Un	-	motile sperm domain containing 2	protein-coding	-	-	-	-	20160827
 9708	101364579	LOC101364579	-	-	-	Un	-	gamma-aminobutyric acid receptor-associated protein pseudogene	pseudo	-	-	-	-	20151115
 9708	101364581	LOC101364581	-	-	-	Un	-	acyloxyacyl hydrolase pseudogene	pseudo	-	-	-	-	20151115
@@ -5164,7 +5164,7 @@
 9708	101367478	ADAMTS4	-	-	-	Un	-	ADAM metallopeptidase with thrombospondin type 1 motif 4	protein-coding	-	-	-	-	20160827
 9708	101367481	LOC101367481	-	-	-	Un	-	chromosome unknown open reading frame, human C6orf132	protein-coding	-	-	-	-	20151115
 9708	101367482	PPP2CB	-	-	-	Un	-	protein phosphatase 2 catalytic subunit beta	protein-coding	-	-	-	-	20160729
-9708	101367483	NQO2	-	-	-	Un	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	-	20160827
+9708	101367483	NQO2	-	-	-	Un	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	NAD(P)H quinone dehydrogenase 2	20170130
 9708	101367484	SFT2D3	-	-	-	Un	-	SFT2 domain containing 3	protein-coding	-	-	-	-	20160827
 9708	101367485	PTGER4	-	-	-	Un	-	prostaglandin E receptor 4	protein-coding	-	-	-	-	20160827
 9708	101367486	ASB1	-	-	-	Un	-	ankyrin repeat and SOCS box containing 1	protein-coding	-	-	-	-	20160827
@@ -9789,7 +9789,7 @@
 9708	101372358	NUCB1	-	-	-	Un	-	nucleobindin 1	protein-coding	-	-	-	-	20160827
 9708	101372359	PDGFRA	-	-	-	Un	-	platelet derived growth factor receptor alpha	protein-coding	-	-	-	-	20160827
 9708	101372360	SERTAD1	-	-	-	Un	-	SERTA domain containing 1	protein-coding	-	-	-	-	20160827
-9708	101372361	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	-	20151115
+9708	101372361	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5B	20170130
 9708	101372362	LOC101372362	-	-	-	Un	-	rab5 GDP/GTP exchange factor pseudogene	pseudo	-	-	-	-	20151115
 9708	101372363	LOC101372363	-	-	-	Un	-	60S ribosomal protein L32 pseudogene	pseudo	-	-	-	-	20151115
 9708	101372364	VEGFD	-	-	-	Un	-	vascular endothelial growth factor D	protein-coding	-	-	-	-	20160827
@@ -10067,7 +10067,7 @@
 9708	101372647	ACOX3	-	-	-	Un	-	acyl-CoA oxidase 3, pristanoyl	protein-coding	-	-	-	-	20151115
 9708	101372648	TULP2	-	-	-	Un	-	tubby like protein 2	protein-coding	-	-	-	-	20160827
 9708	101372649	GSX2	-	-	-	Un	-	GS homeobox 2	protein-coding	-	-	-	-	20160827
-9708	101372650	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	-	20151115
+9708	101372650	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5C	20170130
 9708	101372651	ZNF529	-	-	-	-	-	zinc finger protein 529	protein-coding	-	-	-	-	20160402
 9708	101372652	LOC101372652	-	-	-	Un	-	tigger transposable element-derived protein 1-like	pseudo	-	-	-	-	20151115
 9708	101372653	PIR	-	-	-	Un	-	pirin	protein-coding	-	-	-	-	20160827
@@ -10609,7 +10609,7 @@
 9708	101373218	CCT5	-	-	-	Un	-	chaperonin containing TCP1 subunit 5	protein-coding	-	-	-	-	20160827
 9708	101373219	CPZ	-	-	-	Un	-	carboxypeptidase Z	protein-coding	-	-	-	-	20160827
 9708	101373220	HSD17B14	-	-	-	Un	-	hydroxysteroid 17-beta dehydrogenase 14	protein-coding	-	-	-	-	20160827
-9708	101373221	LY6G6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6D	protein-coding	-	-	-	-	20151115
+9708	101373221	LY6G6D	-	-	-	Un	-	lymphocyte antigen 6 family member G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6D	20170130
 9708	101373222	LOC101373222	-	-	-	Un	-	single-stranded DNA-binding protein 2 pseudogene	pseudo	-	-	-	-	20151115
 9708	101373223	LOC101373223	-	-	-	Un	-	eukaryotic translation initiation factor 4B pseudogene	pseudo	-	-	-	-	20151115
 9708	101373224	LOC101373224	-	-	-	Un	-	beta-hexosaminidase subunit beta pseudogene	pseudo	-	-	-	-	20151115
@@ -10883,7 +10883,7 @@
 9708	101373508	NT5C3A	-	-	-	Un	-	5'-nucleotidase, cytosolic IIIA	protein-coding	-	-	-	-	20160827
 9708	101373509	LOC101373509	-	-	-	Un	-	plasmolipin-like	pseudo	-	-	-	-	20151115
 9708	101373510	BCAT2	-	-	-	Un	-	branched chain amino acid transaminase 2	protein-coding	-	-	-	-	20160729
-9708	101373511	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	-	20160716
+9708	101373511	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6C	20170130
 9708	101373513	LOC101373513	-	-	-	Un	-	DAZ-associated protein 2-like	pseudo	-	-	-	-	20151115
 9708	101373514	ACE2	-	-	-	Un	-	angiotensin I converting enzyme 2	protein-coding	-	-	-	angiotensin I converting enzyme (peptidyl-dipeptidase A) 2	20160827
 9708	101373515	DACT1	-	-	-	Un	-	dishevelled binding antagonist of beta catenin 1	protein-coding	-	-	-	dapper, antagonist of beta-catenin, homolog 1	20160827
@@ -11660,7 +11660,7 @@
 9708	101374318	PCCA	-	-	-	Un	-	propionyl-CoA carboxylase alpha subunit	protein-coding	-	-	-	-	20160827
 9708	101374319	PEMT	-	-	-	Un	-	phosphatidylethanolamine N-methyltransferase	protein-coding	-	-	-	-	20160827
 9708	101374320	LOC101374320	-	-	-	Un	-	ferritin light chain pseudogene	pseudo	-	-	-	-	20151115
-9708	101374321	LY6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus D	protein-coding	-	-	-	-	20151115
+9708	101374321	LY6D	-	-	-	Un	-	lymphocyte antigen 6 family member D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus D	20170130
 9708	101374322	LOC101374322	-	-	-	Un	-	interferon alpha-1/2-like	protein-coding	-	-	-	-	20160827
 9708	101374323	LOC101374323	-	-	-	Un	-	AN1-type zinc finger protein 6-like	protein-coding	-	-	-	-	20160827
 9708	101374324	LAPTM5	-	-	-	Un	-	lysosomal protein transmembrane 5	protein-coding	-	-	-	-	20160827
@@ -16289,7 +16289,7 @@
 9708	101379148	LOC101379148	-	-	-	Un	-	non-histone chromosomal protein HMG-17 pseudogene	pseudo	-	-	-	-	20151115
 9708	101379149	FAM129A	-	-	-	Un	-	family with sequence similarity 129 member A	protein-coding	-	-	-	-	20160811
 9708	101379150	KHDRBS1	-	-	-	Un	-	KH RNA binding domain containing, signal transduction associated 1	protein-coding	-	-	-	-	20160910
-9708	101379151	AUTS2	-	-	-	Un	-	autism susceptibility candidate 2	protein-coding	-	-	-	-	20160827
+9708	101379151	AUTS2	-	-	-	Un	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility candidate 2	20170130
 9708	101379152	RERG	-	-	-	Un	-	RAS like estrogen regulated growth inhibitor	protein-coding	-	-	-	-	20160827
 9708	101379153	TRIM17	-	-	-	Un	-	tripartite motif containing 17	protein-coding	-	-	-	-	20160827
 9708	101379154	HSD17B3	-	-	-	Un	-	hydroxysteroid 17-beta dehydrogenase 3	protein-coding	-	-	-	-	20160827
@@ -18113,7 +18113,7 @@
 9708	101381066	TTBK2	-	-	-	Un	-	tau tubulin kinase 2	protein-coding	-	-	-	-	20160827
 9708	101381067	CEP170	-	-	-	Un	-	centrosomal protein 170	protein-coding	-	-	-	-	20160827
 9708	101381068	MUTYH	-	-	-	Un	-	mutY DNA glycosylase	protein-coding	-	-	-	-	20160809
-9708	101381069	LY6H	-	-	-	Un	-	lymphocyte antigen 6 complex, locus H	protein-coding	-	-	-	-	20160827
+9708	101381069	LY6H	-	-	-	Un	-	lymphocyte antigen 6 family member H	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus H	20170130
 9708	101381070	CKM	-	-	-	Un	-	creatine kinase, M-type	protein-coding	-	-	-	-	20160729
 9708	101381071	SLC22A1	-	-	-	Un	-	solute carrier family 22 member 1	protein-coding	-	-	-	-	20160729
 9708	101381072	FGF9	-	-	-	Un	-	fibroblast growth factor 9	protein-coding	-	-	-	fibroblast growth factor 9 (glia-activating factor)	20160820
@@ -19277,7 +19277,7 @@
 9708	101382279	LOC101382279	-	-	-	Un	-	ATP synthase subunit d, mitochondrial pseudogene	pseudo	-	-	-	-	20151115
 9708	101382280	B4GALT5	-	-	-	Un	-	beta-1,4-galactosyltransferase 5	protein-coding	-	-	-	-	20160729
 9708	101382281	KCTD19	-	-	-	Un	-	potassium channel tetramerization domain containing 19	protein-coding	-	-	-	potassium channel tetramerisation domain containing 19	20160716
-9708	101382282	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	-	20160811
+9708	101382282	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 9708	101382283	MFSD14B	-	-	-	Un	-	major facilitator superfamily domain containing 14B	protein-coding	-	-	-	-	20160827
 9708	101382284	LOC101382284	-	-	-	Un	-	60S ribosomal protein L30-like	pseudo	-	-	-	-	20151115
 9708	101382285	LOC101382285	-	-	-	Un	-	non-histone chromosomal protein HMG-14 pseudogene	pseudo	-	-	-	-	20151115
@@ -22334,7 +22334,7 @@
 9708	101385461	LOC101385461	-	-	-	Un	-	protein max pseudogene	pseudo	-	-	-	-	20151115
 9708	101385462	LOC101385462	-	-	-	Un	-	olfactory receptor 4K2-like	protein-coding	-	-	-	-	20160716
 9708	101385463	MRPS12	-	-	-	Un	-	mitochondrial ribosomal protein S12	protein-coding	-	-	-	-	20151115
-9708	101385464	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	-	20160716
+9708	101385464	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6F	20170130
 9708	101385465	LOC101385465	-	-	-	Un	-	cytochrome P450 2S1	protein-coding	-	-	-	-	20160716
 9708	101385466	PPP2R1A	-	-	-	Un	-	protein phosphatase 2 scaffold subunit Aalpha	protein-coding	-	-	-	-	20160827
 9708	101385467	VPS13A	-	-	-	Un	-	vacuolar protein sorting 13 homolog A	protein-coding	-	-	-	-	20160827
@@ -24453,7 +24453,7 @@
 9708	105757696	JRK	-	-	-	Un	-	Jrk helix-turn-helix protein	protein-coding	-	-	-	-	20160810
 9708	105757697	LOC105757697	-	-	-	Un	-	ly-6/neurotoxin-like protein 1	protein-coding	-	-	-	-	20151115
 9708	105757698	GML	-	-	-	Un	-	glycosylphosphatidylinositol anchored molecule like	protein-coding	-	-	-	-	20151115
-9708	105757699	LY6K	-	-	-	Un	-	lymphocyte antigen 6 complex, locus K	protein-coding	-	-	-	-	20151115
+9708	105757699	LY6K	-	-	-	Un	-	lymphocyte antigen 6 family member K	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus K	20170130
 9708	105757700	LOC105757700	-	-	-	Un	-	ly6/PLAUR domain-containing protein 2-like	protein-coding	-	-	-	-	20160716
 9708	105757701	LOC105757701	-	-	-	Un	-	nucleophosmin pseudogene	pseudo	-	-	-	-	20151115
 9708	105757702	LOC105757702	-	-	-	Un	-	protein arginine N-methyltransferase 1 pseudogene	pseudo	-	-	-	-	20151115

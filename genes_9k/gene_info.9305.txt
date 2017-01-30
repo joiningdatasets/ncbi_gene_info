@@ -5118,7 +5118,7 @@
 9305	100918810	KCNQ5	-	-	Ensembl:ENSSHAG00000014723	4	-	potassium voltage-gated channel subfamily Q member 5	protein-coding	-	-	-	potassium voltage-gated channel, KQT-like subfamily, member 5	20160827
 9305	100918811	CENPW	-	-	Ensembl:ENSSHAG00000017503	4	-	centromere protein W	protein-coding	-	-	-	-	20160827
 9305	100918812	CNKSR3	-	-	Ensembl:ENSSHAG00000007010	4	-	CNKSR family member 3	protein-coding	-	-	-	-	20160716
-9305	100918813	AUTS2	-	-	-	4	-	autism susceptibility candidate 2	protein-coding	-	-	-	-	20160827
+9305	100918813	AUTS2	-	-	-	4	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility candidate 2	20170130
 9305	100918814	LOC100918814	-	-	-	4	-	complement factor H-like	protein-coding	-	-	-	-	20160827
 9305	100918815	KLHL42	-	KLHDC5	Ensembl:ENSSHAG00000010220	5	-	kelch like family member 42	protein-coding	-	-	-	kelch domain containing 5	20160827
 9305	100918816	IGF1	-	-	Ensembl:ENSSHAG00000008195	5	-	insulin like growth factor 1	protein-coding	-	-	-	-	20160809
@@ -15587,7 +15587,7 @@
 9305	100930500	IL17RE	-	-	Ensembl:ENSSHAG00000015693	2	-	interleukin 17 receptor E	protein-coding	-	-	-	-	20160716
 9305	100930501	TNNC1	-	-	-	2	-	troponin C type 1 (slow)	protein-coding	-	-	-	-	20160402
 9305	100930502	C2H7orf25	-	-	-	2	-	chromosome 2 open reading frame, human C7orf25	protein-coding	-	-	-	UPF0415 protein C7orf25 homolog	20160716
-9305	100930503	LY6E	-	-	-	2	-	lymphocyte antigen 6 complex, locus E	protein-coding	-	-	-	-	20151115
+9305	100930503	LY6E	-	-	-	2	-	lymphocyte antigen 6 family member E	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus E	20170130
 9305	100930504	PGPEP1	-	-	Ensembl:ENSSHAG00000003289	2	-	pyroglutamyl-peptidase I	protein-coding	-	-	-	-	20160329
 9305	100930505	LOC100930505	-	-	Ensembl:ENSSHAG00000005527	2	-	zinc finger protein 345-like	protein-coding	-	-	-	-	20160716
 9305	100930506	IZUMO3	-	-	Ensembl:ENSSHAG00000000769	2	-	IZUMO family member 3	protein-coding	-	-	-	-	20160827
@@ -16334,7 +16334,7 @@
 9305	100931315	LOC100931315	-	-	Ensembl:ENSSHAG00000008331	3	-	fibroblast growth factor 12	protein-coding	-	-	-	-	20160806
 9305	100931317	FGF21	-	-	-	3	-	fibroblast growth factor 21	protein-coding	-	-	-	-	20160827
 9305	100931318	ANKFY1	-	-	Ensembl:ENSSHAG00000003414	3	-	ankyrin repeat and FYVE domain containing 1	protein-coding	-	-	-	-	20160716
-9305	100931319	ALS2CR12	-	-	-	3	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosomal region candidate gene 12 protein homolog	20160811
+9305	100931319	ALS2CR12	-	-	-	3	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosomal region candidate gene 12 protein homolog|amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 9305	100931320	MKNK1	-	-	Ensembl:ENSSHAG00000004306	4	-	MAP kinase interacting serine/threonine kinase 1	protein-coding	-	-	-	-	20151115
 9305	100931321	DTL	-	-	Ensembl:ENSSHAG00000004304	4	-	denticleless E3 ubiquitin protein ligase homolog	protein-coding	-	-	-	denticleless protein homolog	20160827
 9305	100931322	HNRNPU	-	-	Ensembl:ENSSHAG00000017356	4	-	heterogeneous nuclear ribonucleoprotein U	protein-coding	-	-	-	-	20160827
@@ -21560,7 +21560,7 @@
 9305	105750437	DPCR1	-	-	-	4	-	diffuse panbronchiolitis critical region 1	protein-coding	-	-	-	-	20151115
 9305	105750438	C4H6orf15	-	-	-	4	-	chromosome 4 open reading frame, human C6orf15	protein-coding	-	-	-	-	20160716
 9305	105750439	LOC105750439	-	-	Ensembl:ENSSHAG00000009517	4	-	surfactant-associated protein 2-like	protein-coding	-	-	-	-	20160716
-9305	105750440	LY6G6F	-	-	-	4	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	-	20151115
+9305	105750440	LY6G6F	-	-	-	4	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6F	20170130
 9305	105750441	LOC105750441	-	-	-	4	-	neurogenic locus notch homolog protein 4-like	pseudo	-	-	-	-	20151115
 9305	105750442	LOC105750442	-	-	-	4	-	uncharacterized LOC105750442	ncRNA	-	-	-	-	20151115
 9305	105750443	C2	-	-	-	4	-	complement C2	protein-coding	-	-	-	-	20160822

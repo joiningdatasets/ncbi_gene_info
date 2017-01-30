@@ -10191,7 +10191,7 @@
 291302	107533940	NDUFB3	-	-	-	Un	-	NADH:ubiquinone oxidoreductase subunit B3	protein-coding	-	-	-	NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 3	20170125
 291302	107533941	CFLAR	-	-	-	Un	-	CASP8 and FADD like apoptosis regulator	protein-coding	-	-	-	CASP8 and FADD-like apoptosis regulator	20170125
 291302	107533942	CASP10	-	-	-	Un	-	caspase 10	protein-coding	-	-	-	caspase-10	20170125
-291302	107533943	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosomal region candidate gene 12 protein	20170125
+291302	107533943	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosomal region candidate gene 12 protein|amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 291302	107533944	TRAK2	-	-	-	Un	-	trafficking kinesin protein 2	protein-coding	-	-	-	trafficking kinesin-binding protein 2	20170125
 291302	107533945	ATAD2B	-	-	-	Un	-	ATPase family, AAA domain containing 2B	protein-coding	-	-	-	ATPase family AAA domain-containing protein 2B	20170125
 291302	107533946	STRADB	-	-	-	Un	-	STE20-related kinase adaptor beta	protein-coding	-	-	-	STE20-related kinase adapter protein beta	20170125
@@ -15203,9 +15203,9 @@
 291302	107538952	VWA7	-	-	-	Un	-	von Willebrand factor A domain containing 7	protein-coding	-	-	-	von Willebrand factor A domain-containing protein 7	20170125
 291302	107538953	SAPCD1	-	-	-	Un	-	suppressor APC domain containing 1	protein-coding	-	-	-	LOW QUALITY PROTEIN: suppressor APC domain-containing protein 1	20170125
 291302	107538954	MPIG6B	-	-	-	Un	-	megakaryocyte and platelet inhibitory receptor G6b	protein-coding	-	-	-	protein G6b	20170125
-291302	107538955	LY6G6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6d	20170125
-291302	107538956	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6f	20170125
-291302	107538957	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G5c	20170125
+291302	107538955	LY6G6D	-	-	-	Un	-	lymphocyte antigen 6 family member G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6d|lymphocyte antigen 6 complex, locus G6D	20170130
+291302	107538956	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6f|lymphocyte antigen 6 complex, locus G6F	20170130
+291302	107538957	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G5c|lymphocyte antigen 6 complex, locus G5C	20170130
 291302	107538958	LOC107538958	-	-	-	Un	-	eukaryotic translation initiation factor 3 subunit E pseudogene	pseudo	-	-	-	-	20160418
 291302	107538959	NCR3	-	-	-	Un	-	natural cytotoxicity triggering receptor 3	protein-coding	-	-	-	natural cytotoxicity triggering receptor 3	20170125
 291302	107538960	LST1	-	-	-	Un	-	leukocyte specific transcript 1	protein-coding	-	-	-	leukocyte-specific transcript 1 protein	20170125
@@ -15250,14 +15250,14 @@
 291302	107538999	CFAP45	-	-	-	Un	-	cilia and flagella associated protein 45	protein-coding	-	-	-	cilia- and flagella-associated protein 45	20170125
 291302	107539000	ABHD16A	-	-	-	Un	-	abhydrolase domain containing 16A	protein-coding	-	-	-	protein ABHD16A	20170125
 291302	107539001	DDAH2	-	-	-	Un	-	dimethylarginine dimethylaminohydrolase 2	protein-coding	-	-	-	N(G),N(G)-dimethylarginine dimethylaminohydrolase 2	20170125
-291302	107539002	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6c	20170125
+291302	107539002	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6c|lymphocyte antigen 6 complex, locus G6C	20170130
 291302	107539003	NFKBIL1	-	-	-	Un	-	NFKB inhibitor like 1	protein-coding	-	-	-	NF-kappa-B inhibitor-like protein 1	20170125
 291302	107539004	LTA	-	-	-	Un	-	lymphotoxin alpha	protein-coding	-	-	-	lymphotoxin-alpha	20170125
 291302	107539005	ATP6V1G2	-	-	-	Un	-	ATPase H+ transporting V1 subunit G2	protein-coding	-	-	-	V-type proton ATPase subunit G 2	20170125
 291302	107539006	ATF6B	-	-	-	Un	-	activating transcription factor 6 beta	protein-coding	-	-	-	cyclic AMP-dependent transcription factor ATF-6 beta	20170125
 291302	107539007	FCRL6	-	-	-	Un	-	Fc receptor like 6	protein-coding	-	-	-	LOW QUALITY PROTEIN: Fc receptor-like protein 6	20170125
 291302	107539008	VARS	-	-	-	Un	-	valyl-tRNA synthetase	protein-coding	-	-	-	LOW QUALITY PROTEIN: valine--tRNA ligase	20170125
-291302	107539009	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G5b	20170125
+291302	107539009	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G5b|lymphocyte antigen 6 complex, locus G5B	20170130
 291302	107539010	CSNK2B	-	-	-	Un	-	casein kinase 2 beta	protein-coding	-	-	-	casein kinase II subunit beta	20170125
 291302	107539011	SLC44A4	-	-	-	Un	-	solute carrier family 44 member 4	protein-coding	-	-	-	choline transporter-like protein 4	20170125
 291302	107539012	NEU1	-	-	-	Un	-	neuraminidase 1	protein-coding	-	-	-	sialidase-1	20170125
@@ -16069,7 +16069,7 @@
 291302	107539818	THEM6	-	-	-	Un	-	thioesterase superfamily member 6	protein-coding	-	-	-	protein THEM6	20170125
 291302	107539819	LOC107539819	-	-	-	Un	-	ly6/PLAUR domain-containing protein 2-like	protein-coding	-	-	-	LOW QUALITY PROTEIN: ly6/PLAUR domain-containing protein 2-like	20170125
 291302	107539820	LYNX1	-	-	-	Un	-	Ly6/neurotoxin 1	protein-coding	-	-	-	ly-6/neurotoxin-like protein 1	20170125
-291302	107539821	LY6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus D	protein-coding	-	-	-	LOW QUALITY PROTEIN: lymphocyte antigen 6D	20170125
+291302	107539821	LY6D	-	-	-	Un	-	lymphocyte antigen 6 family member D	protein-coding	-	-	-	LOW QUALITY PROTEIN: lymphocyte antigen 6D|lymphocyte antigen 6 complex, locus D	20170130
 291302	107539822	LOC107539822	-	-	-	Un	-	lymphocyte antigen 6E-like	protein-coding	-	-	-	lymphocyte antigen 6E-like	20170125
 291302	107539823	GML	-	-	-	Un	-	glycosylphosphatidylinositol anchored molecule like	protein-coding	-	-	-	glycosyl-phosphatidylinositol-anchored molecule-like protein	20170125
 291302	107539824	STMN1	-	-	-	Un	-	stathmin 1	protein-coding	-	-	-	stathmin	20170125
@@ -18986,12 +18986,12 @@
 291302	107542735	GXYLT2	-	-	-	Un	-	glucoside xylosyltransferase 2	protein-coding	-	-	-	glucoside xylosyltransferase 2	20170125
 291302	107542736	PPP4R2	-	-	-	Un	-	protein phosphatase 4 regulatory subunit 2	protein-coding	-	-	-	serine/threonine-protein phosphatase 4 regulatory subunit 2	20170125
 291302	107542737	SNW1	-	-	-	Un	-	SNW domain containing 1	protein-coding	-	-	-	SNW domain-containing protein 1	20170125
-291302	107542738	LY6H	-	-	-	Un	-	lymphocyte antigen 6 complex, locus H	protein-coding	-	-	-	lymphocyte antigen 6H	20170125
+291302	107542738	LY6H	-	-	-	Un	-	lymphocyte antigen 6 family member H	protein-coding	-	-	-	lymphocyte antigen 6H|lymphocyte antigen 6 complex, locus H	20170130
 291302	107542739	MAFA	-	-	-	Un	-	MAF bZIP transcription factor A	protein-coding	-	-	-	transcription factor MafA	20170125
 291302	107542740	ZC3H3	-	-	-	Un	-	zinc finger CCCH-type containing 3	protein-coding	-	-	-	zinc finger CCCH domain-containing protein 3	20170125
 291302	107542741	RHPN1	-	-	-	Un	-	rhophilin Rho GTPase binding protein 1	protein-coding	-	-	-	rhophilin-1	20170125
 291302	107542742	GSDMD	-	-	-	Un	-	gasdermin D	protein-coding	-	-	-	gasdermin-D	20170125
-291302	107542743	LY6E	-	-	-	Un	-	lymphocyte antigen 6 complex, locus E	protein-coding	-	-	-	lymphocyte antigen 6E	20170125
+291302	107542743	LY6E	-	-	-	Un	-	lymphocyte antigen 6 family member E	protein-coding	-	-	-	lymphocyte antigen 6E|lymphocyte antigen 6 complex, locus E	20170130
 291302	107542744	LOC107542744	-	-	-	Un	-	cytochrome P450 11B1, mitochondrial-like	protein-coding	-	-	-	cytochrome P450 11B1, mitochondrial-like	20170125
 291302	107542745	LOC107542745	-	-	-	Un	-	uncharacterized LOC107542745	ncRNA	-	-	-	-	20160418
 291302	107542746	GPIHBP1	-	-	-	Un	-	glycosylphosphatidylinositol anchored high density lipoprotein binding protein 1	protein-coding	-	-	-	glycosylphosphatidylinositol-anchored high density lipoprotein-binding protein 1	20170125
@@ -19188,7 +19188,7 @@
 291302	107542937	WRNIP1	-	-	-	Un	-	Werner helicase interacting protein 1	protein-coding	-	-	-	ATPase WRNIP1	20170125
 291302	107542938	IRF2BPL	-	-	-	Un	-	interferon regulatory factor 2 binding protein like	protein-coding	-	-	-	interferon regulatory factor 2-binding protein-like	20170125
 291302	107542939	RIPK1	-	-	-	Un	-	receptor interacting serine/threonine kinase 1	protein-coding	-	-	-	receptor-interacting serine/threonine-protein kinase 1	20170125
-291302	107542940	NQO2	-	-	-	Un	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	ribosyldihydronicotinamide dehydrogenase [quinone]	20170125
+291302	107542940	NQO2	-	-	-	Un	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	ribosyldihydronicotinamide dehydrogenase [quinone]|NAD(P)H quinone dehydrogenase 2	20170130
 291302	107542941	LOC107542941	-	-	-	Un	-	serpin B6-like	protein-coding	-	-	-	serpin B6-like	20170125
 291302	107542942	SERPINB1	-	-	-	Un	-	serpin family B member 1	protein-coding	-	-	-	leukocyte elastase inhibitor	20170125
 291302	107542943	LOC107542943	-	-	-	Un	-	40S ribosomal protein S3a pseudogene	pseudo	-	-	-	-	20160418
@@ -22941,7 +22941,7 @@
 291302	107546690	LOC107546690	-	-	-	Un	-	rab5 GDP/GTP exchange factor-like	protein-coding	-	-	-	rab5 GDP/GTP exchange factor-like	20170125
 291302	107546691	NCF1	-	-	-	Un	-	neutrophil cytosolic factor 1	protein-coding	-	-	-	neutrophil cytosol factor 1	20170125
 291302	107546692	RCC1L	-	-	-	Un	-	RCC1 like	protein-coding	-	-	-	Williams-Beuren syndrome chromosomal region 16 protein	20170125
-291302	107546693	AUTS2	-	-	-	Un	-	autism susceptibility candidate 2	protein-coding	-	-	-	autism susceptibility gene 2 protein	20170125
+291302	107546693	AUTS2	-	-	-	Un	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility gene 2 protein|autism susceptibility candidate 2	20170130
 291302	107546694	LOC107546694	-	-	-	Un	-	T-complex protein 1 subunit epsilon pseudogene	pseudo	-	-	-	-	20160418
 291302	107546695	SAAL1	-	-	-	Un	-	serum amyloid A like 1	protein-coding	-	-	-	protein SAAL1	20170125
 291302	107546696	KCNC1	-	-	-	Un	-	potassium voltage-gated channel subfamily C member 1	protein-coding	-	-	-	potassium voltage-gated channel subfamily C member 1	20170125

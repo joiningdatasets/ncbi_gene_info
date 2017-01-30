@@ -2259,7 +2259,7 @@
 61621	108514228	LOC108514228	-	-	-	Un	-	tubulin beta chain-like	pseudo	-	-	-	-	20160827
 61621	108514229	RIPK1	-	-	-	Un	-	receptor interacting serine/threonine kinase 1	protein-coding	-	-	-	-	20160827
 61621	108514230	LOC108514230	-	-	-	Un	-	elongation factor 1-alpha 1 pseudogene	pseudo	-	-	-	-	20160827
-61621	108514231	NQO2	-	-	-	Un	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	-	20160827
+61621	108514231	NQO2	-	-	-	Un	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	NAD(P)H quinone dehydrogenase 2	20170130
 61621	108514232	LOC108514232	-	-	-	Un	-	uncharacterized LOC108514232	protein-coding	-	-	-	-	20160827
 61621	108514233	LOC108514233	-	-	-	Un	-	uncharacterized LOC108514233	ncRNA	-	-	-	-	20160827
 61621	108514234	LOC108514234	-	-	-	Un	-	40S ribosomal protein S18 pseudogene	pseudo	-	-	-	-	20160827
@@ -8265,14 +8265,14 @@
 61621	108520234	DDAH2	-	-	-	Un	-	dimethylarginine dimethylaminohydrolase 2	protein-coding	-	-	-	-	20160910
 61621	108520235	CLIC1	-	-	-	Un	-	chloride intracellular channel 1	protein-coding	-	-	-	-	20160827
 61621	108520236	MPIG6B	-	CUNH6orf25	-	Un	-	megakaryocyte and platelet inhibitory receptor G6b	protein-coding	-	-	-	-	20170107
-61621	108520237	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	-	20160827
-61621	108520238	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	-	20160827
-61621	108520239	LY6G6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6D	protein-coding	-	-	-	-	20160827
+61621	108520237	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6C	20170130
+61621	108520238	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6F	20170130
+61621	108520239	LY6G6D	-	-	-	Un	-	lymphocyte antigen 6 family member G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6D	20170130
 61621	108520240	ABHD16A	-	-	-	Un	-	abhydrolase domain containing 16A	protein-coding	-	-	-	-	20160827
-61621	108520241	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	-	20160827
+61621	108520241	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5C	20170130
 61621	108520242	LOC108520242	-	-	-	Un	-	uncharacterized LOC108520242	ncRNA	-	-	-	-	20160827
 61621	108520243	CSNK2B	-	-	-	Un	-	casein kinase 2 beta	protein-coding	-	-	-	-	20160910
-61621	108520244	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	-	20160827
+61621	108520244	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5B	20170130
 61621	108520245	BAG6	-	-	-	Un	-	BCL2 associated athanogene 6	protein-coding	-	-	-	-	20160827
 61621	108520246	CUNH6orf47	-	-	-	Un	-	chromosome unknown C6orf47 homolog	protein-coding	-	-	-	-	20160827
 61621	108520247	APOM	-	-	-	Un	-	apolipoprotein M	protein-coding	-	-	-	-	20160924
@@ -20054,7 +20054,7 @@
 61621	108532023	SPARC	-	-	-	Un	-	secreted protein acidic and cysteine rich	protein-coding	-	-	-	-	20160827
 61621	108532024	FAT2	-	-	-	Un	-	FAT atypical cadherin 2	protein-coding	-	-	-	-	20160827
 61621	108532025	LOC108532025	-	-	-	Un	-	proton-coupled amino acid transporter 1	protein-coding	-	-	-	-	20160827
-61621	108532026	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	-	20160827
+61621	108532026	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 61621	108532027	LOC108532027	-	-	-	Un	-	proton-coupled amino acid transporter 3-like	protein-coding	-	-	-	-	20160827
 61621	108532028	SLC36A2	-	-	-	Un	-	solute carrier family 36 member 2	protein-coding	-	-	-	-	20160827
 61621	108532029	GM2A	-	-	-	Un	-	GM2 ganglioside activator	protein-coding	-	-	-	-	20160924
@@ -24580,9 +24580,9 @@
 61621	108536549	LOC108536549	-	-	-	Un	-	thyroid receptor-interacting protein 6 pseudogene	pseudo	-	-	-	-	20160827
 61621	108536550	LOC108536550	-	-	-	Un	-	cytochrome P450 11B2, mitochondrial	protein-coding	-	-	-	-	20160827
 61621	108536551	LOC108536551	-	-	-	Un	-	uncharacterized LOC108536551	ncRNA	-	-	-	-	20160827
-61621	108536552	LY6H	-	-	-	Un	-	lymphocyte antigen 6 complex, locus H	protein-coding	-	-	-	-	20160924
+61621	108536552	LY6H	-	-	-	Un	-	lymphocyte antigen 6 family member H	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus H	20170130
 61621	108536553	CCDC166	-	-	-	Un	-	coiled-coil domain containing 166	protein-coding	-	-	-	-	20160827
-61621	108536554	LY6E	-	-	-	Un	-	lymphocyte antigen 6 complex, locus E	protein-coding	-	-	-	-	20160827
+61621	108536554	LY6E	-	-	-	Un	-	lymphocyte antigen 6 family member E	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus E	20170130
 61621	108536555	LOC108536555	-	-	-	Un	-	uncharacterized LOC108536555	ncRNA	-	-	-	-	20160827
 61621	108536556	LOC108536556	-	-	-	Un	-	uncharacterized LOC108536556	ncRNA	-	-	-	-	20160827
 61621	108536557	LOC108536557	-	-	-	Un	-	uncharacterized LOC108536557	protein-coding	-	-	-	-	20160827
@@ -32180,7 +32180,7 @@
 61621	108544149	LOC108544149	-	-	-	Un	-	collagen alpha-2(IV) chain-like	protein-coding	-	-	-	-	20160827
 61621	108544150	LOC108544150	-	-	-	Un	-	dnaJ homolog subfamily C member 8-like	pseudo	-	-	-	-	20160827
 61621	108544151	ADGRB1	-	-	-	Un	-	adhesion G protein-coupled receptor B1	protein-coding	-	-	-	-	20160827
-61621	108544152	LY6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus D	protein-coding	-	-	-	-	20160827
+61621	108544152	LY6D	-	-	-	Un	-	lymphocyte antigen 6 family member D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus D	20170130
 61621	108544153	GML	-	-	-	Un	-	glycosylphosphatidylinositol anchored molecule like	protein-coding	-	-	-	-	20160924
 61621	108544154	LYPD2	-	-	-	Un	-	LY6/PLAUR domain containing 2	protein-coding	-	-	-	-	20160827
 61621	108544155	SLURP1	-	-	-	Un	-	secreted LY6/PLAUR domain containing 1	protein-coding	-	-	-	-	20160924
@@ -32213,7 +32213,7 @@
 61621	108544182	LOC108544182	-	-	-	Un	-	uncharacterized LOC108544182	ncRNA	-	-	-	-	20160827
 61621	108544183	LOC108544183	-	-	-	Un	-	uncharacterized LOC108544183	ncRNA	-	-	-	-	20160827
 61621	108544184	LOC108544184	-	-	-	Un	-	uncharacterized LOC108544184	ncRNA	-	-	-	-	20160827
-61621	108544185	AUTS2	-	-	-	Un	-	autism susceptibility candidate 2	protein-coding	-	-	-	-	20160827
+61621	108544185	AUTS2	-	-	-	Un	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility candidate 2	20170130
 61621	108544186	LOC108544186	-	-	-	Un	-	uncharacterized LOC108544186	ncRNA	-	-	-	-	20160827
 61621	108544187	CALN1	-	-	-	Un	-	calneuron 1	protein-coding	-	-	-	-	20160827
 61621	108544188	LOC108544188	-	-	-	Un	-	olfactory receptor 51H1-like	protein-coding	-	-	-	-	20160827

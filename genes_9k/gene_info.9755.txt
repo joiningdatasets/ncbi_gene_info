@@ -967,7 +967,7 @@
 9755	102974008	ANKRD13D	-	-	-	Un	-	ankyrin repeat domain 13D	protein-coding	-	-	-	-	20160910
 9755	102974009	OSM	-	-	-	Un	-	oncostatin M	protein-coding	-	-	-	-	20160910
 9755	102974010	FYN	-	-	-	Un	-	FYN proto-oncogene, Src family tyrosine kinase	protein-coding	-	-	-	-	20160903
-9755	102974011	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	-	20160910
+9755	102974011	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6C	20170130
 9755	102974012	ATG2B	-	-	-	Un	-	autophagy related 2B	protein-coding	-	-	-	-	20160910
 9755	102974013	LOC102974013	-	-	-	Un	-	ribosomal protein L9 pseudogene	pseudo	-	-	-	-	20151115
 9755	102974014	LOC102974014	-	-	-	Un	-	40S ribosomal protein S27-like	protein-coding	-	-	-	-	20160910
@@ -1604,7 +1604,7 @@
 9755	102974645	KIFAP3	-	-	-	Un	-	kinesin associated protein 3	protein-coding	-	-	-	-	20160910
 9755	102974646	COASY	-	-	-	Un	-	Coenzyme A synthase	protein-coding	-	-	-	-	20160729
 9755	102974647	LOC102974647	-	-	-	Un	-	ribosomal protein L37a pseudogene	pseudo	-	-	-	-	20151115
-9755	102974648	LY6H	-	-	-	Un	-	lymphocyte antigen 6 complex, locus H	protein-coding	-	-	-	-	20160910
+9755	102974648	LY6H	-	-	-	Un	-	lymphocyte antigen 6 family member H	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus H	20170130
 9755	102974649	CHST7	-	-	-	Un	-	carbohydrate sulfotransferase 7	protein-coding	-	-	-	-	20160729
 9755	102974650	LOC102974650	-	-	-	Un	-	semaphorin-3C-like	protein-coding	-	-	-	-	20160910
 9755	102974651	LOC102974651	-	-	-	Un	-	ankyrin repeat and SOCS box protein 3-like	protein-coding	-	-	-	-	20160910
@@ -1891,7 +1891,7 @@
 9755	102974932	LOC102974932	-	-	-	Un	-	cytochrome b-c1 complex subunit 7-like	pseudo	-	-	-	-	20151115
 9755	102974933	METTL18	-	-	-	Un	-	methyltransferase like 18	protein-coding	-	-	-	histidine protein methyltransferase 1 homolog	20160910
 9755	102974934	LOC102974934	-	-	-	Un	-	GTPase IMAP family member 7-like	pseudo	-	-	-	-	20151115
-9755	102974935	LY6E	-	-	-	Un	-	lymphocyte antigen 6 complex, locus E	protein-coding	-	-	-	-	20160910
+9755	102974935	LY6E	-	-	-	Un	-	lymphocyte antigen 6 family member E	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus E	20170130
 9755	102974936	SLC9A7	-	-	-	Un	-	solute carrier family 9, subfamily A (NHE7, cation proton antiporter 7), member 7	protein-coding	-	-	-	-	20160910
 9755	102974937	KIF27	-	-	-	Un	-	kinesin family member 27	protein-coding	-	-	-	-	20160910
 9755	102974938	FMO4	-	-	-	Un	-	flavin containing monooxygenase 4	protein-coding	-	-	-	-	20160910
@@ -2413,7 +2413,7 @@
 9755	102975454	LOC102975454	-	-	-	Un	-	cell cycle control protein 50C-like	protein-coding	-	-	-	-	20160910
 9755	102975455	CHD9	-	-	-	Un	-	chromodomain helicase DNA binding protein 9	protein-coding	-	-	-	-	20160910
 9755	102975456	STMND1	-	-	-	Un	-	stathmin domain containing 1	protein-coding	-	-	-	-	20151115
-9755	102975457	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	-	20160910
+9755	102975457	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6F	20170130
 9755	102975458	JUN	-	-	-	Un	-	Jun proto-oncogene, AP-1 transcription factor subunit	protein-coding	-	-	-	-	20160729
 9755	102975459	LOC102975459	-	-	-	Un	-	uncharacterized LOC102975459	protein-coding	-	-	-	-	20160910
 9755	102975460	GIGYF1	-	-	-	Un	-	GRB10 interacting GYF protein 1	protein-coding	-	-	-	-	20151115
@@ -3000,7 +3000,7 @@
 9755	102976041	CAPN2	-	-	-	Un	-	calpain 2	protein-coding	-	-	-	-	20160910
 9755	102976042	BSCL2	-	-	-	Un	-	BSCL2, seipin lipid droplet biogenesis associated	protein-coding	-	-	-	-	20160910
 9755	102976043	LOC102976043	-	-	-	Un	-	collagen alpha-1(III) chain-like	protein-coding	-	-	-	-	20151115
-9755	102976044	LY6G6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6D	protein-coding	-	-	-	-	20151115
+9755	102976044	LY6G6D	-	-	-	Un	-	lymphocyte antigen 6 family member G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6D	20170130
 9755	102976045	KPNA7	-	-	-	Un	-	karyopherin subunit alpha 7	protein-coding	-	-	-	-	20160910
 9755	102976046	TFR2	-	-	-	Un	-	transferrin receptor 2	protein-coding	-	-	-	-	20160910
 9755	102976047	LOC102976047	-	-	-	Un	-	histone H1.0-like	pseudo	-	-	-	-	20151115
@@ -4037,7 +4037,7 @@
 9755	102977078	RASSF9	-	-	-	Un	-	Ras association domain family member 9	protein-coding	-	-	-	-	20160729
 9755	102977079	PRDM14	-	-	-	Un	-	PR/SET domain 14	protein-coding	-	-	-	-	20160910
 9755	102977080	IFT43	-	-	-	Un	-	intraflagellar transport 43	protein-coding	-	-	-	intraflagellar transport protein 43 homolog	20160910
-9755	102977081	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	-	20151115
+9755	102977081	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5B	20170130
 9755	102977082	LOC102977082	-	-	-	Un	-	mesoderm-specific transcript homolog protein-like	pseudo	-	-	-	-	20151115
 9755	102977083	LMAN1	-	-	-	Un	-	lectin, mannose binding 1	protein-coding	-	-	-	-	20160729
 9755	102977084	LRCH4	-	-	-	Un	-	leucine rich repeats and calponin homology domain containing 4	protein-coding	-	-	-	-	20160910
@@ -9030,7 +9030,7 @@
 9755	102982071	TMEM257	-	-	-	Un	-	transmembrane protein 257	protein-coding	-	-	-	-	20151115
 9755	102982072	ZC3HAV1	-	-	-	Un	-	zinc finger CCCH-type containing, antiviral 1	protein-coding	-	-	-	-	20160910
 9755	102982073	LOC102982073	-	-	-	Un	-	dnaJ homolog subfamily B member 6-like	pseudo	-	-	-	-	20151115
-9755	102982074	LY6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus D	protein-coding	-	-	-	-	20160910
+9755	102982074	LY6D	-	-	-	Un	-	lymphocyte antigen 6 family member D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus D	20170130
 9755	102982075	LOC102982075	-	-	-	Un	-	uncharacterized LOC102982075	protein-coding	-	-	-	-	20151115
 9755	102982076	FUNDC2	-	-	-	Un	-	FUN14 domain containing 2	protein-coding	-	-	-	-	20160910
 9755	102982077	LOC102982077	-	-	-	Un	-	uncharacterized LOC102982077	ncRNA	-	-	-	-	20151115
@@ -12676,7 +12676,7 @@
 9755	102985717	GTSE1	-	-	-	Un	-	G2 and S-phase expressed 1	protein-coding	-	-	-	-	20160910
 9755	102985718	DNAJC7	-	-	-	Un	-	DnaJ heat shock protein family (Hsp40) member C7	protein-coding	-	-	-	-	20160910
 9755	102985719	TMEM61	-	-	-	Un	-	transmembrane protein 61	protein-coding	-	-	-	-	20160910
-9755	102985720	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	-	20160910
+9755	102985720	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5C	20170130
 9755	102985721	R3HDM1	-	-	-	Un	-	R3H domain containing 1	protein-coding	-	-	-	-	20160910
 9755	102985722	TTC24	-	-	-	Un	-	tetratricopeptide repeat domain 24	protein-coding	-	-	-	-	20160910
 9755	102985723	TAS2R41	-	-	-	Un	-	taste 2 receptor member 41	pseudo	-	-	-	-	20160812
@@ -13783,7 +13783,7 @@
 9755	102986824	UBA6	-	-	-	Un	-	ubiquitin like modifier activating enzyme 6	protein-coding	-	-	-	-	20160910
 9755	102986825	LOC102986825	-	-	-	Un	-	aurora kinase C-like	protein-coding	-	-	-	-	20160910
 9755	102986826	KIF21B	-	-	-	Un	-	kinesin family member 21B	protein-coding	-	-	-	-	20160910
-9755	102986827	NQO2	-	-	-	Un	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	-	20160910
+9755	102986827	NQO2	-	-	-	Un	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	NAD(P)H quinone dehydrogenase 2	20170130
 9755	102986828	LOC102986828	-	-	-	Un	-	mitochondrial import inner membrane translocase subunit TIM14-like	pseudo	-	-	-	-	20151115
 9755	102986829	NPAS4	-	-	-	Un	-	neuronal PAS domain protein 4	protein-coding	-	-	-	-	20160910
 9755	102986830	CSRNP3	-	-	-	Un	-	cysteine and serine rich nuclear protein 3	protein-coding	-	-	-	-	20160910
@@ -17064,7 +17064,7 @@
 9755	102990105	LOC102990105	-	-	-	Un	-	transcription initiation factor TFIID subunit 9-like	pseudo	-	-	-	-	20151115
 9755	102990106	TPD52L3	-	-	-	Un	-	tumor protein D52 like 3	protein-coding	-	-	-	-	20160910
 9755	102990107	LOC102990107	-	-	-	Un	-	uncharacterized LOC102990107	ncRNA	-	-	-	-	20151115
-9755	102990108	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	-	20160811
+9755	102990108	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 9755	102990109	LOC102990109	-	-	-	Un	-	uncharacterized LOC102990109	pseudo	-	-	-	-	20151115
 9755	102990110	SRSF5	-	-	-	Un	-	serine and arginine rich splicing factor 5	protein-coding	-	-	-	-	20160910
 9755	102990111	LOC102990111	-	-	-	Un	-	40S ribosomal protein S27-like	pseudo	-	-	-	-	20151115

@@ -4109,7 +4109,7 @@
 9365	103111244	TMEM237	-	-	-	Un	-	transmembrane protein 237	protein-coding	-	-	-	-	20160910
 9365	103111245	HJURP	-	-	-	Un	-	Holliday junction recognition protein	protein-coding	-	-	-	-	20160910
 9365	103111246	ALS2CR11	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 11	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 (juvenile) chromosome region, candidate 11	20160910
-9365	103111247	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 (juvenile) chromosome region, candidate 12	20160626
+9365	103111247	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 (juvenile) chromosome region, candidate 12|amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 9365	103111248	LOC103111248	-	-	-	Un	-	carnosine N-methyltransferase pseudogene	pseudo	-	-	-	-	20160416
 9365	103111249	CASP10	-	-	-	Un	-	caspase 10	protein-coding	-	-	-	caspase 10, apoptosis-related cysteine peptidase	20160806
 9365	103111250	NDUFB3	-	-	-	Un	-	NADH:ubiquinone oxidoreductase subunit B3	protein-coding	-	-	-	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 3, 12kDa	20160910
@@ -5538,7 +5538,7 @@
 9365	103112712	SERPINB1	-	-	-	Un	-	serpin family B member 1	protein-coding	-	-	-	serpin peptidase inhibitor, clade B (ovalbumin), member 1	20160910
 9365	103112713	LOC103112713	-	-	-	Un	-	serpin B6-like	protein-coding	-	-	-	-	20160806
 9365	103112714	LOC103112714	-	-	-	Un	-	60S ribosomal protein L35a pseudogene	pseudo	-	-	-	-	20160416
-9365	103112715	NQO2	-	-	-	Un	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	NAD(P)H dehydrogenase, quinone 2	20160806
+9365	103112715	NQO2	-	-	-	Un	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	NAD(P)H dehydrogenase, quinone 2|NAD(P)H quinone dehydrogenase 2	20170130
 9365	103112716	RIPK1	-	-	-	Un	-	receptor interacting serine/threonine kinase 1	protein-coding	-	-	-	receptor (TNFRSF)-interacting serine-threonine kinase 1	20160910
 9365	103112717	LOC103112717	-	-	-	Un	-	tubulin beta-2B chain-like	protein-coding	-	-	-	-	20160716
 9365	103112718	BPHL	-	-	-	Un	-	biphenyl hydrolase like	protein-coding	-	-	-	-	20160910
@@ -16792,7 +16792,7 @@
 9365	103124305	STK17A	-	-	-	Un	-	serine/threonine kinase 17a	protein-coding	-	-	-	-	20160910
 9365	103124307	LOC103124307	-	-	-	Un	-	cytochrome c oxidase assembly factor 1 homolog	protein-coding	-	-	-	-	20160910
 9365	103124308	LOC103124308	-	-	-	Un	-	ly-6/neurotoxin-like protein 1	protein-coding	-	-	-	-	20160416
-9365	103124309	LY6H	-	-	-	Un	-	lymphocyte antigen 6 complex, locus H	protein-coding	-	-	-	-	20160423
+9365	103124309	LY6H	-	-	-	Un	-	lymphocyte antigen 6 family member H	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus H	20170130
 9365	103124310	GPIHBP1	-	-	-	Un	-	glycosylphosphatidylinositol anchored high density lipoprotein binding protein 1	protein-coding	-	-	-	-	20160416
 9365	103124311	GLI4	-	-	-	Un	-	GLI family zinc finger 4	protein-coding	-	-	-	-	20160806
 9365	103124312	RP1	-	-	-	Un	-	RP1, axonemal microtubule associated	protein-coding	-	-	-	retinitis pigmentosa 1 (autosomal dominant)	20161214
@@ -17121,7 +17121,7 @@
 9365	103124653	SLC18B1	-	-	-	Un	-	solute carrier family 18 member B1	protein-coding	-	-	-	solute carrier family 18, subfamily B, member 1	20160806
 9365	103124654	GHRHR	-	-	-	Un	-	growth hormone releasing hormone receptor	protein-coding	-	-	-	-	20160910
 9365	103124655	AQP1	-	-	-	-	-	aquaporin 1 (Colton blood group)	protein-coding	-	-	-	-	20160416
-9365	103124656	LY6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus D	protein-coding	-	-	-	-	20160416
+9365	103124656	LY6D	-	-	-	Un	-	lymphocyte antigen 6 family member D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus D	20170130
 9365	103124657	CRHR2	-	-	-	Un	-	corticotropin releasing hormone receptor 2	protein-coding	-	-	-	-	20160910
 9365	103124658	ZNRF2	-	-	-	-	-	zinc and ring finger 2	protein-coding	-	-	-	-	20160416
 9365	103124659	MTURN	-	-	-	Un	-	maturin, neural progenitor differentiation regulator homolog	protein-coding	-	-	-	-	20160910
@@ -17162,7 +17162,7 @@
 9365	103124697	LAMTOR2	-	-	-	Un	-	late endosomal/lysosomal adaptor, MAPK and MTOR activator 2	protein-coding	-	-	-	-	20160917
 9365	103124698	RAB25	-	-	-	Un	-	RAB25, member RAS oncogene family	protein-coding	-	-	-	-	20160416
 9365	103124699	LMNA	-	-	-	Un	-	lamin A/C	protein-coding	-	-	-	-	20160910
-9365	103124700	LY6E	-	-	-	Un	-	lymphocyte antigen 6 complex, locus E	protein-coding	-	-	-	-	20160910
+9365	103124700	LY6E	-	-	-	Un	-	lymphocyte antigen 6 family member E	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus E	20170130
 9365	103124701	SEMA4A	-	-	-	Un	-	semaphorin 4A	protein-coding	-	-	-	sema domain, immunoglobulin domain (Ig), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 4A	20160910
 9365	103124702	SLC25A44	-	-	-	Un	-	solute carrier family 25 member 44	protein-coding	-	-	-	-	20160910
 9365	103124703	LOC103124703	-	-	-	Un	-	polyamine-modulated factor 1-like	protein-coding	-	-	-	-	20160910
@@ -18649,7 +18649,7 @@
 9365	103126262	GPANK1	-	-	-	Un	-	G-patch domain and ankyrin repeats 1	protein-coding	-	-	-	-	20160910
 9365	103126263	CSNK2B	-	-	-	Un	-	casein kinase 2 beta	protein-coding	-	-	-	casein kinase 2, beta polypeptide	20160416
 9365	103126264	ABHD16A	-	-	-	Un	-	abhydrolase domain containing 16A	protein-coding	-	-	-	-	20160910
-9365	103126265	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	-	20160416
+9365	103126265	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6C	20170130
 9365	103126266	MPIG6B	-	-	-	Un	-	megakaryocyte and platelet inhibitory receptor G6b	protein-coding	-	-	-	-	20170107
 9365	103126267	DDAH2	-	-	-	Un	-	dimethylarginine dimethylaminohydrolase 2	protein-coding	-	-	-	-	20160910
 9365	103126268	MSH5	-	-	-	Un	-	mutS homolog 5	protein-coding	-	-	-	-	20160910
@@ -18664,9 +18664,9 @@
 9365	103126277	DDX39B	-	-	-	Un	-	DExD-box helicase 39B	protein-coding	-	-	-	DEAD (Asp-Glu-Ala-Asp) box polypeptide 39B|DEAD-box helicase 39B	20160929
 9365	103126278	LST1	-	-	-	Un	-	leukocyte specific transcript 1	protein-coding	-	-	-	-	20160806
 9365	103126279	NCR3	-	-	-	Un	-	natural cytotoxicity triggering receptor 3	protein-coding	-	-	-	-	20160806
-9365	103126280	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	-	20160416
-9365	103126281	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	-	20160416
-9365	103126282	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	-	20160910
+9365	103126280	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5B	20170130
+9365	103126281	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5C	20170130
+9365	103126282	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6F	20170130
 9365	103126283	VWA7	-	-	-	Un	-	von Willebrand factor A domain containing 7	protein-coding	-	-	-	-	20160910
 9365	103126284	LSM2	-	-	-	Un	-	LSM2 homolog, U6 small nuclear RNA and mRNA degradation associated	protein-coding	-	-	-	LSM2 homolog, U6 small nuclear RNA associated	20160423
 9365	103126285	LOC103126285	-	-	-	Un	-	protein BEX2-like	protein-coding	-	-	-	-	20160910
@@ -21749,7 +21749,7 @@
 9365	107522534	TRNAI-AAU	-	-	-	Un	-	transfer RNA isoleucine (anticodon AAU)	tRNA	-	-	-	-	20160416
 9365	107522535	TRNAG-UCC	-	-	-	Un	-	transfer RNA glycine (anticodon UCC)	tRNA	-	-	-	-	20160416
 9365	107522536	TRNAL-UAG	-	-	-	Un	-	transfer RNA leucine (anticodon UAG)	tRNA	-	-	-	-	20160416
-9365	107522537	AUTS2	-	-	-	Un	-	autism susceptibility candidate 2	protein-coding	-	-	-	-	20160423
+9365	107522537	AUTS2	-	-	-	Un	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility candidate 2	20170130
 9365	107522538	TRNAS-CGA	-	-	-	Un	-	transfer RNA serine (anticodon CGA)	tRNA	-	-	-	-	20160416
 9365	107522539	TRNAT-AGU	-	-	-	Un	-	transfer RNA threonine (anticodon AGU)	tRNA	-	-	-	-	20160416
 9365	107522540	TRNAW-CCA	-	-	-	Un	-	transfer RNA tryptophan (anticodon CCA)	tRNA	-	-	-	-	20160416

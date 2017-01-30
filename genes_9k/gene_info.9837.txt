@@ -12270,10 +12270,10 @@
 9837	105073777	LOC105073777	-	-	-	Un	-	protein phosphatase 1 regulatory subunit 3D-like	protein-coding	-	-	-	-	20160924
 9837	105073778	LOC105073778	-	-	-	Un	-	dnaJ homolog subfamily C member 7 pseudogene	pseudo	-	-	-	-	20151115
 9837	105073779	LOC105073779	-	-	-	Un	-	glycosyl-phosphatidylinositol-anchored molecule-like protein	protein-coding	-	-	-	-	20151115
-9837	105073780	LY6E	-	-	-	Un	-	lymphocyte antigen 6 complex, locus E	protein-coding	-	-	-	-	20160924
+9837	105073780	LY6E	-	-	-	Un	-	lymphocyte antigen 6 family member E	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus E	20170130
 9837	105073781	COG4	-	-	-	Un	-	component of oligomeric golgi complex 4	protein-coding	-	-	-	-	20160924
 9837	105073782	GPIHBP1	-	-	-	Un	-	glycosylphosphatidylinositol anchored high density lipoprotein binding protein 1	protein-coding	-	-	-	-	20151115
-9837	105073783	LY6H	-	-	-	Un	-	lymphocyte antigen 6 complex, locus H	protein-coding	-	-	-	-	20160903
+9837	105073783	LY6H	-	-	-	Un	-	lymphocyte antigen 6 family member H	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus H	20170130
 9837	105073784	ZNF696	-	-	-	Un	-	zinc finger protein 696	protein-coding	-	-	-	-	20160924
 9837	105073785	LOC105073785	-	-	-	Un	-	uncharacterized LOC105073785	ncRNA	-	-	-	-	20151115
 9837	105073786	GLI4	-	-	-	Un	-	GLI family zinc finger 4	protein-coding	-	-	-	-	20160924
@@ -12549,11 +12549,11 @@
 9837	105074056	CLIC1	-	-	-	Un	-	chloride intracellular channel 1	protein-coding	-	-	-	-	20151115
 9837	105074057	DDAH2	-	-	-	Un	-	dimethylarginine dimethylaminohydrolase 2	protein-coding	-	-	-	-	20160924
 9837	105074058	MPIG6B	-	-	-	Un	-	megakaryocyte and platelet inhibitory receptor G6b	protein-coding	-	-	-	-	20170107
-9837	105074059	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	-	20160924
-9837	105074060	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	-	20160910
+9837	105074059	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6C	20170130
+9837	105074060	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6F	20170130
 9837	105074061	CUNH3orf56	-	-	-	Un	-	chromosome unknown C3orf56 homolog	protein-coding	-	-	-	-	20160924
 9837	105074062	LOC105074062	-	-	-	Un	-	sperm acrosome membrane-associated protein 4-like	protein-coding	-	-	-	-	20160924
-9837	105074063	LY6G6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6D	protein-coding	-	-	-	-	20151115
+9837	105074063	LY6G6D	-	-	-	Un	-	lymphocyte antigen 6 family member G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6D	20170130
 9837	105074064	ABHD16A	-	-	-	Un	-	abhydrolase domain containing 16A	protein-coding	-	-	-	-	20160924
 9837	105074065	GPANK1	-	-	-	Un	-	G-patch domain and ankyrin repeats 1	protein-coding	-	-	-	-	20160910
 9837	105074066	CSNK2B	-	-	-	Un	-	casein kinase 2 beta	protein-coding	-	-	-	-	20160729
@@ -12613,7 +12613,7 @@
 9837	105074120	NOTCH4	-	-	-	Un	-	notch 4	protein-coding	-	-	-	-	20160924
 9837	105074121	GPSM3	-	-	-	Un	-	G-protein signaling modulator 3	protein-coding	-	-	-	-	20151115
 9837	105074122	TNXB	-	-	-	Un	-	tenascin XB	protein-coding	-	-	-	-	20160924
-9837	105074123	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	-	20151115
+9837	105074123	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5C	20170130
 9837	105074124	NCR3	-	-	-	Un	-	natural cytotoxicity triggering receptor 3	protein-coding	-	-	-	-	20151115
 9837	105074125	LST1	-	-	-	Un	-	leukocyte specific transcript 1	protein-coding	-	-	-	-	20160924
 9837	105074126	MCCD1	-	-	-	Un	-	mitochondrial coiled-coil domain 1	protein-coding	-	-	-	-	20160910
@@ -16374,8 +16374,8 @@
 9837	105077881	ARC	-	-	-	Un	-	activity regulated cytoskeleton associated protein	protein-coding	-	-	-	-	20160729
 9837	105077882	THEM6	-	-	-	Un	-	thioesterase superfamily member 6	protein-coding	-	-	-	-	20160924
 9837	105077883	LOC105077883	-	-	-	Un	-	ly-6/neurotoxin-like protein 1	protein-coding	-	-	-	-	20151115
-9837	105077884	LY6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus D	protein-coding	-	-	-	-	20151115
-9837	105077885	LY6K	-	-	-	Un	-	lymphocyte antigen 6 complex, locus K	protein-coding	-	-	-	-	20160924
+9837	105077884	LY6D	-	-	-	Un	-	lymphocyte antigen 6 family member D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus D	20170130
+9837	105077885	LY6K	-	-	-	Un	-	lymphocyte antigen 6 family member K	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus K	20170130
 9837	105077886	DENND3	-	-	-	Un	-	DENN domain containing 3	protein-coding	-	-	-	-	20160924
 9837	105077887	LOC105077887	-	-	-	Un	-	uncharacterized LOC105077887	protein-coding	-	-	-	-	20151115
 9837	105077888	SLC45A4	-	-	-	Un	-	solute carrier family 45 member 4	protein-coding	-	-	-	-	20160811
@@ -18260,7 +18260,7 @@
 9837	105079767	SERPINB1	-	-	-	Un	-	serpin family B member 1	protein-coding	-	-	-	-	20160924
 9837	105079768	SERPINB9	-	-	-	Un	-	serpin family B member 9	protein-coding	-	-	-	-	20160910
 9837	105079769	SERPINB6	-	-	-	Un	-	serpin family B member 6	protein-coding	-	-	-	-	20160924
-9837	105079770	NQO2	-	-	-	Un	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	-	20160924
+9837	105079770	NQO2	-	-	-	Un	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	NAD(P)H quinone dehydrogenase 2	20170130
 9837	105079771	RIPK1	-	-	-	Un	-	receptor interacting serine/threonine kinase 1	protein-coding	-	-	-	-	20160924
 9837	105079772	BPHL	-	-	-	Un	-	biphenyl hydrolase like	protein-coding	-	-	-	-	20160924
 9837	105079773	LOC105079773	-	-	-	Un	-	tubulin beta chain	protein-coding	-	-	-	-	20160924
@@ -20824,7 +20824,7 @@
 9837	105082331	RAPH1	-	-	-	Un	-	Ras association (RalGDS/AF-6) and pleckstrin homology domains 1	protein-coding	-	-	-	-	20160924
 9837	105082332	ICA1L	-	-	-	Un	-	islet cell autoantigen 1 like	protein-coding	-	-	-	-	20160924
 9837	105082333	FZD7	-	-	-	Un	-	frizzled class receptor 7	protein-coding	-	-	-	-	20160924
-9837	105082334	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	-	20160811
+9837	105082334	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 9837	105082335	LOC105082335	-	-	-	Un	-	ras-related protein R-Ras2 pseudogene	pseudo	-	-	-	-	20151115
 9837	105082336	LOC105082336	-	-	-	Un	-	aldehyde oxidase 4-like	protein-coding	-	-	-	-	20160924
 9837	105082337	SGO2	-	-	-	Un	-	shugoshin 2	protein-coding	-	-	-	-	20160729
@@ -21356,7 +21356,7 @@
 9837	105082863	WBSCR28	-	-	-	Un	-	Williams-Beuren syndrome chromosome region 28	protein-coding	-	-	-	-	20160924
 9837	105082864	CLIP2	-	-	-	Un	-	CAP-Gly domain containing linker protein 2	protein-coding	-	-	-	-	20160924
 9837	105082865	GATSL2	-	-	-	Un	-	GATS protein like 2	protein-coding	-	-	-	-	20160910
-9837	105082866	AUTS2	-	-	-	Un	-	autism susceptibility candidate 2	protein-coding	-	-	-	-	20160924
+9837	105082866	AUTS2	-	-	-	Un	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility candidate 2	20170130
 9837	105082867	TMEM248	-	-	-	Un	-	transmembrane protein 248	protein-coding	-	-	-	-	20160924
 9837	105082868	VKORC1L1	-	-	-	Un	-	vitamin K epoxide reductase complex subunit 1 like 1	protein-coding	-	-	-	-	20160811
 9837	105082869	PEG10	-	-	-	Un	-	paternally expressed 10	protein-coding	-	-	-	-	20160924

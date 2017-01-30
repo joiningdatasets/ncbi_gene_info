@@ -9091,7 +9091,7 @@
 79684	101988227	Dlg4	-	-	-	7	-	discs large MAGUK scaffold protein 4	protein-coding	-	-	-	-	20160924
 79684	101988228	LOC101988228	-	-	-	Un	-	uncharacterized LOC101988228	protein-coding	-	-	-	-	20151115
 79684	101988229	LOC101988229	-	Grap	-	7	-	GRB2-related adapter protein	protein-coding	-	-	-	GRB2-related adaptor protein	20160910
-79684	101988230	Ly6g6c	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	-	20160910
+79684	101988230	Ly6g6c	-	-	-	Un	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6C	20170130
 79684	101988231	Rab8a	-	-	-	Un	-	RAB8A, member RAS oncogene family	protein-coding	-	-	-	-	20160813
 79684	101988232	Sowaha	-	-	-	7	-	sosondowah ankyrin repeat domain family member A	protein-coding	-	-	-	-	20160910
 79684	101988233	LOC101988233	-	-	-	Un	-	carcinoembryonic antigen-related cell adhesion molecule 3-like	protein-coding	-	-	-	-	20160910
@@ -9374,7 +9374,7 @@
 79684	101988517	Smim22	-	-	-	7	-	small integral membrane protein 22	protein-coding	-	-	-	-	20160730
 79684	101988519	Ppp1r3e	-	-	-	Un	-	protein phosphatase 1 regulatory subunit 3E	protein-coding	-	-	-	-	20160910
 79684	101988520	LOC101988520	-	-	-	Un	-	retinoic acid early-inducible protein 1-alpha-like	protein-coding	-	-	-	-	20160910
-79684	101988521	Ly6g6d	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6D	protein-coding	-	-	-	-	20151115
+79684	101988521	Ly6g6d	-	-	-	Un	-	lymphocyte antigen 6 family member G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6D	20170130
 79684	101988522	Cib3	-	-	-	Un	-	calcium and integrin binding family member 3	protein-coding	-	-	-	-	20160910
 79684	101988523	Shroom1	-	-	-	7	-	shroom family member 1	protein-coding	-	-	-	-	20160730
 79684	101988524	LOC101988524	-	-	-	Un	-	carcinoembryonic antigen-related cell adhesion molecule 5-like	protein-coding	-	-	-	-	20160910
@@ -9901,7 +9901,7 @@
 79684	101989070	Glyr1	-	-	-	7	-	glyoxylate reductase 1 homolog	protein-coding	-	-	-	-	20160910
 79684	101989071	Dvl2	-	-	-	7	-	dishevelled segment polarity protein 2	protein-coding	-	-	-	-	20160910
 79684	101989072	LOC101989072	-	-	-	Un	-	zinc finger protein 791-like	protein-coding	-	-	-	-	20160730
-79684	101989073	Ly6g6f	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	-	20160910
+79684	101989073	Ly6g6f	-	-	-	Un	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6F	20170130
 79684	101989074	LOC101989074	-	-	-	7	-	olfactory receptor 2T4-like	pseudo	-	-	-	-	20160526
 79684	101989075	LOC101989075	-	-	-	7	-	cytochrome b-c1 complex subunit 8	protein-coding	-	-	-	-	20160910
 79684	101989076	LOC101989076	-	Rnase3	-	Un	-	eosinophil cationic protein	protein-coding	-	-	-	ribonuclease, RNase A family, 3	20160910
@@ -10333,7 +10333,7 @@
 79684	101989514	Nop14	-	-	-	Un	-	NOP14 nucleolar protein	protein-coding	-	-	-	-	20160910
 79684	101989515	Ropn1	-	-	-	2	-	rhophilin associated tail protein 1	protein-coding	-	-	-	-	20160910
 79684	101989516	Tomm70	-	-	-	2	-	translocase of outer mitochondrial membrane 70	protein-coding	-	-	-	-	20160910
-79684	101989517	Als2cr12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosomal region candidate gene 12 protein homolog	20160811
+79684	101989517	Als2cr12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosomal region candidate gene 12 protein homolog|amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 79684	101989518	LOC101989518	-	-	-	2	-	keratin-associated protein 20-2-like	protein-coding	-	-	-	-	20160526
 79684	101989519	Mrps36	-	-	-	Un	-	mitochondrial ribosomal protein S36	protein-coding	-	-	-	-	20160910
 79684	101989520	LOC101989520	-	-	-	Un	-	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 6 pseudogene	pseudo	-	-	-	-	20151115
@@ -17891,7 +17891,7 @@
 79684	101997355	LOC101997355	-	-	-	10	-	antizyme inhibitor 2-like	protein-coding	-	-	-	-	20160526
 79684	101997356	C1ql4	-	-	-	15	-	complement C1q like 4	protein-coding	-	-	-	-	20160910
 79684	101997357	LOC101997357	-	Krt3	-	15	-	keratin, type II cytoskeletal 3	protein-coding	-	-	-	keratin 3	20160730
-79684	101997358	Nqo2	-	-	-	16	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	-	20160910
+79684	101997358	Nqo2	-	-	-	16	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	NAD(P)H quinone dehydrogenase 2	20170130
 79684	101997361	Camk4	-	-	-	18	-	calcium/calmodulin dependent protein kinase IV	protein-coding	-	-	-	-	20160730
 79684	101997362	Pggt1b	-	-	-	18	-	protein geranylgeranyltransferase type I subunit beta	protein-coding	-	-	-	-	20160729
 79684	101997363	Rps14	-	-	-	18	-	ribosomal protein S14	protein-coding	-	-	-	-	20160526
@@ -21976,7 +21976,7 @@
 79684	102001615	LOC102001615	-	-	-	Un	-	olfactory receptor 52D1-like	protein-coding	-	-	-	-	20160910
 79684	102001616	Gmpr2	-	-	-	Un	-	guanosine monophosphate reductase 2	protein-coding	-	-	-	-	20160102
 79684	102001617	Arhgap44	-	-	-	7	-	Rho GTPase activating protein 44	protein-coding	-	-	-	-	20160910
-79684	102001618	Ly6g5b	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	-	20151115
+79684	102001618	Ly6g5b	-	-	-	Un	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5B	20170130
 79684	102001619	LOC102001619	-	-	-	Un	-	histone H3.3-like	protein-coding	-	-	-	-	20160910
 79684	102001620	LOC102001620	-	-	-	7	-	NACHT, LRR and PYD domains-containing protein 1-like	protein-coding	-	-	-	-	20160730
 79684	102001622	Sept4	-	-	-	7	-	septin 4	protein-coding	-	-	-	-	20160910
@@ -22242,7 +22242,7 @@
 79684	102001897	Mrps34	-	-	-	7	-	mitochondrial ribosomal protein S34	protein-coding	-	-	-	-	20160910
 79684	102001898	LOC102001898	-	-	-	Un	-	olfactory receptor 52D1-like	protein-coding	-	-	-	-	20160910
 79684	102001899	Dmpk	-	-	-	Un	-	dystrophia myotonica protein kinase	protein-coding	-	-	-	-	20160910
-79684	102001900	Ly6g5c	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	-	20151115
+79684	102001900	Ly6g5c	-	-	-	Un	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5C	20170130
 79684	102001901	LOC102001901	-	-	-	Un	-	glutamine synthetase-like	pseudo	-	-	-	-	20151115
 79684	102001903	Slc39a5	-	-	-	Un	-	solute carrier family 39 member 5	protein-coding	-	-	-	-	20160910
 79684	102001904	LOC102001904	-	-	-	Un	-	cytochrome P450 2F2	protein-coding	-	-	-	-	20160910
@@ -22380,7 +22380,7 @@
 79684	102002042	Grm7	-	-	-	Un	-	glutamate metabotropic receptor 7	protein-coding	-	-	-	-	20160730
 79684	102002043	Apobec1	-	-	-	Un	-	apolipoprotein B mRNA editing enzyme catalytic subunit 1	protein-coding	-	-	-	-	20160910
 79684	102002044	Hao1	-	-	-	Un	-	hydroxyacid oxidase 1	protein-coding	-	-	-	-	20160910
-79684	102002045	Auts2	-	-	-	2	-	autism susceptibility candidate 2	protein-coding	-	-	-	-	20160730
+79684	102002045	Auts2	-	-	-	2	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility candidate 2	20170130
 79684	102002046	Bpgm	-	-	-	Un	-	bisphosphoglycerate mutase	protein-coding	-	-	-	-	20160910
 79684	102002047	Msx1	-	-	-	Un	-	msh homeobox 1	protein-coding	-	-	-	-	20160910
 79684	102002048	Ccdc149	-	-	-	Un	-	coiled-coil domain containing 149	protein-coding	-	-	-	-	20160730

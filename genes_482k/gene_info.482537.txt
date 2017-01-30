@@ -752,7 +752,7 @@
 482537	103581770	LOC103581770	-	-	-	Un	-	centrosomal protein of 192 kDa-like	protein-coding	-	-	-	centrosomal protein of 192 kDa-like	20170124
 482537	103581771	LOC103581771	-	-	-	Un	-	tumor necrosis factor receptor superfamily member 16-like	protein-coding	-	-	-	tumor necrosis factor receptor superfamily member 16-like	20170124
 482537	103581772	LOC103581772	-	-	-	Un	-	uncharacterized LOC103581772	ncRNA	-	-	-	-	20151115
-482537	103581773	NQO2	-	-	-	Un	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	LOW QUALITY PROTEIN: ribosyldihydronicotinamide dehydrogenase [quinone]	20170124
+482537	103581773	NQO2	-	-	-	Un	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	LOW QUALITY PROTEIN: ribosyldihydronicotinamide dehydrogenase [quinone]|NAD(P)H quinone dehydrogenase 2	20170130
 482537	103581774	LOC103581774	-	-	-	Un	-	lysophosphatidylcholine acyltransferase 1-like	protein-coding	-	-	-	lysophosphatidylcholine acyltransferase 1-like	20170124
 482537	103581775	LOC103581775	-	-	-	Un	-	zinc finger protein 260-like	protein-coding	-	-	-	zinc finger protein 260-like	20170124
 482537	103581776	LOC103581776	-	-	-	Un	-	40S ribosomal protein S7-like	protein-coding	-	-	-	LOW QUALITY PROTEIN: 40S ribosomal protein S7-like	20170124
@@ -10112,7 +10112,7 @@
 482537	103591130	SRGAP3	-	-	-	Un	-	SLIT-ROBO Rho GTPase activating protein 3	protein-coding	-	-	-	SLIT-ROBO Rho GTPase-activating protein 3	20170124
 482537	103591131	LOC103591131	-	-	-	Un	-	putative uncharacterized protein FLJ46541	pseudo	-	-	-	-	20151115
 482537	103591132	LOC103591132	-	-	-	Un	-	uncharacterized LOC103591132	pseudo	-	-	-	-	20151115
-482537	103591133	LY6E	-	-	-	Un	-	lymphocyte antigen 6 complex, locus E	protein-coding	-	-	-	lymphocyte antigen 6E	20170124
+482537	103591133	LY6E	-	-	-	Un	-	lymphocyte antigen 6 family member E	protein-coding	-	-	-	lymphocyte antigen 6E|lymphocyte antigen 6 complex, locus E	20170130
 482537	103591134	MTX2	-	-	-	Un	-	metaxin 2	protein-coding	-	-	-	metaxin-2	20170124
 482537	103591135	LOC103591135	-	-	-	Un	-	lymphocyte antigen 6A-2/6E-1-like	protein-coding	-	-	-	lymphocyte antigen 6A-2/6E-1-like	20170124
 482537	103591136	LOC103591136	-	-	-	Un	-	lymphocyte antigen 6H	protein-coding	-	-	-	lymphocyte antigen 6H	20170124
@@ -11344,15 +11344,15 @@
 482537	103592362	CLIC1	-	-	-	Un	-	chloride intracellular channel 1	protein-coding	-	-	-	chloride intracellular channel protein 1	20170124
 482537	103592363	DDAH2	-	-	-	Un	-	dimethylarginine dimethylaminohydrolase 2	protein-coding	-	-	-	N(G),N(G)-dimethylarginine dimethylaminohydrolase 2	20170124
 482537	103592364	MPIG6B	-	-	-	Un	-	megakaryocyte and platelet inhibitory receptor G6b	protein-coding	-	-	-	protein G6b	20170124
-482537	103592365	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6c	20170124
+482537	103592365	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6c|lymphocyte antigen 6 complex, locus G6C	20170130
 482537	103592366	ABHD16A	-	-	-	Un	-	abhydrolase domain containing 16A	protein-coding	-	-	-	abhydrolase domain-containing protein 16A	20170124
-482537	103592367	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6f	20170124
+482537	103592367	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6f|lymphocyte antigen 6 complex, locus G6F	20170130
 482537	103592368	LOC103592368	-	-	-	Un	-	sperm acrosome membrane-associated protein 4-like	protein-coding	-	-	-	sperm acrosome membrane-associated protein 4-like	20170124
 482537	103592369	SETD6	-	-	-	Un	-	SET domain containing 6	protein-coding	-	-	-	LOW QUALITY PROTEIN: N-lysine methyltransferase SETD6	20170124
-482537	103592370	LY6G6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6d	20170124
-482537	103592371	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G5c	20170124
+482537	103592370	LY6G6D	-	-	-	Un	-	lymphocyte antigen 6 family member G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6d|lymphocyte antigen 6 complex, locus G6D	20170130
+482537	103592371	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G5c|lymphocyte antigen 6 complex, locus G5C	20170130
 482537	103592372	CSNK2B	-	-	-	Un	-	casein kinase 2 beta	protein-coding	-	-	-	casein kinase II subunit beta	20170124
-482537	103592373	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G5b	20170124
+482537	103592373	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G5b|lymphocyte antigen 6 complex, locus G5B	20170130
 482537	103592374	GPANK1	-	-	-	Un	-	G-patch domain and ankyrin repeats 1	protein-coding	-	-	-	G patch domain and ankyrin repeat-containing protein 1	20170124
 482537	103592375	LOC103592375	-	-	-	Un	-	chromosome unknown open reading frame, human C6orf47	protein-coding	-	-	-	uncharacterized protein C6orf47 homolog	20170124
 482537	103592376	BAG6	-	-	-	Un	-	BCL2 associated athanogene 6	protein-coding	-	-	-	large proline-rich protein BAG6	20170124
@@ -12357,7 +12357,7 @@
 482537	103593375	WBSCR17	-	-	-	Un	-	Williams-Beuren syndrome chromosome region 17	protein-coding	-	-	-	putative polypeptide N-acetylgalactosaminyltransferase-like protein 3	20170124
 482537	103593376	CALN1	-	-	-	Un	-	calneuron 1	protein-coding	-	-	-	calcium-binding protein 8	20170124
 482537	103593377	MARK3	-	-	-	Un	-	microtubule affinity regulating kinase 3	protein-coding	-	-	-	MAP/microtubule affinity-regulating kinase 3	20170124
-482537	103593378	AUTS2	-	-	-	Un	-	autism susceptibility candidate 2	protein-coding	-	-	-	autism susceptibility gene 2 protein	20170124
+482537	103593378	AUTS2	-	-	-	Un	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility gene 2 protein|autism susceptibility candidate 2	20170130
 482537	103593379	LOC103593379	-	-	-	Un	-	28S ribosomal protein S36, mitochondrial pseudogene	pseudo	-	-	-	-	20151115
 482537	103593380	TNRC6C	-	-	-	Un	-	trinucleotide repeat containing 6C	protein-coding	-	-	-	trinucleotide repeat-containing gene 6C protein	20170124
 482537	103593381	MAMLD1	-	-	-	Un	-	mastermind like domain containing 1	protein-coding	-	-	-	mastermind-like domain-containing protein 1	20170124
@@ -16768,7 +16768,7 @@
 482537	103597786	STRADB	-	-	-	Un	-	STE20-related kinase adaptor beta	protein-coding	-	-	-	STE20-related kinase adapter protein beta	20170124
 482537	103597787	TRAK2	-	-	-	Un	-	trafficking kinesin protein 2	protein-coding	-	-	-	trafficking kinesin-binding protein 2	20170124
 482537	103597788	TBL3	-	-	-	Un	-	transducin beta like 3	protein-coding	-	-	-	transducin beta-like protein 3	20170124
-482537	103597789	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosomal region candidate gene 12 protein	20170124
+482537	103597789	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosomal region candidate gene 12 protein|amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 482537	103597790	CASP8	-	-	-	Un	-	caspase 8	protein-coding	-	-	-	caspase-8	20170124
 482537	103597791	ALS2CR11	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 11	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosomal region candidate gene 11 protein	20170124
 482537	103597792	LOC103597792	-	-	-	Un	-	nascent polypeptide-associated complex subunit alpha pseudogene	pseudo	-	-	-	-	20151115
@@ -18068,7 +18068,7 @@
 482537	103599086	LOC103599086	-	-	-	Un	-	S-phase kinase-associated protein 1 pseudogene	pseudo	-	-	-	-	20151115
 482537	103599087	LOC103599087	-	-	-	Un	-	uncharacterized LOC103599087	ncRNA	-	-	-	-	20151115
 482537	103599088	LOC103599088	-	-	-	Un	-	cytochrome P450 11B2, mitochondrial-like	protein-coding	-	-	-	cytochrome P450 11B2, mitochondrial-like	20170124
-482537	103599089	LY6K	-	-	-	Un	-	lymphocyte antigen 6 complex, locus K	protein-coding	-	-	-	lymphocyte antigen 6K	20170124
+482537	103599089	LY6K	-	-	-	Un	-	lymphocyte antigen 6 family member K	protein-coding	-	-	-	lymphocyte antigen 6K|lymphocyte antigen 6 complex, locus K	20170130
 482537	103599090	LOC103599090	-	-	-	Un	-	lymphocyte antigen 6D-like	protein-coding	-	-	-	lymphocyte antigen 6D-like	20170124
 482537	103599091	LYNX1	-	-	-	Un	-	Ly6/neurotoxin 1	protein-coding	-	-	-	ly-6/neurotoxin-like protein 1	20170124
 482537	103599092	JRK	-	-	-	Un	-	Jrk helix-turn-helix protein	protein-coding	-	-	-	jerky protein homolog	20170124

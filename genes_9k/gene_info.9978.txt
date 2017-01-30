@@ -1316,7 +1316,7 @@
 9978	101517277	LOC101517277	-	-	-	Un	-	E3 ubiquitin-protein ligase TRIM31-like	protein-coding	-	-	-	-	20160716
 9978	101517278	LOC101517278	-	-	-	Un	-	60S ribosomal protein L3 pseudogene	pseudo	-	-	-	-	20151115
 9978	101517279	LETM2	-	-	-	Un	-	leucine zipper and EF-hand containing transmembrane protein 2	protein-coding	-	-	-	-	20160903
-9978	101517280	LY6G6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6D	protein-coding	-	-	-	-	20151115
+9978	101517280	LY6G6D	-	-	-	Un	-	lymphocyte antigen 6 family member G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6D	20170130
 9978	101517281	VPS18	-	-	-	Un	-	VPS18, CORVET/HOPS core subunit	protein-coding	-	-	-	vacuolar protein sorting-associated protein 18 homolog	20160903
 9978	101517282	APOD	-	-	-	Un	-	apolipoprotein D	protein-coding	-	-	-	-	20160903
 9978	101517283	PGBD5	-	-	-	Un	-	piggyBac transposable element derived 5	protein-coding	-	-	-	-	20160903
@@ -1796,7 +1796,7 @@
 9978	101517779	LOC101517779	-	-	-	Un	-	cytochrome c oxidase subunit 7B, mitochondrial pseudogene	pseudo	-	-	-	-	20151115
 9978	101517780	PLEKHA2	-	-	-	Un	-	pleckstrin homology domain containing A2	protein-coding	-	-	-	-	20160811
 9978	101517781	TNXB	-	-	-	Un	-	tenascin XB	protein-coding	-	-	-	-	20160716
-9978	101517782	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	-	20160903
+9978	101517782	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6F	20170130
 9978	101517783	PPP1R14D	-	-	-	Un	-	protein phosphatase 1 regulatory inhibitor subunit 14D	protein-coding	-	-	-	-	20160903
 9978	101517784	PIGZ	-	-	-	Un	-	phosphatidylinositol glycan anchor biosynthesis class Z	protein-coding	-	-	-	-	20160811
 9978	101517785	TAF5L	-	-	-	Un	-	TATA-box binding protein associated factor 5 like	protein-coding	-	-	-	-	20160903
@@ -2033,7 +2033,7 @@
 9978	101518026	LOC101518026	-	-	-	Un	-	40S ribosomal protein S25 pseudogene	pseudo	-	-	-	-	20151115
 9978	101518027	HTRA4	-	-	-	Un	-	HtrA serine peptidase 4	protein-coding	-	-	-	-	20160903
 9978	101518028	C4A	-	-	-	Un	-	complement C4A (Rodgers blood group)	protein-coding	-	-	-	-	20160903
-9978	101518029	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	-	20151115
+9978	101518029	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5C	20170130
 9978	101518030	LOC101518030	-	-	-	Un	-	protein FAM107B pseudogene	pseudo	-	-	-	-	20151115
 9978	101518031	LOC101518031	-	-	-	Un	-	chromosome unknown open reading frame, human C15orf62	protein-coding	-	-	-	-	20151115
 9978	101518032	SENP5	-	-	-	Un	-	SUMO1/sentrin specific peptidase 5	protein-coding	-	-	-	-	20160716
@@ -2259,7 +2259,7 @@
 9978	101518260	MRPL21	-	-	-	Un	-	mitochondrial ribosomal protein L21	protein-coding	-	-	-	-	20160903
 9978	101518261	ZFP57	-	-	-	Un	-	ZFP57 zinc finger protein	protein-coding	-	-	-	zinc finger protein 57 homolog	20160903
 9978	101518262	LOC101518262	-	-	-	Un	-	40S ribosomal protein S7 pseudogene	pseudo	-	-	-	-	20151115
-9978	101518264	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	-	20151115
+9978	101518264	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5B	20170130
 9978	101518265	LOC101518265	-	-	-	Un	-	aromatase	protein-coding	-	-	-	-	20160903
 9978	101518266	DNAJC17	-	-	-	Un	-	DnaJ heat shock protein family (Hsp40) member C17	protein-coding	-	-	-	-	20160903
 9978	101518267	PIGX	-	-	-	Un	-	phosphatidylinositol glycan anchor biosynthesis class X	protein-coding	-	-	-	-	20160903
@@ -2412,7 +2412,7 @@
 9978	101518420	RPL22	-	-	-	Un	-	ribosomal protein L22	protein-coding	-	-	-	-	20160903
 9978	101518421	CCDC158	-	-	-	Un	-	coiled-coil domain containing 158	protein-coding	-	-	-	-	20160903
 9978	101518422	PHB2	-	-	-	Un	-	prohibitin 2	protein-coding	-	-	-	-	20160903
-9978	101518423	NQO2	-	-	-	Un	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	-	20160729
+9978	101518423	NQO2	-	-	-	Un	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	NAD(P)H quinone dehydrogenase 2	20170130
 9978	101518424	SLC22A8	-	-	-	Un	-	solute carrier family 22 member 8	protein-coding	-	-	-	-	20160729
 9978	101518425	NUP62	-	-	-	Un	-	nucleoporin 62	protein-coding	-	-	-	-	20160903
 9978	101518426	GLTSCR2	-	-	-	Un	-	glioma tumor suppressor candidate region gene 2	protein-coding	-	-	-	-	20160716
@@ -3378,7 +3378,7 @@
 9978	101519419	PDLIM1	-	-	-	Un	-	PDZ and LIM domain 1	protein-coding	-	-	-	-	20160903
 9978	101519420	WASF1	-	-	-	Un	-	WAS protein family member 1	protein-coding	-	-	-	-	20160903
 9978	101519421	RIDA	-	-	-	Un	-	reactive intermediate imine deaminase A homolog	protein-coding	-	-	-	-	20160903
-9978	101519422	LY6H	-	-	-	Un	-	lymphocyte antigen 6 complex, locus H	protein-coding	-	-	-	-	20160903
+9978	101519422	LY6H	-	-	-	Un	-	lymphocyte antigen 6 family member H	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus H	20170130
 9978	101519423	CA9	-	-	-	Un	-	carbonic anhydrase 9	protein-coding	-	-	-	-	20160903
 9978	101519424	RPN1	-	-	-	Un	-	ribophorin I	protein-coding	-	-	-	-	20160903
 9978	101519425	NME6	-	-	-	Un	-	NME/NM23 nucleoside diphosphate kinase 6	protein-coding	-	-	-	-	20151115
@@ -4530,7 +4530,7 @@
 9978	101520623	RNFT2	-	-	-	Un	-	ring finger protein, transmembrane 2	protein-coding	-	-	-	-	20160903
 9978	101520624	FIGN	-	-	-	Un	-	fidgetin, microtubule severing factor	protein-coding	-	-	-	-	20160903
 9978	101520625	PPM1N	-	-	-	Un	-	protein phosphatase, Mg2+/Mn2+ dependent 1N (putative)	protein-coding	-	-	-	-	20160903
-9978	101520626	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	-	20160811
+9978	101520626	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 9978	101520628	IFT88	-	-	-	Un	-	intraflagellar transport 88	protein-coding	-	-	-	intraflagellar transport 88 homolog|intraflagellar transport protein 88 homolog	20160903
 9978	101520629	NIFK	-	MKI67IP	-	Un	-	nucleolar protein interacting with the FHA domain of MKI67	protein-coding	-	-	-	MKI67 (FHA domain) interacting nucleolar phosphoprotein	20160716
 9978	101520630	CNGA2	-	PRRG3	-	Un	-	cyclic nucleotide gated channel alpha 2	protein-coding	-	-	-	proline rich Gla (G-carboxyglutamic acid) 3 (transmembrane)	20160716
@@ -6591,7 +6591,7 @@
 9978	101522764	SYNE1	-	-	-	Un	-	spectrin repeat containing nuclear envelope protein 1	protein-coding	-	-	-	-	20160903
 9978	101522765	GAS6	-	-	-	Un	-	growth arrest specific 6	protein-coding	-	-	-	-	20160809
 9978	101522766	CDYL	-	-	-	Un	-	chromodomain Y-like	protein-coding	-	-	-	chromodomain protein, Y-like	20160903
-9978	101522767	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	-	20151115
+9978	101522767	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6C	20170130
 9978	101522768	EPB42	-	-	-	Un	-	erythrocyte membrane protein band 4.2	protein-coding	-	-	-	-	20160903
 9978	101522769	ANKRD16	-	-	-	Un	-	ankyrin repeat domain 16	protein-coding	-	-	-	-	20160903
 9978	101522770	LOC101522770	-	-	-	Un	-	cytochrome b ascorbate-dependent protein 3	protein-coding	-	-	-	-	20160903
@@ -9181,7 +9181,7 @@
 9978	101525429	EFNA5	-	-	-	Un	-	ephrin A5	protein-coding	-	-	-	-	20160729
 9978	101525430	SCAMP1	-	-	-	Un	-	secretory carrier membrane protein 1	protein-coding	-	-	-	-	20160716
 9978	101525431	PCDHB1	-	-	-	Un	-	protocadherin beta 1	protein-coding	-	-	-	-	20160903
-9978	101525432	AUTS2	-	-	-	Un	-	autism susceptibility candidate 2	protein-coding	-	-	-	-	20160903
+9978	101525432	AUTS2	-	-	-	Un	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility candidate 2	20170130
 9978	101525433	TMEM159	-	-	-	Un	-	transmembrane protein 159	protein-coding	-	-	-	-	20160903
 9978	101525434	EYA4	-	-	-	Un	-	EYA transcriptional coactivator and phosphatase 4	protein-coding	-	-	-	eyes absent homolog 4	20160903
 9978	101525435	ENPP3	-	-	-	Un	-	ectonucleotide pyrophosphatase/phosphodiesterase 3	protein-coding	-	-	-	-	20160903
@@ -13347,7 +13347,7 @@
 9978	101529758	LOC101529758	-	-	-	Un	-	U6 snRNA phosphodiesterase-like	protein-coding	-	-	-	-	20160903
 9978	101529760	LOC101529760	-	-	-	Un	-	histone-lysine N-methyltransferase SUV39H2-like	protein-coding	-	-	-	-	20160716
 9978	101529761	LRP12	-	-	-	Un	-	LDL receptor related protein 12	protein-coding	-	-	-	-	20160810
-9978	101529762	LY6E	-	-	-	Un	-	lymphocyte antigen 6 complex, locus E	protein-coding	-	-	-	-	20160903
+9978	101529762	LY6E	-	-	-	Un	-	lymphocyte antigen 6 family member E	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus E	20170130
 9978	101529763	TBC1D31	-	WDR67	-	Un	-	TBC1 domain family member 31	protein-coding	-	-	-	WD repeat domain 67	20160811
 9978	101529764	DENND4C	-	-	-	Un	-	DENN domain containing 4C	protein-coding	-	-	-	-	20160903
 9978	101529765	LOC101529765	-	-	-	Un	-	E3 ubiquitin-protein ligase Mdm2-like	pseudo	-	-	-	-	20151115

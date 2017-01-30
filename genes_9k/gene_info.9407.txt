@@ -1536,9 +1536,9 @@
 9407	107498461	GPANK1	-	-	-	Un	-	G-patch domain and ankyrin repeats 1	protein-coding	-	-	-	-	20160806
 9407	107498462	LOC107498462	-	-	-	Un	-	chromosome unknown open reading frame, human C6orf47	protein-coding	-	-	-	-	20160806
 9407	107498463	CSNK2B	-	-	-	Un	-	casein kinase 2 beta	protein-coding	-	-	-	-	20160423
-9407	107498464	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	-	20160330
+9407	107498464	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5B	20170130
 9407	107498465	APOM	-	-	-	Un	-	apolipoprotein M	protein-coding	-	-	-	-	20160806
-9407	107498466	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	-	20160331
+9407	107498466	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5C	20170130
 9407	107498467	NEU1	-	-	-	Un	-	neuraminidase 1	protein-coding	-	-	-	-	20160806
 9407	107498468	MAT1A	-	-	-	Un	-	methionine adenosyltransferase 1A	protein-coding	-	-	-	-	20160806
 9407	107498469	HSPA1A	-	-	-	Un	-	heat shock protein family A (Hsp70) member 1A	protein-coding	-	-	-	-	20160423
@@ -1554,14 +1554,14 @@
 9407	107498479	VARS	-	-	-	Un	-	valyl-tRNA synthetase	protein-coding	-	-	-	-	20160806
 9407	107498480	MSH5	-	-	-	Un	-	mutS homolog 5	protein-coding	-	-	-	-	20160806
 9407	107498481	SAPCD1	-	-	-	Un	-	suppressor APC domain containing 1	protein-coding	-	-	-	-	20160806
-9407	107498482	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	-	20160806
+9407	107498482	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6F	20170130
 9407	107498483	ABHD16A	-	-	-	Un	-	abhydrolase domain containing 16A	protein-coding	-	-	-	-	20160806
 9407	107498484	LOC107498484	-	-	-	Un	-	uncharacterized LOC107498484	ncRNA	-	-	-	-	20160330
 9407	107498485	MPIG6B	-	-	-	Un	-	megakaryocyte and platelet inhibitory receptor G6b	protein-coding	-	-	-	-	20170107
 9407	107498486	LOC107498486	-	-	-	Un	-	pulmonary surfactant-associated protein D-like	protein-coding	-	-	-	-	20160423
 9407	107498487	DDAH2	-	-	-	Un	-	dimethylarginine dimethylaminohydrolase 2	protein-coding	-	-	-	-	20160806
 9407	107498488	CLIC1	-	-	-	Un	-	chloride intracellular channel 1	protein-coding	-	-	-	-	20160423
-9407	107498489	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	-	20160806
+9407	107498489	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6C	20170130
 9407	107498490	EHMT2	-	-	-	Un	-	euchromatic histone lysine methyltransferase 2	protein-coding	-	-	-	-	20160806
 9407	107498491	LTB	-	-	-	Un	-	lymphotoxin beta	protein-coding	-	-	-	-	20160423
 9407	107498492	LOC107498492	-	-	-	Un	-	cadherin-related family member 1-like	protein-coding	-	-	-	-	20160423
@@ -6228,7 +6228,7 @@
 9407	107503153	TRAK2	-	-	-	Un	-	trafficking kinesin protein 2	protein-coding	-	-	-	-	20160806
 9407	107503154	LOC107503154	-	-	-	Un	-	olfactory receptor 10AG1-like	protein-coding	-	-	-	-	20160806
 9407	107503155	CASP8	-	-	-	Un	-	caspase 8	protein-coding	-	-	-	-	20160806
-9407	107503156	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	-	20160806
+9407	107503156	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 9407	107503157	CFLAR	-	-	-	Un	-	CASP8 and FADD like apoptosis regulator	protein-coding	-	-	-	-	20160806
 9407	107503158	LOC107503158	-	-	-	Un	-	olfactory receptor-like protein OLF1	protein-coding	-	-	-	-	20160806
 9407	107503159	CASP10	-	-	-	Un	-	caspase 10	protein-coding	-	-	-	-	20160806
@@ -7379,7 +7379,7 @@
 9407	107504304	NEIL3	-	-	-	Un	-	nei like DNA glycosylase 3	protein-coding	-	-	-	-	20160806
 9407	107504305	LOC107504305	-	-	-	Un	-	netrin receptor DCC	protein-coding	-	-	-	-	20160806
 9407	107504306	LOC107504306	-	-	-	Un	-	uncharacterized LOC107504306	ncRNA	-	-	-	-	20160330
-9407	107504307	AUTS2	-	-	-	Un	-	autism susceptibility candidate 2	protein-coding	-	-	-	-	20160806
+9407	107504307	AUTS2	-	-	-	Un	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility candidate 2	20170130
 9407	107504308	SHC3	-	-	-	Un	-	SHC adaptor protein 3	protein-coding	-	-	-	-	20160729
 9407	107504309	S1PR3	-	-	-	Un	-	sphingosine-1-phosphate receptor 3	protein-coding	-	-	-	-	20160806
 9407	107504310	MFSD14A	-	-	-	Un	-	major facilitator superfamily domain containing 14A	protein-coding	-	-	-	-	20160924
@@ -10926,9 +10926,9 @@
 9407	107507851	LOC107507851	-	-	-	Un	-	collagen alpha-1(I) chain-like	protein-coding	-	-	-	-	20160423
 9407	107507852	JRK	-	-	-	Un	-	Jrk helix-turn-helix protein	protein-coding	-	-	-	-	20160806
 9407	107507853	LOC107507853	-	-	-	Un	-	ly6/PLAUR domain-containing protein 2-like	protein-coding	-	-	-	-	20160423
-9407	107507854	LY6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus D	protein-coding	-	-	-	-	20160806
+9407	107507854	LY6D	-	-	-	Un	-	lymphocyte antigen 6 family member D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus D	20170130
 9407	107507855	LOC107507855	-	-	-	Un	-	ly6/PLAUR domain-containing protein 2-like	protein-coding	-	-	-	-	20160806
-9407	107507856	LY6K	-	-	-	Un	-	lymphocyte antigen 6 complex, locus K	protein-coding	-	-	-	-	20160423
+9407	107507856	LY6K	-	-	-	Un	-	lymphocyte antigen 6 family member K	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus K	20170130
 9407	107507857	RHPN1	-	-	-	Un	-	rhophilin Rho GTPase binding protein 1	protein-coding	-	-	-	-	20160806
 9407	107507858	ZNF623	-	-	-	Un	-	zinc finger protein 623	protein-coding	-	-	-	-	20160806
 9407	107507859	LOC107507859	-	-	-	Un	-	putative IQ motif and ankyrin repeat domain-containing protein	protein-coding	-	-	-	-	20160806
@@ -10951,7 +10951,7 @@
 9407	107507876	THEM6	-	-	-	Un	-	thioesterase superfamily member 6	protein-coding	-	-	-	-	20160806
 9407	107507877	LOC107507877	-	-	-	Un	-	cytochrome P450 11B1, mitochondrial-like	protein-coding	-	-	-	-	20160806
 9407	107507878	GML	-	-	-	Un	-	glycosylphosphatidylinositol anchored molecule like	protein-coding	-	-	-	-	20160423
-9407	107507879	LY6E	-	-	-	Un	-	lymphocyte antigen 6 complex, locus E	protein-coding	-	-	-	-	20160806
+9407	107507879	LY6E	-	-	-	Un	-	lymphocyte antigen 6 family member E	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus E	20170130
 9407	107507880	CFAP45	-	-	-	Un	-	cilia and flagella associated protein 45	protein-coding	-	-	-	-	20160806
 9407	107507881	FAM83H	-	-	-	Un	-	family with sequence similarity 83 member H	protein-coding	-	-	-	-	20160806
 9407	107507882	ZC3H3	-	-	-	Un	-	zinc finger CCCH-type containing 3	protein-coding	-	-	-	-	20160806
@@ -24800,7 +24800,7 @@
 9407	107521725	PXDC1	-	-	-	Un	-	PX domain containing 1	protein-coding	-	-	-	-	20160806
 9407	107521726	LOC107521726	-	-	-	Un	-	60S ribosomal protein L9 pseudogene	pseudo	-	-	-	-	20160331
 9407	107521727	WRNIP1	-	-	-	Un	-	Werner helicase interacting protein 1	protein-coding	-	-	-	-	20160806
-9407	107521728	NQO2	-	-	-	Un	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	-	20160806
+9407	107521728	NQO2	-	-	-	Un	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	NAD(P)H quinone dehydrogenase 2	20170130
 9407	107521729	SERPINB6	-	-	-	Un	-	serpin family B member 6	protein-coding	-	-	-	-	20160806
 9407	107521730	LOC107521730	-	-	-	Un	-	HLA class I histocompatibility antigen, B-15 alpha chain-like	protein-coding	-	-	-	-	20160806
 9407	107521731	KCNN1	-	-	-	Un	-	potassium calcium-activated channel subfamily N member 1	protein-coding	-	-	-	-	20160806

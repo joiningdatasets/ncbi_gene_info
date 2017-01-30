@@ -368,7 +368,7 @@
 9615	403790	IL5	-	-	Ensembl:ENSCAFG00000000855	11	-	interleukin 5	protein-coding	-	-	-	interleukin-5|IL-5|T-cell replacing factor|TRF|eosinophil differentiation factor|interleukin 5 (colony-stimulating factor, eosinophil)	20161031
 9615	403791	ACTR1A	-	-	Ensembl:ENSCAFG00000010210	28	-	ARP1 actin-related protein 1 homolog A, centractin alpha	protein-coding	-	-	-	alpha-centractin|actin-RPV|centractin|centrosome-associated actin homolog	20170119
 9615	403792	CE10	-	-	Ensembl:ENSCAFG00000009714	24	-	CE10 protein	protein-coding	-	-	-	CE10 protein	20160808
-9615	403793	LY6G5C	-	CE8	Ensembl:ENSCAFG00000000606	12	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G5c|CE8 protein, variant 2|canine epididymal gene product 8|epididymal secretory protein 8	20161031
+9615	403793	LY6G5C	-	CE8	Ensembl:ENSCAFG00000000606	12	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G5c|CE8 protein, variant 2|canine epididymal gene product 8|epididymal secretory protein 8|lymphocyte antigen 6 complex, locus G5C	20170130
 9615	403794	CE9	-	-	Ensembl:ENSCAFG00000013107	7	-	CE9 protein	protein-coding	-	-	-	regulator of G-protein signaling protein-like	20160924
 9615	403795	GH1	-	GH	Ensembl:ENSCAFG00000012681	9	-	growth hormone	protein-coding	-	-	-	somatotropin	20161031
 9615	403796	IL18	-	IGIF	Ensembl:ENSCAFG00000030180	5	-	interleukin 18	protein-coding	-	-	-	interleukin-18|IFN-gamma-inducing factor|IL-1 gamma|IL-18|interferon gamma-inducing factor|interleukin 18 (interferon-gamma-inducing factor)|interleukin-1 gamma	20161031
@@ -4648,7 +4648,7 @@
 9615	479706	LOC479706	-	RABGEF1	Ensembl:ENSCAFG00000010773	6	-	BTB/POZ domain-containing protein KCTD7	protein-coding	-	-	-	rab5 GDP/GTP exchange factor|RAB guanine nucleotide exchange factor (GEF) 1	20160910
 9615	479707	TMEM248	-	C6H7orf42	Ensembl:ENSCAFG00000010783	6	-	transmembrane protein 248	protein-coding	-	-	-	-	20160903
 9615	479708	LOC479708	-	TYW1	Ensembl:ENSCAFG00000010867	6	-	S-adenosyl-L-methionine-dependent tRNA 4-demethylwyosine synthase	protein-coding	-	-	-	tRNA wybutosine-synthesizing protein 1 homolog|tRNA-yW synthesizing protein 1 homolog	20160903
-9615	479709	AUTS2	-	-	Ensembl:ENSCAFG00000011229	6	-	autism susceptibility candidate 2	protein-coding	-	-	-	autism susceptibility gene 2 protein	20160813
+9615	479709	AUTS2	-	-	Ensembl:ENSCAFG00000011229	6	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility gene 2 protein|autism susceptibility candidate 2	20170130
 9615	479714	GTF2I	-	-	Ensembl:ENSCAFG00000011514	6	-	general transcription factor IIi	protein-coding	-	-	-	general transcription factor II-I|general transcription factor II, i	20160910
 9615	479717	WBSCR22	-	-	Ensembl:ENSCAFG00000012894	6	-	Williams-Beuren syndrome chromosome region 22	protein-coding	-	-	-	probable 18S rRNA (guanine-N(7))-methyltransferase	20160827
 9615	479718	TBL2	-	-	Ensembl:ENSCAFG00000013010	6	-	transducin beta like 2	protein-coding	-	-	-	transducin beta-like protein 2	20160903
@@ -6057,7 +6057,7 @@
 9615	481712	LTB	-	-	Ensembl:ENSCAFG00000030292	12	-	lymphotoxin beta	protein-coding	-	-	-	lymphotoxin-beta	20160809
 9615	481713	PRRC2A	-	BAT2	Ensembl:ENSCAFG00000000533	12	-	proline rich coiled-coil 2A	protein-coding	-	-	-	protein PRRC2A|HLA-B associated transcript 2	20160910
 9615	481714	GPANK1	-	BAT4	Ensembl:ENSCAFG00000000601	12	-	G-patch domain and ankyrin repeats 1	protein-coding	-	-	-	G patch domain and ankyrin repeat-containing protein 1|HLA-B associated transcript 4	20160827
-9615	481715	LY6G6F	-	-	Ensembl:ENSCAFG00000000610	12	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6f	20160910
+9615	481715	LY6G6F	-	-	Ensembl:ENSCAFG00000000610	12	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6f|lymphocyte antigen 6 complex, locus G6F	20170130
 9615	481716	VARS	-	-	Ensembl:ENSCAFG00000000636	12	-	valyl-tRNA synthetase	protein-coding	-	-	-	valyl-tRNA synthetase	20160910
 9615	481717	NEU1	-	-	Ensembl:ENSCAFG00000000642	12	-	neuraminidase 1	protein-coding	-	-	-	sialidase-1	20160910
 9615	481718	SLC44A4	-	-	Ensembl:ENSCAFG00000000658	12	-	solute carrier family 44 member 4	protein-coding	-	-	-	choline transporter-like protein 4	20160813
@@ -6297,7 +6297,7 @@
 9615	482068	LOC482068	-	PSCA	Ensembl:ENSCAFG00000032433	13	-	prostate stem cell antigen	protein-coding	-	-	-	prostate stem cell antigen	20160903
 9615	482069	SLURP1	-	-	Ensembl:ENSCAFG00000001280	13	-	secreted LY6/PLAUR domain containing 1	protein-coding	-	-	-	secreted Ly-6/uPAR-related protein 1	20160903
 9615	482071	CYP11B2	-	-	Ensembl:ENSCAFG00000001285	13	-	cytochrome P450, family 11, subfamily B, polypeptide 2	protein-coding	-	-	-	mitochondrial cytochrome P450 11B2	20160813
-9615	482072	LY6H	-	-	Ensembl:ENSCAFG00000001292	13	-	lymphocyte antigen 6 complex, locus H	protein-coding	-	-	-	lymphocyte antigen 6H	20160827
+9615	482072	LY6H	-	-	Ensembl:ENSCAFG00000001292	13	-	lymphocyte antigen 6 family member H	protein-coding	-	-	-	lymphocyte antigen 6H|lymphocyte antigen 6 complex, locus H	20170130
 9615	482076	RHPN1	-	-	Ensembl:ENSCAFG00000001297	13	-	rhophilin Rho GTPase binding protein 1	protein-coding	-	-	-	rhophilin-1	20160910
 9615	482077	ZC3H3	-	-	Ensembl:ENSCAFG00000001299	13	-	zinc finger CCCH-type containing 3	protein-coding	-	-	-	zinc finger CCCH domain-containing protein 3	20160730
 9615	482079	PYCRL	-	-	Ensembl:ENSCAFG00000001325	13	-	pyrroline-5-carboxylate reductase-like	protein-coding	-	-	-	pyrroline-5-carboxylate reductase 3	20160827
@@ -10430,7 +10430,7 @@
 9615	488471	CFLAR	-	-	Ensembl:ENSCAFG00000012130	37	-	CASP8 and FADD like apoptosis regulator	protein-coding	-	-	-	CASP8 and FADD-like apoptosis regulator	20160910
 9615	488472	CASP10	-	-	Ensembl:ENSCAFG00000012168	37	-	caspase 10	protein-coding	-	-	-	caspase-10	20160910
 9615	488473	CASP8	-	-	Ensembl:ENSCAFG00000025192	37	-	caspase 8	protein-coding	-	-	-	caspase-8	20160903
-9615	488474	ALS2CR12	-	-	Ensembl:ENSCAFG00000012188	37	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 (juvenile) chromosome region, candidate 12	20160818
+9615	488474	ALS2CR12	-	-	Ensembl:ENSCAFG00000012188	37	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 (juvenile) chromosome region, candidate 12|amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 9615	488475	TRAK2	-	-	Ensembl:ENSCAFG00000012217	37	-	trafficking kinesin protein 2	protein-coding	-	-	-	trafficking kinesin-binding protein 2	20160903
 9615	488478	FZD7	-	-	-	37	-	frizzled class receptor 7	protein-coding	-	-	-	frizzled-7|frizzled 7, seven transmembrane spanning receptor|frizzled family receptor 7|frizzled homolog 7	20160903
 9615	488479	ICA1L	-	-	Ensembl:ENSCAFG00000012497	37	-	islet cell autoantigen 1 like	protein-coding	-	-	-	islet cell autoantigen 1-like protein	20160910
@@ -13042,7 +13042,7 @@
 9615	606925	LOC606925	-	-	-	4	-	zinc finger protein 260-like	protein-coding	-	-	-	-	20160730
 9615	606926	C5H1orf159	-	-	-	5	-	chromosome 5 open reading frame, human C1orf159	protein-coding	-	-	-	-	20160910
 9615	606927	ANKRD29	-	-	Ensembl:ENSCAFG00000018180	7	-	ankyrin repeat domain 29	protein-coding	-	-	-	ankyrin repeat domain-containing protein 29	20160910
-9615	606932	NQO2	-	-	-	35	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	ribosyldihydronicotinamide dehydrogenase [quinone]	20160903
+9615	606932	NQO2	-	-	-	35	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	ribosyldihydronicotinamide dehydrogenase [quinone]|NAD(P)H quinone dehydrogenase 2	20170130
 9615	606935	UBE2J2	-	-	Ensembl:ENSCAFG00000032184	5	-	ubiquitin conjugating enzyme E2 J2	protein-coding	-	-	-	ubiquitin-conjugating enzyme E2 J2|ubiquitin-conjugating enzyme E2, J2 (UBC6 homolog, yeast)	20160729
 9615	606936	RBFA	-	-	-	1	-	ribosome binding factor A (putative)	protein-coding	-	-	-	putative ribosome-binding factor A, mitochondrial	20160730
 9615	606938	MICU3	-	EFHA2	-	16	-	mitochondrial calcium uptake family member 3	protein-coding	-	-	-	calcium uptake protein 3, mitochondrial|EF-hand domain family, member A2	20160819
@@ -13280,7 +13280,7 @@
 9615	607327	LOC607327	-	-	-	Un	-	D-3-phosphoglycerate dehydrogenase-like	protein-coding	-	-	-	-	20160109
 9615	607328	DCTD	-	-	Ensembl:ENSCAFG00000031175	16	-	dCMP deaminase	protein-coding	-	-	-	deoxycytidylate deaminase|deoxycytidylate deaminase-like	20160526
 9615	607335	LOC607335	-	-	-	8	-	tubulin alpha-1A chain-like	pseudo	-	-	-	-	20160526
-9615	607336	LY6G5B	-	-	Ensembl:ENSCAFG00000030202	12	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G5b	20160526
+9615	607336	LY6G5B	-	-	Ensembl:ENSCAFG00000030202	12	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G5b|lymphocyte antigen 6 complex, locus G5B	20170130
 9615	607337	SLFNL1	-	-	Ensembl:ENSCAFG00000002600	15	-	schlafen like 1	protein-coding	-	-	-	schlafen-like protein 1	20160910
 9615	607338	KAZN	-	-	Ensembl:ENSCAFG00000016338	2	-	kazrin, periplakin interacting protein	protein-coding	-	-	-	-	20160730
 9615	607339	TRAF3IP1	-	-	Ensembl:ENSCAFG00000012447	25	-	TRAF3 interacting protein 1	protein-coding	-	-	-	TRAF3-interacting protein 1	20160810
@@ -13308,7 +13308,7 @@
 9615	607371	FAM72A	-	-	-	38	-	family with sequence similarity 72 member A	protein-coding	-	-	-	-	20160903
 9615	607374	IGFBP6	-	-	Ensembl:ENSCAFG00000028636	27	-	insulin like growth factor binding protein 6	protein-coding	-	-	-	insulin-like growth factor-binding protein 6	20160903
 9615	607375	LOC607375	-	-	-	29	-	ATP synthase, H+ transporting, mitochondrial Fo complex, subunit F2 pseudogene	pseudo	-	-	-	-	20160402
-9615	607379	LY6G6C	-	-	Ensembl:ENSCAFG00000000614	12	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6c	20160903
+9615	607379	LY6G6C	-	-	Ensembl:ENSCAFG00000000614	12	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6c|lymphocyte antigen 6 complex, locus G6C	20170130
 9615	607381	LOC607381	-	CARKD	-	22	-	carbohydrate kinase domain containing	protein-coding	-	-	-	carbohydrate kinase domain-containing protein	20160526
 9615	607383	RASSF4	-	-	Ensembl:ENSCAFG00000007010	28	-	Ras association domain family member 4	protein-coding	-	-	-	ras association domain-containing protein 4|Ras association (RalGDS/AF-6) domain family 4	20160910
 9615	607384	LOC607384	-	-	-	3	-	pre-mRNA-splicing regulator WTAP-like	protein-coding	-	-	-	-	20160903
@@ -14420,7 +14420,7 @@
 9615	609107	WNT3	-	-	Ensembl:ENSCAFG00000013442	9	-	Wnt family member 3	protein-coding	-	-	-	proto-oncogene Wnt-3	20160729
 9615	609108	LOC609108	-	-	-	14	-	ubiquitin-conjugating enzyme E2 N-like	protein-coding	-	-	-	-	20160903
 9615	609110	SERPINI2	-	-	Ensembl:ENSCAFG00000014536	34	-	serpin family I member 2	protein-coding	-	-	-	serpin I2	20160813
-9615	609112	LY6D	-	-	Ensembl:ENSCAFG00000014090	Un	-	lymphocyte antigen 6 complex, locus D	protein-coding	-	-	-	lymphocyte antigen 6D|lymphocyte antigen 6D-like	20160329
+9615	609112	LY6D	-	-	Ensembl:ENSCAFG00000014090	Un	-	lymphocyte antigen 6 family member D	protein-coding	-	-	-	lymphocyte antigen 6D|lymphocyte antigen 6 complex, locus D|lymphocyte antigen 6D-like	20170130
 9615	609114	GFRA1	-	-	Ensembl:ENSCAFG00000011782	28	-	GDNF family receptor alpha 1	protein-coding	-	-	-	GDNF family receptor alpha-1	20160903
 9615	609115	LEPROT	-	-	Ensembl:ENSCAFG00000031524	5	-	leptin receptor overlapping transcript	protein-coding	-	-	-	leptin receptor gene-related protein|leptin receptor gene-related protein-like	20160910
 9615	609116	RBFOX1	-	-	Ensembl:ENSCAFG00000019082	6	-	RNA binding protein, fox-1 homolog 1	protein-coding	-	-	-	RNA binding protein fox-1 homolog 1	20160910
@@ -17484,7 +17484,7 @@
 9615	100683003	LOC100683003	-	-	-	8	-	40S ribosomal protein S6 pseudogene	pseudo	-	-	-	-	20160526
 9615	100683004	LOC100683004	-	-	-	12	-	endophilin-A1 pseudogene	pseudo	-	-	-	-	20160526
 9615	100683005	LOC100683005	-	-	-	9	-	stress-induced-phosphoprotein 1 pseudogene	pseudo	-	-	-	-	20160526
-9615	100683006	LY6E	-	-	Ensembl:ENSCAFG00000001289	13	-	lymphocyte antigen 6 complex, locus E	protein-coding	-	-	-	lymphocyte antigen 6E	20160813
+9615	100683006	LY6E	-	-	Ensembl:ENSCAFG00000001289	13	-	lymphocyte antigen 6 family member E	protein-coding	-	-	-	lymphocyte antigen 6E|lymphocyte antigen 6 complex, locus E	20170130
 9615	100683009	LOC100683009	-	-	-	15	-	calmodulin-like	pseudo	-	-	-	-	20160526
 9615	100683010	PLAC1	-	-	Ensembl:ENSCAFG00000018872	X	-	placenta specific 1	protein-coding	-	-	-	placenta-specific protein 1	20160827
 9615	100683013	LOC100683013	-	-	-	1	-	prefoldin subunit 1 pseudogene	pseudo	-	-	-	-	20160526
@@ -22604,7 +22604,7 @@
 9615	100856713	UBE2N	-	-	-	15	-	ubiquitin conjugating enzyme E2 N	protein-coding	-	-	-	-	20160813
 9615	100856715	IFT81	-	-	Ensembl:ENSCAFG00000008428	26	-	intraflagellar transport 81	protein-coding	-	-	-	intraflagellar transport 81 homolog|intraflagellar transport protein 81 homolog	20160910
 9615	100856716	LOC100856716	-	-	Ensembl:ENSCAFG00000009546	31	-	sodium/myo-inositol cotransporter	protein-coding	-	-	-	-	20160526
-9615	100856718	LY6K	-	-	-	13	-	lymphocyte antigen 6 complex, locus K	protein-coding	-	-	-	-	20160730
+9615	100856718	LY6K	-	-	-	13	-	lymphocyte antigen 6 family member K	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus K	20170130
 9615	100856719	SPG11	-	-	Ensembl:ENSCAFG00000013606	30	-	spastic paraplegia 11 (autosomal recessive)	protein-coding	-	-	-	-	20161224
 9615	100856720	RTL1	-	-	Ensembl:ENSCAFG00000017929	8	-	retrotransposon-like 1	protein-coding	-	-	-	-	20160903
 9615	100856721	PIM3	-	-	-	10	-	Pim-3 proto-oncogene, serine/threonine kinase	protein-coding	-	-	-	pim-3 oncogene	20160730
@@ -25631,7 +25631,7 @@
 9615	102154690	LOC102154690	-	-	-	9	-	uncharacterized LOC102154690	ncRNA	-	-	-	-	20160526
 9615	102154691	LOC102154691	-	-	-	10	-	uncharacterized protein C7orf73	protein-coding	-	-	-	-	20160910
 9615	102154692	LOC102154692	-	-	-	10	-	uncharacterized LOC102154692	ncRNA	-	-	-	-	20160526
-9615	102154694	LY6G6D	-	-	Ensembl:ENSCAFG00000031994	12	-	lymphocyte antigen 6 complex, locus G6D	protein-coding	-	-	-	-	20160526
+9615	102154694	LY6G6D	-	-	Ensembl:ENSCAFG00000031994	12	-	lymphocyte antigen 6 family member G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6D	20170130
 9615	102154698	LOC102154698	-	-	-	1	-	uncharacterized LOC102154698	ncRNA	-	-	-	-	20160526
 9615	102154699	LOC102154699	-	-	-	15	-	uncharacterized LOC102154699	ncRNA	-	-	-	-	20160526
 9615	102154703	LOC102154703	-	-	-	2	-	uncharacterized LOC102154703	ncRNA	-	-	-	-	20160526

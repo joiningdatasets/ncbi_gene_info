@@ -438,7 +438,7 @@
 9541	101865200	NUP205	-	-	-	3	-	nucleoporin 205	protein-coding	-	-	-	-	20160910
 9541	101865201	PTCHD1	-	-	-	X	-	patched domain containing 1	protein-coding	-	-	-	-	20160910
 9541	101865202	PTPA	-	-	-	15	-	protein phosphatase 2 phosphatase activator	protein-coding	-	-	-	-	20160910
-9541	101865203	ALS2CR12	-	-	-	12	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosomal region candidate gene 12 protein	20160808
+9541	101865203	ALS2CR12	-	-	-	12	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosomal region candidate gene 12 protein|amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 9541	101865204	LOC101865204	-	-	-	-	-	uncharacterized LOC101865204	protein-coding	-	-	-	-	20160808
 9541	101865205	MARCH8	-	-	-	9	-	membrane associated ring-CH-type finger 8	protein-coding	-	-	-	E3 ubiquitin-protein ligase MARCH8	20170129
 9541	101865206	CHTOP	-	-	-	1	-	chromatin target of PRMT1	protein-coding	-	-	-	-	20161031
@@ -1539,7 +1539,7 @@
 9541	101866358	SERPINI1	-	-	-	2	-	serpin family I member 1	protein-coding	-	-	-	-	20161031
 9541	101866359	BCL2L13	-	-	-	10	-	BCL2 like 13	protein-coding	-	-	-	-	20161031
 9541	101866360	EIF1AD	-	-	-	14	-	eukaryotic translation initiation factor 1A domain containing	protein-coding	-	-	-	probable RNA-binding protein EIF1AD|Eukaryotic translation initiation factor 1A domain-containing protein	20161031
-9541	101866361	LY6E	-	-	-	8	-	lymphocyte antigen 6 complex, locus E	protein-coding	-	-	-	lymphocyte antigen 6E	20160910
+9541	101866361	LY6E	-	-	-	8	-	lymphocyte antigen 6 family member E	protein-coding	-	-	-	lymphocyte antigen 6E|lymphocyte antigen 6 complex, locus E	20170130
 9541	101866362	LOC101866362	-	-	-	18	-	immediate early response 3-interacting protein 1	protein-coding	-	-	-	-	20160808
 9541	101866363	RFX5	-	-	-	1	-	regulatory factor X5	protein-coding	-	-	-	DNA-binding protein RFX5	20161031
 9541	101866364	NAPB	-	-	-	10	-	NSF attachment protein beta	protein-coding	-	-	-	beta-soluble NSF attachment protein	20161001
@@ -2953,7 +2953,7 @@
 9541	101925358	LOC101925358	-	-	-	-	-	uncharacterized LOC101925358	protein-coding	-	-	-	-	20160808
 9541	101925359	LOC101925359	-	-	-	-	-	uncharacterized LOC101925359	protein-coding	-	-	-	-	20160808
 9541	101925360	TPPP2	-	-	-	7	-	tubulin polymerization promoting protein family member 2	protein-coding	-	-	-	tubulin polymerization-promoting protein family member 2	20161031
-9541	101925361	LY6H	-	Ly-6H	-	8	-	lymphocyte antigen 6 complex, locus H	protein-coding	-	-	-	lymphocyte antigen 6H|lymphocyte antigen 6 complex locus H protein	20161031
+9541	101925361	LY6H	-	Ly-6H	-	8	-	lymphocyte antigen 6 family member H	protein-coding	-	-	-	lymphocyte antigen 6H|lymphocyte antigen 6 complex locus H protein|lymphocyte antigen 6 complex, locus H	20170130
 9541	101925362	PARP4	-	-	-	17	-	poly(ADP-ribose) polymerase family member 4	protein-coding	-	-	-	-	20160808
 9541	101925363	SARAF	-	-	-	8	-	store-operated calcium entry associated regulatory factor	protein-coding	-	-	-	store-operated calcium entry-associated regulatory factor	20161001
 9541	101925364	DNALI1	-	-	-	1	-	dynein axonemal light intermediate chain 1	protein-coding	-	-	-	axonemal dynein light intermediate polypeptide 1|Inner dynein arm light chain, axonemal	20161031
@@ -6856,7 +6856,7 @@
 9541	102117846	LOC102117846	-	-	-	X	-	transcription factor Dp-1 pseudogene	pseudo	-	-	-	-	20160526
 9541	102117847	LOC102117847	-	-	-	11	-	disintegrin and metalloproteinase domain-containing protein 1a-like	protein-coding	-	-	-	disintegrin and metalloproteinase domain-containing protein 1a-like|fertilin alpha-I isoform	20170104
 9541	102117848	LOC102117848	-	-	-	12	-	POTE ankyrin domain family member G-like	protein-coding	-	-	-	-	20160730
-9541	102117849	LY6G5C	-	-	-	4	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	-	20160526
+9541	102117849	LY6G5C	-	-	-	4	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5C	20170130
 9541	102117850	LOC102117850	-	-	-	12	-	uncharacterized LOC102117850	ncRNA	-	-	-	-	20160526
 9541	102117851	LOC102117851	-	-	-	X	-	spermine synthase pseudogene	pseudo	-	-	-	-	20160526
 9541	102117852	LOC102117852	-	-	-	12	-	uncharacterized LOC102117852	ncRNA	-	-	-	-	20160526
@@ -7911,7 +7911,7 @@
 9541	102119226	LOC102119226	-	-	-	4	-	histone H1.5	protein-coding	-	-	-	-	20160910
 9541	102119228	POF1B	-	-	-	X	-	premature ovarian failure, 1B	protein-coding	-	-	-	Premature ovarian failure protein 1B	20160910
 9541	102119229	TRMT2B	-	-	-	X	-	tRNA methyltransferase 2 homolog B	protein-coding	-	-	-	-	20161031
-9541	102119230	NQO2	-	-	-	4	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	-	20160820
+9541	102119230	NQO2	-	-	-	4	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	NAD(P)H quinone dehydrogenase 2	20170130
 9541	102119232	FN1	-	-	-	12	-	fibronectin 1	protein-coding	-	-	-	-	20160910
 9541	102119233	SPEG	-	-	-	12	-	SPEG complex locus	protein-coding	-	-	-	-	20160910
 9541	102119234	LOC102119234	-	-	-	X	-	ras-related C3 botulinum toxin substrate 1 pseudogene	pseudo	-	-	-	-	20160526
@@ -9233,7 +9233,7 @@
 9541	102120979	SNAP91	-	-	-	4	-	synaptosome associated protein 91	protein-coding	-	-	-	synaptosomal-associated protein, 91kDa	20160910
 9541	102120982	LOC102120982	-	-	-	X	-	ferritin heavy chain-like	protein-coding	-	-	-	-	20160910
 9541	102120983	LOC102120983	-	-	-	11	-	keratin, type II cuticular Hb6-like	protein-coding	-	-	-	-	20160910
-9541	102120984	LY6G6C	-	-	-	4	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	-	20160813
+9541	102120984	LY6G6C	-	-	-	4	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6C	20170130
 9541	102120985	LOC102120985	-	-	-	4	-	olfactory receptor 2B2	protein-coding	-	-	-	-	20160910
 9541	102120986	PLA2R1	-	-	-	12	-	phospholipase A2 receptor 1	protein-coding	-	-	-	phospholipase A2 receptor 1, 180kDa	20160730
 9541	102120987	TTC21B	-	-	-	12	-	tetratricopeptide repeat domain 21B	protein-coding	-	-	-	-	20160910
@@ -13192,7 +13192,7 @@
 9541	102126120	CRISP1	-	-	-	4	-	cysteine rich secretory protein 1	protein-coding	-	-	-	-	20160910
 9541	102126122	LOC102126122	-	-	-	11	-	protein FAM133B pseudogene	pseudo	-	-	-	-	20160526
 9541	102126123	TBC1D22B	-	-	-	4	-	TBC1 domain family member 22B	protein-coding	-	-	-	tBC1 domain family member 22B	20161031
-9541	102126124	LY6G5B	-	-	-	4	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	-	20160526
+9541	102126124	LY6G5B	-	-	-	4	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5B	20170130
 9541	102126125	LOC102126125	-	-	-	X	-	uncharacterized protein CXorf49-like	pseudo	-	-	-	-	20160526
 9541	102126126	LOC102126126	-	-	-	X	-	F-actin-capping protein subunit alpha-1 pseudogene	pseudo	-	-	-	-	20160526
 9541	102126128	F13A1	-	-	-	4	-	coagulation factor XIII A chain	protein-coding	-	-	-	-	20160910
@@ -15523,7 +15523,7 @@
 9541	102129163	KANK2	-	-	-	19	-	KN motif and ankyrin repeat domains 2	protein-coding	-	-	-	-	20160910
 9541	102129164	NANP	-	-	-	10	-	N-acetylneuraminic acid phosphatase	protein-coding	-	-	-	-	20160910
 9541	102129165	EFNA2	-	-	-	19	-	ephrin A2	protein-coding	-	-	-	-	20160729
-9541	102129166	AUTS2	-	-	-	3	-	autism susceptibility candidate 2	protein-coding	-	-	-	-	20160910
+9541	102129166	AUTS2	-	-	-	3	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility candidate 2	20170130
 9541	102129167	LOC102129167	-	-	-	3	-	uncharacterized LOC102129167	ncRNA	-	-	-	-	20160526
 9541	102129168	LOC102129168	-	-	-	10	-	uncharacterized LOC102129168	ncRNA	-	-	-	-	20160526
 9541	102129170	TPRX1	-	-	-	19	-	tetrapeptide repeat homeobox 1	protein-coding	-	-	-	tetra-peptide repeat homeobox 1	20160910
@@ -17756,7 +17756,7 @@
 9541	102132094	IFFO2	-	-	-	1	-	intermediate filament family orphan 2	protein-coding	-	-	-	-	20160730
 9541	102132095	MAP3K3	-	-	-	16	-	mitogen-activated protein kinase kinase kinase 3	protein-coding	-	-	-	-	20160526
 9541	102132096	MUC20	-	-	-	2	-	mucin 20, cell surface associated	protein-coding	-	-	-	-	20160910
-9541	102132097	LY6K	-	-	-	8	-	lymphocyte antigen 6 complex, locus K	protein-coding	-	-	-	-	20160910
+9541	102132097	LY6K	-	-	-	8	-	lymphocyte antigen 6 family member K	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus K	20170130
 9541	102132098	LOC102132098	-	-	-	16	-	60S ribosomal protein L18 pseudogene	pseudo	-	-	-	-	20160526
 9541	102132099	LRRC24	-	-	-	8	-	leucine rich repeat containing 24	protein-coding	-	-	-	-	20160910
 9541	102132100	CD300LF	-	-	-	16	-	CD300 molecule like family member f	protein-coding	-	-	-	-	20160910
@@ -20256,7 +20256,7 @@
 9541	102135367	ESRP1	-	-	-	8	-	epithelial splicing regulatory protein 1	protein-coding	-	-	-	RNA-binding protein 35A	20160910
 9541	102135368	NOL9	-	-	-	1	-	nucleolar protein 9	protein-coding	-	-	-	-	20160910
 9541	102135369	LOC102135369	-	-	-	1	-	olfactory receptor 10J1-like	pseudo	-	-	-	-	20160526
-9541	102135370	LY6D	-	-	-	8	-	lymphocyte antigen 6 complex, locus D	protein-coding	-	-	-	-	20160910
+9541	102135370	LY6D	-	-	-	8	-	lymphocyte antigen 6 family member D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus D	20170130
 9541	102135371	LOC102135371	-	-	-	16	-	uncharacterized LOC102135371	ncRNA	-	-	-	-	20160526
 9541	102135372	LOC102135372	-	-	-	16	-	myosin light polypeptide 6-like	protein-coding	-	-	-	-	20160910
 9541	102135374	RPL21	-	-	-	17	-	ribosomal protein L21	protein-coding	-	-	-	-	20160924

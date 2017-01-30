@@ -6938,7 +6938,7 @@
 9785	100660927	LOC100660927	-	-	-	Un	-	olfactory receptor 8B3-like	pseudo	-	-	-	-	20160921
 9785	100660928	PRDM1	-	-	-	Un	-	PR/SET domain 1	protein-coding	-	-	-	-	20160924
 9785	100660929	ATG12	-	-	-	Un	-	autophagy related 12	protein-coding	-	-	-	-	20160921
-9785	100660930	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	-	20160924
+9785	100660930	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6F	20170130
 9785	100660931	LOC100660931	-	-	-	Un	-	protocadherin gamma-B5-like	protein-coding	-	-	-	-	20160924
 9785	100660932	HKR1	-	-	-	Un	-	HKR1, GLI-Kruppel zinc finger family member	protein-coding	-	-	-	-	20160924
 9785	100660933	GPR151	-	-	-	Un	-	G protein-coupled receptor 151	protein-coding	-	-	-	-	20160921
@@ -11886,7 +11886,7 @@
 9785	100666201	LOC100666201	-	-	-	Un	-	olfactory receptor 1D2-like	protein-coding	-	-	-	-	20160924
 9785	100666202	SMURF2	-	-	-	Un	-	SMAD specific E3 ubiquitin protein ligase 2	protein-coding	-	-	-	-	20160924
 9785	100666203	NPLOC4	-	-	-	Un	-	NPL4 homolog, ubiquitin recognition factor	protein-coding	-	-	-	nuclear protein localization protein 4 homolog	20160921
-9785	100666204	NQO2	-	-	-	Un	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	-	20160924
+9785	100666204	NQO2	-	-	-	Un	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	NAD(P)H quinone dehydrogenase 2	20170130
 9785	100666205	IGDCC3	-	-	-	Un	-	immunoglobulin superfamily DCC subclass member 3	protein-coding	-	-	-	-	20160921
 9785	100666206	LOC100666206	-	-	-	Un	-	60S ribosomal protein L17 pseudogene	pseudo	-	-	-	-	20160921
 9785	100666207	NIT2	-	-	-	Un	-	nitrilase family member 2	protein-coding	-	-	-	-	20160921
@@ -14841,7 +14841,7 @@
 9785	100669336	THOC3	-	-	-	Un	-	THO complex 3	protein-coding	-	-	-	-	20160921
 9785	100669337	LOC100669337	-	-	-	Un	-	etoposide-induced protein 2.4 pseudogene	pseudo	-	-	-	-	20160921
 9785	100669338	MAN2A1	-	-	-	Un	-	mannosidase alpha class 2A member 1	protein-coding	-	-	-	-	20160921
-9785	100669339	LY6H	-	-	-	Un	-	lymphocyte antigen 6 complex, locus H	protein-coding	-	-	-	-	20160921
+9785	100669339	LY6H	-	-	-	Un	-	lymphocyte antigen 6 family member H	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus H	20170130
 9785	100669340	LOC100669340	-	-	-	Un	-	H-2 class I histocompatibility antigen, Q10 alpha chain-like	protein-coding	-	-	-	-	20160924
 9785	100669342	LOC100669342	-	-	-	Un	-	olfactory receptor 8K3-like	protein-coding	-	-	-	-	20160921
 9785	100669343	LOC100669343	-	-	-	Un	-	uncharacterized LOC100669343	protein-coding	-	-	-	-	20160921
@@ -17478,7 +17478,7 @@
 9785	100672167	LOC100672167	-	-	-	Un	-	melanoma-associated antigen B17-like	protein-coding	-	-	-	-	20160924
 9785	100672168	PREPL	-	-	-	Un	-	prolyl endopeptidase-like	protein-coding	-	-	-	-	20160924
 9785	100672169	PHACTR1	-	-	-	Un	-	phosphatase and actin regulator 1	protein-coding	-	-	-	-	20160924
-9785	100672170	AUTS2	-	-	-	Un	-	autism susceptibility candidate 2	protein-coding	-	-	-	-	20160924
+9785	100672170	AUTS2	-	-	-	Un	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility candidate 2	20170130
 9785	100672171	PER1	-	-	-	Un	-	period circadian clock 1	protein-coding	-	-	-	period homolog 1	20160924
 9785	100672172	OGFOD3	-	-	-	Un	-	2-oxoglutarate and iron dependent oxygenase domain containing 3	protein-coding	-	-	-	-	20160921
 9785	100672173	LOC100672173	-	-	-	Un	-	unconventional myosin-XVB-like	protein-coding	-	-	-	-	20160924
@@ -22585,7 +22585,7 @@
 9785	100677603	HNRNPH1	-	-	-	Un	-	heterogeneous nuclear ribonucleoprotein H1	protein-coding	-	-	-	heterogeneous nuclear ribonucleoprotein H1 (H)	20170114
 9785	100677604	LOC100677604	-	-	-	Un	-	von Willebrand factor A domain-containing protein 5A-like	protein-coding	-	-	-	-	20160924
 9785	100677605	ADAMTS19	-	-	-	Un	-	ADAM metallopeptidase with thrombospondin type 1 motif 19	protein-coding	-	-	-	-	20160924
-9785	100677606	LY6E	-	-	-	Un	-	lymphocyte antigen 6 complex, locus E	protein-coding	-	-	-	-	20160921
+9785	100677606	LY6E	-	-	-	Un	-	lymphocyte antigen 6 family member E	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus E	20170130
 9785	100677607	LOC100677607	-	-	-	Un	-	putative olfactory receptor 2W6	protein-coding	-	-	-	-	20160924
 9785	100677608	LOC100677608	-	-	-	Un	-	olfactory receptor 8B12-like	protein-coding	-	-	-	-	20160921
 9785	100677609	LOC100677609	-	-	-	Un	-	olfactory receptor 8K3-like	pseudo	-	-	-	-	20160921
@@ -24577,7 +24577,7 @@
 9785	104847136	LOC104847136	-	-	-	Un	-	uncharacterized LOC104847136	ncRNA	-	-	-	-	20151115
 9785	104847137	LOC104847137	-	-	-	Un	-	chromosome unknown open reading frame, human C12orf75	protein-coding	-	-	-	-	20160924
 9785	104847138	LOC104847138	-	-	-	Un	-	chromosome unknown open reading frame, human C6orf10	protein-coding	-	-	-	-	20151115
-9785	104847139	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	-	20151115
+9785	104847139	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5C	20170130
 9785	104847140	LOC104847140	-	-	-	Un	-	transcription factor jun-D-like	pseudo	-	-	-	-	20151115
 9785	104847141	LOC104847141	-	-	-	Un	-	uncharacterized LOC104847141	protein-coding	-	-	-	-	20160924
 9785	104847142	LOC104847142	-	-	-	Un	-	ral guanine nucleotide dissociation stimulator-like	protein-coding	-	-	-	-	20160924

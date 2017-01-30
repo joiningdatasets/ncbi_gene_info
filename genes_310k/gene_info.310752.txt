@@ -1434,7 +1434,7 @@
 310752	102998498	LOC102998498	-	-	-	Un	-	chromosome unknown open reading frame, human C20orf202	protein-coding	-	-	-	uncharacterized protein C20orf202 homolog	20170125
 310752	102998499	LOC102998499	-	-	-	Un	-	uncharacterized LOC102998499	ncRNA	-	-	-	-	20151115
 310752	102998500	LOC102998500	-	-	-	Un	-	keratin-associated protein 13-2-like	pseudo	-	-	-	-	20151115
-310752	102998501	NQO2	-	-	-	Un	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	ribosyldihydronicotinamide dehydrogenase [quinone]	20170125
+310752	102998501	NQO2	-	-	-	Un	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	ribosyldihydronicotinamide dehydrogenase [quinone]|NAD(P)H quinone dehydrogenase 2	20170130
 310752	102998502	LOC102998502	-	-	-	Un	-	HIG1 hypoxia inducible domain family, member 1A pseudogene	pseudo	-	-	-	-	20151115
 310752	102998503	CSNK2B	-	-	-	Un	-	casein kinase 2 beta	protein-coding	-	-	-	casein kinase II subunit beta	20170125
 310752	102998504	YIPF5	-	-	-	Un	-	Yip1 domain family member 5	protein-coding	-	-	-	protein YIPF5	20170125
@@ -1895,7 +1895,7 @@
 310752	102998959	LOC102998959	-	-	-	Un	-	protein FAM32A-like	pseudo	-	-	-	-	20151115
 310752	102998960	AMTN	-	-	-	Un	-	amelotin	protein-coding	-	-	-	amelotin	20170125
 310752	102998961	LOC102998961	-	-	-	Un	-	uncharacterized LOC102998961	ncRNA	-	-	-	-	20151115
-310752	102998962	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G5b	20170125
+310752	102998962	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G5b|lymphocyte antigen 6 complex, locus G5B	20170130
 310752	102998963	MEN1	-	-	-	Un	-	menin 1	protein-coding	-	-	-	menin	20170125
 310752	102998964	LOC102998964	-	-	-	Un	-	non-histone chromosomal protein HMG-14-like	pseudo	-	-	-	-	20151115
 310752	102998965	LOC102998965	-	-	-	Un	-	uncharacterized LOC102998965	ncRNA	-	-	-	-	20151115
@@ -2449,7 +2449,7 @@
 310752	102999513	CLCA2	-	-	-	Un	-	chloride channel accessory 2	protein-coding	-	-	-	calcium-activated chloride channel regulator 2	20170125
 310752	102999514	ADAL	-	-	-	Un	-	adenosine deaminase like	protein-coding	-	-	-	adenosine deaminase-like protein	20170125
 310752	102999515	PGK2	-	-	-	Un	-	phosphoglycerate kinase 2	protein-coding	-	-	-	phosphoglycerate kinase 2	20170125
-310752	102999516	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6f	20170125
+310752	102999516	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6f|lymphocyte antigen 6 complex, locus G6F	20170130
 310752	102999517	SF1	-	-	-	Un	-	splicing factor 1	protein-coding	-	-	-	splicing factor 1	20170125
 310752	102999518	FRMD7	-	-	-	Un	-	FERM domain containing 7	protein-coding	-	-	-	FERM domain-containing protein 7	20170125
 310752	102999519	NUDT1	-	-	-	Un	-	nudix hydrolase 1	protein-coding	-	-	-	7,8-dihydro-8-oxoguanine triphosphatase	20170125
@@ -2998,7 +2998,7 @@
 310752	103000062	BUB3	-	-	-	Un	-	BUB3, mitotic checkpoint protein	protein-coding	-	-	-	mitotic checkpoint protein BUB3	20170125
 310752	103000063	ATP6V1C1	-	-	-	Un	-	ATPase H+ transporting V1 subunit C1	protein-coding	-	-	-	V-type proton ATPase subunit C 1	20170125
 310752	103000064	UBXN8	-	-	-	Un	-	UBX domain protein 8	protein-coding	-	-	-	UBX domain-containing protein 8	20170125
-310752	103000065	LY6G6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6d	20170125
+310752	103000065	LY6G6D	-	-	-	Un	-	lymphocyte antigen 6 family member G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6d|lymphocyte antigen 6 complex, locus G6D	20170130
 310752	103000066	RASGRP2	-	-	-	Un	-	RAS guanyl releasing protein 2	protein-coding	-	-	-	RAS guanyl-releasing protein 2	20170125
 310752	103000067	LHX2	-	-	-	Un	-	LIM homeobox 2	protein-coding	-	-	-	LIM homeobox 2	20170125
 310752	103000068	LHX3	-	-	-	Un	-	LIM homeobox 3	protein-coding	-	-	-	LIM/homeobox protein Lhx3	20170125
@@ -3276,7 +3276,7 @@
 310752	103000340	ACKR2	-	-	-	Un	-	atypical chemokine receptor 2	protein-coding	-	-	-	atypical chemokine receptor 2	20170125
 310752	103000341	F11	-	-	-	Un	-	coagulation factor XI	protein-coding	-	-	-	coagulation factor XI	20170125
 310752	103000342	PPP2CB	-	-	-	Un	-	protein phosphatase 2 catalytic subunit beta	protein-coding	-	-	-	serine/threonine-protein phosphatase 2A catalytic subunit beta isoform	20170125
-310752	103000343	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6c	20170125
+310752	103000343	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6c|lymphocyte antigen 6 complex, locus G6C	20170130
 310752	103000344	MRM2	-	-	-	Un	-	mitochondrial rRNA methyltransferase 2	protein-coding	-	-	-	putative ribosomal RNA methyltransferase 2	20170125
 310752	103000345	DENND1A	-	-	-	Un	-	DENN domain containing 1A	protein-coding	-	-	-	DENN domain-containing protein 1A	20170125
 310752	103000346	LOC103000346	-	-	-	Un	-	serine/threonine-protein kinase MARK2-like	protein-coding	-	-	-	serine/threonine-protein kinase MARK2-like	20170125
@@ -7891,7 +7891,7 @@
 310752	103004955	N4BP2L2	-	-	-	Un	-	NEDD4 binding protein 2 like 2	protein-coding	-	-	-	NEDD4-binding protein 2-like 2	20170125
 310752	103004956	NRN1	-	-	-	Un	-	neuritin 1	protein-coding	-	-	-	neuritin	20170125
 310752	103004957	GSTA2	-	-	-	Un	-	glutathione S-transferase alpha 2	protein-coding	-	-	-	glutathione S-transferase A2	20170125
-310752	103004958	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G5c	20170125
+310752	103004958	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G5c|lymphocyte antigen 6 complex, locus G5C	20170130
 310752	103004959	TEX40	-	-	-	Un	-	testis expressed 40	protein-coding	-	-	-	testis-expressed sequence 40 protein	20170125
 310752	103004960	HP1BP3	-	-	-	Un	-	heterochromatin protein 1 binding protein 3	protein-coding	-	-	-	heterochromatin protein 1-binding protein 3	20170125
 310752	103004961	SHCBP1L	-	-	-	Un	-	SHC binding and spindle associated 1 like	protein-coding	-	-	-	SHC SH2 domain-binding protein 1-like protein	20170125
@@ -8427,7 +8427,7 @@
 310752	103005491	PNPT1	-	-	-	Un	-	polyribonucleotide nucleotidyltransferase 1	protein-coding	-	-	-	polyribonucleotide nucleotidyltransferase 1, mitochondrial	20170125
 310752	103005492	LOC103005492	-	-	-	Un	-	ubiquitin-conjugating enzyme E2 R1-like	pseudo	-	-	-	-	20151115
 310752	103005493	NUP35	-	-	-	Un	-	nucleoporin 35	protein-coding	-	-	-	nucleoporin NUP53	20170125
-310752	103005494	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosomal region candidate gene 12 protein	20170125
+310752	103005494	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosomal region candidate gene 12 protein|amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 310752	103005495	ZNF25	-	-	-	Un	-	zinc finger protein 25	protein-coding	-	-	-	zinc finger protein 25-like	20170125
 310752	103005496	ZDBF2	-	-	-	Un	-	zinc finger DBF-type containing 2	protein-coding	-	-	-	DBF4-type zinc finger-containing protein 2	20170125
 310752	103005497	DDO	-	-	-	Un	-	D-aspartate oxidase	protein-coding	-	-	-	D-aspartate oxidase	20170125
@@ -10929,7 +10929,7 @@
 310752	103007993	LOC103007993	-	-	-	Un	-	Pyruvate dehydrogenase (acetyl-transferring) kinase isozyme 3, mitochondrial-like	protein-coding	-	-	-	Pyruvate dehydrogenase (acetyl-transferring) kinase isozyme 3, mitochondrial-like	20170125
 310752	103007994	LOC103007994	-	-	-	Un	-	uncharacterized LOC103007994	pseudo	-	-	-	-	20151115
 310752	103007995	RAC1	-	-	-	Un	-	ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)	protein-coding	-	-	-	ras-related C3 botulinum toxin substrate 1	20170125
-310752	103007996	LY6H	-	-	-	Un	-	lymphocyte antigen 6 complex, locus H	protein-coding	-	-	-	lymphocyte antigen 6H	20170125
+310752	103007996	LY6H	-	-	-	Un	-	lymphocyte antigen 6 family member H	protein-coding	-	-	-	lymphocyte antigen 6H|lymphocyte antigen 6 complex, locus H	20170130
 310752	103007997	TSC22D1	-	-	-	Un	-	TSC22 domain family member 1	protein-coding	-	-	-	TSC22 domain family protein 1	20170125
 310752	103007998	RPRD1A	-	-	-	Un	-	regulation of nuclear pre-mRNA domain containing 1A	protein-coding	-	-	-	regulation of nuclear pre-mRNA domain-containing protein 1A	20170125
 310752	103007999	CNIH4	-	-	-	Un	-	cornichon family AMPA receptor auxiliary protein 4	protein-coding	-	-	-	protein cornichon homolog 4	20170125
@@ -11998,7 +11998,7 @@
 310752	103009062	EDNRB	-	-	-	Un	-	endothelin receptor type B	protein-coding	-	-	-	endothelin B receptor	20170125
 310752	103009063	CD68	-	-	-	Un	-	CD68 molecule	protein-coding	-	-	-	macrosialin	20170125
 310752	103009064	GAL3ST4	-	-	-	Un	-	galactose-3-O-sulfotransferase 4	protein-coding	-	-	-	galactose-3-O-sulfotransferase 4	20170125
-310752	103009065	LY6E	-	-	-	Un	-	lymphocyte antigen 6 complex, locus E	protein-coding	-	-	-	lymphocyte antigen 6E	20170125
+310752	103009065	LY6E	-	-	-	Un	-	lymphocyte antigen 6 family member E	protein-coding	-	-	-	lymphocyte antigen 6E|lymphocyte antigen 6 complex, locus E	20170130
 310752	103009066	SFXN2	-	-	-	Un	-	sideroflexin 2	protein-coding	-	-	-	sideroflexin-2	20170125
 310752	103009067	ACBD5	-	-	-	Un	-	acyl-CoA binding domain containing 5	protein-coding	-	-	-	acyl-CoA-binding domain-containing protein 5	20170125
 310752	103009068	ST6GAL2	-	-	-	Un	-	ST6 beta-galactoside alpha-2,6-sialyltransferase 2	protein-coding	-	-	-	beta-galactoside alpha-2,6-sialyltransferase 2	20170125
@@ -12184,7 +12184,7 @@
 310752	103009248	LOC103009248	-	-	-	Un	-	ring finger and FYVE-like domain containing E3 ubiquitin protein ligase pseudogene	pseudo	-	-	-	-	20151115
 310752	103009249	SEZ6L2	-	-	-	Un	-	seizure related 6 homolog like 2	protein-coding	-	-	-	seizure 6-like protein 2	20170125
 310752	103009250	LOC103009250	-	-	-	Un	-	ubiquitin-40S ribosomal protein S27a-like	protein-coding	-	-	-	ubiquitin-40S ribosomal protein S27a-like	20170125
-310752	103009251	LY6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus D	20170125
+310752	103009251	LY6D	-	-	-	Un	-	lymphocyte antigen 6 family member D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus D	20170130
 310752	103009252	PRSS53	-	-	-	Un	-	protease, serine 53	protein-coding	-	-	-	serine protease 53	20170125
 310752	103009253	LOC103009253	-	-	-	Un	-	complex III assembly factor LYRM7-like	protein-coding	-	-	-	complex III assembly factor LYRM7-like	20170125
 310752	103009254	LOC103009254	-	-	-	Un	-	hepatic leukemia factor pseudogene	pseudo	-	-	-	-	20151115

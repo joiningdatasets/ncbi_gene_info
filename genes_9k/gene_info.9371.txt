@@ -194,7 +194,7 @@
 9371	101638010	LOC101638010	-	-	-	Un	-	L-lactate dehydrogenase B chain pseudogene	pseudo	-	-	-	-	20151115
 9371	101638011	LOC101638011	-	-	-	Un	-	cholesterol 7-alpha-monooxygenase	protein-coding	-	-	-	-	20160903
 9371	101638012	LOC101638012	-	-	-	Un	-	protein FAM222B-like	pseudo	-	-	-	-	20151115
-9371	101638013	LY6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus D	protein-coding	-	-	-	-	20160903
+9371	101638013	LY6D	-	-	-	Un	-	lymphocyte antigen 6 family member D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus D	20170130
 9371	101638014	LOC101638014	-	-	-	Un	-	transmembrane and coiled-coil domains protein 1 pseudogene	pseudo	-	-	-	-	20151115
 9371	101638015	ADGRE1	-	-	-	Un	-	adhesion G protein-coupled receptor E1	protein-coding	-	-	-	-	20160903
 9371	101638016	MVB12A	-	-	-	Un	-	multivesicular body subunit 12A	protein-coding	-	-	-	-	20160903
@@ -504,7 +504,7 @@
 9371	101638359	ADAM12	-	-	-	Un	-	ADAM metallopeptidase domain 12	protein-coding	-	-	-	-	20160903
 9371	101638360	PCBD1	-	-	-	Un	-	pterin-4 alpha-carbinolamine dehydratase 1	protein-coding	-	-	-	-	20160729
 9371	101638361	LOC101638361	-	-	-	Un	-	uncharacterized protein C1orf43 homolog pseudogene	pseudo	-	-	-	-	20151115
-9371	101638362	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	-	20160811
+9371	101638362	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 9371	101638363	LOC101638363	-	-	-	Un	-	N-alpha-acetyltransferase 10 pseudogene	pseudo	-	-	-	-	20151115
 9371	101638364	ACTR3B	-	-	-	Un	-	ARP3 actin related protein 3 homolog B	protein-coding	-	-	-	-	20160903
 9371	101638365	GRIP2	-	-	-	Un	-	glutamate receptor interacting protein 2	protein-coding	-	-	-	ribosomal protein L9 pseudogene	20160102
@@ -2604,7 +2604,7 @@
 9371	101640705	GLTSCR1L	-	-	-	Un	-	GLTSCR1 like	protein-coding	-	-	-	-	20160903
 9371	101640706	GLP1R	-	-	-	Un	-	glucagon like peptide 1 receptor	protein-coding	-	-	-	-	20160809
 9371	101640708	FIGNL2	-	-	-	Un	-	fidgetin like 2	protein-coding	-	-	-	-	20160903
-9371	101640709	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	-	20151115
+9371	101640709	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5C	20170130
 9371	101640710	LOC101640710	-	-	-	Un	-	transmembrane protein 183-like	pseudo	-	-	-	-	20151115
 9371	101640711	LOC101640711	-	-	-	Un	-	mitochondrial import inner membrane translocase subunit Tim13 pseudogene	pseudo	-	-	-	-	20151115
 9371	101640712	LOC101640712	-	-	-	Un	-	chromosome unknown open reading frame, human C9orf24	protein-coding	-	-	-	-	20160716
@@ -2881,7 +2881,7 @@
 9371	101641023	RPL7L1	-	-	-	Un	-	ribosomal protein L7 like 1	protein-coding	-	-	-	-	20160903
 9371	101641024	SAYSD1	-	-	-	Un	-	SAYSVFN motif domain containing 1	protein-coding	-	-	-	-	20160903
 9371	101641025	LOC101641025	-	-	-	Un	-	myosin light polypeptide 6-like	pseudo	-	-	-	-	20151115
-9371	101641027	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	-	20160903
+9371	101641027	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6F	20170130
 9371	101641028	LOC101641028	-	-	-	Un	-	putative uncharacterized protein encoded by LINC00597	protein-coding	-	-	-	-	20151115
 9371	101641029	DNAI1	-	-	-	Un	-	dynein axonemal intermediate chain 1	protein-coding	-	-	-	-	20160729
 9371	101641030	DCTN1	-	-	-	Un	-	dynactin subunit 1	protein-coding	-	-	-	-	20160903
@@ -3440,7 +3440,7 @@
 9371	101641652	COMMD6	-	-	-	Un	-	COMM domain containing 6	protein-coding	-	-	-	-	20160716
 9371	101641653	GALNT6	-	-	-	Un	-	polypeptide N-acetylgalactosaminyltransferase 6	protein-coding	-	-	-	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 6 (GalNAc-T6)	20160903
 9371	101641654	SPTY2D1	-	-	-	Un	-	SPT2 chromatin protein domain containing 1	protein-coding	-	-	-	protein SPT2 homolog	20160903
-9371	101641655	LY6G6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6D	protein-coding	-	-	-	-	20151115
+9371	101641655	LY6G6D	-	-	-	Un	-	lymphocyte antigen 6 family member G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6D	20170130
 9371	101641656	LOC101641656	-	-	-	Un	-	DNA (cytosine-5)-methyltransferase 3-like pseudogene	pseudo	-	-	-	-	20151115
 9371	101641657	PSTPIP1	-	-	-	Un	-	proline-serine-threonine phosphatase interacting protein 1	protein-coding	-	-	-	-	20160716
 9371	101641658	ARID3C	-	-	-	Un	-	AT-rich interaction domain 3C	protein-coding	-	-	-	-	20160903
@@ -15841,7 +15841,7 @@
 9371	101655545	SAMD11	-	-	-	Un	-	sterile alpha motif domain containing 11	protein-coding	-	-	-	-	20151115
 9371	101655546	LDLRAP1	-	-	-	Un	-	low density lipoprotein receptor adaptor protein 1	protein-coding	-	-	-	-	20151115
 9371	101655547	CRAMP1	-	-	-	Un	-	cramped chromatin regulator homolog 1	protein-coding	-	-	-	-	20160903
-9371	101655548	AUTS2	-	-	-	Un	-	autism susceptibility candidate 2	protein-coding	-	-	-	-	20160903
+9371	101655548	AUTS2	-	-	-	Un	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility candidate 2	20170130
 9371	101655549	LOC101655549	-	-	-	Un	-	mastin-like	protein-coding	-	-	-	-	20160102
 9371	101655550	KLK12	-	-	-	Un	-	kallikrein related peptidase 12	protein-coding	-	-	-	-	20160810
 9371	101655551	LOC101655551	-	-	-	Un	-	39S ribosomal protein L30, mitochondrial pseudogene	pseudo	-	-	-	-	20151115
@@ -18375,7 +18375,7 @@
 9371	101658382	LOC101658382	-	-	-	Un	-	60 kDa heat shock protein, mitochondrial pseudogene	pseudo	-	-	-	-	20151115
 9371	101658383	ATP7B	-	-	-	Un	-	ATPase copper transporting beta	protein-coding	-	-	-	-	20160729
 9371	101658384	USP25	-	-	-	Un	-	ubiquitin specific peptidase 25	protein-coding	-	-	-	-	20160903
-9371	101658385	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	-	20160903
+9371	101658385	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6C	20170130
 9371	101658386	EDARADD	-	-	-	Un	-	EDAR associated death domain	protein-coding	-	-	-	-	20160903
 9371	101658387	LOC101658387	-	-	-	Un	-	60S ribosomal protein L37 pseudogene	pseudo	-	-	-	-	20151115
 9371	101658388	LOC101658388	-	-	-	Un	-	60S ribosomal protein L10a pseudogene	pseudo	-	-	-	-	20151115
@@ -22431,7 +22431,7 @@
 9371	101662926	SUMO3	-	-	-	Un	-	small ubiquitin-like modifier 3	protein-coding	-	-	-	SMT3 suppressor of mif two 3 homolog 3	20151115
 9371	101662927	PCNX3	-	-	-	Un	-	pecanex homolog 3 (Drosophila)	protein-coding	-	-	-	-	20160903
 9371	101662929	SUSD3	-	-	-	Un	-	sushi domain containing 3	protein-coding	-	-	-	-	20160716
-9371	101662930	LY6H	-	-	-	Un	-	lymphocyte antigen 6 complex, locus H	protein-coding	-	-	-	-	20160716
+9371	101662930	LY6H	-	-	-	Un	-	lymphocyte antigen 6 family member H	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus H	20170130
 9371	101662931	LOC101662931	-	-	-	Un	-	uncharacterized LOC101662931	pseudo	-	-	-	-	20151115
 9371	101662932	NOP56	-	-	-	Un	-	NOP56 ribonucleoprotein	protein-coding	-	-	-	-	20160903
 9371	101662933	LOC101662933	-	-	-	Un	-	olfactory receptor 7D2-like	protein-coding	-	-	-	-	20160903
@@ -23008,7 +23008,7 @@
 9371	101663559	TMEM207	-	-	-	Un	-	transmembrane protein 207	protein-coding	-	-	-	-	20160903
 9371	101663560	ZNHIT2	-	-	-	Un	-	zinc finger HIT-type containing 2	protein-coding	-	-	-	-	20160903
 9371	101663564	LOC101663564	-	-	-	Un	-	tropomodulin-3-like	pseudo	-	-	-	-	20151115
-9371	101663565	LY6E	-	-	-	Un	-	lymphocyte antigen 6 complex, locus E	protein-coding	-	-	-	-	20160903
+9371	101663565	LY6E	-	-	-	Un	-	lymphocyte antigen 6 family member E	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus E	20170130
 9371	101663567	LOC101663567	-	-	-	Un	-	olfactory receptor 7C1-like	protein-coding	-	-	-	-	20160903
 9371	101663568	MRPL34	-	-	-	Un	-	mitochondrial ribosomal protein L34	protein-coding	-	-	-	-	20160903
 9371	101663569	CDH22	-	-	-	Un	-	cadherin 22	protein-coding	-	-	-	-	20160903

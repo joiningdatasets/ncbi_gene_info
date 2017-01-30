@@ -192,7 +192,7 @@
 10036	101822466	Bsx	-	-	-	Un	-	brain specific homeobox	protein-coding	-	-	-	brain-specific homeobox protein homolog	20160903
 10036	101822467	Eftud2	-	-	-	Un	-	elongation factor Tu GTP binding domain containing 2	protein-coding	-	-	-	-	20160903
 10036	101822469	Vrk2	-	-	-	Un	-	vaccinia related kinase 2	protein-coding	-	-	-	-	20160903
-10036	101822470	Als2cr12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosomal region candidate gene 12 protein homolog	20160811
+10036	101822470	Als2cr12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosomal region candidate gene 12 protein homolog|amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 10036	101822471	Dnm3	-	-	-	Un	-	dynamin 3	protein-coding	-	-	-	-	20160813
 10036	101822472	Fcgr4	-	-	-	Un	-	low affinity immunoglobulin gamma Fc region receptor III-like	protein-coding	-	-	-	low affinity immunoglobulin gamma Fc region receptor III-like	20160917
 10036	101822473	Rnf168	-	-	-	Un	-	ring finger protein 168	protein-coding	-	-	-	-	20160729
@@ -2865,7 +2865,7 @@
 10036	101825288	LOC101825288	-	-	-	Un	-	40S ribosomal protein S8 pseudogene	pseudo	-	-	-	-	20151115
 10036	101825289	LOC101825289	-	-	-	Un	-	myeloid zinc finger 1-like	protein-coding	-	-	-	-	20160903
 10036	101825290	LOC101825290	-	-	-	Un	-	tripartite motif-containing protein 30A-like	pseudo	-	-	-	-	20151115
-10036	101825291	Ly6g6f	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	-	20160903
+10036	101825291	Ly6g6f	-	-	-	Un	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6F	20170130
 10036	101825292	LOC101825292	-	-	-	Un	-	cytochrome c-like	pseudo	-	-	-	-	20151115
 10036	101825293	Eif4ebp1	-	-	-	Un	-	eukaryotic translation initiation factor 4E binding protein 1	protein-coding	-	-	-	-	20160813
 10036	101825294	LOC101825294	-	-	-	Un	-	olfactory receptor 1G1-like	protein-coding	-	-	-	-	20160903
@@ -3106,7 +3106,7 @@
 10036	101825540	LOC101825540	-	-	-	Un	-	40S ribosomal protein S8 pseudogene	pseudo	-	-	-	-	20151115
 10036	101825541	LOC101825541	-	-	-	Un	-	vomeronasal type-1 receptor 4-like	protein-coding	-	-	-	-	20151115
 10036	101825542	Ttpa	-	-	-	Un	-	alpha tocopherol transfer protein	protein-coding	-	-	-	-	20160903
-10036	101825543	Ly6g6d	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6D	protein-coding	-	-	-	-	20151115
+10036	101825543	Ly6g6d	-	-	-	Un	-	lymphocyte antigen 6 family member G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6D	20170130
 10036	101825544	Slc10a3	-	-	-	Un	-	solute carrier family 10 member 3	protein-coding	-	-	-	solute carrier family 10 (sodium/bile acid cotransporter family), member 3	20160809
 10036	101825545	Slc17a2	-	-	-	Un	-	solute carrier family 17 member 2	protein-coding	-	-	-	-	20160729
 10036	101825546	Cnfn	-	-	-	Un	-	cornifelin	protein-coding	-	-	-	-	20151115
@@ -3357,7 +3357,7 @@
 10036	101825801	Sec13	-	-	-	Un	-	SEC13 homolog, nuclear pore and COPII coat complex component	protein-coding	-	-	-	protein SEC13 homolog	20160903
 10036	101825802	LOC101825802	-	-	-	Un	-	vomeronasal type-1 receptor 3-like	protein-coding	-	-	-	-	20160903
 10036	101825803	Ggh	-	-	-	Un	-	gamma-glutamyl hydrolase	protein-coding	-	-	-	-	20160903
-10036	101825804	Ly6g6c	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	-	20160903
+10036	101825804	Ly6g6c	-	-	-	Un	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6C	20170130
 10036	101825805	Ubl4a	-	-	-	Un	-	ubiquitin like 4A	protein-coding	-	-	-	-	20160903
 10036	101825806	Lipe	-	-	-	Un	-	lipase E, hormone sensitive type	protein-coding	-	-	-	-	20160903
 10036	101825807	LOC101825807	-	-	-	Un	-	uncharacterized LOC101825807	protein-coding	-	-	-	-	20160102
@@ -9194,7 +9194,7 @@
 10036	101831986	LOC101831986	-	-	-	Un	-	olfactory receptor 4F6-like	protein-coding	-	-	-	-	20160903
 10036	101831987	LOC101831987	-	-	-	Un	-	olfactory receptor 8J3-like	protein-coding	-	-	-	-	20160903
 10036	101831988	Cystm1	-	-	-	-	-	cysteine-rich transmembrane module containing 1	protein-coding	-	-	-	-	20160402
-10036	101831989	Ly6e	-	-	-	Un	-	lymphocyte antigen 6 complex, locus E	protein-coding	-	-	-	-	20160716
+10036	101831989	Ly6e	-	-	-	Un	-	lymphocyte antigen 6 family member E	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus E	20170130
 10036	101831990	Sympk	-	-	-	Un	-	symplekin	protein-coding	-	-	-	-	20160903
 10036	101831991	Sdhaf4	-	-	-	Un	-	succinate dehydrogenase complex assembly factor 4	protein-coding	-	-	-	UPF0369 protein C6orf57 homolog	20160903
 10036	101831992	LOC101831992	-	Znf780b	-	Un	-	zinc finger protein 60	protein-coding	-	-	-	zinc finger protein 780B	20160716
@@ -9436,7 +9436,7 @@
 10036	101832241	LOC101832241	-	-	-	Un	-	olfactory receptor 4C15-like	protein-coding	-	-	-	-	20160716
 10036	101832242	LOC101832242	-	-	-	Un	-	olfactory receptor 4F3/4F16/4F29-like	protein-coding	-	-	-	-	20160903
 10036	101832243	LOC101832243	-	-	-	Un	-	olfactory receptor 8K3-like	protein-coding	-	-	-	-	20160903
-10036	101832244	Ly6h	-	-	-	Un	-	lymphocyte antigen 6 complex, locus H	protein-coding	-	-	-	-	20160903
+10036	101832244	Ly6h	-	-	-	Un	-	lymphocyte antigen 6 family member H	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus H	20170130
 10036	101832245	Rsph6a	-	-	-	Un	-	radial spoke head 6 homolog A	protein-coding	-	-	-	-	20160903
 10036	101832246	Smap1	-	-	-	Un	-	small ArfGAP 1	protein-coding	-	-	-	-	20160903
 10036	101832247	LOC101832247	-	-	-	Un	-	zinc finger protein 60-like	protein-coding	-	-	-	-	20160716
@@ -12336,7 +12336,7 @@
 10036	101835291	Exosc2	-	-	-	Un	-	exosome component 2	protein-coding	-	-	-	-	20160903
 10036	101835292	LOC101835292	-	-	-	Un	-	pancreatic alpha-amylase	protein-coding	-	-	-	-	20160903
 10036	101835293	Kdm1b	-	-	-	Un	-	lysine demethylase 1B	protein-coding	-	-	-	-	20160903
-10036	101835294	Nqo2	-	-	-	Un	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	-	20160903
+10036	101835294	Nqo2	-	-	-	Un	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	NAD(P)H quinone dehydrogenase 2	20170130
 10036	101835295	Mettl3	-	-	-	Un	-	methyltransferase like 3	protein-coding	-	-	-	-	20160903
 10036	101835296	Racgap1	-	-	-	Un	-	Rac GTPase activating protein 1	protein-coding	-	-	-	-	20160903
 10036	101835297	Enthd1	-	-	-	Un	-	ENTH domain containing 1	protein-coding	-	-	-	-	20160903
@@ -15761,7 +15761,7 @@
 10036	101838908	Fhl5	-	-	-	Un	-	four and a half LIM domains 5	protein-coding	-	-	-	-	20160903
 10036	101838909	LOC101838909	-	-	-	Un	-	induced myeloid leukemia cell differentiation protein Mcl-1 homolog	pseudo	-	-	-	-	20151115
 10036	101838910	Crbn	-	-	-	Un	-	cereblon	protein-coding	-	-	-	-	20160903
-10036	101838911	Ly6g5b	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	-	20151115
+10036	101838911	Ly6g5b	-	-	-	Un	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5B	20170130
 10036	101838912	Dnase1l1	-	-	-	Un	-	deoxyribonuclease 1 like 1	protein-coding	-	-	-	-	20160728
 10036	101838913	Ushbp1	-	-	-	Un	-	USH1 protein network component harmonin binding protein 1	protein-coding	-	-	-	-	20160729
 10036	101838914	Golga7	-	-	-	Un	-	golgin A7	protein-coding	-	-	-	-	20160827
@@ -16010,7 +16010,7 @@
 10036	101839176	Vta1	-	-	-	Un	-	vesicle trafficking 1	protein-coding	-	-	-	Vps20-associated 1 homolog|vacuolar protein sorting-associated protein VTA1 homolog	20160903
 10036	101839177	Ufl1	-	-	-	Un	-	UFM1 specific ligase 1	protein-coding	-	-	-	-	20160729
 10036	101839178	LOC101839178	-	-	-	Un	-	chromosome unknown open reading frame, human C10orf10	protein-coding	-	-	-	-	20160903
-10036	101839180	Ly6g5c	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	-	20160716
+10036	101839180	Ly6g5c	-	-	-	Un	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5C	20170130
 10036	101839181	Flna	-	-	-	Un	-	filamin A	protein-coding	-	-	-	-	20160729
 10036	101839182	Babam1	-	-	-	Un	-	BRISC and BRCA1 A complex member 1	protein-coding	-	-	-	-	20151115
 10036	101839183	Sfrp1	-	-	-	Un	-	secreted frizzled related protein 1	protein-coding	-	-	-	-	20160729
@@ -18688,7 +18688,7 @@
 10036	101842007	Grid2ip	-	-	-	Un	-	Grid2 interacting protein	protein-coding	-	-	-	-	20160903
 10036	101842008	Sdk1	-	-	-	Un	-	sidekick cell adhesion molecule 1	protein-coding	-	-	-	-	20160716
 10036	101842009	Mab21l2	-	-	-	Un	-	mab-21 like 2	protein-coding	-	-	-	-	20160910
-10036	101842010	Auts2	-	-	-	Un	-	autism susceptibility candidate 2	protein-coding	-	-	-	-	20160716
+10036	101842010	Auts2	-	-	-	Un	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility candidate 2	20170130
 10036	101842011	Tmem132c	-	-	-	Un	-	transmembrane protein 132C	protein-coding	-	-	-	-	20160903
 10036	101842012	Fam216a	-	-	-	Un	-	family with sequence similarity 216 member A	protein-coding	-	-	-	-	20160810
 10036	101842014	Robo2	-	-	-	Un	-	roundabout guidance receptor 2	protein-coding	-	-	-	-	20160716

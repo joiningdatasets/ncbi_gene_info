@@ -814,7 +814,7 @@
 9402	102878432	SPRED1	PAL_GLEAN10023636	-	-	Un	-	sprouty related EVH1 domain containing 1	protein-coding	-	-	-	Sprouty-related, EVH1 domain-containing protein 1	20160910
 9402	102878433	CCDC186	PAL_GLEAN10014168	-	-	Un	-	coiled-coil domain containing 186	protein-coding	-	-	-	-	20161031
 9402	102878434	NCKAP1	PAL_GLEAN10026037	-	-	Un	-	NCK associated protein 1	protein-coding	-	-	-	-	20160827
-9402	102878435	ALS2CR12	PAL_GLEAN10026115	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	Amyotrophic lateral sclerosis 2 chromosomal region candidate protein 12 protein|amyotrophic lateral sclerosis 2 (juvenile) chromosome region, candidate 12	20160910
+9402	102878435	ALS2CR12	PAL_GLEAN10026115	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	Amyotrophic lateral sclerosis 2 chromosomal region candidate protein 12 protein|amyotrophic lateral sclerosis 2 (juvenile) chromosome region, candidate 12|amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 9402	102878436	DONSON	PAL_GLEAN10025746	-	-	Un	-	downstream neighbor of SON	protein-coding	-	-	-	Protein downstream neighbor of Son	20160212
 9402	102878437	BCAS1	PAL_GLEAN10024505	-	-	Un	-	breast carcinoma amplified sequence 1	protein-coding	-	-	-	Breast carcinoma-amplified sequence 1	20160312
 9402	102878438	EMILIN3	PAL_GLEAN10024342	-	-	Un	-	elastin microfibril interfacer 3	protein-coding	-	-	-	-	20160910
@@ -2554,7 +2554,7 @@
 9402	102880254	CASD1	PAL_GLEAN10021743	-	-	Un	-	CAS1 domain containing 1	protein-coding	-	-	-	CAS1 domain-containing protein 1	20160730
 9402	102880255	LOC102880255	PAL_GLEAN10014898	ACE	-	Un	-	angiotensin-converting enzyme	protein-coding	-	-	-	angiotensin I converting enzyme	20160730
 9402	102880256	LOC102880256	-	-	-	Un	-	tripartite motif-containing protein 47-like	protein-coding	-	-	-	-	20160910
-9402	102880258	LY6E	PAL_GLEAN10010430	-	-	Un	-	lymphocyte antigen 6 complex, locus E	protein-coding	-	-	-	Lymphocyte antigen 6E	20160910
+9402	102880258	LY6E	PAL_GLEAN10010430	-	-	Un	-	lymphocyte antigen 6 family member E	protein-coding	-	-	-	Lymphocyte antigen 6E|lymphocyte antigen 6 complex, locus E	20170130
 9402	102880259	SSBP2	-	-	-	Un	-	single stranded DNA binding protein 2	protein-coding	-	-	-	-	20160813
 9402	102880260	APC	PAL_GLEAN10025035	-	-	Un	-	APC, WNT signaling pathway regulator	protein-coding	-	-	-	-	20161031
 9402	102880261	LRRC63	PAL_GLEAN10001107	-	-	Un	-	leucine rich repeat containing 63	protein-coding	-	-	-	Leucine-rich repeat-containing protein 63	20160730
@@ -2804,7 +2804,7 @@
 9402	102880510	PPP1R9A	PAL_GLEAN10021747	Neurabin-1	-	Un	-	protein phosphatase 1 regulatory subunit 9A	protein-coding	-	-	-	-	20160827
 9402	102880511	KCTD2	PAL_GLEAN10014743	-	-	Un	-	potassium channel tetramerization domain containing 2	protein-coding	-	-	-	BTB/POZ domain-containing protein KCTD2	20160730
 9402	102880512	FAM175B	PAL_GLEAN10009010	-	-	Un	-	family with sequence similarity 175 member B	protein-coding	-	-	-	BRISC complex subunit Abro1	20160910
-9402	102880513	LY6H	PAL_GLEAN10010433	-	-	Un	-	lymphocyte antigen 6 complex, locus H	protein-coding	-	-	-	Lymphocyte antigen 6H	20160827
+9402	102880513	LY6H	PAL_GLEAN10010433	-	-	Un	-	lymphocyte antigen 6 family member H	protein-coding	-	-	-	Lymphocyte antigen 6H|lymphocyte antigen 6 complex, locus H	20170130
 9402	102880514	DHX16	PAL_GLEAN10001339	-	-	Un	-	DEAH-box helicase 16	protein-coding	-	-	-	DEAH (Asp-Glu-Ala-His) box polypeptide 16|Putative pre-mRNA-splicing factor ATP-dependent RNA helicase DHX16	20160827
 9402	102880515	LOC102880515	-	-	-	Un	-	elongation factor 1-alpha 1 pseudogene	pseudo	-	-	-	-	20160212
 9402	102880516	LYZL4	PAL_GLEAN10007762	-	-	Un	-	lysozyme like 4	protein-coding	-	-	-	Lysozyme-like protein 4	20160827
@@ -3208,7 +3208,7 @@
 9402	102880928	ERN2	PAL_GLEAN10004943	-	-	Un	-	endoplasmic reticulum to nucleus signaling 2	protein-coding	-	-	-	Serine/threonine-protein kinase/endoribonuclease IRE2	20160312
 9402	102880929	ETFBKMT	PAL_GLEAN10015716	METTL20	-	Un	-	electron transfer flavoprotein beta subunit lysine methyltransferase	protein-coding	-	-	-	methyltransferase like 20	20160827
 9402	102880930	ZFP41	-	-	-	Un	-	ZFP41 zinc finger protein	protein-coding	-	-	-	zinc finger protein 41 homolog	20160910
-9402	102880931	LY6K	PAL_GLEAN10010425	-	-	Un	-	lymphocyte antigen 6 complex, locus K	protein-coding	-	-	-	Lymphocyte antigen 6K	20160212
+9402	102880931	LY6K	PAL_GLEAN10010425	-	-	Un	-	lymphocyte antigen 6 family member K	protein-coding	-	-	-	Lymphocyte antigen 6K|lymphocyte antigen 6 complex, locus K	20170130
 9402	102880932	CDK7	PAL_GLEAN10024863	-	-	Un	-	cyclin dependent kinase 7	protein-coding	-	-	-	Cell division protein kinase 7	20160729
 9402	102880933	RPS23	-	-	-	Un	-	ribosomal protein S23	protein-coding	-	-	-	-	20160917
 9402	102880934	REEP5	PAL_GLEAN10025037	-	-	Un	-	receptor accessory protein 5	protein-coding	-	-	-	Receptor expression-enhancing protein 5	20160827
@@ -5134,7 +5134,7 @@
 9402	102882931	PDLIM7	-	-	-	Un	-	PDZ and LIM domain 7	protein-coding	-	-	-	PDZ and LIM domain 7 (enigma)	20160910
 9402	102882932	B3GNT3	PAL_GLEAN10006664	-	-	Un	-	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 3	protein-coding	-	-	-	-	20160910
 9402	102882933	IL22	PAL_GLEAN10022364	-	-	Un	-	interleukin 22	protein-coding	-	-	-	Interleukin-22	20160827
-9402	102882934	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	-	20160212
+9402	102882934	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6C	20170130
 9402	102882935	SERGEF	PAL_GLEAN10004327	-	-	Un	-	secretion regulating guanine nucleotide exchange factor	protein-coding	-	-	-	Secretion-regulating guanine nucleotide exchange factor	20160910
 9402	102882936	UBL3	-	-	-	Un	-	ubiquitin like 3	protein-coding	-	-	-	-	20160827
 9402	102882937	CCDC155	PAL_GLEAN10004553	-	-	Un	-	coiled-coil domain containing 155	protein-coding	-	-	-	Coiled-coil domain-containing protein 155	20160910
@@ -5377,7 +5377,7 @@
 9402	102883181	KXD1	PAL_GLEAN10006694	-	-	Un	-	KxDL motif containing 1	protein-coding	-	-	-	-	20160924
 9402	102883182	MDM1	PAL_GLEAN10022365	-	-	Un	-	Mdm1 nuclear protein	protein-coding	-	-	-	Mdm1 nuclear protein homolog|Nuclear protein MDM1	20160910
 9402	102883183	KRT7	PAL_GLEAN10005106	-	-	Un	-	keratin 7	protein-coding	-	-	-	Keratin, type II cytoskeletal 7	20160827
-9402	102883184	LY6G6F	PAL_GLEAN10001084	-	-	Un	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	Lymphocyte antigen 6 complex locus protein G6f	20160910
+9402	102883184	LY6G6F	PAL_GLEAN10001084	-	-	Un	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	Lymphocyte antigen 6 complex locus protein G6f|lymphocyte antigen 6 complex, locus G6F	20170130
 9402	102883185	KCNC1	PAL_GLEAN10004328	-	-	Un	-	potassium voltage-gated channel subfamily C member 1	protein-coding	-	-	-	potassium voltage-gated channel, Shaw-related subfamily, member 1	20160716
 9402	102883186	SLC46A3	PAL_GLEAN10006822	-	-	Un	-	solute carrier family 46 member 3	protein-coding	-	-	-	-	20160827
 9402	102883187	LOC102883187	PAL_GLEAN10004557	-	-	-	-	uncharacterized LOC102883187	protein-coding	-	-	-	Orphan sodium- and chloride-dependent neurotransmitter transporter NTT5	20160402
@@ -6032,7 +6032,7 @@
 9402	102883861	LOC102883861	PAL_GLEAN10000601	-	-	Un	-	olfactory receptor 51H1	protein-coding	-	-	-	Putative olfactory receptor 51H1	20160730
 9402	102883862	LOC102883862	-	-	-	Un	-	protocadherin gamma-B5-like	protein-coding	-	-	-	-	20160730
 9402	102883863	ACSBG2	-	-	-	Un	-	acyl-CoA synthetase bubblegum family member 2	protein-coding	-	-	-	-	20160730
-9402	102883864	LY6G5C	PAL_GLEAN10001086	-	-	Un	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	Lymphocyte antigen 6 complex locus protein G5c	20160212
+9402	102883864	LY6G5C	PAL_GLEAN10001086	-	-	Un	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	Lymphocyte antigen 6 complex locus protein G5c|lymphocyte antigen 6 complex, locus G5C	20170130
 9402	102883865	LOC102883865	PAL_GLEAN10022505	NRIP2	-	Un	-	nuclear receptor-interacting protein 2	protein-coding	-	-	-	-	20161031
 9402	102883866	LOC102883866	PAL_GLEAN10006835	POLR1D	-	Un	-	DNA-directed RNA polymerases I and III subunit RPAC2	protein-coding	-	-	-	polymerase (RNA) I polypeptide D, 16kDa	20160827
 9402	102883867	LOC102883867	-	-	-	Un	-	arginase-2, mitochondrial pseudogene	pseudo	-	-	-	-	20160212
@@ -6271,7 +6271,7 @@
 9402	102884111	LOC102884111	-	-	-	Un	-	endogenous retrovirus group K member 6 Pol protein-like	protein-coding	-	-	-	-	20160730
 9402	102884112	LRRTM2	-	-	-	Un	-	leucine rich repeat transmembrane neuronal 2	protein-coding	-	-	-	-	20160730
 9402	102884114	KRT80	PAL_GLEAN10005107	-	-	Un	-	keratin 80	protein-coding	-	-	-	Keratin, type II cytoskeletal 80	20160827
-9402	102884115	LY6G5B	PAL_GLEAN10001087	-	-	Un	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	Lymphocyte antigen 6 complex locus protein G5b	20160212
+9402	102884115	LY6G5B	PAL_GLEAN10001087	-	-	Un	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	Lymphocyte antigen 6 complex locus protein G5b|lymphocyte antigen 6 complex, locus G5B	20170130
 9402	102884116	KCNJ11	PAL_GLEAN10004334	-	-	Un	-	potassium voltage-gated channel subfamily J member 11	protein-coding	-	-	-	ATP-sensitive inward rectifier potassium channel 11|potassium inwardly-rectifying channel, subfamily J, member 11	20160827
 9402	102884118	LNX2	PAL_GLEAN10006836	-	-	Un	-	ligand of numb-protein X 2	protein-coding	-	-	-	Ligand of Numb protein X 2	20160910
 9402	102884119	LOC102884119	-	-	-	Un	-	uncharacterized LOC102884119	ncRNA	-	-	-	-	20160212
@@ -7230,7 +7230,7 @@
 9402	102885107	LOC102885107	PAL_GLEAN10022146	PRICKLE2	-	Un	-	prickle-like protein 2	protein-coding	-	-	-	prickle homolog 2	20160312
 9402	102885108	LOC102885108	-	-	-	Un	-	60S ribosomal protein L29-like	protein-coding	-	-	-	-	20160212
 9402	102885109	RNASE10	PAL_GLEAN10001592	-	-	Un	-	ribonuclease A family member 10 (inactive)	protein-coding	-	-	-	Ribonuclease-like protein 10|ribonuclease, RNase A family, 10 (non-active)	20160212
-9402	102885110	AUTS2	PAL_GLEAN10011971	-	-	Un	-	autism susceptibility candidate 2	protein-coding	-	-	-	Autism susceptibility protein 2 protein	20160730
+9402	102885110	AUTS2	PAL_GLEAN10011971	-	-	Un	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	Autism susceptibility protein 2 protein|autism susceptibility candidate 2	20170130
 9402	102885112	SLC35D1	PAL_GLEAN10023845	-	-	Un	-	solute carrier family 35 member D1	protein-coding	-	-	-	UDP-N-acetylglucosamine/UDP-glucose/GDP-mannose transporter	20160827
 9402	102885113	PKN2	PAL_GLEAN10023937	-	-	Un	-	protein kinase N2	protein-coding	-	-	-	Serine/threonine-protein kinase N2	20160910
 9402	102885114	AMPD1	PAL_GLEAN10017431	-	-	Un	-	adenosine monophosphate deaminase 1	protein-coding	-	-	-	AMP deaminase 1	20160910
@@ -7821,7 +7821,7 @@
 9402	102885728	GUCD1	PAL_GLEAN10010884	-	-	Un	-	guanylyl cyclase domain containing 1	protein-coding	-	-	-	-	20160910
 9402	102885729	OGFOD1	PAL_GLEAN10011058	-	-	Un	-	2-oxoglutarate and iron dependent oxygenase domain containing 1	protein-coding	-	-	-	2-oxoglutarate and iron-dependent oxygenase domain-containing protein 1	20160827
 9402	102885730	LOC102885730	-	-	-	Un	-	plastin-1-like	pseudo	-	-	-	-	20160212
-9402	102885731	NQO2	PAL_GLEAN10016513	-	-	Un	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	Ribosyldihydronicotinamide dehydrogenase	20160910
+9402	102885731	NQO2	PAL_GLEAN10016513	-	-	Un	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	NAD(P)H quinone dehydrogenase 2|Ribosyldihydronicotinamide dehydrogenase	20170130
 9402	102885732	LOC102885732	PAL_GLEAN10021336	-	-	Un	-	cytochrome P450 1B1	protein-coding	-	-	-	-	20160827
 9402	102885733	ZFP90	PAL_GLEAN10016267	-	-	Un	-	ZFP90 zinc finger protein	protein-coding	-	-	-	Zinc finger protein 90 like protein|zinc finger protein 90 homolog	20160924
 9402	102885734	ANAPC7	PAL_GLEAN10008853	-	-	Un	-	anaphase promoting complex subunit 7	protein-coding	-	-	-	Anaphase-promoting complex subunit 7	20160924

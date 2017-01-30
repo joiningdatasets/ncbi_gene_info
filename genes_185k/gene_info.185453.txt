@@ -6037,7 +6037,7 @@
 185453	102816454	A2ML1	-	-	-	Un	-	alpha-2-macroglobulin like 1	protein-coding	-	-	-	alpha-2-macroglobulin-like protein 1	20170126
 185453	102816455	LOC102816455	-	-	-	Un	-	WW domain-containing oxidoreductase-like	protein-coding	-	-	-	WW domain-containing oxidoreductase-like	20170126
 185453	102816456	SCRT2	-	-	-	Un	-	scratch family transcriptional repressor 2	protein-coding	-	-	-	transcriptional repressor scratch 2	20170126
-185453	102816457	LY6G6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6d	20170126
+185453	102816457	LY6G6D	-	-	-	Un	-	lymphocyte antigen 6 family member G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6d|lymphocyte antigen 6 complex, locus G6D	20170130
 185453	102816458	PPFIA1	-	-	-	Un	-	PTPRF interacting protein alpha 1	protein-coding	-	-	-	liprin-alpha-1	20170126
 185453	102816459	LOC102816459	-	-	-	Un	-	myotubularin-like	pseudo	-	-	-	-	20151115
 185453	102816460	LOC102816460	-	-	-	Un	-	pyruvate kinase PKM-like	pseudo	-	-	-	-	20151115
@@ -6816,7 +6816,7 @@
 185453	102817233	LOC102817233	-	-	-	Un	-	forkhead box P1 pseudogene	pseudo	-	-	-	-	20151115
 185453	102817234	SLC5A10	-	-	-	Un	-	solute carrier family 5 member 10	protein-coding	-	-	-	sodium/glucose cotransporter 5	20170126
 185453	102817235	FAM110A	-	-	-	Un	-	family with sequence similarity 110 member A	protein-coding	-	-	-	protein FAM110A	20170126
-185453	102817236	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G5b	20170126
+185453	102817236	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G5b|lymphocyte antigen 6 complex, locus G5B	20170130
 185453	102817237	LOC102817237	-	-	-	Un	-	cyclin-Y-like protein 1-like	pseudo	-	-	-	-	20151115
 185453	102817238	CTDP1	-	-	-	Un	-	CTD phosphatase subunit 1	protein-coding	-	-	-	RNA polymerase II subunit A C-terminal domain phosphatase	20170126
 185453	102817239	DCP1A	-	-	-	Un	-	decapping mRNA 1A	protein-coding	-	-	-	mRNA-decapping enzyme 1A	20170126
@@ -7117,7 +7117,7 @@
 185453	102817534	NIT2	-	-	-	Un	-	nitrilase family member 2	protein-coding	-	-	-	omega-amidase NIT2	20170126
 185453	102817535	FBXO32	-	-	-	Un	-	F-box protein 32	protein-coding	-	-	-	F-box only protein 32	20170126
 185453	102817536	LOC102817536	-	-	-	Un	-	c-C chemokine receptor type 1-like	protein-coding	-	-	-	c-C chemokine receptor type 1-like	20170126
-185453	102817537	LY6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus D	protein-coding	-	-	-	lymphocyte antigen 6D	20170126
+185453	102817537	LY6D	-	-	-	Un	-	lymphocyte antigen 6 family member D	protein-coding	-	-	-	lymphocyte antigen 6D|lymphocyte antigen 6 complex, locus D	20170130
 185453	102817538	PIAS4	-	-	-	Un	-	protein inhibitor of activated STAT 4	protein-coding	-	-	-	E3 SUMO-protein ligase PIAS4	20170126
 185453	102817539	OLFM3	-	-	-	Un	-	olfactomedin 3	protein-coding	-	-	-	noelin-3	20170126
 185453	102817540	LOC102817540	-	-	-	Un	-	heterogeneous nuclear ribonucleoproteins C1/C2-like	pseudo	-	-	-	-	20151115
@@ -7940,7 +7940,7 @@
 185453	102818357	LOC102818357	-	-	-	Un	-	cystathionine gamma-lyase-like	pseudo	-	-	-	-	20151115
 185453	102818358	LOC102818358	-	-	-	Un	-	putative thymosin beta-4-like protein 1-like	protein-coding	-	-	-	putative thymosin beta-4-like protein 1-like	20170126
 185453	102818359	LOC102818359	-	-	-	Un	-	non-histone chromosomal protein HMG-17-like	pseudo	-	-	-	-	20151115
-185453	102818360	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6c	20170126
+185453	102818360	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6c|lymphocyte antigen 6 complex, locus G6C	20170130
 185453	102818361	PSMF1	-	-	-	Un	-	proteasome inhibitor subunit 1	protein-coding	-	-	-	proteasome inhibitor PI31 subunit	20170126
 185453	102818362	LST1	-	-	-	Un	-	leukocyte specific transcript 1	protein-coding	-	-	-	leukocyte-specific transcript 1 protein	20170126
 185453	102818363	FABP1	-	-	-	Un	-	fatty acid binding protein 1	protein-coding	-	-	-	fatty acid-binding protein, liver	20170126
@@ -8318,7 +8318,7 @@
 185453	102818735	LOC102818735	-	-	-	Un	-	cold shock domain-containing protein E1-like	pseudo	-	-	-	-	20151115
 185453	102818736	FOXJ2	-	-	-	Un	-	forkhead box J2	protein-coding	-	-	-	forkhead box protein J2	20170126
 185453	102818737	PAX1	-	-	-	Un	-	paired box 1	protein-coding	-	-	-	paired box protein Pax-1	20170126
-185453	102818738	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6f	20170126
+185453	102818738	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6f|lymphocyte antigen 6 complex, locus G6F	20170130
 185453	102818739	RAD21L1	-	-	-	Un	-	RAD21 cohesin complex component like 1	protein-coding	-	-	-	double-strand-break repair protein rad21-like protein 1	20170126
 185453	102818740	MCCD1	-	-	-	Un	-	mitochondrial coiled-coil domain 1	protein-coding	-	-	-	mitochondrial coiled-coil domain protein 1	20170126
 185453	102818741	SMYD1	-	-	-	Un	-	SET and MYND domain containing 1	protein-coding	-	-	-	histone-lysine N-methyltransferase SMYD1	20170126
@@ -9007,7 +9007,7 @@
 185453	102819424	LOC102819424	-	-	-	Un	-	phosphoribosyl pyrophosphate synthetase 1 pseudogene	pseudo	-	-	-	-	20151115
 185453	102819425	LOC102819425	-	-	-	Un	-	olfactory receptor 478-like	pseudo	-	-	-	-	20151115
 185453	102819426	LOC102819426	-	-	-	Un	-	oxysterol-binding protein-related protein 9-like	pseudo	-	-	-	-	20151115
-185453	102819427	NQO2	-	-	-	Un	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	ribosyldihydronicotinamide dehydrogenase [quinone]	20170126
+185453	102819427	NQO2	-	-	-	Un	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	ribosyldihydronicotinamide dehydrogenase [quinone]|NAD(P)H quinone dehydrogenase 2	20170130
 185453	102819428	AMZ2	-	-	-	Un	-	archaelysin family metallopeptidase 2	protein-coding	-	-	-	archaemetzincin-2	20170126
 185453	102819429	LOC102819429	-	-	-	Un	-	zinc finger protein 30-like	pseudo	-	-	-	-	20151115
 185453	102819430	RIPK4	-	-	-	Un	-	receptor interacting serine/threonine kinase 4	protein-coding	-	-	-	receptor-interacting serine/threonine-protein kinase 4	20170126
@@ -9063,7 +9063,7 @@
 185453	102819480	LOC102819480	-	-	-	Un	-	butyrophilin subfamily 1 member A1-like	protein-coding	-	-	-	butyrophilin subfamily 1 member A1-like	20170126
 185453	102819481	LOC102819481	-	-	-	Un	-	MARCKS-related protein-like	pseudo	-	-	-	-	20151115
 185453	102819482	FOXA2	-	-	-	Un	-	forkhead box A2	protein-coding	-	-	-	hepatocyte nuclear factor 3-beta-like	20170126
-185453	102819483	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G5c	20170126
+185453	102819483	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G5c|lymphocyte antigen 6 complex, locus G5C	20170130
 185453	102819484	LOC102819484	-	-	-	Un	-	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, epsilon pseudogene	pseudo	-	-	-	-	20151115
 185453	102819485	MICB	-	-	-	Un	-	MHC class I polypeptide-related sequence B	protein-coding	-	-	-	MHC class I polypeptide-related sequence B	20170126
 185453	102819486	CD8A	-	-	-	Un	-	CD8a molecule	protein-coding	-	-	-	T-cell surface glycoprotein CD8 alpha chain	20170126
@@ -25260,7 +25260,7 @@
 185453	102835677	LOC102835677	-	-	-	Un	-	40S ribosomal protein S6-like	pseudo	-	-	-	-	20151115
 185453	102835678	LOC102835678	-	-	-	Un	-	ets variant 4 pseudogene	pseudo	-	-	-	-	20151115
 185453	102835679	LOC102835679	-	-	-	Un	-	ADP-ribosylation factor 4 pseudogene	pseudo	-	-	-	-	20151115
-185453	102835680	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosomal region candidate gene 12 protein	20170126
+185453	102835680	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosomal region candidate gene 12 protein|amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 185453	102835681	LOC102835681	-	-	-	Un	-	voltage-dependent anion channel 1 pseudogene	pseudo	-	-	-	-	20151115
 185453	102835682	LOC102835682	-	-	-	Un	-	guanine nucleotide binding protein (G protein), beta polypeptide 2-like 1 pseudogene	pseudo	-	-	-	-	20151115
 185453	102835683	SH2B1	-	-	-	Un	-	SH2B adaptor protein 1	protein-coding	-	-	-	SH2B adapter protein 1	20170126
@@ -28572,7 +28572,7 @@
 185453	102838989	SCAF8	-	-	-	Un	-	SR-related CTD associated factor 8	protein-coding	-	-	-	protein SCAF8	20170126
 185453	102838990	LOC102838990	-	-	-	Un	-	heterogeneous nuclear ribonucleoprotein A/B-like	pseudo	-	-	-	-	20151115
 185453	102838991	LOC102838991	-	-	-	Un	-	voltage-dependent anion channel 2 pseudogene	pseudo	-	-	-	-	20151115
-185453	102838992	LY6H	-	-	-	Un	-	lymphocyte antigen 6 complex, locus H	protein-coding	-	-	-	lymphocyte antigen 6H	20170126
+185453	102838992	LY6H	-	-	-	Un	-	lymphocyte antigen 6 family member H	protein-coding	-	-	-	lymphocyte antigen 6H|lymphocyte antigen 6 complex, locus H	20170130
 185453	102838993	ZNF662	-	-	-	Un	-	zinc finger protein 662	protein-coding	-	-	-	zinc finger protein 662	20170126
 185453	102838994	LOC102838994	-	-	-	Un	-	lethal(3)malignant brain tumor-like protein 2-like	pseudo	-	-	-	-	20151115
 185453	102838995	LPHN2	-	-	-	Un	-	latrophilin 2	protein-coding	-	-	-	latrophilin-2-like	20170126

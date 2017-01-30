@@ -1763,7 +1763,7 @@
 9597	100969280	LOC100969280	-	-	-	22	-	uncharacterized LOC100969280	protein-coding	-	-	-	-	20160526
 9597	100969281	LOC100969281	-	-	-	10	-	peptidyl-prolyl cis-trans isomerase A pseudogene	pseudo	-	-	-	-	20160526
 9597	100969282	MSL1	-	-	-	17	-	male specific lethal 1 homolog	protein-coding	-	-	-	-	20160917
-9597	100969283	LY6G6F	-	-	-	6	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	-	20160917
+9597	100969283	LY6G6F	-	-	-	6	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6F	20170130
 9597	100969284	LOC100969284	-	-	-	15	-	golgin subfamily A member 6-like protein 9	protein-coding	-	-	-	-	20160526
 9597	100969285	RSPO1	-	-	-	1	-	R-spondin 1	protein-coding	-	-	-	-	20160827
 9597	100969286	HOXD13	-	-	-	2B	-	homeobox D13	protein-coding	-	-	-	-	20160917
@@ -2842,7 +2842,7 @@
 9597	100970567	LOC100970567	-	-	-	15	-	putative GED domain-containing protein DNM1P34	protein-coding	-	-	-	-	20160917
 9597	100970568	RRP8	-	-	-	11	-	ribosomal RNA processing 8, methyltransferase, homolog (yeast)	protein-coding	-	-	-	-	20160917
 9597	100970570	JSRP1	-	-	-	19	-	junctional sarcoplasmic reticulum protein 1	protein-coding	-	-	-	-	20160730
-9597	100970571	LY6H	-	-	-	8	-	lymphocyte antigen 6 complex, locus H	protein-coding	-	-	-	-	20160917
+9597	100970571	LY6H	-	-	-	8	-	lymphocyte antigen 6 family member H	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus H	20170130
 9597	100970573	PDZD11	-	-	-	X	-	PDZ domain containing 11	protein-coding	-	-	-	-	20160806
 9597	100970574	CD4	-	-	-	12	-	CD4 molecule	protein-coding	-	-	-	-	20160917
 9597	100970575	LOC100970575	-	-	-	7	-	cytochrome c oxidase subunit 6B1 pseudogene	pseudo	-	-	-	-	20160526
@@ -3964,7 +3964,7 @@
 9597	100971897	ANKRD30A	-	-	-	10	-	ankyrin repeat domain 30A	protein-coding	-	-	-	-	20160730
 9597	100971898	CACNA1A	-	-	-	19	-	calcium voltage-gated channel subunit alpha1 A	protein-coding	-	-	-	-	20160730
 9597	100971899	GSDMA	-	-	-	17	-	gasdermin A	protein-coding	-	-	-	-	20160827
-9597	100971900	LY6G5C	-	-	-	6	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	-	20160526
+9597	100971900	LY6G5C	-	-	-	6	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5C	20170130
 9597	100971901	LOC100971901	-	-	-	1	-	olfactory receptor 2T4-like	protein-coding	-	-	-	-	20160917
 9597	100971902	FOXA1	-	-	-	14	-	forkhead box A1	protein-coding	-	-	-	-	20160827
 9597	100971903	SOGA1	-	-	-	20	-	suppressor of glucose, autophagy associated 1	protein-coding	-	-	-	-	20160917
@@ -4444,7 +4444,7 @@
 9597	100972466	SLC38A10	-	-	-	17	-	solute carrier family 38 member 10	protein-coding	-	-	-	-	20160917
 9597	100972468	TMEM61	-	-	-	1	-	transmembrane protein 61	protein-coding	-	-	-	-	20160827
 9597	100972470	LOC100972470	-	-	-	3	-	splicing factor 3A subunit 2 pseudogene	pseudo	-	-	-	-	20160526
-9597	100972471	LY6G6C	-	-	-	6	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	-	20160827
+9597	100972471	LY6G6C	-	-	-	6	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6C	20170130
 9597	100972473	EIF4H	-	-	-	7	-	eukaryotic translation initiation factor 4H	protein-coding	-	-	-	-	20160917
 9597	100972474	TMEM156	-	-	-	4	-	transmembrane protein 156	protein-coding	-	-	-	-	20160917
 9597	100972475	C10H10orf35	-	-	-	10	-	chromosome 10 open reading frame, human C10orf35	protein-coding	-	-	-	-	20160827
@@ -10178,7 +10178,7 @@
 9597	100979261	CD3G	-	-	-	11	-	CD3g molecule	protein-coding	-	-	-	CD3g molecule, epsilon (CD3-TCR complex)	20160917
 9597	100979263	NINJ2	-	-	-	12	-	ninjurin 2	protein-coding	-	-	-	-	20160924
 9597	100979264	IDH2	-	-	-	15	-	isocitrate dehydrogenase (NADP(+)) 2, mitochondrial	protein-coding	-	-	-	-	20160729
-9597	100979266	ALS2CR12	-	-	-	2B	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	-	20160917
+9597	100979266	ALS2CR12	-	-	-	2B	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 9597	100979267	LOC100979267	-	-	-	Un	-	MAM and LDL-receptor class A domain-containing protein 1-like	protein-coding	-	-	-	-	20160827
 9597	100979268	MIDN	-	-	-	Un	-	midnolin	protein-coding	-	-	-	-	20151121
 9597	100979269	LOC100979269	-	A2M	-	12	-	alpha-2-macroglobulin	protein-coding	-	-	-	-	20160917
@@ -11549,7 +11549,7 @@
 9597	100980871	PXT1	-	-	-	6	-	peroxisomal, testis specific 1	protein-coding	-	-	-	-	20160813
 9597	100980872	LOC100980872	-	-	-	11	-	olfactory receptor 51J1-like	protein-coding	-	-	-	-	20160827
 9597	100980873	FUT6	-	-	-	19	-	fucosyltransferase 6	protein-coding	-	-	-	-	20160827
-9597	100980874	LY6E	-	-	-	8	-	lymphocyte antigen 6 complex, locus E	protein-coding	-	-	-	-	20160903
+9597	100980874	LY6E	-	-	-	8	-	lymphocyte antigen 6 family member E	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus E	20170130
 9597	100980876	JAML	-	-	-	11	-	junction adhesion molecule like	protein-coding	-	-	-	-	20160917
 9597	100980877	LOC100980877	-	-	-	Un	-	putative inactive phosphatidylinositol 4-kinase alpha-like protein P1	protein-coding	-	-	-	-	20151121
 9597	100980878	LOC100980878	-	-	-	Un	-	X antigen family member 1	protein-coding	-	-	-	-	20160910
@@ -12980,7 +12980,7 @@
 9597	100982542	CIART	-	-	-	1	-	circadian associated repressor of transcription	protein-coding	-	-	-	-	20160827
 9597	100982543	EIF2AK2	-	-	-	2A	-	eukaryotic translation initiation factor 2 alpha kinase 2	protein-coding	-	-	-	interferon-induced, double-stranded RNA-activated protein kinase	20160813
 9597	100982544	MAPK13	-	-	-	6	-	mitogen-activated protein kinase 13	protein-coding	-	-	-	-	20160917
-9597	100982545	LY6D	-	-	-	8	-	lymphocyte antigen 6 complex, locus D	protein-coding	-	-	-	-	20160827
+9597	100982545	LY6D	-	-	-	8	-	lymphocyte antigen 6 family member D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus D	20170130
 9597	100982546	LOC100982546	-	-	-	16	-	5'-nucleotidase domain-containing protein 2 pseudogene	pseudo	-	-	-	-	20160526
 9597	100982549	MGST2	-	-	-	4	-	microsomal glutathione S-transferase 2	protein-coding	-	-	-	-	20160917
 9597	100982550	LOC100982550	-	-	-	Un	-	Ig gamma-3 chain C region-like	other	-	-	-	-	20151121
@@ -14770,7 +14770,7 @@
 9597	100984682	USP37	-	-	-	2B	-	ubiquitin specific peptidase 37	protein-coding	-	-	-	-	20160917
 9597	100984683	SOX30	-	-	-	5	-	SRY-box 30	protein-coding	-	-	-	transcription factor SOX-30	20160917
 9597	100984684	LOC100984684	-	-	-	11	-	olfactory receptor 52E8-like	pseudo	-	-	-	-	20160526
-9597	100984685	LY6K	-	-	-	8	-	lymphocyte antigen 6 complex, locus K	protein-coding	-	-	-	-	20160827
+9597	100984685	LY6K	-	-	-	8	-	lymphocyte antigen 6 family member K	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus K	20170130
 9597	100984686	COL4A5	-	-	-	X	-	collagen type IV alpha 5 chain	protein-coding	-	-	-	-	20160827
 9597	100984687	IGSF9B	-	-	-	11	-	immunoglobulin superfamily member 9B	protein-coding	-	-	-	-	20160917
 9597	100984688	DSCAML1	-	-	-	11	-	DS cell adhesion molecule like 1	protein-coding	-	-	-	-	20160917
@@ -21681,7 +21681,7 @@
 9597	100992906	OSR2	-	-	-	8	-	odd-skipped related transciption factor 2	protein-coding	-	-	-	odd-skipped related 2	20160827
 9597	100992908	ZNF354B	-	-	-	5	-	zinc finger protein 354B	protein-coding	-	-	-	-	20160917
 9597	100992909	LOC100992909	-	-	-	3	-	40S ribosomal protein S18 pseudogene	pseudo	-	-	-	-	20160526
-9597	100992910	NQO2	-	-	-	6	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	-	20160910
+9597	100992910	NQO2	-	-	-	6	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	NAD(P)H quinone dehydrogenase 2	20170130
 9597	100992911	SPSB1	-	-	-	1	-	splA/ryanodine receptor domain and SOCS box containing 1	protein-coding	-	-	-	-	20160806
 9597	100992912	LOC100992912	-	-	-	5	-	tubulin beta-8 chain-like	protein-coding	-	-	-	-	20160924
 9597	100992914	LOC100992914	-	-	-	3	-	dnaJ homolog subfamily C member 8-like	pseudo	-	-	-	-	20160526
@@ -25518,8 +25518,8 @@
 9597	103783823	LOC103783823	-	-	-	3	-	uncharacterized LOC103783823	ncRNA	-	-	-	-	20160526
 9597	103783827	C2	-	-	-	6	-	complement C2	protein-coding	-	-	-	-	20160917
 9597	103783828	LOC103783828	-	-	-	Un	-	profilin-1 pseudogene	pseudo	-	-	-	-	20151121
-9597	103783829	LY6G6D	-	-	-	6	-	lymphocyte antigen 6 complex, locus G6D	protein-coding	-	-	-	-	20160526
-9597	103783830	LY6G5B	-	-	-	6	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	-	20160526
+9597	103783829	LY6G6D	-	-	-	6	-	lymphocyte antigen 6 family member G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6D	20170130
+9597	103783830	LY6G5B	-	-	-	6	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5B	20170130
 9597	103783831	C6H6orf47	-	-	-	6	-	chromosome 6 open reading frame, human C6orf47	protein-coding	-	-	-	-	20160917
 9597	103783833	LOC103783833	-	-	-	5	-	telomeric repeat-binding factor 2-interacting protein 1-like	protein-coding	-	-	-	-	20160917
 9597	103783834	LOC103783834	-	-	-	14	-	uncharacterized LOC103783834	protein-coding	-	-	-	-	20160526

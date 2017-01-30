@@ -2825,7 +2825,7 @@
 9646	100466619	LOC100466619	PANDA_019430	UBE2R2	-	Un	-	ubiquitin-conjugating enzyme E2 R2	protein-coding	-	-	-	-	20161230
 9646	100466620	COLEC11	PANDA_019511	-	-	-	-	collectin subfamily member 11	protein-coding	-	-	-	-	20170107
 9646	100466621	REV3L	PANDA_020229	-	Ensembl:ENSAMEG00000011341	Un	-	REV3 like, DNA directed polymerase zeta catalytic subunit	protein-coding	-	-	-	REV3-like, catalytic subunit of DNA polymerase zeta	20170101
-9646	100466622	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	-	20161230
+9646	100466622	LY6G6F	-	-	-	Un	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6F	20170130
 9646	100466623	COLEC10	PANDA_020560	-	Ensembl:ENSAMEG00000000398	Un	-	collectin subfamily member 10	protein-coding	-	-	-	-	20170101
 9646	100466624	LOC100466624	PANDA_020658	-	-	Un	-	histone H2B type 2-E	protein-coding	-	-	-	-	20161230
 9646	100466625	RACK1	-	-	Ensembl:ENSAMEG00000000004	Un	-	receptor for activated C kinase 1	protein-coding	-	-	-	-	20170101
@@ -3056,7 +3056,7 @@
 9646	100466871	PFN1	PANDA_019183	-	-	Un	-	profilin 1	protein-coding	-	-	-	-	20161230
 9646	100466872	LOC100466872	-	-	-	Un	-	nascent polypeptide-associated complex subunit alpha pseudogene	pseudo	-	-	-	-	20161230
 9646	100466873	ALLC	PANDA_019513	-	Ensembl:ENSAMEG00000018438	Un	-	allantoicase	protein-coding	-	-	-	-	20170101
-9646	100466875	LY6G5C	PANDA_020407	-	Ensembl:ENSAMEG00000009267	Un	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	-	20170101
+9646	100466875	LY6G5C	PANDA_020407	-	Ensembl:ENSAMEG00000009267	Un	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5C	20170130
 9646	100466876	MAL2	PANDA_020561	-	Ensembl:ENSAMEG00000000406	Un	-	mal, T-cell differentiation protein 2	protein-coding	-	-	-	-	20170101
 9646	100466877	LOC100466877	PANDA_020660	-	Ensembl:ENSAMEG00000018634	Un	-	histone H2A type 2-A	protein-coding	-	-	-	-	20170101
 9646	100466878	RANBP6	PANDA_021371	-	Ensembl:ENSAMEG00000019264	Un	-	RAN binding protein 6	protein-coding	-	-	-	-	20170101
@@ -3280,7 +3280,7 @@
 9646	100467120	GP1BA	PANDA_019187	-	-	Un	-	glycoprotein Ib platelet alpha subunit	protein-coding	-	-	-	-	20161230
 9646	100467121	DLGAP5	PANDA_019440	-	Ensembl:ENSAMEG00000007001	Un	-	DLG associated protein 5	protein-coding	-	-	-	-	20170101
 9646	100467122	LOC100467122	-	-	-	Un	-	60S ribosomal protein L30 pseudogene	pseudo	-	-	-	-	20161230
-9646	100467123	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	-	20161230
+9646	100467123	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5B	20170130
 9646	100467124	YIPF6	PANDA_020562	-	Ensembl:ENSAMEG00000018235	Un	-	Yip1 domain family member 6	protein-coding	-	-	-	-	20170101
 9646	100467125	LOC100467125	PANDA_020661	-	Ensembl:ENSAMEG00000018667	Un	-	histone H2B type 2-E	protein-coding	-	-	-	-	20170101
 9646	100467126	LOC100467126	-	-	-	Un	-	olfactory receptor 2T29-like	pseudo	-	-	-	-	20161230
@@ -3695,7 +3695,7 @@
 9646	100467583	LSR	PANDA_009746	-	Ensembl:ENSAMEG00000000228	Un	-	lipolysis stimulated lipoprotein receptor	protein-coding	-	-	-	-	20170101
 9646	100467584	PFKP	PANDA_010135	-	Ensembl:ENSAMEG00000003191	Un	-	phosphofructokinase, platelet	protein-coding	-	-	-	-	20170101
 9646	100467585	FAM43A	PANDA_010390	-	Ensembl:ENSAMEG00000018929	Un	-	family with sequence similarity 43 member A	protein-coding	-	-	-	-	20170101
-9646	100467586	LY6D	PANDA_010549	-	Ensembl:ENSAMEG00000001388	Un	-	lymphocyte antigen 6 complex, locus D	protein-coding	-	-	-	-	20170101
+9646	100467586	LY6D	PANDA_010549	-	Ensembl:ENSAMEG00000001388	Un	-	lymphocyte antigen 6 family member D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus D	20170130
 9646	100467588	YIPF7	-	-	-	Un	-	Yip1 domain family member 7	protein-coding	-	-	-	-	20161230
 9646	100467589	LOC100467589	PANDA_010794	-	-	Un	-	olfactory receptor 2A2	protein-coding	-	-	-	-	20161230
 9646	100467591	DSEL	PANDA_011040	-	Ensembl:ENSAMEG00000019200	Un	-	dermatan sulfate epimerase-like	protein-coding	-	-	-	dermatan-sulfate epimerase-like protein-like	20170101
@@ -4893,7 +4893,7 @@
 9646	100468880	LOC100468880	-	-	-	Un	-	ferritin light chain-like	pseudo	-	-	-	-	20161230
 9646	100468881	LOC100468881	-	-	Ensembl:ENSAMEG00000004408	Un	-	adenylate cyclase type 10-like	protein-coding	-	-	-	-	20170101
 9646	100468882	NIPA1	PANDA_020337	-	Ensembl:ENSAMEG00000013833	Un	-	non imprinted in Prader-Willi/Angelman syndrome 1	protein-coding	-	-	-	-	20170101
-9646	100468883	LY6G6C	PANDA_020404	-	Ensembl:ENSAMEG00000009191	Un	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	-	20170101
+9646	100468883	LY6G6C	PANDA_020404	-	Ensembl:ENSAMEG00000009191	Un	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6C	20170130
 9646	100468884	SAMD11	PANDA_020579	-	Ensembl:ENSAMEG00000016508	Un	-	sterile alpha motif domain containing 11	protein-coding	-	-	-	-	20170101
 9646	100468885	ILKAP	PANDA_020667	-	Ensembl:ENSAMEG00000014929	Un	-	ILK associated serine/threonine phosphatase	protein-coding	-	-	-	integrin-linked kinase-associated serine/threonine phosphatase 2C	20170101
 9646	100468886	LOC100468886	PANDA_021379	-	Ensembl:ENSAMEG00000019762	Un	-	olfactory receptor 10T2	protein-coding	-	-	-	-	20170101
@@ -6704,7 +6704,7 @@
 9646	100470880	PRPF4B	PANDA_013578	-	Ensembl:ENSAMEG00000012832	Un	-	pre-mRNA processing factor 4B	protein-coding	-	-	-	PRP4 pre-mRNA processing factor 4 homolog B|serine/threonine-protein kinase PRP4 homolog	20170101
 9646	100470881	SCN4A	PANDA_013931	-	Ensembl:ENSAMEG00000002909	Un	-	sodium voltage-gated channel alpha subunit 4	protein-coding	-	-	-	sodium channel, voltage-gated, type IV, alpha subunit	20170101
 9646	100470882	STBD1	PANDA_014187	-	-	Un	-	starch binding domain 1	protein-coding	-	-	-	-	20161230
-9646	100470883	NQO2	PANDA_014332	-	Ensembl:ENSAMEG00000014373	Un	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	-	20170101
+9646	100470883	NQO2	PANDA_014332	-	Ensembl:ENSAMEG00000014373	Un	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	NAD(P)H quinone dehydrogenase 2	20170130
 9646	100470884	KRT20	PANDA_014420	-	Ensembl:ENSAMEG00000008325	Un	-	keratin 20	protein-coding	-	-	-	-	20170101
 9646	100470885	LOC100470885	-	-	-	Un	-	intraflagellar transport protein 20 homolog pseudogene	pseudo	-	-	-	-	20161230
 9646	100470886	LOC100470886	-	-	-	Un	-	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 3 pseudogene	pseudo	-	-	-	-	20161230
@@ -10885,7 +10885,7 @@
 9646	100475379	IDNK	PANDA_002999	-	-	Un	-	IDNK, gluconokinase	protein-coding	-	-	-	-	20161230
 9646	100475380	PARL	PANDA_003760	-	Ensembl:ENSAMEG00000017375	Un	-	presenilin associated rhomboid like	protein-coding	-	-	-	-	20170101
 9646	100475381	ALAD	-	-	Ensembl:ENSAMEG00000013004	Un	-	aminolevulinate dehydratase	protein-coding	-	-	-	-	20161230
-9646	100475382	ALS2CR12	-	-	Ensembl:ENSAMEG00000006088	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	-	20170102
+9646	100475382	ALS2CR12	-	-	Ensembl:ENSAMEG00000006088	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 9646	100475383	AKIP1	PANDA_004263	-	Ensembl:ENSAMEG00000004126	Un	-	A-kinase interacting protein 1	protein-coding	-	-	-	-	20170101
 9646	100475384	SPZ1	PANDA_004325	-	Ensembl:ENSAMEG00000019078	Un	-	spermatogenic leucine zipper 1	protein-coding	-	-	-	-	20170101
 9646	100475385	MYBL1	-	-	Ensembl:ENSAMEG00000012401	Un	-	MYB proto-oncogene like 1	protein-coding	-	-	-	v-myb myeloblastosis viral oncogene homolog (avian)-like 1	20170101
@@ -14118,7 +14118,7 @@
 9646	100478882	TRIAP1	PANDA_020892	-	Ensembl:ENSAMEG00000013300	Un	-	TP53 regulated inhibitor of apoptosis 1	protein-coding	-	-	-	-	20170101
 9646	100478883	LOC100478883	-	-	-	Un	-	annexin A2 pseudogene	pseudo	-	-	-	-	20161230
 9646	100478884	LOC100478884	-	-	-	Un	-	elongation factor 1-alpha 1 pseudogene	pseudo	-	-	-	-	20161230
-9646	100478885	LY6E	PANDA_021412	-	-	Un	-	lymphocyte antigen 6 complex, locus E	protein-coding	-	-	-	-	20170107
+9646	100478885	LY6E	PANDA_021412	-	-	Un	-	lymphocyte antigen 6 family member E	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus E	20170130
 9646	100478886	LOC100478886	PANDA_021507	-	Ensembl:ENSAMEG00000018970	Un	-	olfactory receptor 1Q1	protein-coding	-	-	-	-	20161230
 9646	100478888	NIPSNAP3A	PANDA_022044	-	Ensembl:ENSAMEG00000010015	Un	-	nipsnap homolog 3A	protein-coding	-	-	-	-	20170101
 9646	100478889	LOC100478889	PANDA_022223	-	-	Un	-	carcinoembryonic antigen-related cell adhesion molecule 3	protein-coding	-	-	-	-	20161230
@@ -14314,7 +14314,7 @@
 9646	100479095	DGAT1	PANDA_011077	-	Ensembl:ENSAMEG00000005797	Un	-	diacylglycerol O-acyltransferase 1	protein-coding	-	-	-	-	20170101
 9646	100479096	OTOS	PANDA_011501	-	Ensembl:ENSAMEG00000011215	Un	-	otospiralin	protein-coding	-	-	-	-	20170101
 9646	100479097	LOC100479097	-	-	-	Un	-	LYR motif-containing protein 4 pseudogene	pseudo	-	-	-	-	20161230
-9646	100479098	AUTS2	PANDA_012203	-	-	Un	-	autism susceptibility candidate 2	protein-coding	-	-	-	-	20161230
+9646	100479098	AUTS2	PANDA_012203	-	-	Un	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility candidate 2	20170130
 9646	100479099	NEU4	-	-	-	Un	-	neuraminidase 4	protein-coding	-	-	-	-	20161230
 9646	100479100	FAM167A	PANDA_012891	-	Ensembl:ENSAMEG00000006132	Un	-	family with sequence similarity 167 member A	protein-coding	-	-	-	-	20170101
 9646	100479101	TMEM106B	PANDA_013083	-	Ensembl:ENSAMEG00000009789	Un	-	transmembrane protein 106B	protein-coding	-	-	-	-	20170101
@@ -19831,7 +19831,7 @@
 9646	105234416	LOC105234416	-	-	-	Un	-	uncharacterized LOC105234416	ncRNA	-	-	-	-	20161230
 9646	105234417	LOC105234417	-	-	-	Un	-	40S ribosomal protein SA pseudogene	pseudo	-	-	-	-	20161230
 9646	105234418	LOC105234418	-	-	Ensembl:ENSAMEG00000019098	Un	-	olfactory receptor 143-like	protein-coding	-	-	-	-	20170101
-9646	105234421	LY6G6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6D	protein-coding	-	-	-	-	20161230
+9646	105234421	LY6G6D	-	-	-	Un	-	lymphocyte antigen 6 family member G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6D	20170130
 9646	105234422	LOC105234422	-	-	Ensembl:ENSAMEG00000009207	Un	-	sperm acrosome membrane-associated protein 4-like	protein-coding	-	-	-	-	20170101
 9646	105234423	LOC105234423	-	-	-	Un	-	uncharacterized LOC105234423	ncRNA	-	-	-	-	20161230
 9646	105234428	LOC105234428	PANDA_020425	-	Ensembl:ENSAMEG00000009534	Un	-	DLA class I histocompatibility antigen, A9/A9 alpha chain	protein-coding	-	-	-	-	20161230
@@ -20513,7 +20513,7 @@
 9646	105236053	LOC105236053	-	-	-	Un	-	uncharacterized LOC105236053	ncRNA	-	-	-	-	20161230
 9646	105236055	CUNH6orf229	-	-	Ensembl:ENSAMEG00000010209	Un	-	chromosome unknown C6orf229 homolog	protein-coding	-	-	-	-	20170101
 9646	105236059	LOC105236059	-	-	-	-	-	lymphocyte antigen 6H	protein-coding	-	-	-	-	20161231
-9646	105236060	LY6H	PANDA_003886	-	Ensembl:ENSAMEG00000010452	Un	-	lymphocyte antigen 6 complex, locus H	protein-coding	-	-	-	-	20170101
+9646	105236060	LY6H	PANDA_003886	-	Ensembl:ENSAMEG00000010452	Un	-	lymphocyte antigen 6 family member H	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus H	20170130
 9646	105236061	ZFP41	-	-	-	Un	-	ZFP41 zinc finger protein	protein-coding	-	-	-	-	20161230
 9646	105236062	ZNF696	-	-	-	Un	-	zinc finger protein 696	protein-coding	-	-	-	-	20161230
 9646	105236073	LOC105236073	-	-	Ensembl:ENSAMEG00000010376	Un	-	putative HLA class I histocompatibility antigen, alpha chain H	protein-coding	-	-	-	-	20170101

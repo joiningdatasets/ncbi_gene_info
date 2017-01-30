@@ -2596,7 +2596,7 @@
 419612	102506025	CNTN1	CB1_002301003	-	-	Un	-	contactin 1	protein-coding	-	-	-	contactin-1	20170124
 419612	102506026	LOC102506026	CB1_002341004	-	-	Un	-	gap junction delta-2 protein	protein-coding	-	-	-	gap junction delta-2 protein	20170124
 419612	102506027	LOC102506027	-	-	-	Un	-	olfactory receptor 4A15-like	protein-coding	-	-	-	LOW QUALITY PROTEIN: olfactory receptor 4A15-like	20170124
-419612	102506028	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	LOW QUALITY PROTEIN: lymphocyte antigen 6 complex locus protein G5c	20170124
+419612	102506028	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	LOW QUALITY PROTEIN: lymphocyte antigen 6 complex locus protein G5c|lymphocyte antigen 6 complex, locus G5C	20170130
 419612	102506029	CHMP4C	CB1_002519017	-	-	Un	-	charged multivesicular body protein 4C	protein-coding	-	-	-	charged multivesicular body protein 4c	20170124
 419612	102506030	OPA1	CB1_000389013	-	-	Un	-	OPA1, mitochondrial dynamin like GTPase	protein-coding	-	-	-	dynamin-like 120 kDa protein, mitochondrial	20170124
 419612	102506031	LOC102506031	-	-	-	Un	-	olfactory receptor 5D13-like	protein-coding	-	-	-	olfactory receptor 5D13-like	20170124
@@ -9178,7 +9178,7 @@
 419612	102512789	DDR2	-	-	-	Un	-	discoidin domain receptor tyrosine kinase 2	protein-coding	-	-	-	discoidin domain-containing receptor 2	20170124
 419612	102512790	SIVA1	-	-	-	Un	-	SIVA1 apoptosis inducing factor	protein-coding	-	-	-	apoptosis regulatory protein Siva	20170124
 419612	102512791	LOC102512791	-	-	-	Un	-	ubiquitin-conjugating enzyme E2 D3 pseudogene	pseudo	-	-	-	-	20151115
-419612	102512792	AUTS2	CB1_001241006	-	-	Un	-	autism susceptibility candidate 2	protein-coding	-	-	-	LOW QUALITY PROTEIN: autism susceptibility gene 2 protein	20170124
+419612	102512792	AUTS2	CB1_001241006	-	-	Un	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	LOW QUALITY PROTEIN: autism susceptibility gene 2 protein|autism susceptibility candidate 2	20170130
 419612	102512793	LOC102512793	CB1_000122008	-	-	Un	-	olfactory receptor 51F2	protein-coding	-	-	-	olfactory receptor 51F2	20170124
 419612	102512794	FAM111A	-	-	-	Un	-	family with sequence similarity 111 member A	protein-coding	-	-	-	protein FAM111A	20170124
 419612	102512795	SYT5	CB1_001271012	-	-	Un	-	synaptotagmin 5	protein-coding	-	-	-	synaptotagmin-5|synaptotagmin-5-like protein	20170124
@@ -9321,7 +9321,7 @@
 419612	102512937	SMARCA5	CB1_000961005	-	-	Un	-	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 5	protein-coding	-	-	-	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A member 5|SWI/SNF related matrix associated actin dependent regulator of chromatin subfamily A member 5 isoform 2-like protein	20170124
 419612	102512938	PIGP	-	-	-	Un	-	phosphatidylinositol glycan anchor biosynthesis class P	protein-coding	-	-	-	LOW QUALITY PROTEIN: phosphatidylinositol N-acetylglucosaminyltransferase subunit P	20170124
 419612	102512939	NRXN2	CB1_000996007	-	-	Un	-	neurexin 2	protein-coding	-	-	-	LOW QUALITY PROTEIN: neurexin-2-beta	20170124
-419612	102512940	LY6H	CB1_001044002	-	-	Un	-	lymphocyte antigen 6 complex, locus H	protein-coding	-	-	-	lymphocyte antigen 6H	20170124
+419612	102512940	LY6H	CB1_001044002	-	-	Un	-	lymphocyte antigen 6 family member H	protein-coding	-	-	-	lymphocyte antigen 6H|lymphocyte antigen 6 complex, locus H	20170130
 419612	102512941	GOLGA7	CB1_001095030	-	-	Un	-	golgin A7	protein-coding	-	-	-	golgin subfamily A member 7	20170124
 419612	102512942	LOC102512942	-	-	-	Un	-	10 kDa heat shock protein, mitochondrial pseudogene	pseudo	-	-	-	-	20151115
 419612	102512943	GPR143	CB1_000066002	-	-	Un	-	G protein-coupled receptor 143	protein-coding	-	-	-	G-protein coupled receptor 143	20170124
@@ -10078,7 +10078,7 @@
 419612	102513714	RPS8	CB1_000365057	-	-	Un	-	ribosomal protein S8	protein-coding	-	-	-	40S ribosomal protein S8	20170124
 419612	102513715	LYRM2	-	-	-	Un	-	LYR motif containing 2	protein-coding	-	-	-	LYR motif-containing protein 2	20170124
 419612	102513716	KCTD15	CB1_002378003	-	-	Un	-	potassium channel tetramerization domain containing 15	protein-coding	-	-	-	BTB/POZ domain-containing protein KCTD15	20170124
-419612	102513717	LY6G5B	CB1_000383025	-	-	Un	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	LOW QUALITY PROTEIN: lymphocyte antigen 6 complex locus protein G5b|lymphocyte antigen 6 complex locus protein G5b-like protein	20170124
+419612	102513717	LY6G5B	CB1_000383025	-	-	Un	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	LOW QUALITY PROTEIN: lymphocyte antigen 6 complex locus protein G5b|lymphocyte antigen 6 complex locus protein G5b-like protein|lymphocyte antigen 6 complex, locus G5B	20170130
 419612	102513718	TMEM185A	CB1_002481001	-	-	Un	-	transmembrane protein 185A	protein-coding	-	-	-	transmembrane protein 185A|transmembrane protein 185-like protein	20170124
 419612	102513719	LOC102513719	CB1_000385026	-	-	Un	-	olfactory receptor 6	protein-coding	-	-	-	olfactory receptor 6|olfactory receptor 6-like protein	20170124
 419612	102513720	GSX2	CB1_002539002	-	-	Un	-	GS homeobox 2	protein-coding	-	-	-	GS homeobox 2	20170124
@@ -10206,7 +10206,7 @@
 419612	102513845	PRDM6	CB1_001178003	-	-	Un	-	PR/SET domain 6	protein-coding	-	-	-	putative histone-lysine N-methyltransferase PRDM6	20170124
 419612	102513846	FANCD2OS	CB1_000105012	-	-	Un	-	FANCD2 opposite strand	protein-coding	-	-	-	FANCD2 opposite strand protein	20170124
 419612	102513847	LOC102513847	-	-	-	Un	-	AP-1 complex subunit mu-2 pseudogene	pseudo	-	-	-	-	20151115
-419612	102513848	ALS2CR12	CB1_001286009	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosomal region candidate gene 12 protein	20170124
+419612	102513848	ALS2CR12	CB1_001286009	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosomal region candidate gene 12 protein|amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 419612	102513849	PLXNB3	-	-	-	Un	-	plexin B3	protein-coding	-	-	-	LOW QUALITY PROTEIN: plexin-B3	20170124
 419612	102513850	DNMT3A	-	-	-	Un	-	DNA methyltransferase 3 alpha	protein-coding	-	-	-	DNA (cytosine-5)-methyltransferase 3A	20170124
 419612	102513851	PATE2	-	-	-	Un	-	prostate and testis expressed 2	protein-coding	-	-	-	prostate and testis expressed protein 2	20170124
@@ -10787,7 +10787,7 @@
 419612	102514437	IKZF1	CB1_000372004	-	-	Un	-	IKAROS family zinc finger 1	protein-coding	-	-	-	DNA-binding protein Ikaros	20170124
 419612	102514438	LOC102514438	-	-	-	Un	-	ubiquitin-60S ribosomal protein L40 pseudogene	pseudo	-	-	-	-	20151115
 419612	102514439	SLC6A14	-	-	-	Un	-	solute carrier family 6 member 14	protein-coding	-	-	-	sodium- and chloride-dependent neutral and basic amino acid transporter B(0+)	20170124
-419612	102514440	LY6G6D	CB1_000383029	-	-	Un	-	lymphocyte antigen 6 complex, locus G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6d	20170124
+419612	102514440	LY6G6D	CB1_000383029	-	-	Un	-	lymphocyte antigen 6 family member G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6d|lymphocyte antigen 6 complex, locus G6D	20170130
 419612	102514441	IGBP1	-	-	-	Un	-	immunoglobulin binding protein 1	protein-coding	-	-	-	immunoglobulin-binding protein 1|immunoglobulin (CD79A) binding protein 1	20170124
 419612	102514442	LOC102514442	CB1_000385029	-	-	Un	-	scavenger receptor cysteine-rich domain-containing protein SCART1	protein-coding	-	-	-	scavenger receptor cysteine-rich domain-containing protein SCART1	20170124
 419612	102514443	TMEM238	CB1_000394011	-	-	Un	-	transmembrane protein 238	protein-coding	-	-	-	transmembrane protein 238	20170124
@@ -11035,7 +11035,7 @@
 419612	102514689	LOC102514689	-	-	-	Un	-	40S ribosomal protein S6 pseudogene	pseudo	-	-	-	-	20151115
 419612	102514690	RRAGD	CB1_000371008	-	-	Un	-	Ras related GTP binding D	protein-coding	-	-	-	ras-related GTP-binding protein D	20170124
 419612	102514691	LOC102514691	CB1_000372008	-	-	Un	-	chromosome unknown open reading frame, human C7orf72	protein-coding	-	-	-	uncharacterized protein C7orf72 homolog	20170124
-419612	102514693	LY6G6F	CB1_000383027	-	-	Un	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6f	20170124
+419612	102514693	LY6G6F	CB1_000383027	-	-	Un	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6f|lymphocyte antigen 6 complex, locus G6F	20170130
 419612	102514694	DGAT2L6	-	-	-	Un	-	diacylglycerol O-acyltransferase 2 like 6	protein-coding	-	-	-	diacylglycerol O-acyltransferase 2-like protein 6	20170124
 419612	102514695	LOC102514695	-	-	-	Un	-	olfactory receptor 13G1-like	protein-coding	-	-	-	LOW QUALITY PROTEIN: olfactory receptor 13G1-like	20170124
 419612	102514696	MORC4	CB1_002582001	-	-	Un	-	MORC family CW-type zinc finger 4	protein-coding	-	-	-	MORC family CW-type zinc finger protein 4	20170124
@@ -11295,7 +11295,7 @@
 419612	102514955	UBE2J1	-	-	-	Un	-	ubiquitin conjugating enzyme E2 J1	protein-coding	-	-	-	ubiquitin-conjugating enzyme E2 J1	20170124
 419612	102514956	ZPBP	CB1_000372010	-	-	Un	-	zona pellucida binding protein	protein-coding	-	-	-	zona pellucida-binding protein 1	20170124
 419612	102514957	CT83	-	-	-	Un	-	cancer/testis antigen 83	protein-coding	-	-	-	kita-kyushu lung cancer antigen 1|kita-kyushu lung cancer antigen 1 homolog	20170124
-419612	102514958	LY6G6C	CB1_000383030	-	-	Un	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6c	20170124
+419612	102514958	LY6G6C	CB1_000383030	-	-	Un	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G6c|lymphocyte antigen 6 complex, locus G6C	20170130
 419612	102514959	AWAT1	CB1_002484005	-	-	Un	-	acyl-CoA wax alcohol acyltransferase 1	protein-coding	-	-	-	acyl-CoA wax alcohol acyltransferase 1	20170124
 419612	102514960	LOC102514960	-	-	-	Un	-	olfactory receptor 13A1-like	protein-coding	-	-	-	olfactory receptor 13A1-like	20170124
 419612	102514961	LOC102514961	CB1_000387009	-	-	Un	-	hemoglobin subunit zeta	protein-coding	-	-	-	hemoglobin subunit zeta	20170124
@@ -12445,7 +12445,7 @@
 419612	102516137	RSL1D1	-	-	-	Un	-	ribosomal L1 domain containing 1	protein-coding	-	-	-	ribosomal L1 domain-containing protein 1	20170124
 419612	102516138	PHLDB1	-	-	-	Un	-	pleckstrin homology like domain family B member 1	protein-coding	-	-	-	pleckstrin homology-like domain family B member 1	20170124
 419612	102516139	CRY1	CB1_000206004	-	-	Un	-	cryptochrome circadian clock 1	protein-coding	-	-	-	cryptochrome-1|cryptochrome 1 (photolyase-like)	20170124
-419612	102516140	NQO2	-	-	-	Un	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	LOW QUALITY PROTEIN: ribosyldihydronicotinamide dehydrogenase [quinone]	20170124
+419612	102516140	NQO2	-	-	-	Un	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	LOW QUALITY PROTEIN: ribosyldihydronicotinamide dehydrogenase [quinone]|NAD(P)H quinone dehydrogenase 2	20170130
 419612	102516141	HSP90AA1	CB1_000223030	-	-	Un	-	heat shock protein 90 alpha family class A member 1	protein-coding	-	-	-	heat shock protein HSP 90-alpha	20170124
 419612	102516142	PAPOLB	-	-	-	Un	-	poly(A) polymerase beta	protein-coding	-	-	-	poly(A) polymerase beta	20170124
 419612	102516143	LOC102516143	-	ASGR1	-	Un	-	asialoglycoprotein receptor 1	protein-coding	-	-	-	asialoglycoprotein receptor 1	20170124
@@ -14392,7 +14392,7 @@
 419612	102518135	HRG	-	-	-	Un	-	histidine rich glycoprotein	protein-coding	-	-	-	histidine-rich glycoprotein	20170124
 419612	102518136	DCAF11	CB1_000067015	-	-	Un	-	DDB1 and CUL4 associated factor 11	protein-coding	-	-	-	DDB1- and CUL4-associated factor 11	20170124
 419612	102518137	SRI	CB1_001149002	-	-	Un	-	sorcin	protein-coding	-	-	-	sorcin	20170124
-419612	102518138	LY6E	CB1_000076005	-	-	Un	-	lymphocyte antigen 6 complex, locus E	protein-coding	-	-	-	lymphocyte antigen 6E|lymphocyte antigen 6E-like protein	20170124
+419612	102518138	LY6E	CB1_000076005	-	-	Un	-	lymphocyte antigen 6 family member E	protein-coding	-	-	-	lymphocyte antigen 6E|lymphocyte antigen 6 complex, locus E|lymphocyte antigen 6E-like protein	20170130
 419612	102518139	DLX1	CB1_001207002	-	-	Un	-	distal-less homeobox 1	protein-coding	-	-	-	homeobox protein DLX-1|Homeobox protein DLX-1 isoform 4-like protein	20170124
 419612	102518140	LOC102518140	CB1_001227001	-	-	Un	-	bone morphogenetic protein receptor type-2	protein-coding	-	-	-	bone morphogenetic protein receptor type-2	20170124
 419612	102518141	WDTC1	CB1_000129010	-	-	Un	-	WD and tetratricopeptide repeats 1	protein-coding	-	-	-	WD and tetratricopeptide repeats protein 1|WD and tetratricopeptide repeats protein 1-like protein	20170124
@@ -14640,7 +14640,7 @@
 419612	102518387	HK2	CB1_000071006	-	-	Un	-	hexokinase 2	protein-coding	-	-	-	hexokinase-2|hexokinase-2-like protein	20170124
 419612	102518388	WDR19	CB1_001141019	-	-	Un	-	WD repeat domain 19	protein-coding	-	-	-	WD repeat-containing protein 19|WD repeat domain 19-like protein	20170124
 419612	102518389	ADAM22	CB1_001149003	-	-	Un	-	ADAM metallopeptidase domain 22	protein-coding	-	-	-	disintegrin and metalloproteinase domain-containing protein 22	20170124
-419612	102518390	LY6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus D	protein-coding	-	-	-	lymphocyte antigen 6D	20170124
+419612	102518390	LY6D	-	-	-	Un	-	lymphocyte antigen 6 family member D	protein-coding	-	-	-	lymphocyte antigen 6D|lymphocyte antigen 6 complex, locus D	20170130
 419612	102518391	FAM117B	CB1_001227002	-	-	Un	-	family with sequence similarity 117 member B	protein-coding	-	-	-	protein FAM117B	20170124
 419612	102518392	LOC102518392	-	-	-	Un	-	epithelial splicing regulatory protein 1 pseudogene	pseudo	-	-	-	-	20151115
 419612	102518393	IFRD2	CB1_000145025	-	-	Un	-	interferon related developmental regulator 2	protein-coding	-	-	-	interferon-related developmental regulator 2	20170124
@@ -14871,7 +14871,7 @@
 419612	102518619	CHST15	CB1_001111013	-	-	Un	-	carbohydrate sulfotransferase 15	protein-coding	-	-	-	carbohydrate sulfotransferase 15	20170124
 419612	102518620	TMEM207	-	-	-	Un	-	transmembrane protein 207	protein-coding	-	-	-	transmembrane protein 207	20170124
 419612	102518621	LOC102518621	-	-	-	Un	-	importin subunit alpha-1-like	pseudo	-	-	-	-	20151115
-419612	102518622	LY6K	CB1_000076003	-	-	Un	-	lymphocyte antigen 6 complex, locus K	protein-coding	-	-	-	lymphocyte antigen 6K	20170124
+419612	102518622	LY6K	CB1_000076003	-	-	Un	-	lymphocyte antigen 6 family member K	protein-coding	-	-	-	lymphocyte antigen 6K|lymphocyte antigen 6 complex, locus K	20170130
 419612	102518623	LOC102518623	-	-	-	Un	-	islet cell autoantigen 1-like protein	protein-coding	-	-	-	islet cell autoantigen 1-like protein|islet cell autoantigen 1,69kDa-like	20170124
 419612	102518624	PPP6R3	CB1_000118013	-	-	Un	-	protein phosphatase 6 regulatory subunit 3	protein-coding	-	-	-	serine/threonine-protein phosphatase 6 regulatory subunit 3	20170124
 419612	102518625	FSCN1	-	-	-	Un	-	fascin actin-bundling protein 1	protein-coding	-	-	-	LOW QUALITY PROTEIN: fascin	20170124

@@ -3313,7 +3313,7 @@
 9545	105466340	LOC105466340	-	-	-	Un	-	uncharacterized LOC105466340	ncRNA	-	-	-	-	20151115
 9545	105466341	LOC105466341	-	-	-	Un	-	uncharacterized LOC105466341	ncRNA	-	-	-	-	20151115
 9545	105466342	LOC105466342	-	-	-	Un	-	uncharacterized LOC105466342	ncRNA	-	-	-	-	20151115
-9545	105466343	AUTS2	-	-	-	Un	-	autism susceptibility candidate 2	protein-coding	-	-	-	-	20161001
+9545	105466343	AUTS2	-	-	-	Un	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility candidate 2	20170130
 9545	105466344	LOC105466344	-	-	-	Un	-	uncharacterized LOC105466344	ncRNA	-	-	-	-	20151115
 9545	105466345	LOC105466345	-	-	-	Un	-	uncharacterized LOC105466345	ncRNA	-	-	-	-	20151115
 9545	105466346	LOC105466346	-	-	-	Un	-	60S ribosomal protein L7 pseudogene	pseudo	-	-	-	-	20151115
@@ -5072,7 +5072,7 @@
 9545	105468099	STRADB	-	-	-	Un	-	STE20-related kinase adaptor beta	protein-coding	-	-	-	-	20151115
 9545	105468100	LOC105468100	-	-	-	Un	-	SCY1-like protein 2 pseudogene	pseudo	-	-	-	-	20151115
 9545	105468101	TRAK2	-	-	-	Un	-	trafficking kinesin protein 2	protein-coding	-	-	-	-	20161001
-9545	105468102	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	-	20160811
+9545	105468102	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 9545	105468103	DSG4	-	-	-	Un	-	desmoglein 4	protein-coding	-	-	-	-	20161001
 9545	105468104	LOC105468104	-	-	-	Un	-	protein shisa-5 pseudogene	pseudo	-	-	-	-	20151115
 9545	105468105	CASP8	-	-	-	Un	-	caspase 8	protein-coding	-	-	-	-	20161001
@@ -24283,7 +24283,7 @@
 9545	105487310	SERPINB1	-	-	-	Un	-	serpin family B member 1	protein-coding	-	-	-	-	20161001
 9545	105487311	SERPINB9	-	-	-	Un	-	serpin family B member 9	protein-coding	-	-	-	-	20160910
 9545	105487312	LOC105487312	-	-	-	Un	-	uncharacterized LOC105487312	ncRNA	-	-	-	-	20151115
-9545	105487313	NQO2	-	-	-	Un	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	-	20161001
+9545	105487313	NQO2	-	-	-	Un	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	NAD(P)H quinone dehydrogenase 2	20170130
 9545	105487314	LOC105487314	-	-	-	Un	-	mucosal addressin cell adhesion molecule 1-like	protein-coding	-	-	-	-	20161001
 9545	105487315	LOC105487315	-	-	-	Un	-	uncharacterized LOC105487315	ncRNA	-	-	-	-	20151115
 9545	105487316	LOC105487316	-	-	-	Un	-	HIV Tat-specific factor 1 pseudogene	pseudo	-	-	-	-	20151115
@@ -25391,21 +25391,21 @@
 9545	105488418	JRK	-	-	-	Un	-	Jrk helix-turn-helix protein	protein-coding	-	-	-	-	20161001
 9545	105488419	IGDCC4	-	-	-	Un	-	immunoglobulin superfamily DCC subclass member 4	protein-coding	-	-	-	-	20161001
 9545	105488420	LOC105488420	-	-	-	Un	-	uncharacterized LOC105488420	ncRNA	-	-	-	-	20151115
-9545	105488421	LY6K	-	-	-	Un	-	lymphocyte antigen 6 complex, locus K	protein-coding	-	-	-	-	20161001
+9545	105488421	LY6K	-	-	-	Un	-	lymphocyte antigen 6 family member K	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus K	20170130
 9545	105488422	THEM6	-	-	-	Un	-	thioesterase superfamily member 6	protein-coding	-	-	-	-	20160910
 9545	105488423	LYPD2	-	-	-	Un	-	LY6/PLAUR domain containing 2	protein-coding	-	-	-	-	20151115
 9545	105488424	SLURP1	-	-	-	Un	-	secreted LY6/PLAUR domain containing 1	protein-coding	-	-	-	-	20151115
 9545	105488425	LYNX1	-	-	-	Un	-	Ly6/neurotoxin 1	protein-coding	-	-	-	-	20160626
-9545	105488426	LY6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus D	protein-coding	-	-	-	-	20161001
+9545	105488426	LY6D	-	-	-	Un	-	lymphocyte antigen 6 family member D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus D	20170130
 9545	105488427	GML	-	-	-	Un	-	glycosylphosphatidylinositol anchored molecule like	protein-coding	-	-	-	-	20160910
 9545	105488428	LOC105488428	-	-	-	Un	-	cytochrome P450 11B2, mitochondrial-like	protein-coding	-	-	-	-	20161001
 9545	105488429	LOC105488429	-	-	-	Un	-	cytochrome P450 11B1, mitochondrial	protein-coding	-	-	-	-	20161001
 9545	105488430	LOC105488430	-	-	-	Un	-	cytochrome P450 11B2, mitochondrial-like	pseudo	-	-	-	-	20151115
 9545	105488431	LOC105488431	-	-	-	Un	-	uncharacterized protein FLJ40521-like	pseudo	-	-	-	-	20151115
-9545	105488432	LY6E	-	-	-	Un	-	lymphocyte antigen 6 complex, locus E	protein-coding	-	-	-	-	20160910
+9545	105488432	LY6E	-	-	-	Un	-	lymphocyte antigen 6 family member E	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus E	20170130
 9545	105488433	LOC105488433	-	-	-	Un	-	uncharacterized LOC105488433	ncRNA	-	-	-	-	20151115
 9545	105488434	LOC105488434	-	-	-	Un	-	lymphocyte antigen 6H	protein-coding	-	-	-	-	20161001
-9545	105488435	LY6H	-	-	-	Un	-	lymphocyte antigen 6 complex, locus H	protein-coding	-	-	-	-	20160910
+9545	105488435	LY6H	-	-	-	Un	-	lymphocyte antigen 6 family member H	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus H	20170130
 9545	105488436	LOC105488436	-	-	-	Un	-	uncharacterized LOC105488436	ncRNA	-	-	-	-	20151115
 9545	105488437	GPIHBP1	-	-	-	Un	-	glycosylphosphatidylinositol anchored high density lipoprotein binding protein 1	protein-coding	-	-	-	-	20151115
 9545	105488438	IGDCC3	-	-	-	Un	-	immunoglobulin superfamily DCC subclass member 3	protein-coding	-	-	-	-	20161001
@@ -34594,12 +34594,12 @@
 9545	105497621	NDUFA13	-	-	-	Un	-	NADH:ubiquinone oxidoreductase subunit A13	protein-coding	-	-	-	-	20161001
 9545	105497622	LOC105497622	-	-	-	Un	-	uncharacterized LOC105497622	ncRNA	-	-	-	-	20151115
 9545	105497623	LOC105497623	-	-	-	Un	-	uncharacterized LOC105497623	pseudo	-	-	-	-	20151115
-9545	105497624	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	-	20160813
-9545	105497625	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	-	20151115
+9545	105497624	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6C	20170130
+9545	105497625	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5C	20170130
 9545	105497626	LOC105497626	-	-	-	Un	-	chromosome unknown open reading frame, human C6orf47	protein-coding	-	-	-	-	20161001
 9545	105497627	GPANK1	-	-	-	Un	-	G-patch domain and ankyrin repeats 1	protein-coding	-	-	-	-	20161001
 9545	105497628	CSNK2B	-	-	-	Un	-	casein kinase 2 beta	protein-coding	-	-	-	-	20160729
-9545	105497629	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	-	20151115
+9545	105497629	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5B	20170130
 9545	105497630	BAG6	-	-	-	Un	-	BCL2 associated athanogene 6	protein-coding	-	-	-	-	20161001
 9545	105497631	PDAP1	-	-	-	Un	-	PDGFA associated protein 1	protein-coding	-	-	-	-	20160730
 9545	105497632	APOM	-	-	-	Un	-	apolipoprotein M	protein-coding	-	-	-	-	20161001

@@ -2287,7 +2287,7 @@
 30608	105856957	LOC105856957	-	-	-	Un	-	sorting nexin-1 pseudogene	pseudo	-	-	-	-	20160722
 30608	105856958	LOC105856958	-	-	Ensembl:ENSMICG00000013250	Un	-	trafficking kinesin-binding protein 2-like	protein-coding	-	-	-	-	20161018
 30608	105856959	CASP8	-	-	Ensembl:ENSMICG00000004468	Un	-	caspase 8	protein-coding	-	-	-	-	20161018
-30608	105856960	ALS2CR12	-	-	Ensembl:ENSMICG00000004479	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	-	20161018
+30608	105856960	ALS2CR12	-	-	Ensembl:ENSMICG00000004479	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 30608	105856961	STRADB	-	-	Ensembl:ENSMICG00000013292	Un	-	STE20-related kinase adaptor beta	protein-coding	-	-	-	-	20161018
 30608	105856962	LOC105856962	-	-	-	Un	-	proline-rich protein 11-like	pseudo	-	-	-	-	20160722
 30608	105856963	CASP10	-	-	Ensembl:ENSMICG00000004458	Un	-	caspase 10	protein-coding	-	-	-	-	20161018
@@ -3432,7 +3432,7 @@
 30608	105858102	INHBA	-	-	-	Un	-	inhibin beta A subunit	protein-coding	-	-	-	-	20160729
 30608	105858103	LOC105858103	-	-	-	Un	-	uncharacterized LOC105858103	ncRNA	-	-	-	-	20160722
 30608	105858104	VWA7	-	-	-	Un	-	von Willebrand factor A domain containing 7	protein-coding	-	-	-	-	20160722
-30608	105858105	LY6G6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6D	protein-coding	-	-	-	-	20160722
+30608	105858105	LY6G6D	-	-	-	Un	-	lymphocyte antigen 6 family member G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6D	20170130
 30608	105858106	MCCD1	-	-	-	Un	-	mitochondrial coiled-coil domain 1	protein-coding	-	-	-	-	20160722
 30608	105858107	LOC105858107	-	-	-	Un	-	class I histocompatibility antigen, Gogo-OKO alpha chain	protein-coding	-	-	-	-	20160722
 30608	105858108	LOC105858108	-	-	-	Un	-	uncharacterized LOC105858108	ncRNA	-	-	-	-	20160722
@@ -3445,12 +3445,12 @@
 30608	105858115	LOC105858115	-	-	-	Un	-	uncharacterized LOC105858115	ncRNA	-	-	-	-	20160722
 30608	105858116	SAPCD1	-	-	Ensembl:ENSMICG00000030120	Un	-	suppressor APC domain containing 1	protein-coding	-	-	-	-	20161018
 30608	105858117	ABHD16A	-	-	Ensembl:ENSMICG00000005816	Un	-	abhydrolase domain containing 16A	protein-coding	-	-	-	-	20161018
-30608	105858118	LY6G6F	-	-	Ensembl:ENSMICG00000028884	Un	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	-	20161018
+30608	105858118	LY6G6F	-	-	Ensembl:ENSMICG00000028884	Un	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6F	20170130
 30608	105858119	LOC105858119	-	-	-	Un	-	uncharacterized LOC105858119	ncRNA	-	-	-	-	20160722
 30608	105858120	MPIG6B	-	-	Ensembl:ENSMICG00000036583	Un	-	megakaryocyte and platelet inhibitory receptor G6b	protein-coding	-	-	-	-	20170107
-30608	105858121	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	-	20160722
+30608	105858121	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6C	20170130
 30608	105858122	LOC105858122	-	-	-	Un	-	uncharacterized LOC105858122	pseudo	-	-	-	-	20160722
-30608	105858123	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	-	20160722
+30608	105858123	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5C	20170130
 30608	105858124	DPF3	-	-	Ensembl:ENSMICG00000015475	Un	-	double PHD fingers 3	protein-coding	-	-	-	-	20161018
 30608	105858125	LOC105858125	-	-	-	Un	-	uncharacterized LOC105858125	ncRNA	-	-	-	-	20160722
 30608	105858126	BAG6	-	-	Ensembl:ENSMICG00000003629	Un	-	BCL2 associated athanogene 6	protein-coding	-	-	-	-	20161018
@@ -3458,7 +3458,7 @@
 30608	105858128	GPANK1	-	-	-	Un	-	G-patch domain and ankyrin repeats 1	protein-coding	-	-	-	-	20160809
 30608	105858129	LOC105858129	-	-	-	Un	-	chromosome unknown open reading frame, human C6orf47	protein-coding	-	-	-	-	20160722
 30608	105858130	CSNK2B	-	-	Ensembl:ENSMICG00000003676	Un	-	casein kinase 2 beta	protein-coding	-	-	-	-	20161018
-30608	105858131	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	-	20160722
+30608	105858131	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5B	20170130
 30608	105858132	APOM	-	-	Ensembl:ENSMICG00000003657	Un	-	apolipoprotein M	protein-coding	-	-	-	-	20161018
 30608	105858133	PRRC2A	-	-	Ensembl:ENSMICG00000003604	Un	-	proline rich coiled-coil 2A	protein-coding	-	-	-	-	20161018
 30608	105858134	DDX39B	-	BAT1	Ensembl:ENSMICG00000017349	Un	-	DExD-box helicase 39B	protein-coding	-	-	-	DEAD-box helicase 39B|HLA-B associated transcript 1	20161018
@@ -10130,8 +10130,8 @@
 30608	105864800	LOC105864800	-	-	-	Un	-	cytochrome P450 11B1, mitochondrial	protein-coding	-	-	-	-	20160722
 30608	105864801	LOC105864801	-	-	-	Un	-	uncharacterized LOC105864801	ncRNA	-	-	-	-	20160722
 30608	105864802	LOC105864802	-	-	-	Un	-	uncharacterized LOC105864802	ncRNA	-	-	-	-	20160722
-30608	105864803	LY6E	-	-	-	Un	-	lymphocyte antigen 6 complex, locus E	protein-coding	-	-	-	-	20160722
-30608	105864804	LY6H	-	-	-	Un	-	lymphocyte antigen 6 complex, locus H	protein-coding	-	-	-	-	20160722
+30608	105864803	LY6E	-	-	-	Un	-	lymphocyte antigen 6 family member E	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus E	20170130
+30608	105864804	LY6H	-	-	-	Un	-	lymphocyte antigen 6 family member H	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus H	20170130
 30608	105864805	GDF11	-	-	Ensembl:ENSMICG00000030868	Un	-	growth differentiation factor 11	protein-coding	-	-	-	-	20161018
 30608	105864806	LOC105864806	-	-	-	Un	-	lymphocyte antigen 6A-2/6E-1-like	protein-coding	-	-	-	-	20160722
 30608	105864807	LOC105864807	-	-	-	Un	-	uncharacterized LOC105864807	ncRNA	-	-	-	-	20160722
@@ -16487,7 +16487,7 @@
 30608	105871157	LOC105871157	-	-	-	Un	-	uncharacterized LOC105871157	ncRNA	-	-	-	-	20160722
 30608	105871158	LOC105871158	-	-	-	Un	-	uncharacterized LOC105871158	ncRNA	-	-	-	-	20160722
 30608	105871159	LOC105871159	-	-	-	Un	-	chromosome unknown open reading frame, human C16orf54	protein-coding	-	-	-	-	20160722
-30608	105871160	AUTS2	-	-	Ensembl:ENSMICG00000000923	Un	-	autism susceptibility candidate 2	protein-coding	-	-	-	-	20161018
+30608	105871160	AUTS2	-	-	Ensembl:ENSMICG00000000923	Un	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility candidate 2	20170130
 30608	105871161	LOC105871161	-	-	-	Un	-	mitochondrial import receptor subunit TOM22 homolog pseudogene	pseudo	-	-	-	-	20160722
 30608	105871162	LOC105871162	-	-	-	Un	-	uncharacterized LOC105871162	ncRNA	-	-	-	-	20160722
 30608	105871163	LOC105871163	-	-	-	Un	-	uncharacterized LOC105871163	ncRNA	-	-	-	-	20160722
@@ -18812,7 +18812,7 @@
 30608	105873482	TUBB2A	-	-	Ensembl:ENSMICG00000010647	Un	-	tubulin beta 2A class IIa	protein-coding	-	-	-	-	20161018
 30608	105873483	BPHL	-	-	Ensembl:ENSMICG00000010641	Un	-	biphenyl hydrolase like	protein-coding	-	-	-	-	20161018
 30608	105873484	RIPK1	-	-	Ensembl:ENSMICG00000010628	Un	-	receptor interacting serine/threonine kinase 1	protein-coding	-	-	-	-	20161018
-30608	105873485	NQO2	-	-	Ensembl:ENSMICG00000010625	Un	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	-	20161018
+30608	105873485	NQO2	-	-	Ensembl:ENSMICG00000010625	Un	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	NAD(P)H quinone dehydrogenase 2	20170130
 30608	105873486	LOC105873486	-	-	-	Un	-	eukaryotic translation initiation factor 4E type 2	protein-coding	-	-	-	-	20160722
 30608	105873487	LOC105873487	-	-	-	Un	-	GLIPR1-like protein 1	protein-coding	-	-	-	-	20160722
 30608	105873488	SERPINB6	-	-	Ensembl:ENSMICG00000001981	Un	-	serpin family B member 6	protein-coding	-	-	-	-	20161018

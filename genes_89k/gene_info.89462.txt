@@ -429,7 +429,7 @@
 89462	102389244	LOC102389244	-	-	-	Un	-	uncharacterized LOC102389244	ncRNA	-	-	-	-	20151115
 89462	102389245	LOC102389245	-	-	-	Un	-	protocadherin gamma-B2-like	protein-coding	-	-	-	-	20160910
 89462	102389246	ZNF292	-	-	-	Un	-	zinc finger protein 292	protein-coding	-	-	-	-	20160910
-89462	102389247	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	-	20151115
+89462	102389247	LY6G5B	-	-	-	Un	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5B	20170130
 89462	102389248	ZNRF1	-	-	-	Un	-	zinc and ring finger 1	protein-coding	-	-	-	-	20160910
 89462	102389249	ERCC5	-	-	-	Un	-	ERCC excision repair 5, endonuclease	protein-coding	-	-	-	-	20160729
 89462	102389250	LOC102389250	-	-	-	Un	-	non-specific lipid-transfer protein-like	pseudo	-	-	-	-	20151115
@@ -554,7 +554,7 @@
 89462	102389369	CDNF	-	-	-	Un	-	cerebral dopamine neurotrophic factor	protein-coding	-	-	-	-	20160910
 89462	102389370	TTBK2	-	-	-	Un	-	tau tubulin kinase 2	protein-coding	-	-	-	-	20160910
 89462	102389371	KLHDC7B	-	-	-	Un	-	kelch domain containing 7B	protein-coding	-	-	-	-	20160910
-89462	102389372	LY6H	-	-	-	Un	-	lymphocyte antigen 6 complex, locus H	protein-coding	-	-	-	-	20151115
+89462	102389372	LY6H	-	-	-	Un	-	lymphocyte antigen 6 family member H	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus H	20170130
 89462	102389373	LOC102389373	-	-	-	Un	-	uncharacterized LOC102389373	ncRNA	-	-	-	-	20151115
 89462	102389374	OSTC	-	-	-	Un	-	oligosaccharyltransferase complex non-catalytic subunit	protein-coding	-	-	-	oligosaccharyltransferase complex subunit (non-catalytic)	20160910
 89462	102389375	ADSS	-	-	-	Un	-	adenylosuccinate synthase	protein-coding	-	-	-	-	20160910
@@ -6216,7 +6216,7 @@
 89462	102395032	CREB3	-	-	-	Un	-	cAMP responsive element binding protein 3	protein-coding	-	-	-	-	20151115
 89462	102395033	LOC102395033	-	-	-	Un	-	keratin, high-sulfur matrix protein, B2D-like	protein-coding	-	-	-	-	20160910
 89462	102395034	TNFRSF11A	-	-	-	Un	-	TNF receptor superfamily member 11a	protein-coding	-	-	-	-	20160729
-89462	102395035	LY6D	-	-	-	Un	-	lymphocyte antigen 6 complex, locus D	protein-coding	-	-	-	-	20160910
+89462	102395035	LY6D	-	-	-	Un	-	lymphocyte antigen 6 family member D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus D	20170130
 89462	102395036	LOC102395036	-	-	-	Un	-	uncharacterized LOC102395036	ncRNA	-	-	-	-	20151115
 89462	102395037	ASB18	-	-	-	Un	-	ankyrin repeat and SOCS box containing 18	protein-coding	-	-	-	-	20160910
 89462	102395038	SPTAN1	-	-	-	Un	-	spectrin alpha, non-erythrocytic 1	protein-coding	-	-	-	-	20160910
@@ -7570,7 +7570,7 @@
 89462	102396386	PEX11B	-	-	-	Un	-	peroxisomal biogenesis factor 11 beta	protein-coding	-	-	-	-	20160910
 89462	102396387	MAF1	-	-	-	Un	-	MAF1 homolog, negative regulator of RNA polymerase III	protein-coding	-	-	-	repressor of RNA polymerase III transcription MAF1 homolog	20160827
 89462	102396388	LOC102396388	-	-	-	Un	-	UDP-glucuronosyltransferase 1-9-like	protein-coding	-	-	-	-	20160910
-89462	102396389	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	-	20151115
+89462	102396389	LY6G5C	-	-	-	Un	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5C	20170130
 89462	102396390	NRDE2	-	-	-	Un	-	NRDE-2, necessary for RNA interference, domain containing	protein-coding	-	-	-	protein NRDE2 homolog	20160910
 89462	102396391	LOC102396391	-	-	-	Un	-	uncharacterized LOC102396391	ncRNA	-	-	-	-	20151115
 89462	102396392	LOC102396392	-	-	-	Un	-	oxysterol-binding protein-related protein 9-like	pseudo	-	-	-	-	20151115
@@ -25186,7 +25186,7 @@
 89462	102414002	CLOCK	-	-	-	Un	-	clock circadian regulator	protein-coding	-	-	-	-	20160910
 89462	102414003	LOC102414003	-	-	-	Un	-	casein kinase II subunit beta-like	pseudo	-	-	-	-	20151115
 89462	102414004	CILP2	-	-	-	Un	-	cartilage intermediate layer protein 2	protein-coding	-	-	-	-	20160910
-89462	102414005	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	-	20160811
+89462	102414005	ALS2CR12	-	-	-	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 89462	102414006	LOC102414006	-	-	-	Un	-	trace amine-associated receptor 5-like	protein-coding	-	-	-	-	20160910
 89462	102414007	LOC102414007	-	-	-	Un	-	olfactory receptor 5T2-like	pseudo	-	-	-	-	20151115
 89462	102414008	SH2B2	-	-	-	Un	-	SH2B adaptor protein 2	protein-coding	-	-	-	-	20160910
@@ -25772,7 +25772,7 @@
 89462	102414588	LOC102414588	-	-	-	Un	-	GTP-binding nuclear protein Ran-like	pseudo	-	-	-	-	20151115
 89462	102414589	MPP7	-	-	-	Un	-	membrane palmitoylated protein 7	protein-coding	-	-	-	-	20160910
 89462	102414590	LOC102414590	-	-	-	Un	-	olfactory receptor 11H6-like	protein-coding	-	-	-	-	20160910
-89462	102414591	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	-	20160910
+89462	102414591	LY6G6C	-	-	-	Un	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6C	20170130
 89462	102414592	LOC102414592	-	-	-	Un	-	WD repeat-containing protein 27-like	protein-coding	-	-	-	-	20151115
 89462	102414593	RPRML	-	-	-	Un	-	reprimo like	protein-coding	-	-	-	-	20160729
 89462	102414594	LOC102414594	-	-	-	Un	-	ribosomal protein S20 pseudogene	pseudo	-	-	-	-	20151115

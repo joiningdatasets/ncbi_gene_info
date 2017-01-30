@@ -5441,7 +5441,7 @@
 9685	101085627	CB1H4orf32	-	-	-	B1	-	chromosome B1 C4orf32 homolog	protein-coding	-	-	-	-	20170105
 9685	101085628	MANBA	-	-	-	B1	-	mannosidase beta	protein-coding	-	-	-	-	20170105
 9685	101085629	LIN54	-	-	Ensembl:ENSFCAG00000018320	B1	-	lin-54 DREAM MuvB core complex component	protein-coding	-	-	-	lin-54 homolog|protein lin-54 homolog	20170105
-9685	101085630	NQO2	-	-	Ensembl:ENSFCAG00000024592	B2	-	NAD(P)H quinone dehydrogenase 2	protein-coding	-	-	-	-	20170105
+9685	101085630	NQO2	-	-	Ensembl:ENSFCAG00000024592	B2	-	N-ribosyldihydronicotinamide:quinone reductase 2	protein-coding	-	-	-	NAD(P)H quinone dehydrogenase 2	20170130
 9685	101085631	AIF1	-	-	Ensembl:ENSFCAG00000004501	B2	-	allograft inflammatory factor 1	protein-coding	-	-	-	-	20170105
 9685	101085632	KCNK16	-	-	Ensembl:ENSFCAG00000006413	B2	-	potassium two pore domain channel subfamily K member 16	protein-coding	-	-	-	potassium channel, subfamily K, member 16	20170105
 9685	101085633	LMBRD1	-	-	-	B2	-	LMBR1 domain containing 1	protein-coding	-	-	-	-	20170105
@@ -6004,7 +6004,7 @@
 9685	101086243	NCDN	-	-	Ensembl:ENSFCAG00000013876	C1	-	neurochondrin	protein-coding	-	-	-	-	20170105
 9685	101086244	LOC101086244	-	-	-	C1	-	cofilin-2 pseudogene	pseudo	-	-	-	-	20170105
 9685	101086245	LOC101086245	-	-	-	C1	-	elongation factor 1-alpha 1-like	pseudo	-	-	-	-	20170105
-9685	101086246	ALS2CR12	-	-	Ensembl:ENSFCAG00000004546	C1	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	protein-coding	-	-	-	-	20170105
+9685	101086246	ALS2CR12	-	-	Ensembl:ENSFCAG00000004546	C1	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
 9685	101086247	SLC19A1	-	-	-	C2	-	solute carrier family 19 member 1	protein-coding	-	-	-	-	20170105
 9685	101086248	RPL22L1	-	-	Ensembl:ENSFCAG00000027904	C2	-	ribosomal protein L22 like 1	protein-coding	-	-	-	-	20170105
 9685	101086249	LOC101086249	-	-	-	C2	-	phospholipid scramblase 1-like	protein-coding	-	-	-	-	20170105
@@ -7584,7 +7584,7 @@
 9685	101087965	FABP12	-	-	Ensembl:ENSFCAG00000024613	F2	-	fatty acid binding protein 12	protein-coding	-	-	-	-	20170105
 9685	101087966	ARSK	-	-	Ensembl:ENSFCAG00000022411	A1	-	arylsulfatase family member K	protein-coding	-	-	-	-	20170105
 9685	101087967	LOC101087967	-	-	-	A1	-	keratin, type I cytoskeletal 18 pseudogene	pseudo	-	-	-	-	20170105
-9685	101087968	LY6H	-	-	-	F2	-	lymphocyte antigen 6 complex, locus H	protein-coding	-	-	-	-	20170105
+9685	101087968	LY6H	-	-	-	F2	-	lymphocyte antigen 6 family member H	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus H	20170130
 9685	101087969	PCYOX1L	-	-	Ensembl:ENSFCAG00000003625	A1	-	prenylcysteine oxidase 1 like	protein-coding	-	-	-	prenylcysteine oxidase-like	20170105
 9685	101087970	ZNF622	-	-	Ensembl:ENSFCAG00000018947	A1	-	zinc finger protein 622	protein-coding	-	-	-	-	20170105
 9685	101087971	GADD45B	-	-	Ensembl:ENSFCAG00000013046	A2	-	growth arrest and DNA damage inducible beta	protein-coding	-	-	-	-	20170105
@@ -8221,7 +8221,7 @@
 9685	101088660	DOK1	-	-	Ensembl:ENSFCAG00000007159	A3	-	docking protein 1	protein-coding	-	-	-	-	20170105
 9685	101088661	ACOXL	-	-	-	A3	-	acyl-CoA oxidase-like	protein-coding	-	-	-	acyl-coenzyme A oxidase-like protein-like	20170105
 9685	101088663	LOC101088663	-	-	-	B1	-	40S ribosomal protein S4, X isoform-like	pseudo	-	-	-	-	20170105
-9685	101088665	LY6G6C	-	-	Ensembl:ENSFCAG00000022395	B2	-	lymphocyte antigen 6 complex, locus G6C	protein-coding	-	-	-	-	20170105
+9685	101088665	LY6G6C	-	-	Ensembl:ENSFCAG00000022395	B2	-	lymphocyte antigen 6 family member G6C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6C	20170130
 9685	101088666	POLH	-	-	Ensembl:ENSFCAG00000009740	B2	-	DNA polymerase eta	protein-coding	-	-	-	polymerase (DNA directed), eta	20170105
 9685	101088668	FRK	-	-	Ensembl:ENSFCAG00000004043	B2	-	fyn related Src family tyrosine kinase	protein-coding	-	-	-	fyn-related kinase	20170105
 9685	101088669	EFL1	-	-	Ensembl:ENSFCAG00000007741	B3	-	elongation factor like GTPase 1	protein-coding	-	-	-	-	20170105
@@ -16925,7 +16925,7 @@
 9685	101098191	FAM169A	-	-	Ensembl:ENSFCAG00000031781	A1	-	family with sequence similarity 169 member A	protein-coding	-	-	-	-	20170105
 9685	101098193	FAM193B	-	-	Ensembl:ENSFCAG00000001543	A1	-	family with sequence similarity 193 member B	protein-coding	-	-	-	-	20170105
 9685	101098194	TAF2	-	-	Ensembl:ENSFCAG00000030848	F2	-	TATA-box binding protein associated factor 2	protein-coding	-	-	-	-	20170105
-9685	101098195	LY6E	-	-	-	F2	-	lymphocyte antigen 6 complex, locus E	protein-coding	-	-	-	-	20170105
+9685	101098195	LY6E	-	-	-	F2	-	lymphocyte antigen 6 family member E	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus E	20170130
 9685	101098196	ARHGAP39	-	-	Ensembl:ENSFCAG00000014395	F2	-	Rho GTPase activating protein 39	protein-coding	-	-	-	-	20170105
 9685	101098197	DNAJC21	-	-	Ensembl:ENSFCAG00000029775	A1	-	DnaJ heat shock protein family (Hsp40) member C21	protein-coding	-	-	-	-	20170105
 9685	101098198	RBBP7	-	-	Ensembl:ENSFCAG00000028919	X	-	RB binding protein 7, chromatin remodeling factor	protein-coding	-	-	-	-	20170105
@@ -18440,7 +18440,7 @@
 9685	101099852	RPGRIP1L	-	-	-	E2	-	RPGRIP1 like	protein-coding	-	-	-	-	20170105
 9685	101099853	KCTD19	-	-	Ensembl:ENSFCAG00000009275	E2	-	potassium channel tetramerization domain containing 19	protein-coding	-	-	-	potassium channel tetramerisation domain containing 19	20170105
 9685	101099854	DHX38	-	-	Ensembl:ENSFCAG00000005831	E2	-	DEAH-box helicase 38	protein-coding	-	-	-	-	20170105
-9685	101099855	AUTS2	-	-	Ensembl:ENSFCAG00000015412	E3	-	autism susceptibility candidate 2	protein-coding	-	-	-	-	20170105
+9685	101099855	AUTS2	-	-	Ensembl:ENSFCAG00000015412	E3	-	AUTS2, activator of transcription and developmental regulator	protein-coding	-	-	-	autism susceptibility candidate 2	20170130
 9685	101099856	ARL11	-	-	Ensembl:ENSFCAG00000013100	A1	-	ADP ribosylation factor like GTPase 11	protein-coding	-	-	-	-	20170105
 9685	101099857	PHLDA3	-	-	-	F1	-	pleckstrin homology like domain family A member 3	protein-coding	-	-	-	-	20170105
 9685	101099858	SDCBP	-	-	Ensembl:ENSFCAG00000026811	F2	-	syndecan binding protein	protein-coding	-	-	-	-	20170105
@@ -18851,7 +18851,7 @@
 9685	101100300	TMPRSS11D	-	-	Ensembl:ENSFCAG00000013916	B1	-	transmembrane protease, serine 11D	protein-coding	-	-	-	-	20170105
 9685	101100301	TRIM61	-	-	-	B1	-	tripartite motif containing 61	protein-coding	-	-	-	putative tripartite motif-containing protein 61	20170105
 9685	101100302	STK32B	-	-	-	B1	-	serine/threonine kinase 32B	protein-coding	-	-	-	-	20170105
-9685	101100303	LY6G5B	-	-	Ensembl:ENSFCAG00000023609	B2	-	lymphocyte antigen 6 complex, locus G5B	protein-coding	-	-	-	-	20170105
+9685	101100303	LY6G5B	-	-	Ensembl:ENSFCAG00000023609	B2	-	lymphocyte antigen 6 family member G5B	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5B	20170130
 9685	101100304	FRS3	-	-	Ensembl:ENSFCAG00000014739	B2	-	fibroblast growth factor receptor substrate 3	protein-coding	-	-	-	-	20170105
 9685	101100305	PHIP	-	-	Ensembl:ENSFCAG00000009591	B2	-	pleckstrin homology domain interacting protein	protein-coding	-	-	-	-	20170105
 9685	101100306	EPHA7	-	-	Ensembl:ENSFCAG00000018481	B2	-	EPH receptor A7	protein-coding	-	-	-	-	20170105
@@ -19085,7 +19085,7 @@
 9685	101100558	AP3M2	-	-	Ensembl:ENSFCAG00000031044	B1	-	adaptor related protein complex 3 mu 2 subunit	protein-coding	-	-	-	-	20170105
 9685	101100559	STAP1	-	-	Ensembl:ENSFCAG00000031393	B1	-	signal transducing adaptor family member 1	protein-coding	-	-	-	-	20170105
 9685	101100561	LOC101100561	-	-	-	B1	-	40S ribosomal protein S5 pseudogene	pseudo	-	-	-	-	20170105
-9685	101100562	LY6G5C	-	-	-	B2	-	lymphocyte antigen 6 complex, locus G5C	protein-coding	-	-	-	-	20170105
+9685	101100562	LY6G5C	-	-	-	B2	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G5C	20170130
 9685	101100563	TOMM6	-	-	Ensembl:ENSFCAG00000030213	B2	-	translocase of outer mitochondrial membrane 6	protein-coding	-	-	-	mitochondrial import receptor subunit TOM6 homolog	20170105
 9685	101100564	LOC101100564	-	-	Ensembl:ENSFCAG00000011052	B2	-	24-hydroxycholesterol 7-alpha-hydroxylase	protein-coding	-	-	-	-	20170105
 9685	101100565	LOC101100565	-	-	-	B2	-	non-histone chromosomal protein HMG-14 pseudogene	pseudo	-	-	-	-	20170105
@@ -19303,7 +19303,7 @@
 9685	101100806	LOC101100806	-	-	-	B1	-	nuclease-sensitive element-binding protein 1 pseudogene	pseudo	-	-	-	-	20170105
 9685	101100807	SLC30A9	-	-	Ensembl:ENSFCAG00000024533	B1	-	solute carrier family 30 member 9	protein-coding	-	-	-	-	20170105
 9685	101100808	CPEB2	-	-	-	B1	-	cytoplasmic polyadenylation element binding protein 2	protein-coding	-	-	-	-	20170105
-9685	101100810	LY6G6F	-	-	-	B2	-	lymphocyte antigen 6 complex, locus G6F	protein-coding	-	-	-	-	20170105
+9685	101100810	LY6G6F	-	-	-	B2	-	lymphocyte antigen 6 family member G6F	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6F	20170130
 9685	101100811	MED20	-	-	Ensembl:ENSFCAG00000027790	B2	-	mediator complex subunit 20	protein-coding	-	-	-	-	20170105
 9685	101100812	PLA2G7	-	-	Ensembl:ENSFCAG00000009105	B2	-	phospholipase A2 group VII	protein-coding	-	-	-	-	20170105
 9685	101100813	SH3BGRL2	-	-	-	B2	-	SH3 domain binding glutamate rich protein like 2	protein-coding	-	-	-	-	20170105
@@ -21846,7 +21846,7 @@
 9685	102902030	LOC102902030	-	-	-	A2	-	60S ribosomal protein L15-like	pseudo	-	-	-	-	20170105
 9685	102902031	LOC102902031	-	-	-	A3	-	uncharacterized LOC102902031	ncRNA	-	-	-	-	20170105
 9685	102902033	LOC102902033	-	-	-	E2	-	nuclear receptor coactivator 5-like	protein-coding	-	-	-	-	20170105
-9685	102902036	LY6G6D	-	-	-	B2	-	lymphocyte antigen 6 complex, locus G6D	protein-coding	-	-	-	-	20170105
+9685	102902036	LY6G6D	-	-	-	B2	-	lymphocyte antigen 6 family member G6D	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus G6D	20170130
 9685	102902037	LOC102902037	-	-	-	X	-	uncharacterized LOC102902037	ncRNA	-	-	-	-	20170105
 9685	102902038	LOC102902038	-	-	-	B3	-	uncharacterized LOC102902038	ncRNA	-	-	-	-	20170105
 9685	102902040	LOC102902040	-	-	-	C1	-	uncharacterized LOC102902040	ncRNA	-	-	-	-	20170105
@@ -28538,7 +28538,7 @@
 9685	109496273	LOC109496273	-	-	-	F2	-	uncharacterized LOC109496273	ncRNA	-	-	-	-	20170105
 9685	109496274	LOC109496274	-	-	-	F2	-	uncharacterized LOC109496274	ncRNA	-	-	-	-	20170105
 9685	109496275	LOC109496275	-	-	-	F2	-	uncharacterized LOC109496275	ncRNA	-	-	-	-	20170105
-9685	109496276	LY6L	-	-	-	F2	-	lymphocyte antigen 6 complex, locus L	protein-coding	-	-	-	-	20170105
+9685	109496276	LY6L	-	-	-	F2	-	lymphocyte antigen 6 family member L	protein-coding	-	-	-	lymphocyte antigen 6 complex, locus L	20170130
 9685	109496277	LOC109496277	-	-	-	F2	-	uncharacterized LOC109496277	ncRNA	-	-	-	-	20170105
 9685	109496278	LOC109496278	-	-	-	F2	-	collagen alpha-1(I) chain-like	protein-coding	-	-	-	-	20170105
 9685	109496279	LOC109496279	-	-	-	F2	-	uncharacterized LOC109496279	protein-coding	-	-	-	-	20170105
