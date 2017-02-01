@@ -10759,7 +10759,7 @@
 37293	105715209	PHF21B	-	-	-	Un	-	PHD finger protein 21B	protein-coding	-	-	-	-	20160716
 37293	105715210	PRR5	-	-	-	Un	-	proline rich 5	protein-coding	-	-	-	-	20160811
 37293	105715211	LOC105715211	-	-	-	Un	-	uncharacterized LOC105715211	ncRNA	-	-	-	-	20151115
-37293	105715212	LDOC1L	-	-	-	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	-	20160910
+37293	105715212	LDOC1L	-	-	-	Un	-	LDOC1 like	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1 like	20170201
 37293	105715213	KIAA1644	-	-	-	Un	-	KIAA1644 ortholog	protein-coding	-	-	-	-	20160716
 37293	105715214	PARVG	-	-	-	Un	-	parvin gamma	protein-coding	-	-	-	-	20160811
 37293	105715215	STARD5	-	-	-	Un	-	StAR related lipid transfer domain containing 5	protein-coding	-	-	-	-	20160811
@@ -24787,7 +24787,7 @@
 37293	105729237	CDR1	-	-	-	Un	-	cerebellar degeneration related protein 1	protein-coding	-	-	-	-	20160809
 37293	105729238	LOC105729238	-	-	-	Un	-	uncharacterized LOC105729238	ncRNA	-	-	-	-	20151115
 37293	105729239	LOC105729239	-	-	-	Un	-	protein disulfide-isomerase A3 pseudogene	pseudo	-	-	-	-	20151115
-37293	105729240	LDOC1	-	-	-	Un	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	-	20160806
+37293	105729240	LDOC1	-	-	-	Un	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1	20170201
 37293	105729241	MAGEC1	-	-	-	Un	-	MAGE family member C1	protein-coding	-	-	-	-	20160810
 37293	105729242	MAGEC3	-	-	-	Un	-	MAGE family member C3	protein-coding	-	-	-	-	20160811
 37293	105729243	LOC105729243	-	-	-	Un	-	uncharacterized LOC105729243	ncRNA	-	-	-	-	20151115

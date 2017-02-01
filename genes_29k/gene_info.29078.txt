@@ -15382,7 +15382,7 @@
 29078	103298438	LOC103298438	-	-	-	Un	-	melanoma-associated antigen D2-like	protein-coding	-	-	-	-	20160910
 29078	103298439	NR0B1	-	-	-	Un	-	nuclear receptor subfamily 0 group B member 1	protein-coding	-	-	-	-	20160910
 29078	103298440	LOC103298440	-	-	-	Un	-	immediate early response gene 2 protein-like	pseudo	-	-	-	-	20151115
-29078	103298441	LDOC1	-	-	-	Un	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	-	20160910
+29078	103298441	LDOC1	-	-	-	Un	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1	20170201
 29078	103298442	LOC103298442	-	-	-	Un	-	ras-related protein Rab-11B pseudogene	pseudo	-	-	-	-	20151115
 29078	103298443	LOC103298443	-	-	-	Un	-	60S ribosomal protein L27 pseudogene	pseudo	-	-	-	-	20151115
 29078	103298444	RAD54L2	-	-	-	Un	-	RAD54-like 2 (S. cerevisiae)	protein-coding	-	-	-	-	20160910
@@ -15574,7 +15574,7 @@
 29078	103298630	SAMM50	-	-	-	Un	-	SAMM50 sorting and assembly machinery component	protein-coding	-	-	-	-	20160910
 29078	103298631	LSMEM2	-	-	-	Un	-	leucine rich single-pass membrane protein 2	protein-coding	-	-	-	-	20160910
 29078	103298632	KIAA1644	-	-	-	Un	-	KIAA1644 ortholog	protein-coding	-	-	-	-	20160910
-29078	103298633	LDOC1L	-	-	-	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	-	20160910
+29078	103298633	LDOC1L	-	-	-	Un	-	LDOC1 like	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1 like	20170201
 29078	103298634	PRR5	-	-	-	Un	-	proline rich 5	protein-coding	-	-	-	-	20160910
 29078	103298635	KIAA0930	-	-	-	Un	-	KIAA0930 ortholog	protein-coding	-	-	-	-	20160910
 29078	103298636	FAM118A	-	-	-	Un	-	family with sequence similarity 118 member A	protein-coding	-	-	-	-	20160910

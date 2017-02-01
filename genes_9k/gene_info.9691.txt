@@ -5412,7 +5412,7 @@
 9691	109250481	LOC109250481	-	-	-	Un	-	uncharacterized LOC109250481	ncRNA	-	-	-	-	20161208
 9691	109250482	LOC109250482	-	-	-	Un	-	melanoma-associated antigen 10-like	protein-coding	-	-	-	-	20161208
 9691	109250483	LOC109250483	-	-	-	Un	-	glyceraldehyde-3-phosphate dehydrogenase-like	pseudo	-	-	-	-	20161208
-9691	109250484	LDOC1	-	-	-	Un	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	-	20161208
+9691	109250484	LDOC1	-	-	-	Un	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1	20170201
 9691	109250485	SLITRK4	-	-	-	Un	-	SLIT and NTRK like family member 4	protein-coding	-	-	-	-	20161208
 9691	109250486	LOC109250486	-	-	-	Un	-	uncharacterized LOC109250486	ncRNA	-	-	-	-	20161208
 9691	109250487	LOC109250487	-	-	-	Un	-	uncharacterized LOC109250487	ncRNA	-	-	-	-	20161208
@@ -20629,7 +20629,7 @@
 9691	109265698	KIAA1644	-	-	-	Un	-	KIAA1644 ortholog	protein-coding	-	-	-	-	20161208
 9691	109265699	LOC109265699	-	-	-	Un	-	uncharacterized LOC109265699	ncRNA	-	-	-	-	20161208
 9691	109265700	LOC109265700	-	-	-	Un	-	uncharacterized LOC109265700	ncRNA	-	-	-	-	20161208
-9691	109265701	LDOC1L	-	-	-	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	-	20161208
+9691	109265701	LDOC1L	-	-	-	Un	-	LDOC1 like	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1 like	20170201
 9691	109265702	LOC109265702	-	-	-	Un	-	uncharacterized LOC109265702	ncRNA	-	-	-	-	20161208
 9691	109265703	LOC109265703	-	-	-	Un	-	uncharacterized LOC109265703	ncRNA	-	-	-	-	20161208
 9691	109265704	LOC109265704	-	-	-	Un	-	uncharacterized LOC109265704	ncRNA	-	-	-	-	20161208

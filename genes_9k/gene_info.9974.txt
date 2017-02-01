@@ -14706,7 +14706,7 @@
 9974	108397930	LOC108397930	-	-	-	Un	-	uncharacterized LOC108397930	ncRNA	-	-	-	-	20160803
 9974	108397931	KLK1	-	-	-	Un	-	kallikrein 1	protein-coding	-	-	-	-	20160803
 9974	108397932	SYT3	-	-	-	Un	-	synaptotagmin 3	protein-coding	-	-	-	-	20160803
-9974	108397933	LDOC1	-	-	-	Un	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	-	20160803
+9974	108397933	LDOC1	-	-	-	Un	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1	20170201
 9974	108397934	ASPDH	-	-	-	Un	-	aspartate dehydrogenase domain containing	protein-coding	-	-	-	-	20160803
 9974	108397935	JOSD2	-	-	-	Un	-	Josephin domain containing 2	protein-coding	-	-	-	-	20160803
 9974	108397936	EMC10	-	-	-	Un	-	ER membrane protein complex subunit 10	protein-coding	-	-	-	-	20160803
@@ -26189,7 +26189,7 @@
 9974	108409413	LOC108409413	-	-	-	Un	-	uncharacterized LOC108409413	ncRNA	-	-	-	-	20160803
 9974	108409414	NPY2R	-	-	-	Un	-	neuropeptide Y receptor Y2	protein-coding	-	-	-	-	20160803
 9974	108409415	SCAF8	-	-	-	Un	-	SR-related CTD associated factor 8	protein-coding	-	-	-	-	20160803
-9974	108409416	LDOC1L	-	-	-	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	-	20160803
+9974	108409416	LDOC1L	-	-	-	Un	-	LDOC1 like	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1 like	20170201
 9974	108409417	LOC108409417	-	-	-	Un	-	uncharacterized LOC108409417	ncRNA	-	-	-	-	20160803
 9974	108409418	YAP1	-	-	-	Un	-	Yes associated protein 1	protein-coding	-	-	-	-	20160803
 9974	108409419	CUNH11orf70	-	-	-	Un	-	chromosome unknown C11orf70 homolog	protein-coding	-	-	-	-	20160803

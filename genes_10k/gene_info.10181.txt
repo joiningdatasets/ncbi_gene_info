@@ -8924,7 +8924,7 @@
 10181	101705751	LOC101705751	-	-	-	Un	-	beta-2-microglobulin-like	protein-coding	-	-	-	-	20160217
 10181	101705752	LOC101705752	-	-	-	Un	-	olfactory receptor 11H6-like	pseudo	-	-	-	-	20151115
 10181	101705753	LOC101705753	-	-	-	Un	-	nicotinamide phosphoribosyltransferase pseudogene	pseudo	-	-	-	-	20151115
-10181	101705754	Ldoc1l	-	-	-	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	-	20160903
+10181	101705754	Ldoc1l	-	-	-	Un	-	LDOC1 like	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1 like	20170201
 10181	101705755	Aco2	-	-	-	Un	-	aconitase 2	protein-coding	-	-	-	aconitate hydratase, mitochondrial|mitochondrial aconitate hydratase	20160809
 10181	101705756	Dmc1	GW7_02580	-	-	Un	-	DNA meiotic recombinase 1	protein-coding	-	-	-	Meiotic recombination protein DMC1/LIM15-like protein|meiotic recombination protein DMC1/LIM15 homolog	20160813
 10181	101705757	LOC101705757	-	-	-	Un	-	apolipoprotein L3-like	protein-coding	-	-	-	-	20160903
@@ -21715,7 +21715,7 @@
 10181	101719452	Cd34	-	-	-	Un	-	CD34 molecule	protein-coding	-	-	-	-	20160903
 10181	101719453	Pde7a	-	-	-	Un	-	phosphodiesterase 7A	protein-coding	-	-	-	-	20160903
 10181	101719454	Nav1	-	-	-	Un	-	neuron navigator 1	protein-coding	-	-	-	-	20160903
-10181	101719455	Ldoc1	GW7_01007	-	-	Un	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	Protein LDOC1	20160903
+10181	101719455	Ldoc1	GW7_01007	-	-	Un	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	Protein LDOC1|leucine zipper down-regulated in cancer 1	20170201
 10181	101719456	LOC101719456	GW7_08745	-	-	Un	-	chromosome unknown open reading frame, human C21orf62	protein-coding	-	-	-	-	20160813
 10181	101719457	Slc28a3	-	-	-	Un	-	solute carrier family 28 member 3	protein-coding	-	-	-	solute carrier family 28 (sodium-coupled nucleoside transporter), member 3	20160903
 10181	101719458	Kiaa0895l	-	-	-	Un	-	KIAA0895 like	protein-coding	-	-	-	-	20160903

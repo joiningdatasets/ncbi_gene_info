@@ -2599,7 +2599,7 @@
 9402	102880300	LOC102880300	-	-	-	Un	-	40S ribosomal protein SA pseudogene	pseudo	-	-	-	-	20160212
 9402	102880301	HPS4	PAL_GLEAN10007890	-	-	Un	-	HPS4, biogenesis of lysosomal organelles complex 3 subunit 2	protein-coding	-	-	-	Hermansky-Pudlak syndrome 4 protein	20160729
 9402	102880302	RMDN1	PAL_GLEAN10019448	-	-	Un	-	regulator of microtubule dynamics 1	protein-coding	-	-	-	Regulator of microtubule dynamics protein 1	20160312
-9402	102880303	LDOC1	-	-	-	Un	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	-	20160910
+9402	102880303	LDOC1	-	-	-	Un	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1	20170201
 9402	102880304	LOC102880304	PAL_GLEAN10014962	-	-	Un	-	chromosome unknown open reading frame, human C1orf216	protein-coding	-	-	-	-	20160827
 9402	102880305	SV2B	PAL_GLEAN10009447	-	-	Un	-	synaptic vesicle glycoprotein 2B	protein-coding	-	-	-	-	20160212
 9402	102880306	TMEM234	-	-	-	Un	-	transmembrane protein 234	protein-coding	-	-	-	-	20160730
@@ -2972,7 +2972,7 @@
 9402	102880684	TAF2	PAL_GLEAN10021406	-	-	Un	-	TATA-box binding protein associated factor 2	protein-coding	-	-	-	TAF2 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 150kDa|Transcription initiation factor TFIID subunit 2	20160212
 9402	102880685	LOC102880685	-	-	-	Un	-	uncharacterized protein C7orf73-like	protein-coding	-	-	-	-	20160730
 9402	102880686	CDK20	PAL_GLEAN10000834	-	-	Un	-	cyclin dependent kinase 20	protein-coding	-	-	-	Cell cycle-related kinase	20160730
-9402	102880687	LDOC1L	-	-	-	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	-	20160910
+9402	102880687	LDOC1L	-	-	-	Un	-	LDOC1 like	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1 like	20170201
 9402	102880688	PRDM12	PAL_GLEAN10012547	-	-	Un	-	PR/SET domain 12	protein-coding	-	-	-	PR domain containing 12|PR domain zinc finger protein 12	20160910
 9402	102880689	LOC102880689	-	-	-	Un	-	chromosome unknown open reading frame, human C12orf40	protein-coding	-	-	-	-	20160730
 9402	102880690	ACHE	PAL_GLEAN10012067	-	-	Un	-	acetylcholinesterase (Cartwright blood group)	protein-coding	-	-	-	-	20160910

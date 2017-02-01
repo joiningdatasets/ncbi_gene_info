@@ -2675,7 +2675,7 @@
 336983	105502850	WDR26	-	-	-	Un	-	WD repeat domain 26	protein-coding	-	-	-	WD repeat-containing protein 26	20170125
 336983	105502851	LOC105502851	-	-	-	Un	-	aldose reductase pseudogene	pseudo	-	-	-	-	20151115
 336983	105502852	MILR1	-	-	-	Un	-	mast cell immunoglobulin like receptor 1	protein-coding	-	-	-	allergin-1	20170125
-336983	105502853	LDOC1	-	-	-	Un	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	protein LDOC1	20170125
+336983	105502853	LDOC1	-	-	-	Un	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	protein LDOC1|leucine zipper down-regulated in cancer 1	20170201
 336983	105502854	LOC105502854	-	-	-	Un	-	ADP-ribosylation factor-like protein 2-binding protein-like protein	protein-coding	-	-	-	ADP-ribosylation factor-like protein 2-binding protein-like protein	20170125
 336983	105502855	LOC105502855	-	-	-	Un	-	NF-kappa-B inhibitor-interacting Ras-like protein 2 pseudogene	pseudo	-	-	-	-	20151115
 336983	105502856	LOC105502856	-	-	-	Un	-	uncharacterized LOC105502856	ncRNA	-	-	-	-	20151115
@@ -6394,7 +6394,7 @@
 336983	105506569	NUP50	-	-	-	Un	-	nucleoporin 50	protein-coding	-	-	-	nuclear pore complex protein Nup50	20170125
 336983	105506570	PHF21B	-	-	-	Un	-	PHD finger protein 21B	protein-coding	-	-	-	PHD finger protein 21B	20170125
 336983	105506571	LOC105506571	-	-	-	Un	-	uncharacterized LOC105506571	ncRNA	-	-	-	-	20151115
-336983	105506572	LDOC1L	-	-	-	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	protein LDOC1L	20170125
+336983	105506572	LDOC1L	-	-	-	Un	-	LDOC1 like	protein-coding	-	-	-	protein LDOC1L|leucine zipper down-regulated in cancer 1 like	20170201
 336983	105506573	LOC105506573	-	-	-	Un	-	uncharacterized LOC105506573	ncRNA	-	-	-	-	20151115
 336983	105506574	SLC5A8	-	-	-	Un	-	solute carrier family 5 member 8	protein-coding	-	-	-	sodium-coupled monocarboxylate transporter 1	20170125
 336983	105506575	LOC105506575	-	-	-	Un	-	uncharacterized LOC105506575	ncRNA	-	-	-	-	20151115

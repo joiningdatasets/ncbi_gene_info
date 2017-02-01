@@ -4796,7 +4796,7 @@
 9407	107501721	SLAIN2	-	-	-	Un	-	SLAIN motif family member 2	protein-coding	-	-	-	-	20160806
 9407	107501722	CWH43	-	-	-	Un	-	cell wall biogenesis 43 C-terminal homolog	protein-coding	-	-	-	-	20160330
 9407	107501723	LOC107501723	-	-	-	Un	-	uncharacterized LOC107501723	ncRNA	-	-	-	-	20160331
-9407	107501724	LDOC1	-	-	-	Un	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	-	20160806
+9407	107501724	LDOC1	-	-	-	Un	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1	20170201
 9407	107501725	LOC107501725	-	-	-	Un	-	60S ribosomal protein L21 pseudogene	pseudo	-	-	-	-	20160331
 9407	107501726	LOC107501726	-	-	-	Un	-	uncharacterized LOC107501726	ncRNA	-	-	-	-	20160331
 9407	107501727	LOC107501727	-	-	-	Un	-	myristoylated alanine-rich C-kinase substrate-like	protein-coding	-	-	-	-	20160331
@@ -8604,7 +8604,7 @@
 9407	107505529	ARHGAP8	-	-	-	Un	-	Rho GTPase activating protein 8	protein-coding	-	-	-	-	20160806
 9407	107505530	PRR5	-	-	-	Un	-	proline rich 5	protein-coding	-	-	-	-	20160806
 9407	107505531	LOC107505531	-	-	-	Un	-	uncharacterized LOC107505531	ncRNA	-	-	-	-	20160331
-9407	107505532	LDOC1L	-	-	-	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	-	20160806
+9407	107505532	LDOC1L	-	-	-	Un	-	LDOC1 like	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1 like	20170201
 9407	107505533	KIAA1644	-	-	-	Un	-	KIAA1644 ortholog	protein-coding	-	-	-	-	20160806
 9407	107505534	PARVG	-	-	-	Un	-	parvin gamma	protein-coding	-	-	-	-	20160806
 9407	107505535	LOC107505535	-	-	-	Un	-	uncharacterized LOC107505535	protein-coding	-	-	-	-	20160806

@@ -22216,7 +22216,7 @@
 9785	100677215	UPB1	-	-	-	Un	-	beta-ureidopropionase 1	protein-coding	-	-	-	-	20160921
 9785	100677216	FADS3	-	-	-	Un	-	fatty acid desaturase 3	protein-coding	-	-	-	-	20160924
 9785	100677217	LOC100677217	-	-	-	Un	-	alpha-actinin-3-like	protein-coding	-	-	-	-	20160921
-9785	100677218	LDOC1L	-	-	-	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	-	20160921
+9785	100677218	LDOC1L	-	-	-	Un	-	LDOC1 like	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1 like	20170201
 9785	100677219	MCAT	-	-	-	Un	-	malonyl-CoA-acyl carrier protein transacylase	protein-coding	-	-	-	-	20160921
 9785	100677220	PCK1	-	-	-	Un	-	phosphoenolpyruvate carboxykinase 1	protein-coding	-	-	-	-	20160921
 9785	100677221	STIM1	-	-	-	Un	-	stromal interaction molecule 1	protein-coding	-	-	-	-	20160924
@@ -24302,7 +24302,7 @@
 9785	104846861	LOC104846861	-	-	-	Un	-	uncharacterized LOC104846861	protein-coding	-	-	-	-	20160924
 9785	104846862	LOC104846862	-	-	-	Un	-	zinc transporter 4-like	protein-coding	-	-	-	-	20151115
 9785	104846863	LOC104846863	-	-	-	Un	-	basic proline-rich protein-like	protein-coding	-	-	-	-	20151115
-9785	104846864	LDOC1	-	-	-	Un	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	-	20160924
+9785	104846864	LDOC1	-	-	-	Un	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1	20170201
 9785	104846865	LOC104846865	-	-	-	Un	-	melanoma-associated antigen B2-like	protein-coding	-	-	-	-	20160924
 9785	104846866	LOC104846866	-	-	-	Un	-	melanoma-associated antigen B3-like	protein-coding	-	-	-	-	20160924
 9785	104846867	LOC104846867	-	-	-	Un	-	N-myc proto-oncogene protein-like	pseudo	-	-	-	-	20151115

@@ -8791,7 +8791,7 @@
 9646	100473129	MAF1	PANDA_011084	-	Ensembl:ENSAMEG00000006029	Un	-	MAF1 homolog, negative regulator of RNA polymerase III	protein-coding	-	-	-	repressor of RNA polymerase III transcription MAF1 homolog	20170101
 9646	100473130	TP53I11	PANDA_011313	-	Ensembl:ENSAMEG00000000751	Un	-	tumor protein p53 inducible protein 11	protein-coding	-	-	-	-	20170102
 9646	100473132	TNFRSF8	PANDA_011826	-	Ensembl:ENSAMEG00000010132	Un	-	TNF receptor superfamily member 8	protein-coding	-	-	-	-	20170101
-9646	100473133	LDOC1L	PANDA_012014	-	Ensembl:ENSAMEG00000019335	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	-	20170101
+9646	100473133	LDOC1L	PANDA_012014	-	Ensembl:ENSAMEG00000019335	Un	-	LDOC1 like	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1 like	20170201
 9646	100473134	CUNH2orf71	PANDA_012875	-	-	Un	-	chromosome unknown C2orf71 homolog	protein-coding	-	-	-	-	20161230
 9646	100473135	APOC4	PANDA_013608	-	Ensembl:ENSAMEG00000012734	Un	-	apolipoprotein C4	protein-coding	-	-	-	-	20170101
 9646	100473136	DCHS1	-	-	Ensembl:ENSAMEG00000016249	Un	-	dachsous cadherin-related 1	protein-coding	-	-	-	-	20170101
@@ -12006,7 +12006,7 @@
 9646	100476594	SIGLEC5	PANDA_017849	-	Ensembl:ENSAMEG00000014388	Un	-	sialic acid binding Ig like lectin 5	protein-coding	-	-	-	-	20170101
 9646	100476595	WFDC3	PANDA_018004	-	Ensembl:ENSAMEG00000012504	Un	-	WAP four-disulfide core domain 3	protein-coding	-	-	-	-	20170101
 9646	100476596	LOC100476596	-	-	Ensembl:ENSAMEG00000018897	Un	-	olfactory receptor 51F1-like	protein-coding	-	-	-	-	20170101
-9646	100476597	LDOC1	PANDA_018973	-	Ensembl:ENSAMEG00000020003	Un	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	-	20170101
+9646	100476597	LDOC1	PANDA_018973	-	Ensembl:ENSAMEG00000020003	Un	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1	20170201
 9646	100476598	KDM6A	PANDA_019377	-	Ensembl:ENSAMEG00000005741	Un	-	lysine demethylase 6A	protein-coding	-	-	-	-	20170101
 9646	100476599	LOC100476599	-	-	-	Un	-	WW domain-containing adapter protein with coiled-coil pseudogene	pseudo	-	-	-	-	20161230
 9646	100476600	MCUB	PANDA_019549	-	-	Un	-	mitochondrial calcium uniporter dominant negative beta subunit	protein-coding	-	-	-	-	20170107

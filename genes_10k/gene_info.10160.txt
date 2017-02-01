@@ -3402,7 +3402,7 @@
 10160	101563193	LOC101563193	-	-	-	Un	-	uncharacterized LOC101563193	pseudo	-	-	-	-	20151115
 10160	101563194	LOC101563194	-	-	-	Un	-	olfactory receptor 52Z1-like	protein-coding	-	-	-	-	20160716
 10160	101563195	LOC101563195	-	-	-	Un	-	ezrin pseudogene	pseudo	-	-	-	-	20151115
-10160	101563196	Ldoc1l	-	-	-	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	-	20160903
+10160	101563196	Ldoc1l	-	-	-	Un	-	LDOC1 like	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1 like	20170201
 10160	101563197	Ambra1	-	-	-	Un	-	autophagy and beclin 1 regulator 1	protein-coding	-	-	-	-	20160903
 10160	101563198	Kiaa1549l	-	-	-	Un	-	KIAA1549 like	protein-coding	-	-	-	-	20160903
 10160	101563199	LOC101563199	-	-	-	Un	-	RAD51-associated protein 1 pseudogene	pseudo	-	-	-	-	20151115
@@ -10223,7 +10223,7 @@
 10160	101570658	LOC101570658	-	-	-	Un	-	vomeronasal type-2 receptor 116-like	protein-coding	-	-	-	-	20160716
 10160	101570659	LOC101570659	-	-	-	Un	-	protein MEMO1-like	pseudo	-	-	-	-	20151115
 10160	101570661	Alg8	-	-	-	Un	-	ALG8, alpha-1,3-glucosyltransferase	protein-coding	-	-	-	-	20160903
-10160	101570662	Ldoc1	-	-	-	Un	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	-	20160903
+10160	101570662	Ldoc1	-	-	-	Un	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1	20170201
 10160	101570663	Med8	-	-	-	Un	-	mediator complex subunit 8	protein-coding	-	-	-	-	20160903
 10160	101570664	LOC101570664	-	-	-	Un	-	cytochrome P450 4F6-like	protein-coding	-	-	-	-	20160903
 10160	101570665	LOC101570665	-	-	-	Un	-	ATP synthase subunit beta, mitochondrial pseudogene	pseudo	-	-	-	-	20151115

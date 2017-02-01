@@ -10962,7 +10962,7 @@
 9755	102984003	ST6GAL2	-	-	-	Un	-	ST6 beta-galactoside alpha-2,6-sialyltransferase 2	protein-coding	-	-	-	-	20160910
 9755	102984004	LOC102984004	-	-	-	Un	-	uncharacterized LOC102984004	pseudo	-	-	-	-	20151115
 9755	102984005	HOXB7	-	-	-	Un	-	homeobox B7	protein-coding	-	-	-	-	20160827
-9755	102984006	LDOC1L	-	-	-	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	-	20160910
+9755	102984006	LDOC1L	-	-	-	Un	-	LDOC1 like	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1 like	20170201
 9755	102984007	SLC22A8	-	-	-	Un	-	solute carrier family 22 member 8	protein-coding	-	-	-	-	20160729
 9755	102984008	USP24	-	-	-	Un	-	ubiquitin specific peptidase 24	protein-coding	-	-	-	-	20160910
 9755	102984009	CBX7	-	-	-	Un	-	chromobox 7	protein-coding	-	-	-	-	20160910

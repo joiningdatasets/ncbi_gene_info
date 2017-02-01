@@ -779,7 +779,7 @@
 109478	102239351	TMEM245	-	-	-	Un	-	transmembrane protein 245	protein-coding	-	-	-	transmembrane protein 245	20170130
 109478	102239352	LOC102239352	D623_10005083	-	-	Un	-	E3 ubiquitin-protein ligase RNF213	protein-coding	-	-	-	E3 ubiquitin-protein ligase RNF213	20170130
 109478	102239353	LOC102239353	-	-	-	Un	-	melanoma-associated antigen B18	protein-coding	-	-	-	melanoma-associated antigen B18	20170130
-109478	102239355	LDOC1L	-	-	-	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	protein LDOC1L	20170130
+109478	102239355	LDOC1L	-	-	-	Un	-	LDOC1 like	protein-coding	-	-	-	protein LDOC1L|leucine zipper down-regulated in cancer 1 like	20170201
 109478	102239356	LOC102239356	-	-	-	Un	-	uncharacterized LOC102239356	ncRNA	-	-	-	-	20151110
 109478	102239357	CASK	D623_10023331	-	-	Un	-	calcium/calmodulin dependent serine protein kinase	protein-coding	-	-	-	peripheral plasma membrane protein CASK|Peripheral plasma membrane protein CASK	20170130
 109478	102239358	LOC102239358	-	-	-	Un	-	cyclin-Y-like protein 1	protein-coding	-	-	-	cyclin-Y-like protein 1	20170130
@@ -11003,7 +11003,7 @@
 109478	102250216	RRP12	-	-	-	Un	-	ribosomal RNA processing 12 homolog	protein-coding	-	-	-	RRP12-like protein	20170130
 109478	102250218	LOC102250218	-	-	-	Un	-	uncharacterized LOC102250218	protein-coding	-	-	-	uncharacterized protein LOC102250218	20170130
 109478	102250219	CTBS	D623_10026217	-	-	Un	-	chitobiase	protein-coding	-	-	-	di-N-acetylchitobiase|Di-N-acetylchitobiase	20170130
-109478	102250220	LDOC1	-	-	-	Un	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	protein LDOC1	20170130
+109478	102250220	LDOC1	-	-	-	Un	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	protein LDOC1|leucine zipper down-regulated in cancer 1	20170201
 109478	102250221	LOC102250221	-	-	-	Un	-	40S ribosomal protein S3 pseudogene	pseudo	-	-	-	-	20151110
 109478	102250222	LOC102250222	D623_10001239	-	-	Un	-	galectin-9	protein-coding	-	-	-	galectin-9	20170130
 109478	102250223	PLXNA1	-	Plexin-A1	-	Un	-	plexin A1	protein-coding	-	-	-	plexin-A1	20170130

@@ -368,7 +368,7 @@
 9615	403790	IL5	-	-	Ensembl:ENSCAFG00000000855	11	-	interleukin 5	protein-coding	-	-	-	interleukin-5|IL-5|T-cell replacing factor|TRF|eosinophil differentiation factor|interleukin 5 (colony-stimulating factor, eosinophil)	20161031
 9615	403791	ACTR1A	-	-	Ensembl:ENSCAFG00000010210	28	-	ARP1 actin-related protein 1 homolog A, centractin alpha	protein-coding	-	-	-	alpha-centractin|actin-RPV|centractin|centrosome-associated actin homolog	20170119
 9615	403792	CE10	-	-	Ensembl:ENSCAFG00000009714	24	-	CE10 protein	protein-coding	-	-	-	CE10 protein	20160808
-9615	403793	LY6G5C	-	CE8	Ensembl:ENSCAFG00000000606	12	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G5c|CE8 protein, variant 2|canine epididymal gene product 8|epididymal secretory protein 8|lymphocyte antigen 6 complex, locus G5C	20170130
+9615	403793	LY6G5C	-	CE8	Ensembl:ENSCAFG00000000606	12	-	lymphocyte antigen 6 family member G5C	protein-coding	-	-	-	lymphocyte antigen 6 complex locus protein G5c|CE8 protein, variant 2|canine epididymal gene product 8|epididymal secretory protein 8|lymphocyte antigen 6 complex, locus G5C	20170201
 9615	403794	CE9	-	-	Ensembl:ENSCAFG00000013107	7	-	CE9 protein	protein-coding	-	-	-	regulator of G-protein signaling protein-like	20160924
 9615	403795	GH1	-	GH	Ensembl:ENSCAFG00000012681	9	-	growth hormone	protein-coding	-	-	-	somatotropin	20161031
 9615	403796	IL18	-	IGIF	Ensembl:ENSCAFG00000030180	5	-	interleukin 18	protein-coding	-	-	-	interleukin-18|IFN-gamma-inducing factor|IL-1 gamma|IL-18|interferon gamma-inducing factor|interleukin 18 (interferon-gamma-inducing factor)|interleukin-1 gamma	20161031
@@ -5724,7 +5724,7 @@
 9615	481207	SMC1B	-	-	Ensembl:ENSCAFG00000000827	10	-	structural maintenance of chromosomes 1B	protein-coding	-	-	-	structural maintenance of chromosomes protein 1B	20160903
 9615	481208	FAM118A	-	-	Ensembl:ENSCAFG00000000838	10	-	family with sequence similarity 118 member A	protein-coding	-	-	-	-	20160827
 9615	481210	KIAA0930	-	-	Ensembl:ENSCAFG00000000850	10	-	KIAA0930 ortholog	protein-coding	-	-	-	-	20160910
-9615	481213	LDOC1L	-	-	Ensembl:ENSCAFG00000000870	10	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	protein LDOC1L	20160827
+9615	481213	LDOC1L	-	-	Ensembl:ENSCAFG00000000870	10	-	LDOC1 like	protein-coding	-	-	-	protein LDOC1L|leucine zipper down-regulated in cancer 1 like	20170201
 9615	481214	PARVG	-	-	Ensembl:ENSCAFG00000000876	10	-	parvin gamma	protein-coding	-	-	-	gamma-parvin	20160813
 9615	481215	PARVB	-	-	Ensembl:ENSCAFG00000000887	10	-	parvin beta	protein-coding	-	-	-	beta-parvin	20160910
 9615	481216	PNPLA5	-	-	Ensembl:ENSCAFG00000000895	10	-	patatin like phospholipase domain containing 5	protein-coding	-	-	-	patatin-like phospholipase domain-containing protein 5	20160910
@@ -21961,7 +21961,7 @@
 9615	100855967	LOC100855967	-	-	-	8	-	oligosaccharyltransferase complex subunit OSTC pseudogene	pseudo	-	-	-	-	20160526
 9615	100855968	GTF3C4	-	-	Ensembl:ENSCAFG00000019887	9	-	general transcription factor IIIC subunit 4	protein-coding	-	-	-	general transcription factor IIIC, polypeptide 4, 90kDa	20161224
 9615	100855970	LOC100855970	-	-	-	2	-	protocadherin beta-4	protein-coding	-	-	-	-	20161031
-9615	100855971	LDOC1	-	-	Ensembl:ENSCAFG00000019027	X	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	-	20160813
+9615	100855971	LDOC1	-	-	Ensembl:ENSCAFG00000019027	X	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1	20170201
 9615	100855973	TEAD3	-	-	Ensembl:ENSCAFG00000001326	12	-	TEA domain transcription factor 3	protein-coding	-	-	-	TEA domain family member 3	20161224
 9615	100855974	LOC100855974	-	-	-	21	-	signal recognition particle 9 kDa protein-like	pseudo	-	-	-	-	20160526
 9615	100855975	NDUFB3	-	-	Ensembl:ENSCAFG00000012111	37	-	NADH:ubiquinone oxidoreductase subunit B3	protein-coding	-	-	-	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 3, 12kDa	20161224

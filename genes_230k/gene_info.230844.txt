@@ -18790,7 +18790,7 @@
 230844	102922526	Sept6	-	-	-	Un	-	septin 6	protein-coding	-	-	-	septin-6	20170125
 230844	102922527	LOC102922527	-	-	-	Un	-	mucin-19-like	protein-coding	-	-	-	mucin-19-like	20170125
 230844	102922528	Ddb1	-	-	-	Un	-	damage specific DNA binding protein 1	protein-coding	-	-	-	DNA damage-binding protein 1|damage-specific DNA binding protein 1, 127kDa	20170125
-230844	102922529	Ldoc1	-	-	-	Un	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	protein LDOC1	20170125
+230844	102922529	Ldoc1	-	-	-	Un	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	protein LDOC1|leucine zipper down-regulated in cancer 1	20170201
 230844	102922530	LOC102922530	-	-	-	Un	-	uncharacterized LOC102922530	pseudo	-	-	-	-	20160323
 230844	102922531	Terf2ip	-	-	-	Un	-	TERF2 interacting protein	protein-coding	-	-	-	telomeric repeat-binding factor 2-interacting protein 1|telomeric repeat binding factor 2, interacting protein	20170125
 230844	102922532	Acap2	-	-	-	Un	-	ArfGAP with coiled-coil, ankyrin repeat and PH domains 2	protein-coding	-	-	-	arf-GAP with coiled-coil, ANK repeat and PH domain-containing protein 2	20170125
@@ -23006,7 +23006,7 @@
 230844	102927017	LOC102927017	-	-	-	Un	-	peroxiredoxin-6-like	protein-coding	-	-	-	peroxiredoxin-6-like	20170125
 230844	102927018	Gsx2	-	-	-	Un	-	GS homeobox 2	protein-coding	-	-	-	GS homeobox 2	20170125
 230844	102927019	Cdk13	-	-	-	Un	-	cyclin dependent kinase 13	protein-coding	-	-	-	cyclin-dependent kinase 13	20170125
-230844	102927020	Ldoc1l	-	-	-	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	protein LDOC1L	20170125
+230844	102927020	Ldoc1l	-	-	-	Un	-	LDOC1 like	protein-coding	-	-	-	protein LDOC1L|leucine zipper down-regulated in cancer 1 like	20170201
 230844	102927021	Scnn1b	-	-	-	Un	-	sodium channel epithelial 1 beta subunit	protein-coding	-	-	-	amiloride-sensitive sodium channel subunit beta|sodium channel, non-voltage-gated 1, beta subunit	20170125
 230844	102927022	Tcirg1	-	-	-	Un	-	T-cell immune regulator 1, ATPase H+ transporting V0 subunit a3	protein-coding	-	-	-	V-type proton ATPase 116 kDa subunit a isoform 3|T-cell, immune regulator 1, ATPase, H+ transporting, lysosomal V0 subunit A3	20170125
 230844	102927023	Men1	-	-	-	Un	-	menin 1	protein-coding	-	-	-	menin|multiple endocrine neoplasia I	20170125

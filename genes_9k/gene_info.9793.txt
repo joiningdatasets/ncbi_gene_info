@@ -24301,7 +24301,7 @@
 9793	106845954	LOC106845954	-	-	-	Un	-	uncharacterized LOC106845954	ncRNA	-	-	-	-	20151204
 9793	106845955	PARVG	-	-	-	Un	-	parvin gamma	protein-coding	-	-	-	-	20160924
 9793	106845956	KIAA1644	-	-	-	Un	-	KIAA1644 ortholog	protein-coding	-	-	-	-	20160730
-9793	106845957	LDOC1L	-	-	-	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	-	20160924
+9793	106845957	LDOC1L	-	-	-	Un	-	LDOC1 like	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1 like	20170201
 9793	106845958	ARHGAP8	-	-	-	Un	-	Rho GTPase activating protein 8	protein-coding	-	-	-	-	20160730
 9793	106845959	PRR5	-	-	-	Un	-	proline rich 5	protein-coding	-	-	-	-	20160811
 9793	106845960	PHF21B	-	-	-	Un	-	PHD finger protein 21B	protein-coding	-	-	-	-	20160730

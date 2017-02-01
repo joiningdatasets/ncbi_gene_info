@@ -270,7 +270,7 @@
 1026970	103724656	Dnah5	-	-	-	Un	-	dynein axonemal heavy chain 5	protein-coding	-	-	-	dynein heavy chain 5, axonemal	20170124
 1026970	103724657	Slc1a5	-	-	-	Un	-	solute carrier family 1 member 5	protein-coding	-	-	-	neutral amino acid transporter B(0)	20170124
 1026970	103724658	Slitrk4	-	-	-	Un	-	SLIT and NTRK like family member 4	protein-coding	-	-	-	SLIT and NTRK-like protein 4	20170124
-1026970	103724659	Ldoc1	-	-	-	Un	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	protein LDOC1	20170124
+1026970	103724659	Ldoc1	-	-	-	Un	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	protein LDOC1|leucine zipper down-regulated in cancer 1	20170201
 1026970	103724660	LOC103724660	-	-	-	Un	-	uncharacterized LOC103724660	ncRNA	-	-	-	-	20160813
 1026970	103724661	LOC103724661	-	-	-	Un	-	60S ribosomal protein L23a pseudogene	pseudo	-	-	-	-	20160813
 1026970	103724662	Sox3	-	-	-	Un	-	SRY-box 3	protein-coding	-	-	-	LOW QUALITY PROTEIN: transcription factor SOX-3	20170124
@@ -18041,7 +18041,7 @@
 1026970	103743425	Phf21b	-	-	-	Un	-	PHD finger protein 21B	protein-coding	-	-	-	PHD finger protein 21B	20170124
 1026970	103743426	Arhgap8	-	-	-	Un	-	Rho GTPase activating protein 8	protein-coding	-	-	-	rho GTPase-activating protein 8	20170124
 1026970	103743427	Prr5	-	-	-	Un	-	proline rich 5	protein-coding	-	-	-	proline-rich protein 5	20170124
-1026970	103743428	Ldoc1l	-	-	-	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	protein LDOC1L	20170124
+1026970	103743428	Ldoc1l	-	-	-	Un	-	LDOC1 like	protein-coding	-	-	-	protein LDOC1L|leucine zipper down-regulated in cancer 1 like	20170201
 1026970	103743429	Kiaa1644	-	-	-	Un	-	KIAA1644 ortholog	protein-coding	-	-	-	uncharacterized protein KIAA1644 homolog	20170124
 1026970	103743430	Parvg	-	-	-	Un	-	parvin gamma	protein-coding	-	-	-	gamma-parvin	20170124
 1026970	103743431	Parvb	-	-	-	Un	-	parvin beta	protein-coding	-	-	-	beta-parvin	20170124

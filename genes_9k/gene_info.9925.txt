@@ -7757,7 +7757,7 @@
 9925	102176023	CST6	-	-	-	29	-	cystatin E/M	protein-coding	-	-	-	-	20160910
 9925	102176024	LOC102176024	-	-	-	29	-	uncharacterized LOC102176024	protein-coding	-	-	-	-	20160910
 9925	102176025	LOC102176025	-	-	-	X	-	ras-related protein Rab-33A	protein-coding	-	-	-	-	20161031
-9925	102176026	LDOC1L	-	-	-	5	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	-	20160913
+9925	102176026	LDOC1L	-	-	-	5	-	LDOC1 like	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1 like	20170201
 9925	102176027	LOC102176027	-	-	-	6	-	zinc finger CCCH domain-containing protein 14 pseudogene	pseudo	-	-	-	-	20160909
 9925	102176028	CLCN4	-	-	-	Un	-	chloride voltage-gated channel 4	protein-coding	-	-	-	-	20160910
 9925	102176029	QDPR	-	-	-	6	-	quinoid dihydropteridine reductase	protein-coding	-	-	-	-	20160913
@@ -23840,7 +23840,7 @@
 9925	106503792	LOC106503792	-	-	-	X	-	uncharacterized LOC106503792	ncRNA	-	-	-	-	20160909
 9925	106503794	LOC106503794	-	-	-	1	-	fatty acid-binding protein, heart pseudogene	pseudo	-	-	-	-	20160909
 9925	106503795	LOC106503795	-	-	-	3	-	ferritin heavy chain pseudogene	pseudo	-	-	-	-	20160909
-9925	106503796	LDOC1	-	-	-	X	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	-	20160909
+9925	106503796	LDOC1	-	-	-	X	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1	20170201
 9925	106503797	LOC106503797	-	-	-	X	-	uncharacterized LOC106503797	ncRNA	-	-	-	-	20160909
 9925	106503798	LOC106503798	-	-	-	X	-	uncharacterized LOC106503798	ncRNA	-	-	-	-	20160913
 9925	106503799	LOC106503799	-	-	-	Un	-	melanoma-associated antigen 9-like	pseudo	-	-	-	-	20160909

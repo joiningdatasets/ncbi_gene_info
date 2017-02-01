@@ -19612,7 +19612,7 @@
 118797	103087818	MX2	-	-	-	Un	-	MX dynamin like GTPase 2	protein-coding	-	-	-	interferon-induced GTP-binding protein Mx2	20170130
 118797	103087819	GFI1B	-	-	-	Un	-	growth factor independent 1B transcriptional repressor	protein-coding	-	-	-	zinc finger protein Gfi-1b	20170130
 118797	103087820	TP53INP1	-	-	-	Un	-	tumor protein p53 inducible nuclear protein 1	protein-coding	-	-	-	tumor protein p53-inducible nuclear protein 1	20170130
-118797	103087821	LDOC1L	-	-	-	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	protein LDOC1L	20170130
+118797	103087821	LDOC1L	-	-	-	Un	-	LDOC1 like	protein-coding	-	-	-	protein LDOC1L|leucine zipper down-regulated in cancer 1 like	20170201
 118797	103087822	LOC103087822	-	-	-	Un	-	dihydrouridine synthase 4-like (S. cerevisiae) pseudogene	pseudo	-	-	-	-	20151115
 118797	103087823	GPRC6A	-	-	-	Un	-	G protein-coupled receptor class C group 6 member A	protein-coding	-	-	-	G protein-coupled receptor, class C, group 6, member A	20170130
 118797	103087824	TTR	-	-	-	Un	-	transthyretin	protein-coding	-	-	-	transthyretin	20170130

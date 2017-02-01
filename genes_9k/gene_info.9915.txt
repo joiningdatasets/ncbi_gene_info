@@ -2553,7 +2553,7 @@
 9915	109555521	LOC109555521	-	-	-	X	-	heterogeneous nuclear ribonucleoprotein F-like	protein-coding	-	-	-	-	20170114
 9915	109555522	LOC109555522	-	-	-	X	-	uncharacterized LOC109555522	ncRNA	-	-	-	-	20170114
 9915	109555523	CA14	-	-	-	3	-	carbonic anhydrase 14	protein-coding	-	-	-	-	20170114
-9915	109555524	LDOC1	-	-	-	X	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	-	20170114
+9915	109555524	LDOC1	-	-	-	X	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1	20170201
 9915	109555525	SYP	-	-	-	X	-	synaptophysin	protein-coding	-	-	-	-	20170114
 9915	109555526	PCDH11X	-	-	-	X	-	protocadherin 11 X-linked	protein-coding	-	-	-	-	20170114
 9915	109555527	LOC109555527	-	-	-	X	-	protein FAM126B-like	protein-coding	-	-	-	-	20170114
@@ -6926,7 +6926,7 @@
 9915	109559894	NME9	-	-	-	1	-	NME/NM23 family member 9	protein-coding	-	-	-	-	20170114
 9915	109559895	LOC109559895	-	-	-	5	-	uncharacterized LOC109559895	ncRNA	-	-	-	-	20170114
 9915	109559896	KIAA1644	-	-	-	5	-	KIAA1644 ortholog	protein-coding	-	-	-	-	20170114
-9915	109559897	LDOC1L	-	-	-	5	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	-	20170114
+9915	109559897	LDOC1L	-	-	-	5	-	LDOC1 like	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1 like	20170201
 9915	109559898	LOC109559898	-	-	-	5	-	proline-rich protein 5	protein-coding	-	-	-	-	20170124
 9915	109559899	ARHGAP8	-	-	-	5	-	Rho GTPase activating protein 8	protein-coding	-	-	-	-	20170114
 9915	109559900	PHF21B	-	-	-	5	-	PHD finger protein 21B	protein-coding	-	-	-	-	20170114

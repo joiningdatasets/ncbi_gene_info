@@ -17125,7 +17125,7 @@
 9940	101118683	LBX2	-	-	Ensembl:ENSOARG00000012737	3	-	ladybird homeobox 2	protein-coding	-	-	-	-	20160827
 9940	101118684	FBXO7	-	-	Ensembl:ENSOARG00000018147	3	-	F-box protein 7	protein-coding	-	-	-	-	20160827
 9940	101118685	GYS2	-	-	Ensembl:ENSOARG00000020306	3	-	glycogen synthase 2	protein-coding	-	-	-	glycogen synthase 2 (liver)	20160827
-9940	101118686	LDOC1L	-	-	-	3	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	protein LDOC1L-like	20160910
+9940	101118686	LDOC1L	-	-	-	3	-	LDOC1 like	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1 like|protein LDOC1L-like	20170201
 9940	101118687	LGALSL	-	-	-	3	-	galectin like	protein-coding	-	-	-	-	20160820
 9940	101118688	SPATS2	-	-	Ensembl:ENSOARG00000018754	3	-	spermatogenesis associated serine rich 2	protein-coding	-	-	-	-	20160827
 9940	101118690	LOC101118690	-	-	-	4	-	olfactory receptor 2A2-like	protein-coding	-	-	-	-	20160827
@@ -19721,7 +19721,7 @@
 9940	101121569	ANK1	-	-	Ensembl:ENSOARG00000002688	26	-	ankyrin 1	protein-coding	-	-	-	ankyrin 1, erythrocytic	20160730
 9940	101121570	PCSK5	-	-	Ensembl:ENSOARG00000012515	2	-	proprotein convertase subtilisin/kexin type 5	protein-coding	-	-	-	-	20160827
 9940	101121571	CWC22	-	-	Ensembl:ENSOARG00000016905	2	-	CWC22 spliceosome associated protein homolog	protein-coding	-	-	-	pre-mRNA-splicing factor CWC22 homolog	20160827
-9940	101121572	LDOC1	-	-	-	X	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	-	20160725
+9940	101121572	LDOC1	-	-	-	X	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1	20170201
 9940	101121573	SF3B1	-	-	Ensembl:ENSOARG00000015374	2	-	splicing factor 3b subunit 1	protein-coding	-	-	-	-	20160917
 9940	101121574	AIFM1	-	AIF|PCD8	Ensembl:ENSOARG00000015422	X	-	apoptosis inducing factor mitochondria associated 1	protein-coding	-	-	-	flavoprotein and apoptosis inductor|mammary apoptosis inducing factor	20170114
 9940	101121575	LAPTM5	-	-	Ensembl:ENSOARG00000002094	2	-	lysosomal protein transmembrane 5	protein-coding	-	-	-	-	20160827

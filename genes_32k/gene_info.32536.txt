@@ -2049,7 +2049,7 @@
 32536	106967278	BIK	-	-	-	Un	-	BCL2 interacting killer	protein-coding	-	-	-	-	20160827
 32536	106967279	PNPLA3	-	-	-	Un	-	patatin like phospholipase domain containing 3	protein-coding	-	-	-	-	20160730
 32536	106967280	PARVG	-	-	-	Un	-	parvin gamma	protein-coding	-	-	-	-	20160730
-32536	106967281	LDOC1L	-	-	-	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	-	20160730
+32536	106967281	LDOC1L	-	-	-	Un	-	LDOC1 like	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1 like	20170201
 32536	106967282	LOC106967282	-	-	-	Un	-	uncharacterized LOC106967282	ncRNA	-	-	-	-	20151217
 32536	106967283	NUP50	-	-	-	Un	-	nucleoporin 50	protein-coding	-	-	-	-	20160730
 32536	106967284	RELL2	-	-	-	Un	-	RELT like 2	protein-coding	-	-	-	-	20160729

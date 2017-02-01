@@ -6892,7 +6892,7 @@
 9685	101087208	PGK1	-	-	Ensembl:ENSFCAG00000013209	X	-	phosphoglycerate kinase 1	protein-coding	-	-	-	-	20170105
 9685	101087209	LOC101087209	-	-	Ensembl:ENSFCAG00000026885	A2	-	olfactory receptor 7C1-like	protein-coding	-	-	-	-	20170105
 9685	101087210	ATP1B4	-	-	Ensembl:ENSFCAG00000014941	X	-	ATPase Na+/K+ transporting family member beta 4	protein-coding	-	-	-	-	20170105
-9685	101087211	LDOC1	-	-	Ensembl:ENSFCAG00000024705	X	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	-	20170105
+9685	101087211	LDOC1	-	-	Ensembl:ENSFCAG00000024705	X	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1	20170201
 9685	101087212	HAUS7	-	-	Ensembl:ENSFCAG00000004027	X	-	HAUS augmin like complex subunit 7	protein-coding	-	-	-	-	20170105
 9685	101087214	RAB43	-	-	-	A2	-	RAB43, member RAS oncogene family	protein-coding	-	-	-	-	20170105
 9685	101087215	VOPP1	-	-	-	A2	-	vesicular, overexpressed in cancer, prosurvival protein 1	protein-coding	-	-	-	-	20170105
@@ -7927,7 +7927,7 @@
 9685	101088342	LOC101088342	-	-	-	B4	-	heterogeneous nuclear ribonucleoprotein F-like	pseudo	-	-	-	-	20170105
 9685	101088343	RIC8B	-	-	Ensembl:ENSFCAG00000023932	B4	-	RIC8 guanine nucleotide exchange factor B	protein-coding	-	-	-	resistance to inhibitors of cholinesterase 8 homolog B	20170105
 9685	101088344	EP300	-	-	Ensembl:ENSFCAG00000005002	B4	-	E1A binding protein p300	protein-coding	-	-	-	-	20170105
-9685	101088345	LDOC1L	-	-	Ensembl:ENSFCAG00000028859	B4	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	protein LDOC1L-like	20170105
+9685	101088345	LDOC1L	-	-	Ensembl:ENSFCAG00000028859	B4	-	LDOC1 like	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1 like|protein LDOC1L-like	20170201
 9685	101088346	SKI	-	-	-	C1	-	SKI proto-oncogene	protein-coding	-	-	-	v-ski avian sarcoma viral oncogene homolog|v-ski sarcoma viral oncogene homolog	20170105
 9685	101088347	ZC3H12A	-	-	Ensembl:ENSFCAG00000008757	C1	-	zinc finger CCCH-type containing 12A	protein-coding	-	-	-	-	20170105
 9685	101088348	BEST4	-	-	Ensembl:ENSFCAG00000009968	C1	-	bestrophin 4	protein-coding	-	-	-	-	20170105

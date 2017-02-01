@@ -6151,7 +6151,7 @@
 1230840	103197757	TSPO	-	-	-	Un	-	translocator protein	protein-coding	-	-	-	translocator protein	20170123
 1230840	103197758	MPPED1	-	-	-	Un	-	metallophosphoesterase domain containing 1	protein-coding	-	-	-	metallophosphoesterase domain-containing protein 1	20170123
 1230840	103197759	SULT4A1	-	-	-	Un	-	sulfotransferase family 4A member 1	protein-coding	-	-	-	sulfotransferase 4A1	20170123
-1230840	103197760	LDOC1L	-	-	-	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	LOW QUALITY PROTEIN: protein LDOC1L	20170123
+1230840	103197760	LDOC1L	-	-	-	Un	-	LDOC1 like	protein-coding	-	-	-	LOW QUALITY PROTEIN: protein LDOC1L|leucine zipper down-regulated in cancer 1 like	20170201
 1230840	103197761	PRR5	-	-	-	Un	-	proline rich 5	protein-coding	-	-	-	proline-rich protein 5	20170123
 1230840	103197762	PHF21B	-	-	-	Un	-	PHD finger protein 21B	protein-coding	-	-	-	PHD finger protein 21B	20170123
 1230840	103197763	LOC103197763	-	-	-	Un	-	cytochrome P450 2D6-like	pseudo	-	-	-	-	20151115
@@ -14667,7 +14667,7 @@
 1230840	103206273	LOC103206273	-	-	-	Un	-	splicing factor U2AF 65 kDa subunit pseudogene	pseudo	-	-	-	-	20151115
 1230840	103206274	F9	-	-	-	Un	-	coagulation factor IX	protein-coding	-	-	-	coagulation factor IX	20170123
 1230840	103206275	FGF13	-	-	-	Un	-	fibroblast growth factor 13	protein-coding	-	-	-	fibroblast growth factor 13	20170123
-1230840	103206276	LDOC1	-	-	-	Un	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	protein LDOC1	20170123
+1230840	103206276	LDOC1	-	-	-	Un	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	protein LDOC1|leucine zipper down-regulated in cancer 1	20170201
 1230840	103206277	LOC103206277	-	-	-	Un	-	melanoma-associated antigen 10-like	protein-coding	-	-	-	melanoma-associated antigen 10-like	20170123
 1230840	103206278	CDR1	-	-	-	Un	-	cerebellar degeneration related protein 1	protein-coding	-	-	-	LOW QUALITY PROTEIN: cerebellar degeneration-related antigen 1	20170123
 1230840	103206279	SOX3	-	-	-	Un	-	SRY-box 3	protein-coding	-	-	-	transcription factor SOX-3	20170123

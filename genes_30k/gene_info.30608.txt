@@ -12812,7 +12812,7 @@
 30608	105867482	MRPL21	-	-	Ensembl:ENSMICG00000027462	Un	-	mitochondrial ribosomal protein L21	protein-coding	-	-	-	-	20161018
 30608	105867483	DPP3	-	-	Ensembl:ENSMICG00000003766	Un	-	dipeptidyl peptidase 3	protein-coding	-	-	-	-	20161018
 30608	105867484	PELI3	-	-	Ensembl:ENSMICG00000003763	Un	-	pellino E3 ubiquitin protein ligase family member 3	protein-coding	-	-	-	-	20161018
-30608	105867485	LDOC1L	-	-	Ensembl:ENSMICG00000031689	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	-	20161018
+30608	105867485	LDOC1L	-	-	Ensembl:ENSMICG00000031689	Un	-	LDOC1 like	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1 like	20170201
 30608	105867486	BBS1	-	-	-	Un	-	Bardet-Biedl syndrome 1	protein-coding	-	-	-	-	20160722
 30608	105867487	LOC105867487	-	-	-	Un	-	uncharacterized LOC105867487	ncRNA	-	-	-	-	20160722
 30608	105867488	ZDHHC24	-	-	Ensembl:ENSMICG00000003775	Un	-	zinc finger DHHC-type containing 24	protein-coding	-	-	-	-	20161018
@@ -24882,7 +24882,7 @@
 30608	105879552	MYCBP	-	-	Ensembl:ENSMICG00000031944	Un	-	MYC binding protein	protein-coding	-	-	-	-	20161018
 30608	105879553	RHBDL2	-	-	-	Un	-	rhomboid like 2	protein-coding	-	-	-	-	20160729
 30608	105879554	LOC105879554	-	-	-	Un	-	uncharacterized LOC105879554	ncRNA	-	-	-	-	20160722
-30608	105879555	LDOC1	-	-	Ensembl:ENSMICG00000034780	Un	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	-	20161018
+30608	105879555	LDOC1	-	-	Ensembl:ENSMICG00000034780	Un	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1	20170201
 30608	105879556	LOC105879556	-	-	-	Un	-	uncharacterized LOC105879556	ncRNA	-	-	-	-	20160722
 30608	105879557	LOC105879557	-	-	-	Un	-	uncharacterized LOC105879557	ncRNA	-	-	-	-	20160722
 30608	105879558	LOC105879558	-	-	-	Un	-	uncharacterized LOC105879558	ncRNA	-	-	-	-	20160722

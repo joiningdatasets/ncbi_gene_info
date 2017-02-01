@@ -5556,7 +5556,7 @@
 127582	101345977	LOC101345977	-	-	-	Un	-	EGF-like module-containing mucin-like hormone receptor-like 4	protein-coding	-	-	-	EGF-like module-containing mucin-like hormone receptor-like 4	20170130
 127582	101345978	LOC101345978	-	PATZ1	-	Un	-	POZ/BTB and AT hook containing zinc finger 1	protein-coding	-	-	-	POZ-, AT hook-, and zinc finger-containing protein 1	20170130
 127582	101345979	LOC101345979	-	CDH20	-	Un	-	cadherin 20	protein-coding	-	-	-	LOW QUALITY PROTEIN: cadherin-20	20170130
-127582	101345980	LOC101345980	-	LDOC1L	-	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	protein LDOC1L	20170130
+127582	101345980	LOC101345980	-	LDOC1L	-	Un	-	LDOC1 like	protein-coding	-	-	-	protein LDOC1L|leucine zipper down-regulated in cancer 1 like	20170201
 127582	101345981	LOC101345981	-	-	-	Un	-	T-complex protein 1 subunit zeta pseudogene	pseudo	-	-	-	-	20151115
 127582	101345982	LOC101345982	-	OLFML3	-	Un	-	olfactomedin like 3	protein-coding	-	-	-	olfactomedin-like protein 3	20170130
 127582	101345983	LOC101345983	-	MRPS30	-	Un	-	mitochondrial ribosomal protein S30	protein-coding	-	-	-	28S ribosomal protein S30, mitochondrial	20170130
@@ -18754,7 +18754,7 @@
 127582	101359733	LOC101359733	-	HMGCS2	-	Un	-	3-hydroxy-3-methylglutaryl-CoA synthase 2	protein-coding	-	-	-	hydroxymethylglutaryl-CoA synthase, mitochondrial	20170130
 127582	101359734	LOC101359734	-	TRIM50	-	Un	-	tripartite motif containing 50	protein-coding	-	-	-	E3 ubiquitin-protein ligase TRIM50	20170130
 127582	101359735	LOC101359735	-	SYT4	-	Un	-	synaptotagmin 4	protein-coding	-	-	-	synaptotagmin-4	20170130
-127582	101359736	LOC101359736	-	-	-	Un	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	protein LDOC1	20170130
+127582	101359736	LOC101359736	-	-	-	Un	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	protein LDOC1|leucine zipper down-regulated in cancer 1	20170201
 127582	101359737	LOC101359737	-	KDM3B	-	Un	-	lysine demethylase 3B	protein-coding	-	-	-	lysine-specific demethylase 3B	20170130
 127582	101359738	LOC101359738	-	-	-	Un	-	disks large homolog 2 pseudogene	pseudo	-	-	-	-	20151115
 127582	101359739	LOC101359739	-	COL6A6	-	Un	-	collagen type VI alpha 6 chain	protein-coding	-	-	-	collagen alpha-6(VI) chain	20170130

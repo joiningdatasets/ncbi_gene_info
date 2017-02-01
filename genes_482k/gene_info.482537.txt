@@ -10575,7 +10575,7 @@
 482537	103591593	RNASE9	-	-	-	Un	-	ribonuclease A family member 9 (inactive)	protein-coding	-	-	-	inactive ribonuclease-like protein 9	20170124
 482537	103591594	HNRNPC	-	-	-	Un	-	heterogeneous nuclear ribonucleoprotein C (C1/C2)	protein-coding	-	-	-	heterogeneous nuclear ribonucleoproteins C1/C2	20170124
 482537	103591595	RPGRIP1	-	-	-	Un	-	retinitis pigmentosa GTPase regulator interacting protein 1	protein-coding	-	-	-	X-linked retinitis pigmentosa GTPase regulator-interacting protein 1	20170124
-482537	103591596	LDOC1	-	-	-	Un	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	protein LDOC1	20170124
+482537	103591596	LDOC1	-	-	-	Un	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	protein LDOC1|leucine zipper down-regulated in cancer 1	20170201
 482537	103591597	LOC103591597	-	-	-	Un	-	protein arginine N-methyltransferase 7-like	pseudo	-	-	-	-	20151115
 482537	103591598	RANGAP1	-	-	-	Un	-	Ran GTPase activating protein 1	protein-coding	-	-	-	ran GTPase-activating protein 1	20170124
 482537	103591599	LOC103591599	-	-	-	Un	-	lupus La protein homolog pseudogene	pseudo	-	-	-	-	20151115
@@ -26215,7 +26215,7 @@
 482537	103607233	YY1	-	-	-	Un	-	YY1 transcription factor	protein-coding	-	-	-	transcriptional repressor protein YY1	20170124
 482537	103607234	LOC103607234	-	-	-	Un	-	NADP-dependent malic enzyme-like	protein-coding	-	-	-	NADP-dependent malic enzyme-like	20170124
 482537	103607235	IL12B	-	-	-	Un	-	interleukin 12B	protein-coding	-	-	-	interleukin-12 subunit beta	20170124
-482537	103607236	LDOC1L	-	-	-	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	protein LDOC1L	20170124
+482537	103607236	LDOC1L	-	-	-	Un	-	LDOC1 like	protein-coding	-	-	-	protein LDOC1L|leucine zipper down-regulated in cancer 1 like	20170201
 482537	103607237	SNAP91	-	-	-	Un	-	synaptosome associated protein 91	protein-coding	-	-	-	clathrin coat assembly protein AP180	20170124
 482537	103607238	RSL1D1	-	-	-	Un	-	ribosomal L1 domain containing 1	protein-coding	-	-	-	LOW QUALITY PROTEIN: ribosomal L1 domain-containing protein 1	20170124
 482537	103607239	PRSS35	-	-	-	Un	-	protease, serine 35	protein-coding	-	-	-	inactive serine protease 35	20170124

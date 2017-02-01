@@ -4676,7 +4676,7 @@
 185453	102815093	UBL4B	-	-	-	Un	-	ubiquitin like 4B	protein-coding	-	-	-	ubiquitin-like protein 4B	20170126
 185453	102815094	RNF14	-	-	-	Un	-	ring finger protein 14	protein-coding	-	-	-	E3 ubiquitin-protein ligase RNF14	20170126
 185453	102815095	LOC102815095	-	-	-	Un	-	M-phase phosphoprotein 6-like	pseudo	-	-	-	-	20151115
-185453	102815096	LDOC1L	-	-	-	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	protein LDOC1L	20170126
+185453	102815096	LDOC1L	-	-	-	Un	-	LDOC1 like	protein-coding	-	-	-	protein LDOC1L|leucine zipper down-regulated in cancer 1 like	20170201
 185453	102815097	LOC102815097	-	-	-	Un	-	ribosomal protein L9 pseudogene	pseudo	-	-	-	-	20151115
 185453	102815098	COBLL1	-	-	-	Un	-	cordon-bleu WH2 repeat protein like 1	protein-coding	-	-	-	cordon-bleu protein-like 1	20170126
 185453	102815099	USP14	-	-	-	Un	-	ubiquitin specific peptidase 14 (tRNA-guanine transglycosylase)	protein-coding	-	-	-	ubiquitin carboxyl-terminal hydrolase 14-like	20170126

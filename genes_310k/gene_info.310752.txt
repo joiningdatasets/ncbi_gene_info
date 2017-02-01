@@ -21094,7 +21094,7 @@
 310752	103018158	LOC103018158	-	-	-	Un	-	uncharacterized LOC103018158	ncRNA	-	-	-	-	20151115
 310752	103018159	LOC103018159	-	-	-	Un	-	uncharacterized LOC103018159	ncRNA	-	-	-	-	20151115
 310752	103018160	LOC103018160	-	-	-	Un	-	uncharacterized LOC103018160	ncRNA	-	-	-	-	20151115
-310752	103018161	LDOC1L	-	-	-	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	protein LDOC1L	20170125
+310752	103018161	LDOC1L	-	-	-	Un	-	LDOC1 like	protein-coding	-	-	-	protein LDOC1L|leucine zipper down-regulated in cancer 1 like	20170201
 310752	103018162	LOC103018162	-	-	-	Un	-	adenosine receptor A3-like	protein-coding	-	-	-	adenosine receptor A3-like	20170125
 310752	103018163	ARFIP1	-	-	-	Un	-	ADP ribosylation factor interacting protein 1	protein-coding	-	-	-	arfaptin-1	20170125
 310752	103018164	NETO1	-	-	-	Un	-	neuropilin and tolloid like 1	protein-coding	-	-	-	neuropilin and tolloid-like protein 1	20170125

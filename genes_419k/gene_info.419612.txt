@@ -9206,7 +9206,7 @@
 419612	102512818	SLC15A5	CB1_001683013	-	-	Un	-	solute carrier family 15 member 5	protein-coding	-	-	-	solute carrier family 15 member 5	20170124
 419612	102512819	DPYSL4	-	-	-	Un	-	dihydropyrimidinase like 4	protein-coding	-	-	-	dihydropyrimidinase-related protein 4	20170124
 419612	102512820	KIAA1324L	CB1_001687004	-	-	Un	-	KIAA1324 like	protein-coding	-	-	-	UPF0577 protein KIAA1324-like homolog	20170124
-419612	102512822	LDOC1L	CB1_000319002	-	-	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	protein LDOC1L	20170124
+419612	102512822	LDOC1L	CB1_000319002	-	-	Un	-	LDOC1 like	protein-coding	-	-	-	protein LDOC1L|leucine zipper down-regulated in cancer 1 like	20170201
 419612	102512823	LOC102512823	-	-	-	Un	-	proteasome maturation protein pseudogene	pseudo	-	-	-	-	20151115
 419612	102512824	C2CD2	-	-	-	Un	-	C2 calcium dependent domain containing 2	protein-coding	-	-	-	C2 domain-containing protein 2	20170124
 419612	102512825	EXD3	CB1_000330007	-	-	Un	-	exonuclease 3'-5' domain containing 3	protein-coding	-	-	-	exonuclease mut-7 homolog|probable exonuclease mut-7 homolog|putative exonuclease mut-7-like protein	20170124

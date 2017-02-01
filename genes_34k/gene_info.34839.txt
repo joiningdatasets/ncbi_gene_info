@@ -15110,7 +15110,7 @@
 34839	102018977	Slc29a1	-	-	-	Un	-	solute carrier family 29 member 1 (Augustine blood group)	protein-coding	-	-	-	-	20160910
 34839	102018978	LOC102018978	-	-	-	Un	-	uncharacterized LOC102018978	ncRNA	-	-	-	-	20160822
 34839	102018979	LOC102018979	-	-	-	Un	-	chromosome unknown open reading frame, human C14orf2	protein-coding	-	-	-	-	20160910
-34839	102018980	Ldoc1	-	-	-	Un	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	-	20160910
+34839	102018980	Ldoc1	-	-	-	Un	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1	20170201
 34839	102018981	Pex6	-	-	-	Un	-	peroxisomal biogenesis factor 6	protein-coding	-	-	-	-	20160822
 34839	102018982	LOC102018982	-	-	-	Un	-	probable ribonuclease ZC3H12C pseudogene	pseudo	-	-	-	-	20160822
 34839	102018983	Ilf2	-	-	-	Un	-	interleukin enhancer binding factor 2	protein-coding	-	-	-	-	20160822
@@ -19887,7 +19887,7 @@
 34839	102024103	LOC102024103	-	-	-	Un	-	acrosomal protein SP-10-like	protein-coding	-	-	-	-	20160822
 34839	102024104	LOC102024104	-	-	-	Un	-	mth938 domain-containing protein pseudogene	pseudo	-	-	-	-	20160822
 34839	102024105	LOC102024105	-	-	-	Un	-	T-cell surface glycoprotein CD1b2-like	protein-coding	-	-	-	-	20160910
-34839	102024106	Ldoc1l	-	-	-	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	-	20160910
+34839	102024106	Ldoc1l	-	-	-	Un	-	LDOC1 like	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1 like	20170201
 34839	102024107	LOC102024107	-	-	-	Un	-	taste receptor type 2 member 140-like	protein-coding	-	-	-	-	20160822
 34839	102024108	LOC102024108	-	-	-	Un	-	olfactory receptor 51F1-like	protein-coding	-	-	-	-	20160910
 34839	102024109	Eqtn	-	-	-	Un	-	equatorin	protein-coding	-	-	-	-	20160910

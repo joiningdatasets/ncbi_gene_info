@@ -12845,7 +12845,7 @@
 10020	105992858	LOC105992858	-	-	-	Un	-	high mobility group protein B1 pseudogene	pseudo	-	-	-	-	20160722
 10020	105992859	LOC105992859	-	-	-	Un	-	heterogeneous nuclear ribonucleoprotein A3 pseudogene	pseudo	-	-	-	-	20160722
 10020	105992860	Nsdhl	-	-	-	Un	-	NAD(P) dependent steroid dehydrogenase-like	protein-coding	-	-	-	-	20160722
-10020	105992861	Ldoc1	-	-	-	Un	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	-	20160725
+10020	105992861	Ldoc1	-	-	-	Un	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1	20170201
 10020	105992862	Vma21	-	-	-	Un	-	VMA21, vacuolar ATPase assembly factor	protein-coding	-	-	-	VMA21 vacuolar H+-ATPase homolog	20170124
 10020	105992863	Aff2	-	-	-	Un	-	AF4/FMR2 family member 2	protein-coding	-	-	-	-	20160809
 10020	105992864	Wrn	-	-	-	Un	-	Werner syndrome RecQ like helicase	protein-coding	-	-	-	-	20160729

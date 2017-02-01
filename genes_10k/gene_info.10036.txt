@@ -16751,7 +16751,7 @@
 10036	101839962	Tmem241	-	-	-	Un	-	transmembrane protein 241	protein-coding	-	-	-	-	20151115
 10036	101839963	Fbxl6	-	-	-	Un	-	F-box and leucine rich repeat protein 6	protein-coding	-	-	-	-	20160903
 10036	101839965	Slc22a2	-	-	-	Un	-	solute carrier family 22 member 2	protein-coding	-	-	-	-	20160729
-10036	101839966	Ldoc1	-	-	-	Un	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	-	20160903
+10036	101839966	Ldoc1	-	-	-	Un	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1	20170201
 10036	101839967	Adat2	-	-	-	Un	-	adenosine deaminase, tRNA specific 2	protein-coding	-	-	-	-	20160903
 10036	101839968	LOC101839968	-	-	-	Un	-	V-type proton ATPase subunit d 1 pseudogene	pseudo	-	-	-	-	20151115
 10036	101839969	Pianp	-	-	-	Un	-	PILR alpha associated neural protein	protein-coding	-	-	-	-	20160903
@@ -20998,7 +20998,7 @@
 10036	101844439	Ash2l	-	-	-	Un	-	ASH2 like histone lysine methyltransferase complex subunit	protein-coding	-	-	-	-	20160729
 10036	101844440	Pm20d1	-	-	-	Un	-	peptidase M20 domain containing 1	protein-coding	-	-	-	-	20160716
 10036	101844441	LOC101844441	-	-	-	Un	-	chromosome unknown open reading frame, human C8orf59	protein-coding	-	-	-	-	20160903
-10036	101844442	Ldoc1l	-	-	-	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	-	20160903
+10036	101844442	Ldoc1l	-	-	-	Un	-	LDOC1 like	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1 like	20170201
 10036	101844443	LOC101844443	-	-	-	Un	-	THO complex subunit 4 pseudogene	pseudo	-	-	-	-	20151115
 10036	101844444	Nckap5l	-	-	-	Un	-	NCK associated protein 5 like	protein-coding	-	-	-	-	20160903
 10036	101844445	LOC101844445	-	-	-	Un	-	putative bifunctional UDP-N-acetylglucosamine transferase and deubiquitinase ALG13	pseudo	-	-	-	-	20151115

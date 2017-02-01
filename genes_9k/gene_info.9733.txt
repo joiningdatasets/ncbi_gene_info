@@ -9815,7 +9815,7 @@
 9733	101279330	VAMP1	-	-	-	Un	-	vesicle associated membrane protein 1	protein-coding	-	-	-	-	20160809
 9733	101279331	LOC101279331	-	-	-	Un	-	60S ribosomal protein L15-like	pseudo	-	-	-	-	20151115
 9733	101279332	PDE6C	-	-	-	Un	-	phosphodiesterase 6C	protein-coding	-	-	-	-	20160827
-9733	101279333	LDOC1L	-	-	-	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	-	20160827
+9733	101279333	LDOC1L	-	-	-	Un	-	LDOC1 like	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1 like	20170201
 9733	101279334	ZDHHC1	-	-	-	Un	-	zinc finger DHHC-type containing 1	protein-coding	-	-	-	-	20160729
 9733	101279335	EBF1	-	-	-	Un	-	early B-cell factor 1	protein-coding	-	-	-	-	20160924
 9733	101279336	LOC101279336	-	-	-	Un	-	60S ribosomal protein L37a-like	protein-coding	-	-	-	-	20160716
@@ -20345,7 +20345,7 @@
 9733	101290322	ALDH3B1	-	-	-	Un	-	aldehyde dehydrogenase 3 family member B1	protein-coding	-	-	-	-	20160809
 9733	101290323	COBL	-	-	-	Un	-	cordon-bleu WH2 repeat protein	protein-coding	-	-	-	-	20160716
 9733	101290324	PARL	-	-	-	Un	-	presenilin associated rhomboid like	protein-coding	-	-	-	-	20160827
-9733	101290325	LDOC1	-	-	-	Un	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	-	20160827
+9733	101290325	LDOC1	-	-	-	Un	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1	20170201
 9733	101290326	WNK1	-	-	-	Un	-	WNK lysine deficient protein kinase 1	protein-coding	-	-	-	-	20160827
 9733	101290327	LOC101290327	-	LIPF	-	Un	-	gastric triacylglycerol lipase	protein-coding	-	-	-	lipase, gastric	20160827
 9733	101290328	TMPRSS6	-	-	-	Un	-	transmembrane protease, serine 6	protein-coding	-	-	-	-	20160827

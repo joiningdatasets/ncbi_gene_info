@@ -1273,7 +1273,7 @@
 9545	105464300	LOC105464300	-	-	-	Un	-	uncharacterized LOC105464300	ncRNA	-	-	-	-	20151115
 9545	105464301	KIAA1644	-	-	-	Un	-	KIAA1644 ortholog	protein-coding	-	-	-	-	20161001
 9545	105464302	TAF9B	-	-	-	Un	-	TATA-box binding protein associated factor 9b	protein-coding	-	-	-	-	20160810
-9545	105464303	LDOC1L	-	-	-	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	-	20161001
+9545	105464303	LDOC1L	-	-	-	Un	-	LDOC1 like	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1 like	20170201
 9545	105464304	LOC105464304	-	-	-	Un	-	uncharacterized LOC105464304	ncRNA	-	-	-	-	20151115
 9545	105464305	LOC105464305	-	-	-	Un	-	uncharacterized LOC105464305	ncRNA	-	-	-	-	20151115
 9545	105464306	LOC105464306	-	-	-	Un	-	uncharacterized LOC105464306	ncRNA	-	-	-	-	20151115
@@ -36778,7 +36778,7 @@
 9545	105499805	LOC105499805	-	-	-	Un	-	melanoma-associated antigen C1-like	protein-coding	-	-	-	-	20161001
 9545	105499806	LOC105499806	-	-	-	Un	-	melanoma-associated antigen C3-like	protein-coding	-	-	-	-	20161001
 9545	105499807	LOC105499807	-	-	-	Un	-	uncharacterized LOC105499807	ncRNA	-	-	-	-	20151115
-9545	105499808	LDOC1	-	-	-	Un	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	-	20160910
+9545	105499808	LDOC1	-	-	-	Un	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1	20170201
 9545	105499809	LOC105499809	-	-	-	Un	-	uncharacterized LOC105499809	ncRNA	-	-	-	-	20151115
 9545	105499810	LOC105499810	-	-	-	Un	-	RNA-binding motif protein, X-linked 2-like	pseudo	-	-	-	-	20151115
 9545	105499811	LOC105499811	-	-	-	Un	-	uncharacterized LOC105499811	ncRNA	-	-	-	-	20151115

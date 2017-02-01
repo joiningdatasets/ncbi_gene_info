@@ -20522,7 +20522,7 @@
 379532	105825350	LOC105825350	-	-	-	Un	-	40S ribosomal protein S3a pseudogene	pseudo	-	-	-	-	20151115
 379532	105825351	UBE2W	-	-	-	Un	-	ubiquitin conjugating enzyme E2 W	protein-coding	-	-	-	ubiquitin-conjugating enzyme E2 W|ubiquitin conjugating enzyme E2 W (putative)	20170125
 379532	105825352	STAU2	-	-	-	Un	-	staufen double-stranded RNA binding protein 2	protein-coding	-	-	-	double-stranded RNA-binding protein Staufen homolog 2	20170125
-379532	105825353	LDOC1L	-	-	-	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	protein LDOC1L	20170125
+379532	105825353	LDOC1L	-	-	-	Un	-	LDOC1 like	protein-coding	-	-	-	protein LDOC1L|leucine zipper down-regulated in cancer 1 like	20170201
 379532	105825354	RPL7	-	-	-	Un	-	ribosomal protein L7	protein-coding	-	-	-	60S ribosomal protein L7	20170125
 379532	105825355	LOC105825355	-	-	-	Un	-	heterogeneous nuclear ribonucleoprotein A1-like	protein-coding	-	-	-	heterogeneous nuclear ribonucleoprotein A1-like	20170125
 379532	105825356	TRPA1	-	-	-	Un	-	transient receptor potential cation channel subfamily A member 1	protein-coding	-	-	-	transient receptor potential cation channel subfamily A member 1	20170125
@@ -22401,7 +22401,7 @@
 379532	105827229	AFF2	-	-	-	Un	-	AF4/FMR2 family member 2	protein-coding	-	-	-	AF4/FMR2 family member 2	20170125
 379532	105827230	SLITRK2	-	-	-	Un	-	SLIT and NTRK like family member 2	protein-coding	-	-	-	SLIT and NTRK-like protein 2	20170125
 379532	105827231	ACTN3	-	-	-	Un	-	actinin alpha 3	protein-coding	-	-	-	alpha-actinin-3	20170125
-379532	105827232	LDOC1	-	-	-	Un	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	protein LDOC1	20170125
+379532	105827232	LDOC1	-	-	-	Un	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	protein LDOC1|leucine zipper down-regulated in cancer 1	20170201
 379532	105827233	SLITRK4	-	-	-	Un	-	SLIT and NTRK like family member 4	protein-coding	-	-	-	SLIT and NTRK-like protein 4	20170125
 379532	105827234	LOC105827234	-	-	-	Un	-	regulator of microtubule dynamics protein 2-like	protein-coding	-	-	-	LOW QUALITY PROTEIN: regulator of microtubule dynamics protein 2-like	20170125
 379532	105827235	CDR1	-	-	-	Un	-	cerebellar degeneration related protein 1	protein-coding	-	-	-	LOW QUALITY PROTEIN: cerebellar degeneration-related antigen 1	20170125

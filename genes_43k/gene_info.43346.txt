@@ -3745,7 +3745,7 @@
 43346	104983338	POLR3GL	-	-	-	Un	-	RNA polymerase III subunit G like	protein-coding	-	-	-	-	20160827
 43346	104983339	ANKRD34A	-	-	-	Un	-	ankyrin repeat domain 34A	protein-coding	-	-	-	-	20160827
 43346	104983340	LIX1L	-	-	-	Un	-	limb and CNS expressed 1 like	protein-coding	-	-	-	-	20160924
-43346	104983341	LDOC1	-	-	-	Un	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	-	20160924
+43346	104983341	LDOC1	-	-	-	Un	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1	20170201
 43346	104983342	LOC104983342	-	-	-	Un	-	60S ribosomal protein L31 pseudogene	pseudo	-	-	-	-	20151115
 43346	104983343	MACC1	-	-	-	Un	-	MACC1, MET transcriptional regulator	protein-coding	-	-	-	-	20160924
 43346	104983344	ITGB8	-	-	-	Un	-	integrin subunit beta 8	protein-coding	-	-	-	-	20160809
@@ -7297,7 +7297,7 @@
 43346	104986890	PARVG	-	-	-	Un	-	parvin gamma	protein-coding	-	-	-	-	20160924
 43346	104986891	LOC104986891	-	-	-	Un	-	phosphatidylcholine transfer protein-like	protein-coding	-	-	-	-	20160924
 43346	104986892	KIAA1644	-	-	-	Un	-	KIAA1644 ortholog	protein-coding	-	-	-	-	20160924
-43346	104986893	LDOC1L	-	-	-	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	-	20160827
+43346	104986893	LDOC1L	-	-	-	Un	-	LDOC1 like	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1 like	20170201
 43346	104986894	PRR5	-	-	-	Un	-	proline rich 5	protein-coding	-	-	-	-	20160924
 43346	104986895	ARHGAP8	-	-	-	Un	-	Rho GTPase activating protein 8	protein-coding	-	-	-	-	20160924
 43346	104986896	NUP50	-	-	-	Un	-	nucleoporin 50	protein-coding	-	-	-	-	20160827

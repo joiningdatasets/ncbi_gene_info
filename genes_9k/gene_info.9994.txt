@@ -19107,7 +19107,7 @@
 9994	107152568	LOC107152568	-	-	-	Un	-	ribose-phosphate pyrophosphokinase 1-like	pseudo	-	-	-	-	20160130
 9994	107152569	LOC107152569	-	-	-	Un	-	high mobility group protein B1 pseudogene	pseudo	-	-	-	-	20160130
 9994	107152570	LOC107152570	-	-	-	Un	-	melanoma-associated antigen 10-like	protein-coding	-	-	-	-	20160730
-9994	107152571	Ldoc1	-	-	-	Un	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	-	20160730
+9994	107152571	Ldoc1	-	-	-	Un	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1	20170201
 9994	107152572	LOC107152572	-	-	-	Un	-	E3 ubiquitin-protein ligase RNF115 pseudogene	pseudo	-	-	-	-	20160130
 9994	107152573	Cdr1	-	-	-	Un	-	cerebellar degeneration related protein 1	protein-coding	-	-	-	-	20160130
 9994	107152574	LOC107152574	-	-	-	Un	-	NTF2-related export protein 2-like	pseudo	-	-	-	-	20160130
@@ -22347,7 +22347,7 @@
 9994	107155808	Fam118a	-	-	-	Un	-	family with sequence similarity 118 member A	protein-coding	-	-	-	-	20160730
 9994	107155809	Nup50	-	-	-	Un	-	nucleoporin 50	protein-coding	-	-	-	-	20160730
 9994	107155810	Phf21b	-	-	-	Un	-	PHD finger protein 21B	protein-coding	-	-	-	-	20160730
-9994	107155811	Ldoc1l	-	-	-	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	-	20160730
+9994	107155811	Ldoc1l	-	-	-	Un	-	LDOC1 like	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1 like	20170201
 9994	107155812	Kiaa1644	-	-	-	Un	-	KIAA1644 ortholog	protein-coding	-	-	-	-	20160730
 9994	107155813	Pnpla3	-	-	-	Un	-	patatin like phospholipase domain containing 3	protein-coding	-	-	-	-	20160730
 9994	107155814	Tspo	-	-	-	Un	-	translocator protein	protein-coding	-	-	-	-	20160730

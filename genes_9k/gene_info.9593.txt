@@ -8944,7 +8944,7 @@
 9593	101134496	NOV	-	-	Ensembl:ENSGGOG00000002777	8	-	nephroblastoma overexpressed	protein-coding	-	-	-	protein NOV homolog	20161110
 9593	101134497	MROH5	-	-	-	8	-	maestro heat like repeat family member 5	protein-coding	-	-	-	-	20161110
 9593	101134501	LOC101134501	-	-	-	X	-	zinc finger protein interacting with ribonucleoprotein K pseudogene	pseudo	-	-	-	-	20161110
-9593	101134502	LDOC1	-	-	Ensembl:ENSGGOG00000026272	X	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	-	20161110
+9593	101134502	LDOC1	-	-	Ensembl:ENSGGOG00000026272	X	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1	20170201
 9593	101134503	LOC101134503	-	TRMT10B	Ensembl:ENSGGOG00000028379	9	-	tRNA methyltransferase 10 homolog B	protein-coding	-	-	-	tRNA methyltransferase 10B	20161110
 9593	101134505	RMI1	-	-	Ensembl:ENSGGOG00000014198	9	-	RecQ mediated genome instability 1	protein-coding	-	-	-	-	20161110
 9593	101134506	INVS	-	-	Ensembl:ENSGGOG00000027423	9	-	inversin	protein-coding	-	-	-	-	20161110

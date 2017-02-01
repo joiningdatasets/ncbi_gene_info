@@ -5553,7 +5553,7 @@
 9365	103112727	LOC103112727	-	-	-	Un	-	olfactory receptor 2G3-like	protein-coding	-	-	-	-	20160806
 9365	103112728	LOC103112728	-	-	-	Un	-	olfactory receptor 2G3-like	protein-coding	-	-	-	-	20160806
 9365	103112729	LOC103112729	-	-	-	Un	-	putative olfactory receptor 2B3	protein-coding	-	-	-	-	20160910
-9365	103112730	LDOC1L	-	-	-	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	-	20160910
+9365	103112730	LDOC1L	-	-	-	Un	-	LDOC1 like	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1 like	20170201
 9365	103112731	PARVG	-	-	-	Un	-	parvin gamma	protein-coding	-	-	-	-	20160910
 9365	103112732	MYLK4	-	-	-	Un	-	myosin light chain kinase family member 4	protein-coding	-	-	-	-	20160910
 9365	103112733	SAT2	-	-	-	Un	-	spermidine/spermine N1-acetyltransferase family member 2	protein-coding	-	-	-	-	20160910
@@ -8722,7 +8722,7 @@
 9365	103115972	LOC103115972	-	-	-	Un	-	uncharacterized protein C14orf53 homolog	protein-coding	-	-	-	-	20160416
 9365	103115973	SLITRK4	-	-	-	Un	-	SLIT and NTRK like family member 4	protein-coding	-	-	-	-	20160910
 9365	103115974	LOC103115974	-	-	-	Un	-	up-regulated during skeletal muscle growth protein 5 pseudogene	pseudo	-	-	-	-	20160416
-9365	103115975	LDOC1	-	-	-	Un	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	-	20160910
+9365	103115975	LDOC1	-	-	-	Un	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1	20170201
 9365	103115977	NPL	-	-	-	Un	-	N-acetylneuraminate pyruvate lyase	protein-coding	-	-	-	-	20160910
 9365	103115978	RGS8	-	-	-	Un	-	regulator of G-protein signaling 8	protein-coding	-	-	-	-	20160423
 9365	103115979	RGS16	-	-	-	Un	-	regulator of G-protein signaling 16	protein-coding	-	-	-	-	20160423

@@ -27516,7 +27516,7 @@
 10029	107977056	LOC107977056	-	-	-	Un	-	olfactory receptor 10J3-like	protein-coding	-	-	-	-	20161005
 10029	107977057	Rhof	-	-	-	Un	-	ras homolog family member F, filopodia associated	protein-coding	-	-	-	ras homolog family member F (in filopodia)	20160813
 10029	107977058	LOC107977058	-	-	-	Un	-	ORM1-like protein 1 pseudogene	pseudo	-	-	-	-	20160601
-10029	107977059	Ldoc1l	-	-	-	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	-	20160813
+10029	107977059	Ldoc1l	-	-	-	Un	-	LDOC1 like	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1 like	20170201
 10029	107977060	Pam16	-	-	-	Un	-	presequence translocase associated motor 16 homolog	protein-coding	-	-	-	-	20160728
 10029	107977061	LOC107977061	-	-	-	Un	-	proteasome subunit alpha type-3 pseudogene	pseudo	-	-	-	-	20160601
 10029	107977062	LOC107977062	-	-	-	Un	-	H-2 class I histocompatibility antigen, Q10 alpha chain-like	protein-coding	-	-	-	-	20160910

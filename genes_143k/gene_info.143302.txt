@@ -5856,7 +5856,7 @@
 143302	101624498	ZNF330	-	-	-	Un	-	zinc finger protein 330	protein-coding	-	-	-	zinc finger protein 330	20170128
 143302	101624499	NEFM	-	-	-	Un	-	neurofilament medium	protein-coding	-	-	-	neurofilament medium polypeptide|neurofilament, medium polypeptide	20170128
 143302	101624500	TCEAL7	-	-	-	Un	-	transcription elongation factor A like 7	protein-coding	-	-	-	transcription elongation factor A protein-like 7	20170128
-143302	101624501	LDOC1	-	-	-	Un	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	protein LDOC1	20170128
+143302	101624501	LDOC1	-	-	-	Un	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	protein LDOC1|leucine zipper down-regulated in cancer 1	20170201
 143302	101624502	LOC101624502	-	-	-	Un	-	interleukin-36 gamma-like	protein-coding	-	-	-	interleukin-36 gamma-like	20170128
 143302	101624503	NCOA1	-	-	-	Un	-	nuclear receptor coactivator 1	protein-coding	-	-	-	nuclear receptor coactivator 1	20170128
 143302	101624504	CD40	-	-	-	Un	-	CD40 molecule	protein-coding	-	-	-	tumor necrosis factor receptor superfamily member 5	20170128

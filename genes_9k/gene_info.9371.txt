@@ -19675,7 +19675,7 @@
 9371	101659802	DTL	-	-	-	Un	-	denticleless E3 ubiquitin protein ligase homolog	protein-coding	-	-	-	denticleless protein homolog	20160903
 9371	101659803	BNIPL	-	-	-	Un	-	BCL2 interacting protein like	protein-coding	-	-	-	-	20160903
 9371	101659804	LOC101659804	-	-	-	Un	-	phosphatidylinositol N-acetylglucosaminyltransferase subunit Y	protein-coding	-	-	-	-	20160903
-9371	101659805	LDOC1L	-	-	-	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	-	20160903
+9371	101659805	LDOC1L	-	-	-	Un	-	LDOC1 like	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1 like	20170201
 9371	101659806	PLA2G3	-	-	-	Un	-	phospholipase A2 group III	protein-coding	-	-	-	-	20160903
 9371	101659807	MDM1	-	-	-	Un	-	Mdm1 nuclear protein	protein-coding	-	-	-	Mdm1 nuclear protein homolog	20160903
 9371	101659808	ATP5B	-	-	-	Un	-	ATP synthase, H+ transporting, mitochondrial F1 complex, beta polypeptide	protein-coding	-	-	-	-	20160903
@@ -20188,7 +20188,7 @@
 9371	101660398	MYCN	-	-	-	Un	-	v-myc avian myelocytomatosis viral oncogene neuroblastoma derived homolog	protein-coding	-	-	-	v-myc myelocytomatosis viral related oncogene, neuroblastoma derived	20160716
 9371	101660399	TPBG	-	-	-	Un	-	trophoblast glycoprotein	protein-coding	-	-	-	-	20160903
 9371	101660400	FBXW11	-	-	-	Un	-	F-box and WD repeat domain containing 11	protein-coding	-	-	-	-	20160813
-9371	101660401	LDOC1	-	-	-	Un	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	-	20160903
+9371	101660401	LDOC1	-	-	-	Un	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1	20170201
 9371	101660402	LARP1	-	-	-	Un	-	La ribonucleoprotein domain family member 1	protein-coding	-	-	-	-	20160729
 9371	101660403	LSS	-	-	-	Un	-	lanosterol synthase	protein-coding	-	-	-	lanosterol synthase (2,3-oxidosqualene-lanosterol cyclase)	20170111
 9371	101660404	DPF2	-	-	-	Un	-	double PHD fingers 2	protein-coding	-	-	-	-	20160729

@@ -12681,7 +12681,7 @@
 30538	102537692	NT5C2	-	-	-	Un	-	5'-nucleotidase, cytosolic II	protein-coding	-	-	-	-	20160910
 30538	102537693	NUDT22	-	-	-	Un	-	nudix hydrolase 22	protein-coding	-	-	-	nudix (nucleoside diphosphate linked moiety X)-type motif 22	20151231
 30538	102537694	SLC22A11	-	-	-	Un	-	solute carrier family 22 member 11	protein-coding	-	-	-	-	20160730
-30538	102537695	LDOC1	-	-	-	Un	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	-	20160910
+30538	102537695	LDOC1	-	-	-	Un	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1	20170201
 30538	102537696	LOC102537696	-	-	-	Un	-	chromosome unknown open reading frame, human C17orf105	protein-coding	-	-	-	-	20160910
 30538	102537697	ZNF629	-	-	-	Un	-	zinc finger protein 629	protein-coding	-	-	-	-	20160730
 30538	102537698	SPR	-	-	-	Un	-	sepiapterin reductase (7,8-dihydrobiopterin:NADP+ oxidoreductase)	protein-coding	-	-	-	-	20160730
@@ -20260,7 +20260,7 @@
 30538	102545561	ARL15	-	-	-	Un	-	ADP ribosylation factor like GTPase 15	protein-coding	-	-	-	ADP-ribosylation factor-like 15	20160910
 30538	102545563	CD320	-	-	-	Un	-	CD320 molecule	protein-coding	-	-	-	-	20160206
 30538	102545564	RAD18	-	-	-	Un	-	RAD18, E3 ubiquitin protein ligase	protein-coding	-	-	-	RAD18 homolog	20160910
-30538	102545565	LDOC1L	-	-	-	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	-	20160910
+30538	102545565	LDOC1L	-	-	-	Un	-	LDOC1 like	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1 like	20170201
 30538	102545566	PRKAB2	-	-	-	Un	-	protein kinase AMP-activated non-catalytic subunit beta 2	protein-coding	-	-	-	-	20160924
 30538	102545567	LOC102545567	-	GZMB	-	Un	-	granzyme B	protein-coding	-	-	-	granzyme B (granzyme 2, cytotoxic T-lymphocyte-associated serine esterase 1)	20160206
 30538	102545568	LOC102545568	-	-	-	Un	-	MARCKS-related protein-like	pseudo	-	-	-	-	20151231

@@ -17913,7 +17913,7 @@
 10141	100731708	Mtmr14	-	-	-	Un	-	myotubularin related protein 14	protein-coding	-	-	-	-	20160903
 10141	100731709	Evc2	-	-	-	Un	-	EvC ciliary complex subunit 2	protein-coding	-	-	-	-	20160729
 10141	100731710	Ccdc69	-	-	-	Un	-	coiled-coil domain containing 69	protein-coding	-	-	-	-	20160716
-10141	100731711	Ldoc1	-	-	-	Un	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	-	20160813
+10141	100731711	Ldoc1	-	-	-	Un	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1	20170201
 10141	100731712	LOC100731712	-	-	-	Un	-	melanoma-associated antigen B2-like	protein-coding	-	-	-	-	20160903
 10141	100731713	Actg1	-	-	-	Un	-	actin gamma 1	protein-coding	-	-	-	cytoplasmic actin	20160827
 10141	100731714	LOC100731714	-	-	-	Un	-	Ig heavy chain V-III region 23-like	other	-	-	-	-	20151115
@@ -22328,7 +22328,7 @@
 10141	101787435	LOC101787435	-	-	-	Un	-	uncharacterized LOC101787435	protein-coding	-	-	-	-	20160716
 10141	101787436	LOC101787436	-	-	-	Un	-	uncharacterized LOC101787436	ncRNA	-	-	-	-	20151115
 10141	101787437	LOC101787437	-	-	-	Un	-	mucin-2-like	protein-coding	-	-	-	-	20151115
-10141	101787440	Ldoc1l	-	-	-	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	-	20160903
+10141	101787440	Ldoc1l	-	-	-	Un	-	LDOC1 like	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1 like	20170201
 10141	101787441	LOC101787441	-	-	-	Un	-	melanoma-associated antigen 10-like	protein-coding	-	-	-	-	20160903
 10141	101787445	LOC101787445	-	-	-	Un	-	olfactory receptor 2L5-like	pseudo	-	-	-	-	20151115
 10141	101787447	Hhla1	-	-	-	Un	-	HERV-H LTR-associating 1	protein-coding	-	-	-	-	20160102

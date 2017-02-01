@@ -7405,7 +7405,7 @@
 9838	105091535	LOC105091535	-	-	-	Un	-	CD109 antigen-like	pseudo	-	-	-	-	20151115
 9838	105091536	LOC105091536	-	-	-	Un	-	actin, cytoplasmic 2-like	pseudo	-	-	-	-	20151115
 9838	105091537	SLITRK4	-	-	-	Un	-	SLIT and NTRK like family member 4	protein-coding	-	-	-	-	20160903
-9838	105091538	LDOC1	-	-	-	Un	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	-	20160924
+9838	105091538	LDOC1	-	-	-	Un	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1	20170201
 9838	105091539	CXCL11	-	-	-	Un	-	C-X-C motif chemokine ligand 11	protein-coding	-	-	-	-	20160729
 9838	105091540	LOC105091540	-	-	-	Un	-	RNA polymerase II subunit A C-terminal domain phosphatase SSU72 pseudogene	pseudo	-	-	-	-	20151115
 9838	105091541	KIT	-	-	-	Un	-	KIT proto-oncogene receptor tyrosine kinase	protein-coding	-	-	-	-	20160924
@@ -7719,7 +7719,7 @@
 9838	105091849	KIAA0930	-	-	-	Un	-	KIAA0930 ortholog	protein-coding	-	-	-	-	20160924
 9838	105091850	NUP50	-	-	-	Un	-	nucleoporin 50	protein-coding	-	-	-	-	20160924
 9838	105091851	LOC105091851	-	-	-	Un	-	rho GTPase-activating protein 8-like	protein-coding	-	-	-	-	20160924
-9838	105091852	LDOC1L	-	-	-	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	-	20160903
+9838	105091852	LDOC1L	-	-	-	Un	-	LDOC1 like	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1 like	20170201
 9838	105091853	KIAA1644	-	-	-	Un	-	KIAA1644 ortholog	protein-coding	-	-	-	-	20160924
 9838	105091854	PARVG	-	-	-	Un	-	parvin gamma	protein-coding	-	-	-	-	20160924
 9838	105091855	HNRNPDL	-	-	-	Un	-	heterogeneous nuclear ribonucleoprotein D like	protein-coding	-	-	-	-	20160903

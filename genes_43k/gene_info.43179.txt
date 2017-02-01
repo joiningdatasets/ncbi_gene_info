@@ -11832,7 +11832,7 @@
 43179	101966480	Slitrk3	-	-	Ensembl:ENSSTOG00000023175	Un	-	SLIT and NTRK like family member 3	protein-coding	-	-	-	-	20160910
 43179	101966481	Trim62	-	-	Ensembl:ENSSTOG00000021914	Un	-	tripartite motif containing 62	protein-coding	-	-	-	-	20160910
 43179	101966482	Cd9	-	-	Ensembl:ENSSTOG00000001348	Un	-	CD9 molecule	protein-coding	-	-	-	-	20160910
-43179	101966483	Ldoc1l	-	-	Ensembl:ENSSTOG00000005224	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	-	20160910
+43179	101966483	Ldoc1l	-	-	Ensembl:ENSSTOG00000005224	Un	-	LDOC1 like	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1 like	20170201
 43179	101966484	LOC101966484	-	-	Ensembl:ENSSTOG00000021130	Un	-	HLA class I histocompatibility antigen, B-42 alpha chain-like	protein-coding	-	-	-	-	20160730
 43179	101966485	LOC101966485	-	-	-	Un	-	olfactory receptor 2B11-like	pseudo	-	-	-	-	20151115
 43179	101966486	Als2cr12	-	-	Ensembl:ENSSTOG00000006296	Un	-	amyotrophic lateral sclerosis 2 chromosome region 12	protein-coding	-	-	-	amyotrophic lateral sclerosis 2 chromosome region candidate 12	20170130
@@ -12509,7 +12509,7 @@
 43179	101967182	Ttc30b	-	-	Ensembl:ENSSTOG00000003267	Un	-	tetratricopeptide repeat domain 30B	protein-coding	-	-	-	-	20160910
 43179	101967183	Cfap206	-	-	Ensembl:ENSSTOG00000025680	Un	-	cilia and flagella associated protein 206	protein-coding	-	-	-	UPF0704 protein C6orf165 homolog	20160910
 43179	101967184	Krt80	-	-	Ensembl:ENSSTOG00000024405	Un	-	keratin 80	protein-coding	-	-	-	-	20160910
-43179	101967185	Ldoc1	-	-	Ensembl:ENSSTOG00000019751	Un	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	-	20160910
+43179	101967185	Ldoc1	-	-	Ensembl:ENSSTOG00000019751	Un	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1	20170201
 43179	101967186	Helz2	-	-	Ensembl:ENSSTOG00000023572	Un	-	helicase with zinc finger 2	protein-coding	-	-	-	-	20160730
 43179	101967187	LOC101967187	-	-	-	Un	-	60S ribosomal protein L7 pseudogene	pseudo	-	-	-	-	20151115
 43179	101967188	Epha1	-	-	Ensembl:ENSSTOG00000005116	Un	-	EPH receptor A1	protein-coding	-	-	-	-	20160910

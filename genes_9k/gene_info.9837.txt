@@ -5555,7 +5555,7 @@
 9837	105067062	LOC105067062	-	-	-	Un	-	60S ribosomal protein L29-like	pseudo	-	-	-	-	20151115
 9837	105067063	ATP11C	-	-	-	Un	-	ATPase phospholipid transporting 11C	protein-coding	-	-	-	-	20160924
 9837	105067064	CDR1	-	-	-	Un	-	cerebellar degeneration related protein 1	protein-coding	-	-	-	-	20160809
-9837	105067065	LDOC1	-	-	-	Un	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	-	20160924
+9837	105067065	LDOC1	-	-	-	Un	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1	20170201
 9837	105067066	STK32C	-	-	-	Un	-	serine/threonine kinase 32C	protein-coding	-	-	-	-	20151115
 9837	105067067	LOC105067067	-	-	-	Un	-	RNA polymerase II subunit A C-terminal domain phosphatase SSU72 pseudogene	pseudo	-	-	-	-	20151115
 9837	105067068	SLITRK4	-	-	-	Un	-	SLIT and NTRK like family member 4	protein-coding	-	-	-	-	20160924
@@ -11522,7 +11522,7 @@
 9837	105073029	NUP50	-	-	-	Un	-	nucleoporin 50	protein-coding	-	-	-	-	20160910
 9837	105073030	LOC105073030	-	-	-	Un	-	rho GTPase-activating protein 8-like	protein-coding	-	-	-	-	20160924
 9837	105073031	PRR5	-	-	-	Un	-	proline rich 5	protein-coding	-	-	-	-	20160924
-9837	105073032	LDOC1L	-	-	-	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	-	20160903
+9837	105073032	LDOC1L	-	-	-	Un	-	LDOC1 like	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1 like	20170201
 9837	105073033	KIAA1644	-	-	-	Un	-	KIAA1644 ortholog	protein-coding	-	-	-	-	20160924
 9837	105073034	CXADR	-	-	-	Un	-	coxsackie virus and adenovirus receptor	protein-coding	-	-	-	-	20160924
 9837	105073035	PARVG	-	-	-	Un	-	parvin gamma	protein-coding	-	-	-	-	20160924

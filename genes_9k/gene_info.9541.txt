@@ -4994,7 +4994,7 @@
 9541	102115455	ASXL3	-	-	-	18	-	additional sex combs like 3, transcriptional regulator	protein-coding	-	-	-	-	20170104
 9541	102115457	LOC102115457	-	-	-	2	-	uncharacterized LOC102115457	ncRNA	-	-	-	-	20160526
 9541	102115459	LOC102115459	-	-	-	18	-	axin interactor, dorsalization-associated protein pseudogene	pseudo	-	-	-	-	20160526
-9541	102115460	LDOC1L	-	-	-	10	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	-	20160910
+9541	102115460	LDOC1L	-	-	-	10	-	LDOC1 like	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1 like	20170201
 9541	102115461	LOC102115461	-	-	-	19	-	ATP synthase F(0) complex subunit C1, mitochondrial pseudogene	pseudo	-	-	-	-	20160526
 9541	102115463	LOC102115463	-	-	-	10	-	uncharacterized LOC102115463	ncRNA	-	-	-	-	20160526
 9541	102115465	LOC102115465	-	-	-	3	-	uncharacterized LOC102115465	ncRNA	-	-	-	-	20160526
@@ -8594,7 +8594,7 @@
 9541	102120118	LOC102120118	-	-	-	X	-	28S ribosomal protein S31, mitochondrial pseudogene	pseudo	-	-	-	-	20160526
 9541	102120119	LOC102120119	-	-	-	4	-	small ubiquitin-related modifier 2 pseudogene	pseudo	-	-	-	-	20160526
 9541	102120120	LOC102120120	-	-	-	4	-	pyruvate kinase PKM pseudogene	pseudo	-	-	-	-	20160526
-9541	102120121	LDOC1	-	-	-	X	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	-	20160910
+9541	102120121	LDOC1	-	-	-	X	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1	20170201
 9541	102120123	LOC102120123	-	-	-	3	-	putative uncharacterized protein FLJ44672	protein-coding	-	-	-	-	20160129
 9541	102120124	LOC102120124	-	-	-	20	-	mpv17-like protein	protein-coding	-	-	-	-	20160910
 9541	102120126	LOC102120126	-	-	-	Un	-	Ig heavy chain V-III region 23-like	other	-	-	-	-	20160129

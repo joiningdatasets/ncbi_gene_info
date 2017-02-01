@@ -477,7 +477,7 @@
 9798	103540357	LOC103540357	-	-	-	Un	-	disintegrin and metalloproteinase domain-containing protein 20-like	protein-coding	-	-	-	-	20160917
 9798	103540358	SNX7	-	-	-	Un	-	sorting nexin 7	protein-coding	-	-	-	-	20151115
 9798	103540359	ABLIM1	-	-	-	Un	-	actin binding LIM protein 1	protein-coding	-	-	-	-	20160924
-9798	103540360	LDOC1	-	-	-	Un	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	-	20160827
+9798	103540360	LDOC1	-	-	-	Un	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1	20170201
 9798	103540361	LOC103540361	-	-	-	Un	-	Ig kappa chain V region EV15-like	other	-	-	-	-	20151115
 9798	103540362	IFITM10	-	-	-	Un	-	interferon induced transmembrane protein 10	protein-coding	-	-	-	-	20160917
 9798	103540363	LOC103540363	-	-	-	Un	-	uncharacterized LOC103540363	ncRNA	-	-	-	-	20151115
@@ -4474,7 +4474,7 @@
 9798	103544354	LOC103544354	-	-	-	Un	-	tumor necrosis factor receptor superfamily member 19-like	protein-coding	-	-	-	-	20151115
 9798	103544355	LOC103544355	-	-	-	Un	-	aflatoxin B1 aldehyde reductase member 2-like	protein-coding	-	-	-	-	20160917
 9798	103544356	LOC103544356	-	-	-	Un	-	uncharacterized LOC103544356	ncRNA	-	-	-	-	20151115
-9798	103544357	LDOC1L	-	-	-	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	-	20160917
+9798	103544357	LDOC1L	-	-	-	Un	-	LDOC1 like	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1 like	20170201
 9798	103544358	LOC103544358	-	-	-	Un	-	E3 ubiquitin-protein ligase HUWE1-like	protein-coding	-	-	-	-	20151115
 9798	103544359	RBM3	-	-	-	Un	-	RNA binding motif (RNP1, RRM) protein 3	protein-coding	-	-	-	-	20160917
 9798	103544360	LOC103544360	-	-	-	Un	-	histone-lysine N-methyltransferase SUV39H2-like	protein-coding	-	-	-	-	20151115

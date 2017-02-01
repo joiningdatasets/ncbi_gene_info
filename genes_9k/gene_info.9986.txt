@@ -8934,7 +8934,7 @@
 9986	100345626	SH3BGRL	-	-	-	X	-	SH3 domain binding glutamate rich protein like	protein-coding	-	-	-	SH3 domain binding glutamic acid-rich protein like	20160827
 9986	100345627	TMSB15A	-	-	-	X	-	thymosin beta 15a	protein-coding	-	-	-	thymosin-like 8	20160806
 9986	100345629	LOC100345629	-	-	-	Un	-	olfactory receptor 1468-like	protein-coding	-	-	-	-	20160806
-9986	100345630	LDOC1	-	-	-	Un	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	-	20160806
+9986	100345630	LDOC1	-	-	-	Un	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1	20170201
 9986	100345631	LOC100345631	-	-	-	Un	-	testis-expressed sequence 10 protein-like	pseudo	-	-	-	-	20160626
 9986	100345632	AURKA	-	-	Ensembl:ENSOCUG00000017898	Un	-	aurora kinase A	protein-coding	-	-	-	-	20161005
 9986	100345633	LOC100345633	-	-	-	Un	-	nuclease-sensitive element-binding protein 1 pseudogene	pseudo	-	-	-	-	20160626

@@ -1751,7 +1751,7 @@
 9796	100051277	PROX2	-	-	-	24	-	prospero homeobox 2	protein-coding	-	-	-	-	20160910
 9796	100051279	DCTD	-	-	Ensembl:ENSECAG00000017516	27	-	dCMP deaminase	protein-coding	-	-	-	-	20160526
 9796	100051280	C28H12orf29	-	-	Ensembl:ENSECAG00000019028	28	-	chromosome 28 open reading frame, human C12orf29	protein-coding	-	-	-	uncharacterized protein C12orf29 homolog	20160526
-9796	100051281	LDOC1L	-	-	Ensembl:ENSECAG00000001294	28	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	-	20160924
+9796	100051281	LDOC1L	-	-	Ensembl:ENSECAG00000001294	28	-	LDOC1 like	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1 like	20170201
 9796	100051282	GNAO1	-	-	Ensembl:ENSECAG00000013133	3	-	G protein subunit alpha o1	protein-coding	-	-	-	-	20160806
 9796	100051283	SEPT11	-	-	Ensembl:ENSECAG00000005768	3	-	septin 11	protein-coding	-	-	-	-	20160526
 9796	100051284	GALNS	-	-	Ensembl:ENSECAG00000008732	3	-	galactosamine (N-acetyl)-6-sulfatase	protein-coding	-	-	-	galactosamine (N-acetyl)-6-sulfate sulfatase	20160910
@@ -5373,7 +5373,7 @@
 9796	100055771	LOC100055771	-	-	-	9	-	eukaryotic translation initiation factor 4B pseudogene	pseudo	-	-	-	-	20160526
 9796	100055772	VPS13B	-	-	Ensembl:ENSECAG00000019852	9	-	vacuolar protein sorting 13 homolog B	protein-coding	-	-	-	Vacuolar protein sorting-associated protein 13B-like protein	20160813
 9796	100055773	LOC100055773	-	-	-	5	-	late cornified envelope protein 3B-like	protein-coding	-	-	-	-	20160924
-9796	100055774	LDOC1	-	-	Ensembl:ENSECAG00000006527	X	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	-	20160924
+9796	100055774	LDOC1	-	-	Ensembl:ENSECAG00000006527	X	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1	20170201
 9796	100055776	LOC100055776	-	-	Ensembl:ENSECAG00000006606	5	-	olfactory receptor 10K1-like	protein-coding	-	-	-	-	20160716
 9796	100055778	LOC100055778	-	-	-	6	-	olfactory receptor 6C74-like	pseudo	-	-	-	-	20160526
 9796	100055780	LOC100055780	-	-	Ensembl:ENSECAG00000005812	12	-	olfactory receptor 5W2-like	protein-coding	-	-	-	-	20160716

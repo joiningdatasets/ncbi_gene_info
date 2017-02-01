@@ -2623,7 +2623,7 @@
 9568	105530366	VWC2L	-	-	-	Un	-	von Willebrand factor C domain containing protein 2-like	protein-coding	-	-	-	-	20160827
 9568	105530367	BARD1	-	-	-	Un	-	BRCA1 associated RING domain 1	protein-coding	-	-	-	-	20161001
 9568	105530368	ABCA12	-	-	-	Un	-	ATP binding cassette subfamily A member 12	protein-coding	-	-	-	-	20161001
-9568	105530369	LDOC1	-	-	-	Un	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	-	20160910
+9568	105530369	LDOC1	-	-	-	Un	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1	20170201
 9568	105530370	CDR1	-	-	-	Un	-	cerebellar degeneration related protein 1	protein-coding	-	-	-	-	20160809
 9568	105530371	MAGEC1	-	-	-	Un	-	MAGE family member C1	protein-coding	-	-	-	-	20161001
 9568	105530372	MAGEC3	-	-	-	Un	-	MAGE family member C3	protein-coding	-	-	-	-	20160811
@@ -14710,7 +14710,7 @@
 9568	105542453	PARVG	-	-	-	Un	-	parvin gamma	protein-coding	-	-	-	-	20161001
 9568	105542454	LOC105542454	-	-	-	Un	-	uncharacterized LOC105542454	ncRNA	-	-	-	-	20151115
 9568	105542455	LOC105542455	-	-	-	Un	-	uncharacterized LOC105542455	ncRNA	-	-	-	-	20151115
-9568	105542456	LDOC1L	-	-	-	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	-	20161001
+9568	105542456	LDOC1L	-	-	-	Un	-	LDOC1 like	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1 like	20170201
 9568	105542457	PRR5	-	-	-	Un	-	proline rich 5	protein-coding	-	-	-	-	20161001
 9568	105542458	DYRK1B	-	-	-	Un	-	dual specificity tyrosine phosphorylation regulated kinase 1B	protein-coding	-	-	-	-	20160729
 9568	105542459	ARHGAP8	-	-	-	Un	-	Rho GTPase activating protein 8	protein-coding	-	-	-	-	20161001

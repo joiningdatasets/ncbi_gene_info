@@ -2075,7 +2075,7 @@
 9597	100969655	LOC100969655	-	-	-	X	-	melanoma-associated antigen D4	protein-coding	-	-	-	-	20160827
 9597	100969656	LOC100969656	-	-	-	Un	-	cytochrome P450 2W1-like	protein-coding	-	-	-	-	20160827
 9597	100969657	LOC100969657	-	-	-	Un	-	ubiquitin carboxyl-terminal hydrolase 17-like protein 22	protein-coding	-	-	-	-	20160827
-9597	100969658	LDOC1	-	-	-	X	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	Protein LDOC1	20161031
+9597	100969658	LDOC1	-	-	-	X	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	Protein LDOC1|leucine zipper down-regulated in cancer 1	20170201
 9597	100969659	NAA10	-	-	-	X	-	N(alpha)-acetyltransferase 10, NatA catalytic subunit	protein-coding	-	-	-	-	20160827
 9597	100969660	PLCB1	-	-	-	20	-	phospholipase C beta 1	protein-coding	-	-	-	-	20160813
 9597	100969661	ACBD5	-	-	-	10	-	acyl-CoA binding domain containing 5	protein-coding	-	-	-	-	20160526
@@ -14349,7 +14349,7 @@
 9597	100984173	MAPK10	-	-	-	4	-	mitogen-activated protein kinase 10	protein-coding	-	-	-	-	20160526
 9597	100984175	PLEKHG1	-	-	-	6	-	pleckstrin homology and RhoGEF domain containing G1	protein-coding	-	-	-	-	20160827
 9597	100984177	LOC100984177	-	-	-	11	-	uncharacterized LOC100984177	ncRNA	-	-	-	-	20160526
-9597	100984179	LDOC1L	-	-	-	22	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	protein LDOC1L-like	20160827
+9597	100984179	LDOC1L	-	-	-	22	-	LDOC1 like	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1 like|protein LDOC1L-like	20170201
 9597	100984180	LOC100984180	-	-	-	19	-	cytochrome P450 2B6	protein-coding	-	-	-	-	20160917
 9597	100984181	PCDHGC4	-	-	-	-	-	protocadherin gamma subfamily C, 4	protein-coding	-	-	-	-	20160402
 9597	100984182	LOC100984182	-	-	-	5	-	uncharacterized LOC100984182	ncRNA	-	-	-	-	20160526

@@ -18130,7 +18130,7 @@
 225400	102770460	LOC102770460	-	-	-	Un	-	olfactory receptor 6C2-like	protein-coding	-	-	-	olfactory receptor 6C2-like	20170125
 225400	102770461	LOC102770461	-	-	-	Un	-	arginase-2, mitochondrial-like	pseudo	-	-	-	-	20160211
 225400	102770462	BET1	-	-	-	Un	-	Bet1 golgi vesicular membrane trafficking protein	protein-coding	-	-	-	BET1 homolog	20170125
-225400	102770463	LDOC1	-	-	-	Un	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	protein LDOC1	20170125
+225400	102770463	LDOC1	-	-	-	Un	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	protein LDOC1|leucine zipper down-regulated in cancer 1	20170201
 225400	102770464	LOC102770464	MDA_GLEAN10007114	-	-	Un	-	taste receptor type 2 member 42	protein-coding	-	-	-	taste receptor type 2 member 42	20170125
 225400	102770465	VPS4A	MDA_GLEAN10008479	-	-	Un	-	vacuolar protein sorting 4 homolog A	protein-coding	-	-	-	vacuolar protein sorting-associated protein 4A|Vacuolar protein sorting-associated protein 4A	20170125
 225400	102770466	SAG	MDA_GLEAN10026081	S-arrestin	-	Un	-	S-antigen visual arrestin	protein-coding	-	-	-	S-arrestin|S-antigen; retina and pineal gland (arrestin)	20170125
@@ -20613,7 +20613,7 @@
 225400	102773123	TPM3	-	-	-	Un	-	tropomyosin 3	protein-coding	-	-	-	tropomyosin alpha-3 chain	20170125
 225400	102773124	LOC102773124	-	-	-	Un	-	uncharacterized LOC102773124	ncRNA	-	-	-	-	20160211
 225400	102773125	EXOSC1	MDA_GLEAN10023443	-	-	Un	-	exosome component 1	protein-coding	-	-	-	exosome complex component CSL4|Exosome complex component CSL4	20170125
-225400	102773126	LDOC1L	-	-	-	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	protein LDOC1L	20170125
+225400	102773126	LDOC1L	-	-	-	Un	-	LDOC1 like	protein-coding	-	-	-	protein LDOC1L|leucine zipper down-regulated in cancer 1 like	20170201
 225400	102773127	NCR3LG1	MDA_GLEAN10000376	-	-	Un	-	natural killer cell cytotoxicity receptor 3 ligand 1	protein-coding	-	-	-	natural cytotoxicity triggering receptor 3 ligand 1|B7 like protein 6	20170125
 225400	102773128	LAPTM5	-	-	-	Un	-	lysosomal protein transmembrane 5	protein-coding	-	-	-	lysosomal-associated transmembrane protein 5	20170125
 225400	102773129	GALR3	-	-	-	Un	-	galanin receptor 3	protein-coding	-	-	-	galanin receptor type 3	20170125

@@ -16817,7 +16817,7 @@
 29073	103672862	LOC103672862	-	-	-	Un	-	mitochondrial import inner membrane translocase subunit Tim10 pseudogene	pseudo	-	-	-	-	20151115
 29073	103672863	CDR1	-	-	-	Un	-	cerebellar degeneration related protein 1	protein-coding	-	-	-	-	20160809
 29073	103672864	LOC103672864	-	-	-	Un	-	melanoma-associated antigen 10-like	protein-coding	-	-	-	-	20160917
-29073	103672865	LDOC1	-	-	-	Un	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	-	20160917
+29073	103672865	LDOC1	-	-	-	Un	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1	20170201
 29073	103672866	LOC103672866	-	-	-	Un	-	melanoma-associated antigen 10-like	protein-coding	-	-	-	-	20160917
 29073	103672867	LOC103672867	-	-	-	Un	-	uncharacterized LOC103672867	pseudo	-	-	-	-	20151115
 29073	103672868	LOC103672868	-	-	-	Un	-	ADP-ribosylation factor 1 pseudogene	pseudo	-	-	-	-	20151115
@@ -17990,7 +17990,7 @@
 29073	103674035	LOC103674035	-	-	-	Un	-	uncharacterized LOC103674035	ncRNA	-	-	-	-	20151115
 29073	103674036	NUP50	-	-	-	Un	-	nucleoporin 50	protein-coding	-	-	-	-	20160917
 29073	103674037	LOC103674037	-	-	-	Un	-	uncharacterized LOC103674037	ncRNA	-	-	-	-	20151115
-29073	103674038	LDOC1L	-	-	-	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	-	20160917
+29073	103674038	LDOC1L	-	-	-	Un	-	LDOC1 like	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1 like	20170201
 29073	103674039	KIAA1644	-	-	-	Un	-	KIAA1644 ortholog	protein-coding	-	-	-	-	20160917
 29073	103674040	PARVG	-	-	-	Un	-	parvin gamma	protein-coding	-	-	-	-	20160917
 29073	103674041	PARVB	-	-	-	Un	-	parvin beta	protein-coding	-	-	-	-	20160917

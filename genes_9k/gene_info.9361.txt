@@ -22820,7 +22820,7 @@
 9361	101437542	LOC101437542	-	-	-	Un	-	proline-rich nuclear receptor coactivator 2-like	pseudo	-	-	-	-	20151115
 9361	101437543	LOC101437543	-	-	-	Un	-	KDEL motif-containing protein 2 pseudogene	pseudo	-	-	-	-	20151115
 9361	101437544	TTI2	-	-	Ensembl:ENSDNOG00000046897	Un	-	TELO2 interacting protein 2	protein-coding	-	-	-	-	20160827
-9361	101437546	LDOC1L	-	-	Ensembl:ENSDNOG00000049078	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	-	20160827
+9361	101437546	LDOC1L	-	-	Ensembl:ENSDNOG00000049078	Un	-	LDOC1 like	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1 like	20170201
 9361	101437547	LOC101437547	-	-	-	Un	-	olfactory receptor 51L1-like	pseudo	-	-	-	-	20151115
 9361	101437548	LOC101437548	-	-	-	Un	-	olfactory receptor 4F3/4F16/4F29-like	pseudo	-	-	-	-	20151115
 9361	101437549	LOC101437549	-	-	-	Un	-	olfactory receptor 4F4-like	pseudo	-	-	-	-	20151115
@@ -22975,7 +22975,7 @@
 9361	101437731	LOC101437731	-	-	Ensembl:ENSDNOG00000015362	Un	-	cytochrome b5 reductase 4	protein-coding	-	-	-	-	20160827
 9361	101437732	LOC101437732	-	-	-	Un	-	putative heat shock protein HSP 90-beta-3	pseudo	-	-	-	-	20151115
 9361	101437733	LOC101437733	-	-	-	Un	-	proteasome subunit beta type-3 pseudogene	pseudo	-	-	-	-	20151115
-9361	101437734	LDOC1	-	-	Ensembl:ENSDNOG00000009249	Un	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	-	20160827
+9361	101437734	LDOC1	-	-	Ensembl:ENSDNOG00000009249	Un	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1	20170201
 9361	101437735	LOC101437735	-	-	-	Un	-	profilin-1 pseudogene	pseudo	-	-	-	-	20151115
 9361	101437736	HEXDC	-	-	Ensembl:ENSDNOG00000047778	Un	-	hexosaminidase D	protein-coding	-	-	-	-	20160729
 9361	101437737	TGFB1	-	-	Ensembl:ENSDNOG00000048801	Un	-	transforming growth factor beta 1	protein-coding	-	-	-	-	20160809

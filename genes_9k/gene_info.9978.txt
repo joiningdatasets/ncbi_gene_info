@@ -13052,7 +13052,7 @@
 9978	101529451	ATXN2L	-	-	-	Un	-	ataxin 2 like	protein-coding	-	-	-	-	20160903
 9978	101529452	ZG16B	-	-	-	Un	-	zymogen granule protein 16B	protein-coding	-	-	-	-	20160716
 9978	101529453	LOC101529453	-	-	-	Un	-	ribosome biogenesis protein NSA2 homolog pseudogene	pseudo	-	-	-	-	20151115
-9978	101529454	LDOC1	-	-	-	Un	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	-	20160903
+9978	101529454	LDOC1	-	-	-	Un	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1	20170201
 9978	101529455	DZIP1L	-	-	-	Un	-	DAZ interacting zinc finger protein 1 like	protein-coding	-	-	-	DAZ interacting protein 1-like	20160903
 9978	101529456	LOC101529456	-	-	-	Un	-	nuclease-sensitive element-binding protein 1 pseudogene	pseudo	-	-	-	-	20151115
 9978	101529457	LOC101529457	-	-	-	Un	-	keratin-associated protein 26-1	protein-coding	-	-	-	-	20160903
@@ -13540,7 +13540,7 @@
 9978	101529956	MYSM1	-	-	-	Un	-	Myb like, SWIRM and MPN domains 1	protein-coding	-	-	-	-	20160729
 9978	101529957	LOC101529957	-	-	-	Un	-	antigen-presenting glycoprotein CD1d-like	protein-coding	-	-	-	-	20160716
 9978	101529958	LOC101529958	-	-	-	Un	-	thioredoxin-like protein 1 pseudogene	pseudo	-	-	-	-	20151115
-9978	101529959	LDOC1L	-	-	-	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	-	20160903
+9978	101529959	LDOC1L	-	-	-	Un	-	LDOC1 like	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1 like	20170201
 9978	101529960	SH3BP1	-	-	-	Un	-	SH3 domain binding protein 1	protein-coding	-	-	-	-	20160903
 9978	101529961	ALG12	-	-	-	Un	-	ALG12, alpha-1,6-mannosyltransferase	protein-coding	-	-	-	-	20160716
 9978	101529962	MRPL48	-	-	-	Un	-	mitochondrial ribosomal protein L48	protein-coding	-	-	-	-	20160716

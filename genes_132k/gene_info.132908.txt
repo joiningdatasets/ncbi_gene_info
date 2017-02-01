@@ -16923,7 +16923,7 @@
 132908	105305074	MAGEE2	-	-	-	Un	-	MAGE family member E2	protein-coding	-	-	-	melanoma-associated antigen E2	20170128
 132908	105305075	ZDHHC15	-	-	-	Un	-	zinc finger DHHC-type containing 15	protein-coding	-	-	-	palmitoyltransferase ZDHHC15	20170128
 132908	105305076	ZCCHC13	-	-	-	Un	-	zinc finger CCHC-type containing 13	protein-coding	-	-	-	zinc finger CCHC domain-containing protein 13	20170128
-132908	105305077	LDOC1	-	-	-	Un	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	protein LDOC1	20170128
+132908	105305077	LDOC1	-	-	-	Un	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	protein LDOC1|leucine zipper down-regulated in cancer 1	20170201
 132908	105305078	LOC105305078	-	-	-	Un	-	mortality factor 4-like protein 2	protein-coding	-	-	-	mortality factor 4-like protein 2	20170128
 132908	105305079	MCF2L	-	-	-	Un	-	MCF.2 cell line derived transforming sequence like	protein-coding	-	-	-	guanine nucleotide exchange factor DBS	20170128
 132908	105305080	PROZ	-	-	-	Un	-	protein Z, vitamin K dependent plasma glycoprotein	protein-coding	-	-	-	vitamin K-dependent protein Z	20170128
@@ -21177,7 +21177,7 @@
 132908	105309328	TNS3	-	-	-	Un	-	tensin 3	protein-coding	-	-	-	tensin-3	20170128
 132908	105309329	LOC105309329	-	-	-	Un	-	uncharacterized LOC105309329	protein-coding	-	-	-	uncharacterized protein LOC105309329	20170128
 132908	105309330	LOC105309330	-	-	-	Un	-	actin-2-like	protein-coding	-	-	-	actin-2-like	20170128
-132908	105309331	LDOC1L	-	-	-	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	protein LDOC1L	20170128
+132908	105309331	LDOC1L	-	-	-	Un	-	LDOC1 like	protein-coding	-	-	-	protein LDOC1L|leucine zipper down-regulated in cancer 1 like	20170201
 132908	105309332	MRPS36	-	-	-	Un	-	mitochondrial ribosomal protein S36	protein-coding	-	-	-	28S ribosomal protein S36, mitochondrial	20170128
 132908	105309333	CCNB1	-	-	-	Un	-	cyclin B1	protein-coding	-	-	-	G2/mitotic-specific cyclin-B1	20170128
 132908	105309334	SLC30A5	-	-	-	Un	-	solute carrier family 30 member 5	protein-coding	-	-	-	zinc transporter 5	20170128

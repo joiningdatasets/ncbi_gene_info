@@ -12899,7 +12899,7 @@
 9601	100443493	LOC100443493	-	-	-	5	-	keratin, type II cytoskeletal 8-like	protein-coding	-	-	-	-	20160917
 9601	100443494	SPOCK1	-	-	-	5	-	SPARC/osteonectin, cwcv and kazal like domains proteoglycan 1	protein-coding	-	-	-	-	20160813
 9601	100443495	LOC100443495	-	-	-	22	-	actin, cytoplasmic 1-like	pseudo	-	-	-	-	20160526
-9601	100443496	LDOC1L	-	-	Ensembl:ENSPPYG00000011922	22	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	protein LDOC1L-like	20160806
+9601	100443496	LDOC1L	-	-	Ensembl:ENSPPYG00000011922	22	-	LDOC1 like	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1 like|protein LDOC1L-like	20170201
 9601	100443497	LOC100443497	-	SCO2	Ensembl:ENSPPYG00000011991	22	-	protein SCO2 homolog, mitochondrial	protein-coding	-	-	-	SCO cytochrome oxidase deficient homolog 2	20160526
 9601	100443498	C5H5orf47	-	-	Ensembl:ENSPPYG00000016059	5	-	chromosome 5 open reading frame, human C5orf47	protein-coding	-	-	-	uncharacterized protein C5orf47-like	20160827
 9601	100443499	IL1RAPL1	-	-	Ensembl:ENSPPYG00000020212	X	-	interleukin 1 receptor accessory protein like 1	protein-coding	-	-	-	-	20160827
@@ -20186,7 +20186,7 @@
 9601	100453320	TREML2	-	-	-	6	-	triggering receptor expressed on myeloid cells like 2	protein-coding	-	-	-	-	20160811
 9601	100453322	LOC100453322	-	-	-	X	-	filamin-binding LIM protein 1-like	pseudo	-	-	-	-	20160526
 9601	100453323	CT55	-	-	Ensembl:ENSPPYG00000020744	X	-	cancer/testis antigen 55	protein-coding	-	-	-	-	20160806
-9601	100453324	LDOC1	-	-	-	X	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	-	20160827
+9601	100453324	LDOC1	-	-	-	X	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1	20170201
 9601	100453325	LOC100453325	-	-	-	6	-	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily E member 1-like	pseudo	-	-	-	-	20160526
 9601	100453326	CEP57L1	-	-	Ensembl:ENSPPYG00000016901	6	-	centrosomal protein 57 like 1	protein-coding	-	-	-	-	20160806
 9601	100453327	SOGA3	-	-	Ensembl:ENSPPYG00000016996	6	-	SOGA family member 3	protein-coding	-	-	-	-	20160917

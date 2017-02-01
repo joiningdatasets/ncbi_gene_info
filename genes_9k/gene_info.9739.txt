@@ -14750,7 +14750,7 @@
 9739	101334299	TRIP11	-	-	-	Un	-	thyroid hormone receptor interactor 11	protein-coding	-	-	-	-	20170117
 9739	101334300	LOC101334300	-	-	-	Un	-	NADH-cytochrome b5 reductase 2	protein-coding	-	-	-	-	20170117
 9739	101334301	DLAT	-	-	-	Un	-	dihydrolipoamide S-acetyltransferase	protein-coding	-	-	-	-	20170117
-9739	101334302	LDOC1L	-	-	-	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	-	20170117
+9739	101334302	LDOC1L	-	-	-	Un	-	LDOC1 like	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1 like	20170201
 9739	101334303	PDXDC1	-	-	-	Un	-	pyridoxal dependent decarboxylase domain containing 1	protein-coding	-	-	-	-	20170117
 9739	101334304	CALML4	-	-	-	Un	-	calmodulin like 4	protein-coding	-	-	-	-	20170117
 9739	101334305	CLIP1	-	-	-	Un	-	CAP-Gly domain containing linker protein 1	protein-coding	-	-	-	-	20170117
@@ -15440,7 +15440,7 @@
 9739	101335197	LOC101335197	-	-	-	Un	-	SH3 domain-binding protein 5 pseudogene	pseudo	-	-	-	-	20170117
 9739	101335198	CDCP1	-	-	-	Un	-	CUB domain containing protein 1	protein-coding	-	-	-	-	20170117
 9739	101335199	IKZF4	-	-	-	Un	-	IKAROS family zinc finger 4	protein-coding	-	-	-	-	20170117
-9739	101335200	LDOC1	-	-	-	Un	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	-	20170117
+9739	101335200	LDOC1	-	-	-	Un	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1	20170201
 9739	101335201	LOC101335201	-	GPR26	-	Un	-	uncharacterized LOC101335201	protein-coding	-	-	-	G protein-coupled receptor 26	20170117
 9739	101335202	PRR22	-	-	-	Un	-	proline rich 22	protein-coding	-	-	-	-	20170117
 9739	101335203	LOC101335203	-	-	-	Un	-	GTP-binding nuclear protein Ran-like	pseudo	-	-	-	-	20170117

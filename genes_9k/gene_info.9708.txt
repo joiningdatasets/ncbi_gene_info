@@ -4927,7 +4927,7 @@
 9708	101367226	CDH4	-	-	-	Un	-	cadherin 4	protein-coding	-	-	-	-	20160827
 9708	101367227	KCNK6	-	-	-	Un	-	potassium two pore domain channel subfamily K member 6	protein-coding	-	-	-	potassium channel, subfamily K, member 6	20160827
 9708	101367228	LOC101367228	-	-	-	Un	-	V-type proton ATPase subunit E 1-like	pseudo	-	-	-	-	20151115
-9708	101367229	LDOC1	-	-	-	Un	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	-	20160827
+9708	101367229	LDOC1	-	-	-	Un	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1	20170201
 9708	101367230	LOC101367230	-	-	-	Un	-	cleavage and polyadenylation specificity factor subunit 5 pseudogene	pseudo	-	-	-	-	20151115
 9708	101367231	METTL5	-	-	-	Un	-	methyltransferase like 5	protein-coding	-	-	-	-	20160827
 9708	101367232	LOC101367232	-	-	-	Un	-	chromosome unknown open reading frame, human C16orf54	protein-coding	-	-	-	-	20160827
@@ -15426,7 +15426,7 @@
 9708	101378239	SCN2A	-	-	-	Un	-	sodium voltage-gated channel alpha subunit 2	protein-coding	-	-	-	sodium channel, voltage-gated, type II, alpha subunit	20160827
 9708	101378240	KPRP	-	-	-	Un	-	keratinocyte proline rich protein	protein-coding	-	-	-	-	20160729
 9708	101378241	CYTL1	-	-	-	Un	-	cytokine like 1	protein-coding	-	-	-	-	20160827
-9708	101378242	LDOC1L	-	-	-	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	-	20160827
+9708	101378242	LDOC1L	-	-	-	Un	-	LDOC1 like	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1 like	20170201
 9708	101378243	A4GALT	-	-	-	Un	-	alpha 1,4-galactosyltransferase	protein-coding	-	-	-	-	20160827
 9708	101378244	CNDP2	-	-	-	Un	-	CNDP dipeptidase 2 (metallopeptidase M20 family)	protein-coding	-	-	-	-	20151115
 9708	101378245	VPS54	-	-	-	Un	-	VPS54, GARP complex subunit	protein-coding	-	-	-	-	20160827

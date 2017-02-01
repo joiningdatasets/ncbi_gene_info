@@ -5655,7 +5655,7 @@
 9713	102731096	LOC102731096	-	-	-	Un	-	40S ribosomal protein S6-like	pseudo	-	-	-	-	20151115
 9713	102731097	NRAP	-	-	-	Un	-	nebulin related anchoring protein	protein-coding	-	-	-	-	20160910
 9713	102731098	TTC7B	-	-	-	Un	-	tetratricopeptide repeat domain 7B	protein-coding	-	-	-	-	20160910
-9713	102731099	LDOC1L	-	-	-	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	-	20160910
+9713	102731099	LDOC1L	-	-	-	Un	-	LDOC1 like	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1 like	20170201
 9713	102731100	GNG8	-	-	-	Un	-	G protein subunit gamma 8	protein-coding	-	-	-	-	20160729
 9713	102731101	BARD1	-	-	-	Un	-	BRCA1 associated RING domain 1	protein-coding	-	-	-	-	20160910
 9713	102731102	SLC6A15	-	-	-	Un	-	solute carrier family 6 member 15	protein-coding	-	-	-	-	20160729

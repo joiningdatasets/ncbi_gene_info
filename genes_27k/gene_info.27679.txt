@@ -12815,7 +12815,7 @@
 27679	101042126	NECTIN2	-	-	-	Un	-	nectin cell adhesion molecule 2	protein-coding	-	-	-	-	20160924
 27679	101042127	ACOT9	-	-	-	Un	-	acyl-CoA thioesterase 9	protein-coding	-	-	-	-	20151115
 27679	101042128	LOC101042128	-	-	-	Un	-	tetratricopeptide repeat protein 6-like	protein-coding	-	-	-	-	20160827
-27679	101042129	LDOC1	-	-	-	Un	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	-	20160813
+27679	101042129	LDOC1	-	-	-	Un	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1	20170201
 27679	101042131	MNAT1	-	-	-	Un	-	MNAT1, CDK activating kinase assembly factor	protein-coding	-	-	-	menage a trois homolog 1, cyclin H assembly factor	20160827
 27679	101042132	LOC101042132	-	-	-	Un	-	eukaryotic translation initiation factor 3 subunit L pseudogene	pseudo	-	-	-	-	20151115
 27679	101042133	SOX12	-	-	-	Un	-	SRY-box 12	protein-coding	-	-	-	-	20160809
@@ -16765,7 +16765,7 @@
 27679	101046647	LSM14B	-	-	-	Un	-	LSM family member 14B	protein-coding	-	-	-	-	20160924
 27679	101046648	LOC101046648	-	-	-	Un	-	putative uncharacterized protein FLJ44790	pseudo	-	-	-	-	20151115
 27679	101046649	CBY1	-	-	-	Un	-	chibby family member 1, beta catenin antagonist	protein-coding	-	-	-	-	20160924
-27679	101046650	LDOC1L	-	-	-	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	protein LDOC1L-like	20160924
+27679	101046650	LDOC1L	-	-	-	Un	-	LDOC1 like	protein-coding	-	-	-	leucine zipper down-regulated in cancer 1 like|protein LDOC1L-like	20170201
 27679	101046651	LOC101046651	-	-	-	Un	-	chromosome unknown open reading frame, human C8orf76	protein-coding	-	-	-	-	20151115
 27679	101046652	RTCA	-	-	-	Un	-	RNA 3'-terminal phosphate cyclase	protein-coding	-	-	-	-	20160924
 27679	101046653	LOC101046653	-	-	-	Un	-	pancreatic alpha-amylase-like	protein-coding	-	-	-	-	20151115

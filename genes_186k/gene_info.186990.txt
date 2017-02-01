@@ -13688,7 +13688,7 @@
 186990	109384822	TMEM170A	-	-	-	Un	-	transmembrane protein 170A	protein-coding	-	-	-	transmembrane protein 170A	20170126
 186990	109384823	TRNAG-GCC	-	-	-	Un	-	transfer RNA glycine (anticodon GCC)	tRNA	-	-	-	-	20161222
 186990	109384824	LOC109384824	-	-	-	Un	-	60S ribosomal protein L23a pseudogene	pseudo	-	-	-	-	20161222
-186990	109384825	LDOC1	-	-	-	Un	-	leucine zipper down-regulated in cancer 1	protein-coding	-	-	-	protein LDOC1	20170126
+186990	109384825	LDOC1	-	-	-	Un	-	LDOC1, regulator of NFKB signaling	protein-coding	-	-	-	protein LDOC1|leucine zipper down-regulated in cancer 1	20170201
 186990	109384826	LOC109384826	-	-	-	Un	-	uncharacterized LOC109384826	ncRNA	-	-	-	-	20161222
 186990	109384827	TMEM257	-	-	-	Un	-	transmembrane protein 257	protein-coding	-	-	-	LOW QUALITY PROTEIN: transmembrane protein 257	20170126
 186990	109384828	LOC109384828	-	-	-	Un	-	armadillo repeat-containing protein 10-like	pseudo	-	-	-	-	20161222
@@ -16499,7 +16499,7 @@
 186990	109387633	TBC1D22A	-	-	-	Un	-	TBC1 domain family member 22A	protein-coding	-	-	-	TBC1 domain family member 22A	20170126
 186990	109387634	LOC109387634	-	-	-	Un	-	uncharacterized LOC109387634	ncRNA	-	-	-	-	20161222
 186990	109387635	KIAA0930	-	-	-	Un	-	KIAA0930 ortholog	protein-coding	-	-	-	uncharacterized protein KIAA0930 homolog	20170126
-186990	109387636	LDOC1L	-	-	-	Un	-	leucine zipper down-regulated in cancer 1 like	protein-coding	-	-	-	protein LDOC1L	20170126
+186990	109387636	LDOC1L	-	-	-	Un	-	LDOC1 like	protein-coding	-	-	-	protein LDOC1L|leucine zipper down-regulated in cancer 1 like	20170201
 186990	109387637	PRR5	-	-	-	Un	-	proline rich 5	protein-coding	-	-	-	proline-rich protein 5	20170126
 186990	109387638	NUP50	-	-	-	Un	-	nucleoporin 50	protein-coding	-	-	-	nuclear pore complex protein Nup50	20170126
 186990	109387639	PAK2	-	-	-	Un	-	p21 (RAC1) activated kinase 2	protein-coding	-	-	-	serine/threonine-protein kinase PAK 2	20170126
