@@ -369,7 +369,7 @@
 73337	101387394	LOC101387394	-	ZFX	-	Un	-	zinc finger protein, X-linked	protein-coding	-	-	-	zinc finger X-chromosomal protein	20170131
 73337	101387395	LOC101387395	-	GSX1	-	Un	-	GS homeobox 1	protein-coding	-	-	-	GS homeobox 1	20170131
 73337	101387396	LOC101387396	-	-	-	Un	-	ubiquitin fold modifier 1	protein-coding	-	-	-	ubiquitin-fold modifier 1	20170131
-73337	101387397	LOC101387397	-	FAM150A	-	Un	-	family with sequence similarity 150 member A	protein-coding	-	-	-	protein FAM150A	20170131
+73337	101387397	LOC101387397	-	FAM150A	-	Un	-	ALK and LTK ligand 1	protein-coding	-	-	-	protein FAM150A|family with sequence similarity 150 member A	20170205
 73337	101387398	LOC101387398	-	RFX8	-	Un	-	RFX family member 8, lacking RFX DNA binding domain	protein-coding	-	-	-	DNA-binding protein RFX8	20170131
 73337	101387399	LOC101387399	-	-	-	Un	-	loricrin	protein-coding	-	-	-	loricrin	20170131
 73337	101387400	LOC101387400	-	PQLC3	-	Un	-	PQ loop repeat containing 3	protein-coding	-	-	-	PQ-loop repeat-containing protein 3	20170131
@@ -1475,7 +1475,7 @@
 73337	101388545	LOC101388545	-	-	-	Un	-	ferritin light chain pseudogene	pseudo	-	-	-	-	20151128
 73337	101388546	LOC101388546	-	LRP10	-	Un	-	LDL receptor related protein 10	protein-coding	-	-	-	low-density lipoprotein receptor-related protein 10|low density lipoprotein receptor-related protein 10	20170131
 73337	101388547	LOC101388547	-	ZNHIT1	-	Un	-	zinc finger HIT-type containing 1	protein-coding	-	-	-	zinc finger HIT domain-containing protein 1	20170131
-73337	101388548	LOC101388548	-	SPG21	-	Un	-	spastic paraplegia 21 (autosomal recessive, Mast syndrome)	protein-coding	-	-	-	maspardin	20170131
+73337	101388548	LOC101388548	-	SPG21	-	Un	-	SPG21, maspardin	protein-coding	-	-	-	maspardin|spastic paraplegia 21 (autosomal recessive, Mast syndrome)	20170205
 73337	101388549	LOC101388549	-	-	-	Un	-	peroxiredoxin-1 pseudogene	pseudo	-	-	-	-	20151128
 73337	101388550	LOC101388550	-	KCNJ10	-	Un	-	potassium voltage-gated channel subfamily J member 10	protein-coding	-	-	-	ATP-sensitive inward rectifier potassium channel 10|potassium inwardly-rectifying channel, subfamily J, member 10	20170131
 73337	101388551	LOC101388551	-	IGDCC3	-	Un	-	immunoglobulin superfamily DCC subclass member 3	protein-coding	-	-	-	immunoglobulin superfamily DCC subclass member 3	20170131
@@ -2745,7 +2745,7 @@
 73337	101389865	LOC101389865	-	-	-	Un	-	serine/threonine-protein kinase PAK 6-like	protein-coding	-	-	-	serine/threonine-protein kinase PAK 6-like	20170131
 73337	101389866	LOC101389866	-	-	-	Un	-	coiled-coil domain-containing protein 58-like	pseudo	-	-	-	-	20151128
 73337	101389867	LOC101389867	-	ATF3	-	Un	-	activating transcription factor 3	protein-coding	-	-	-	cyclic AMP-dependent transcription factor ATF-3	20170131
-73337	101389868	LOC101389868	-	FAM188A	-	Un	-	family with sequence similarity 188 member A	protein-coding	-	-	-	protein FAM188A	20170131
+73337	101389868	LOC101389868	-	FAM188A	-	Un	-	MINDY lysine 48 deubiquitinase 3	protein-coding	-	-	-	protein FAM188A|family with sequence similarity 188 member A	20170203
 73337	101389869	LOC101389869	-	ACAP3	-	Un	-	ArfGAP with coiled-coil, ankyrin repeat and PH domains 3	protein-coding	-	-	-	arf-GAP with coiled-coil, ANK repeat and PH domain-containing protein 3	20170131
 73337	101389870	LOC101389870	-	OTUD3	-	Un	-	OTU deubiquitinase 3	protein-coding	-	-	-	OTU domain-containing protein 3|OTU domain containing 3	20170131
 73337	101389871	LOC101389871	-	MAN1C1	-	Un	-	mannosidase alpha class 1C member 1	protein-coding	-	-	-	mannosyl-oligosaccharide 1,2-alpha-mannosidase IC	20170131
@@ -3946,7 +3946,7 @@
 73337	101391102	LOC101391102	-	UBN1	-	Un	-	ubinuclein 1	protein-coding	-	-	-	ubinuclein-1	20170131
 73337	101391103	LOC101391103	-	MSRB1	-	Un	-	methionine sulfoxide reductase B1	protein-coding	-	-	-	methionine-R-sulfoxide reductase B1	20170131
 73337	101391104	LOC101391104	-	-	-	Un	-	putative olfactory receptor 8G3 pseudogene	pseudo	-	-	-	-	20151128
-73337	101391105	LOC101391105	-	CECR5	-	Un	-	cat eye syndrome chromosome region, candidate 5	protein-coding	-	-	-	cat eye syndrome critical region protein 5	20170131
+73337	101391105	LOC101391105	-	CECR5	-	Un	-	haloacid dehalogenase like hydrolase domain containing 5	protein-coding	-	-	-	cat eye syndrome critical region protein 5|cat eye syndrome chromosome region, candidate 5	20170205
 73337	101391106	LOC101391106	-	-	-	Un	-	erythroid differentiation regulatory factor 1	protein-coding	-	-	-	erythroid differentiation-related factor 1	20170131
 73337	101391107	LOC101391107	-	-	-	Un	-	zinc finger protein 260-like	protein-coding	-	-	-	zinc finger protein 260-like	20170131
 73337	101391108	LOC101391108	-	EPT1	-	Un	-	selenoprotein I	protein-coding	-	-	-	ethanolaminephosphotransferase 1|ethanolaminephosphotransferase 1 (CDP-ethanolamine-specific)	20170131
@@ -4292,7 +4292,7 @@
 73337	101391456	LOC101391456	-	-	-	Un	-	olfactory receptor 2G6-like	protein-coding	-	-	-	olfactory receptor 2G6-like	20170131
 73337	101391457	LOC101391457	-	FAM198B	-	Un	-	family with sequence similarity 198 member B	protein-coding	-	-	-	protein FAM198B	20170131
 73337	101391458	LOC101391458	-	-	-	Un	-	tubulin beta 6 class V	protein-coding	-	-	-	tubulin beta-6 chain	20170131
-73337	101391459	LOC101391459	-	SPG11	-	Un	-	spastic paraplegia 11 (autosomal recessive)	protein-coding	-	-	-	spatacsin	20170131
+73337	101391459	LOC101391459	-	SPG11	-	Un	-	SPG11, spatacsin vesicle trafficking associated	protein-coding	-	-	-	spatacsin|spastic paraplegia 11 (autosomal recessive)	20170203
 73337	101391460	LOC101391460	-	SEMA7A	-	Un	-	semaphorin 7A (John Milton Hagen blood group)	protein-coding	-	-	-	semaphorin-7A	20170131
 73337	101391461	LOC101391461	-	SMARCA4	-	Un	-	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4	protein-coding	-	-	-	transcription activator BRG1	20170131
 73337	101391463	LOC101391463	-	GAL3ST4	-	Un	-	galactose-3-O-sulfotransferase 4	protein-coding	-	-	-	galactose-3-O-sulfotransferase 4	20170131
@@ -4579,7 +4579,7 @@
 73337	101391756	LOC101391756	-	LYN	-	Un	-	LYN proto-oncogene, Src family tyrosine kinase	protein-coding	-	-	-	tyrosine-protein kinase Lyn|v-yes-1 Yamaguchi sarcoma viral related oncogene homolog	20170131
 73337	101391757	LOC101391757	-	ETV3	-	Un	-	ETS translocation variant 3	protein-coding	-	-	-	ETS translocation variant 3|ets variant 3	20170131
 73337	101391758	LOC101391758	-	-	-	-	-	chromosome unknown open reading frame, human C8orf44	protein-coding	-	-	-	-	20160402
-73337	101391759	LOC101391759	-	FAM150B	-	Un	-	family with sequence similarity 150 member B	protein-coding	-	-	-	protein FAM150B	20170131
+73337	101391759	LOC101391759	-	FAM150B	-	Un	-	ALK and LTK ligand 2	protein-coding	-	-	-	protein FAM150B|family with sequence similarity 150 member B	20170205
 73337	101391760	LOC101391760	-	FAM92B	-	Un	-	family with sequence similarity 92 member B	protein-coding	-	-	-	protein FAM92B	20170131
 73337	101391761	LOC101391761	-	IMMT	-	Un	-	inner membrane mitochondrial protein	protein-coding	-	-	-	MICOS complex subunit MIC60	20170131
 73337	101391762	LOC101391762	-	SASH3	-	Un	-	SAM and SH3 domain containing 3	protein-coding	-	-	-	SAM and SH3 domain-containing protein 3	20170131
@@ -8941,7 +8941,7 @@
 73337	101396301	LOC101396301	-	CCDC91	-	Un	-	coiled-coil domain containing 91	protein-coding	-	-	-	coiled-coil domain-containing protein 91	20170131
 73337	101396302	LOC101396302	-	CLVS1	-	Un	-	clavesin 1	protein-coding	-	-	-	clavesin-1	20170131
 73337	101396303	LOC101396303	-	-	-	Un	-	interleukin-1 beta-like	protein-coding	-	-	-	interleukin-1 beta-like	20170131
-73337	101396304	LOC101396304	-	FAM63A	-	Un	-	family with sequence similarity 63 member A	protein-coding	-	-	-	protein FAM63A	20170131
+73337	101396304	LOC101396304	-	FAM63A	-	Un	-	MINDY lysine 48 deubiquitinase 1	protein-coding	-	-	-	protein FAM63A|family with sequence similarity 63 member A	20170203
 73337	101396305	LOC101396305	-	GATAD2B	-	Un	-	GATA zinc finger domain containing 2B	protein-coding	-	-	-	transcriptional repressor p66-beta	20170131
 73337	101396306	LOC101396306	-	HSBP1	-	Un	-	heat shock factor binding protein 1	protein-coding	-	-	-	heat shock factor-binding protein 1	20170131
 73337	101396308	LOC101396308	-	-	-	Un	-	olfactory receptor 5B2-like	protein-coding	-	-	-	olfactory receptor 5B2-like	20170131
@@ -9222,7 +9222,7 @@
 73337	101396600	LOC101396600	-	RLIM	-	Un	-	ring finger protein, LIM domain interacting	protein-coding	-	-	-	E3 ubiquitin-protein ligase RLIM	20170131
 73337	101396601	LOC101396601	-	OIP5	-	Un	-	Opa interacting protein 5	protein-coding	-	-	-	protein Mis18-beta	20170131
 73337	101396602	LOC101396602	-	MRPL40	-	Un	-	mitochondrial ribosomal protein L40	protein-coding	-	-	-	39S ribosomal protein L40, mitochondrial	20170131
-73337	101396603	LOC101396603	-	FAM63B	-	Un	-	family with sequence similarity 63 member B	protein-coding	-	-	-	protein FAM63B	20170131
+73337	101396603	LOC101396603	-	FAM63B	-	Un	-	MINDY lysine 48 deubiquitinase 2	protein-coding	-	-	-	protein FAM63B|family with sequence similarity 63 member B	20170203
 73337	101396604	LOC101396604	-	-	-	Un	-	interferon regulatory factor 4-like	protein-coding	-	-	-	interferon regulatory factor 4-like	20170131
 73337	101396605	LOC101396605	-	RPP25	-	Un	-	ribonuclease P and MRP subunit p25	protein-coding	-	-	-	ribonuclease P protein subunit p25|ribonuclease P/MRP subunit p25	20170131
 73337	101396606	LOC101396606	-	-	-	Un	-	olfactory receptor 11G2-like	protein-coding	-	-	-	olfactory receptor 11G2-like	20170131
@@ -9468,7 +9468,7 @@
 73337	101396856	LOC101396856	-	MAD1L1	-	Un	-	MAD1 mitotic arrest deficient like 1	protein-coding	-	-	-	mitotic spindle assembly checkpoint protein MAD1	20170131
 73337	101396857	LOC101396857	-	TSSC4	-	Un	-	tumor suppressing subtransferable candidate 4	protein-coding	-	-	-	protein TSSC4	20170131
 73337	101396858	LOC101396858	-	INTS10	-	Un	-	integrator complex subunit 10	protein-coding	-	-	-	integrator complex subunit 10	20170131
-73337	101396859	LOC101396859	-	VTCN1	-	Un	-	V-set domain containing T cell activation inhibitor 1	protein-coding	-	-	-	V-set domain-containing T-cell activation inhibitor 1	20170131
+73337	101396859	LOC101396859	-	VTCN1	-	Un	-	V-set domain containing T-cell activation inhibitor 1	protein-coding	-	-	-	V-set domain-containing T-cell activation inhibitor 1	20170205
 73337	101396860	LOC101396860	-	TRIM59	-	Un	-	tripartite motif containing 59	protein-coding	-	-	-	tripartite motif-containing protein 59	20170131
 73337	101396861	LOC101396861	-	NASP	-	Un	-	nuclear autoantigenic sperm protein	protein-coding	-	-	-	nuclear autoantigenic sperm protein	20170131
 73337	101396862	LOC101396862	-	PSME2	-	Un	-	proteasome activator subunit 2	protein-coding	-	-	-	proteasome activator complex subunit 2|proteasome (prosome, macropain) activator subunit 2 (PA28 beta)	20170131
@@ -19738,7 +19738,7 @@
 73337	101407648	LOC101407648	-	-	-	Un	-	olfactory receptor 478-like	pseudo	-	-	-	-	20151128
 73337	101407649	LOC101407649	-	KCNC1	-	Un	-	potassium voltage-gated channel subfamily C member 1	protein-coding	-	-	-	potassium voltage-gated channel subfamily C member 1|potassium voltage-gated channel, Shaw-related subfamily, member 1	20170131
 73337	101407650	LOC101407650	-	-	-	Un	-	olfactomedin-4-like	protein-coding	-	-	-	olfactomedin-4-like	20170131
-73337	101407651	LOC101407651	-	FAM188B	-	Un	-	family with sequence similarity 188 member B	protein-coding	-	-	-	protein FAM188B	20170131
+73337	101407651	LOC101407651	-	FAM188B	-	Un	-	MINDY lysine 48 deubiquitinase 4	protein-coding	-	-	-	protein FAM188B|family with sequence similarity 188 member B	20170203
 73337	101407652	LOC101407652	-	UGT2A3	-	Un	-	UDP-glucuronosyltransferase 2A3	protein-coding	-	-	-	UDP-glucuronosyltransferase 2A3|UDP glucuronosyltransferase 2 family, polypeptide A3	20170131
 73337	101407653	LOC101407653	-	PRMT1	-	Un	-	protein arginine methyltransferase 1	protein-coding	-	-	-	protein arginine N-methyltransferase 1	20170131
 73337	101407654	LOC101407654	-	EXOC3L2	-	Un	-	exocyst complex component 3 like 2	protein-coding	-	-	-	exocyst complex component 3-like protein 2	20170131

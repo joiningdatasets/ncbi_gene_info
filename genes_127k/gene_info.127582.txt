@@ -484,7 +484,7 @@
 127582	101340691	LOC101340691	-	-	-	Un	-	AP-2 complex subunit beta pseudogene	pseudo	-	-	-	-	20151115
 127582	101340694	LOC101340694	-	COLGALT2	-	Un	-	collagen beta(1-O)galactosyltransferase 2	protein-coding	-	-	-	procollagen galactosyltransferase 2	20170130
 127582	101340695	LOC101340695	-	SAMD12	-	Un	-	sterile alpha motif domain containing 12	protein-coding	-	-	-	sterile alpha motif domain-containing protein 12	20170130
-127582	101340696	LOC101340696	-	FAM150B	-	Un	-	family with sequence similarity 150 member B	protein-coding	-	-	-	protein FAM150B	20170130
+127582	101340696	LOC101340696	-	FAM150B	-	Un	-	ALK and LTK ligand 2	protein-coding	-	-	-	protein FAM150B|family with sequence similarity 150 member B	20170205
 127582	101340697	LOC101340697	-	MKL2	-	Un	-	MKL1/myocardin like 2	protein-coding	-	-	-	MKL/myocardin-like protein 2	20170130
 127582	101340698	LOC101340698	-	CCDC14	-	Un	-	coiled-coil domain containing 14	protein-coding	-	-	-	coiled-coil domain-containing protein 14	20170130
 127582	101340699	LOC101340699	-	XXYLT1	-	Un	-	xyloside xylosyltransferase 1	protein-coding	-	-	-	xyloside xylosyltransferase 1	20170130
@@ -3135,7 +3135,7 @@
 127582	101343457	LOC101343457	-	-	-	Un	-	suppressor of SWI4 1 homolog pseudogene	pseudo	-	-	-	-	20151115
 127582	101343458	LOC101343458	-	ZNF496	-	Un	-	zinc finger protein 496	protein-coding	-	-	-	zinc finger protein 496	20170130
 127582	101343459	LOC101343459	-	GRK7	-	Un	-	G protein-coupled receptor kinase 7	protein-coding	-	-	-	G protein-coupled receptor kinase 7	20170130
-127582	101343460	LOC101343460	-	C1QTNF9B-AS1	-	Un	-	C1QTNF9B antisense RNA 1	protein-coding	-	-	-	prostate collagen triple helix protein	20170130
+127582	101343460	LOC101343460	-	C1QTNF9B-AS1	-	Un	-	Pro-X-Gly collagen triple helix like repeat containing	protein-coding	-	-	-	prostate collagen triple helix protein|C1QTNF9B antisense RNA 1	20170205
 127582	101343461	LOC101343461	-	HIRIP3	-	Un	-	HIRA interacting protein 3	protein-coding	-	-	-	HIRA-interacting protein 3	20170130
 127582	101343462	LOC101343462	-	-	-	Un	-	pyruvate dehydrogenase (lipoamide) alpha 2	protein-coding	-	-	-	pyruvate dehydrogenase E1 component subunit alpha, testis-specific form, mitochondrial	20170130
 127582	101343464	LOC101343464	-	BAI1	-	Un	-	adhesion G protein-coupled receptor B1	protein-coding	-	-	-	brain-specific angiogenesis inhibitor 1	20170130
@@ -3953,7 +3953,7 @@
 127582	101344308	LOC101344308	-	CERK	-	Un	-	ceramide kinase	protein-coding	-	-	-	ceramide kinase	20170130
 127582	101344309	LOC101344309	-	-	-	Un	-	telomeric repeat-binding factor 1-like	protein-coding	-	-	-	LOW QUALITY PROTEIN: telomeric repeat-binding factor 1-like	20170130
 127582	101344310	LOC101344310	-	FSIP1	-	Un	-	fibrous sheath interacting protein 1	protein-coding	-	-	-	fibrous sheath-interacting protein 1	20170130
-127582	101344311	LOC101344311	-	SPG11	-	Un	-	spastic paraplegia 11 (autosomal recessive)	protein-coding	-	-	-	spatacsin	20170130
+127582	101344311	LOC101344311	-	SPG11	-	Un	-	SPG11, spatacsin vesicle trafficking associated	protein-coding	-	-	-	spatacsin|spastic paraplegia 11 (autosomal recessive)	20170203
 127582	101344312	LOC101344312	-	PSTPIP2	-	Un	-	proline-serine-threonine phosphatase interacting protein 2	protein-coding	-	-	-	proline-serine-threonine phosphatase-interacting protein 2	20170130
 127582	101344313	LOC101344313	-	PFDN1	-	Un	-	prefoldin subunit 1	protein-coding	-	-	-	prefoldin subunit 1	20170130
 127582	101344314	LOC101344314	-	ACPT	-	Un	-	acid phosphatase, testicular	protein-coding	-	-	-	testicular acid phosphatase	20170130
@@ -4980,7 +4980,7 @@
 127582	101345375	LOC101345375	-	MEX3D	-	Un	-	mex-3 RNA binding family member D	protein-coding	-	-	-	RNA-binding protein MEX3D|mex-3 homolog D	20170130
 127582	101345376	LOC101345376	-	FBXW7	-	Un	-	F-box and WD repeat domain containing 7	protein-coding	-	-	-	F-box/WD repeat-containing protein 7	20170130
 127582	101345377	LOC101345377	-	RUNX2	-	Un	-	runt related transcription factor 2	protein-coding	-	-	-	runt-related transcription factor 2	20170130
-127582	101345378	LOC101345378	-	FAM188A	-	Un	-	family with sequence similarity 188 member A	protein-coding	-	-	-	protein FAM188A	20170130
+127582	101345378	LOC101345378	-	FAM188A	-	Un	-	MINDY lysine 48 deubiquitinase 3	protein-coding	-	-	-	protein FAM188A|family with sequence similarity 188 member A	20170203
 127582	101345379	LOC101345379	-	RNF128	-	Un	-	ring finger protein 128, E3 ubiquitin protein ligase	protein-coding	-	-	-	E3 ubiquitin-protein ligase RNF128	20170130
 127582	101345380	LOC101345380	-	-	-	Un	-	14-3-3 protein zeta/delta pseudogene	pseudo	-	-	-	-	20151115
 127582	101345381	LOC101345381	-	DUOX2	-	Un	-	dual oxidase 2	protein-coding	-	-	-	LOW QUALITY PROTEIN: dual oxidase 2	20170130
@@ -8041,7 +8041,7 @@
 127582	101348567	LOC101348567	-	-	-	Un	-	ubiquilin-3-like	protein-coding	-	-	-	ubiquilin-3-like	20170130
 127582	101348568	LOC101348568	-	-	-	Un	-	chromosome unknown open reading frame, human C11orf96	protein-coding	-	-	-	uncharacterized protein C11orf96 homolog	20170130
 127582	101348569	LOC101348569	-	PHF17	-	Un	-	jade family PHD finger 1	protein-coding	-	-	-	protein Jade-1|PHD finger protein 17	20170130
-127582	101348570	LOC101348570	-	FAM63A	-	Un	-	family with sequence similarity 63 member A	protein-coding	-	-	-	protein FAM63A	20170130
+127582	101348570	LOC101348570	-	FAM63A	-	Un	-	MINDY lysine 48 deubiquitinase 1	protein-coding	-	-	-	protein FAM63A|family with sequence similarity 63 member A	20170203
 127582	101348571	LOC101348571	-	DEFB119	-	Un	-	beta-defensin 121	protein-coding	-	-	-	beta-defensin 121|defensin, beta 119	20170130
 127582	101348572	LOC101348572	-	BAALC	-	Un	-	brain and acute leukemia, cytoplasmic	protein-coding	-	-	-	brain and acute leukemia cytoplasmic protein	20170130
 127582	101348573	LOC101348573	-	CDH24	-	Un	-	cadherin 24	protein-coding	-	-	-	cadherin-24	20170130
@@ -9734,7 +9734,7 @@
 127582	101350334	LOC101350334	-	AGPAT3	-	Un	-	1-acylglycerol-3-phosphate O-acyltransferase 3	protein-coding	-	-	-	1-acyl-sn-glycerol-3-phosphate acyltransferase gamma	20170130
 127582	101350335	LOC101350335	-	PLAC8L1	-	Un	-	PLAC8 like 1	protein-coding	-	-	-	PLAC8-like protein 1	20170130
 127582	101350336	LOC101350336	-	NPHP4	-	Un	-	nephrocystin 4	protein-coding	-	-	-	LOW QUALITY PROTEIN: nephrocystin-4	20170130
-127582	101350338	LOC101350338	-	-	-	Un	-	family with sequence similarity 188 member B	protein-coding	-	-	-	LOW QUALITY PROTEIN: protein FAM188B|oxysterol binding protein-like 9 pseudogene	20170130
+127582	101350338	LOC101350338	-	-	-	Un	-	MINDY lysine 48 deubiquitinase 4	protein-coding	-	-	-	LOW QUALITY PROTEIN: protein FAM188B|family with sequence similarity 188 member B|oxysterol binding protein-like 9 pseudogene	20170203
 127582	101350339	LOC101350339	-	UNC45B	-	Un	-	unc-45 myosin chaperone B	protein-coding	-	-	-	protein unc-45 homolog B	20170130
 127582	101350340	LOC101350340	-	IFT46	-	Un	-	intraflagellar transport 46	protein-coding	-	-	-	intraflagellar transport protein 46 homolog|intraflagellar transport 46 homolog	20170130
 127582	101350341	LOC101350341	-	ESYT2	-	Un	-	extended synaptotagmin 2	protein-coding	-	-	-	extended synaptotagmin-2	20170130
@@ -13690,7 +13690,7 @@
 127582	101354458	LOC101354458	-	-	-	Un	-	chromosome unknown open reading frame, human C1orf226	protein-coding	-	-	-	uncharacterized protein C1orf226 homolog	20170130
 127582	101354459	LOC101354459	-	-	-	Un	-	tubulin alpha 3e	protein-coding	-	-	-	tubulin alpha-3E chain	20170130
 127582	101354460	LOC101354460	-	MYEF2	-	Un	-	myelin expression factor 2	protein-coding	-	-	-	myelin expression factor 2	20170130
-127582	101354461	LOC101354461	-	FAM150A	-	Un	-	family with sequence similarity 150 member A	protein-coding	-	-	-	protein FAM150A	20170130
+127582	101354461	LOC101354461	-	FAM150A	-	Un	-	ALK and LTK ligand 1	protein-coding	-	-	-	protein FAM150A|family with sequence similarity 150 member A	20170205
 127582	101354462	LOC101354462	-	-	-	Un	-	putative olfactory receptor 2W6	protein-coding	-	-	-	LOW QUALITY PROTEIN: putative olfactory receptor 2W6	20170130
 127582	101354463	LOC101354463	-	PTMS	-	Un	-	parathymosin	protein-coding	-	-	-	parathymosin	20170130
 127582	101354464	LOC101354464	-	NETO1	-	Un	-	neuropilin and tolloid like 1	protein-coding	-	-	-	neuropilin and tolloid-like protein 1	20170130
@@ -19653,7 +19653,7 @@
 127582	101360680	LOC101360680	-	APLP2	-	Un	-	amyloid beta precursor like protein 2	protein-coding	-	-	-	amyloid-like protein 2	20170130
 127582	101360681	LOC101360681	-	CLPS	-	Un	-	colipase	protein-coding	-	-	-	colipase	20170130
 127582	101360682	LOC101360682	-	XRCC6	-	Un	-	X-ray repair cross complementing 6	protein-coding	-	-	-	X-ray repair cross-complementing protein 6	20170130
-127582	101360683	LOC101360683	-	VTCN1	-	Un	-	V-set domain containing T cell activation inhibitor 1	protein-coding	-	-	-	V-set domain-containing T-cell activation inhibitor 1	20170130
+127582	101360683	LOC101360683	-	VTCN1	-	Un	-	V-set domain containing T-cell activation inhibitor 1	protein-coding	-	-	-	V-set domain-containing T-cell activation inhibitor 1	20170205
 127582	101360684	LOC101360684	-	SKIV2L2	-	Un	-	Ski2 like RNA helicase 2	protein-coding	-	-	-	superkiller viralicidic activity 2-like 2	20170130
 127582	101360685	LOC101360685	-	ADAL	-	Un	-	adenosine deaminase like	protein-coding	-	-	-	adenosine deaminase-like protein	20170130
 127582	101360686	LOC101360686	-	-	-	Un	-	protein FAM204A pseudogene	pseudo	-	-	-	-	20151115
@@ -20119,7 +20119,7 @@
 127582	101361171	LOC101361171	-	NUP37	-	Un	-	nucleoporin 37	protein-coding	-	-	-	nucleoporin Nup37	20170130
 127582	101361172	LOC101361172	-	-	-	Un	-	olfactory receptor 9K2-like	protein-coding	-	-	-	olfactory receptor 9K2-like	20170130
 127582	101361173	LOC101361173	-	FAM169A	-	Un	-	family with sequence similarity 169 member A	protein-coding	-	-	-	soluble lamin-associated protein of 75 kDa	20170130
-127582	101361174	LOC101361174	-	SPG21	-	Un	-	spastic paraplegia 21 (autosomal recessive, Mast syndrome)	protein-coding	-	-	-	maspardin	20170130
+127582	101361174	LOC101361174	-	SPG21	-	Un	-	SPG21, maspardin	protein-coding	-	-	-	maspardin|spastic paraplegia 21 (autosomal recessive, Mast syndrome)	20170205
 127582	101361175	LOC101361175	-	TMEM81	-	Un	-	transmembrane protein 81	protein-coding	-	-	-	transmembrane protein 81	20170130
 127582	101361176	LOC101361176	-	TANK	-	Un	-	TRAF family member associated NFKB activator	protein-coding	-	-	-	TRAF family member-associated NF-kappa-B activator	20170130
 127582	101361177	LOC101361177	-	GOLGA1	-	Un	-	golgin A1	protein-coding	-	-	-	golgin subfamily A member 1	20170130
@@ -20310,7 +20310,7 @@
 127582	101361367	LOC101361367	-	CHRM5	-	Un	-	cholinergic receptor muscarinic 5	protein-coding	-	-	-	muscarinic acetylcholine receptor M5	20170130
 127582	101361368	LOC101361368	-	MLXIPL	-	Un	-	MLX interacting protein like	protein-coding	-	-	-	carbohydrate-responsive element-binding protein	20170130
 127582	101361370	LOC101361370	-	CTNNA1	-	Un	-	catenin alpha 1	protein-coding	-	-	-	catenin alpha-1	20170130
-127582	101361371	LOC101361371	-	CECR5	-	Un	-	cat eye syndrome chromosome region, candidate 5	protein-coding	-	-	-	cat eye syndrome critical region protein 5	20170130
+127582	101361371	LOC101361371	-	CECR5	-	Un	-	haloacid dehalogenase like hydrolase domain containing 5	protein-coding	-	-	-	cat eye syndrome critical region protein 5|cat eye syndrome chromosome region, candidate 5	20170205
 127582	101361372	LOC101361372	-	SHANK1	-	Un	-	SH3 and multiple ankyrin repeat domains 1	protein-coding	-	-	-	SH3 and multiple ankyrin repeat domains protein 1	20170130
 127582	101361373	LOC101361373	-	SERPINH1	-	Un	-	serpin family H member 1	protein-coding	-	-	-	serpin H1	20170130
 127582	101361374	LOC101361374	-	-	-	Un	-	L-threonine 3-dehydrogenase, mitochondrial-like	protein-coding	-	-	-	LOW QUALITY PROTEIN: L-threonine 3-dehydrogenase, mitochondrial-like	20170130
@@ -21608,7 +21608,7 @@
 127582	105756573	LOC105756573	-	-	-	Un	-	zinc finger protein 665-like	pseudo	-	-	-	-	20151115
 127582	105756574	LOC105756574	-	-	-	Un	-	zinc finger protein 813	protein-coding	-	-	-	zinc finger protein 813	20170130
 127582	105756575	LOC105756575	-	-	-	Un	-	cationic amino acid transporter 3-like	protein-coding	-	-	-	LOW QUALITY PROTEIN: cationic amino acid transporter 3-like	20170130
-127582	105756576	LOC105756576	-	-	-	Un	-	T cell-interacting, activating receptor on myeloid cells 1	protein-coding	-	-	-	T-cell-interacting, activating receptor on myeloid cells protein 1	20170130
+127582	105756576	LOC105756576	-	-	-	Un	-	T-cell-interacting, activating receptor on myeloid cells 1	protein-coding	-	-	-	T-cell-interacting, activating receptor on myeloid cells protein 1	20170205
 127582	105756577	LOC105756577	-	-	-	Un	-	leukocyte immunoglobulin-like receptor subfamily A member 5	protein-coding	-	-	-	leukocyte immunoglobulin-like receptor subfamily A member 5	20170130
 127582	105756578	LOC105756578	-	-	-	Un	-	vomeronasal type-1 receptor 4-like	pseudo	-	-	-	-	20151115
 127582	105756579	LOC105756579	-	-	-	Un	-	ferritin heavy chain pseudogene	pseudo	-	-	-	-	20151115

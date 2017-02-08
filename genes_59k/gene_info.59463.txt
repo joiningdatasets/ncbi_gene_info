@@ -4957,7 +4957,7 @@
 59463	102422105	TAF12	-	-	Ensembl:ENSMLUG00000012595	Un	-	TATA-box binding protein associated factor 12	protein-coding	-	-	-	transcription initiation factor TFIID subunit 12	20170201
 59463	102422106	LOC102422106	-	-	-	Un	-	40S ribosomal protein S29 pseudogene	pseudo	-	-	-	-	20151115
 59463	102422107	LYG1	-	-	Ensembl:ENSMLUG00000030127	Un	-	lysozyme g1	protein-coding	-	-	-	lysozyme g-like protein 1	20170201
-59463	102422108	FAM188A	-	-	Ensembl:ENSMLUG00000013856	Un	-	family with sequence similarity 188 member A	protein-coding	-	-	-	protein FAM188A	20170201
+59463	102422108	MINDY3	-	FAM188A	Ensembl:ENSMLUG00000013856	Un	-	MINDY lysine 48 deubiquitinase 3	protein-coding	-	-	-	protein FAM188A|family with sequence similarity 188 member A	20170203
 59463	102422109	LOC102422109	-	-	-	Un	-	olfactory receptor 7A10-like	protein-coding	-	-	-	olfactory receptor 7A10-like	20170201
 59463	102422110	RNF19A	-	-	Ensembl:ENSMLUG00000008606	Un	-	ring finger protein 19A, RBR E3 ubiquitin protein ligase	protein-coding	-	-	-	E3 ubiquitin-protein ligase RNF19A	20170201
 59463	102422111	MYO3A	-	-	Ensembl:ENSMLUG00000008053	Un	-	myosin IIIA	protein-coding	-	-	-	myosin-IIIa	20170201
@@ -8381,7 +8381,7 @@
 59463	102425784	LOC102425784	-	-	-	Un	-	protein SET-like	pseudo	-	-	-	-	20151115
 59463	102425785	LOC102425785	-	-	-	Un	-	LIM and SH3 domain protein 1-like	pseudo	-	-	-	-	20151115
 59463	102425786	STAMBPL1	-	-	Ensembl:ENSMLUG00000015481	Un	-	STAM binding protein like 1	protein-coding	-	-	-	AMSH-like protease	20170201
-59463	102425787	VTCN1	-	-	Ensembl:ENSMLUG00000013927	Un	-	V-set domain containing T cell activation inhibitor 1	protein-coding	-	-	-	V-set domain-containing T-cell activation inhibitor 1	20170201
+59463	102425787	VTCN1	-	-	Ensembl:ENSMLUG00000013927	Un	-	V-set domain containing T-cell activation inhibitor 1	protein-coding	-	-	-	V-set domain-containing T-cell activation inhibitor 1	20170205
 59463	102425788	LOC102425788	-	-	-	Un	-	actin-related protein 3 pseudogene	pseudo	-	-	-	-	20151115
 59463	102425789	SNU13	-	NHP2L1	Ensembl:ENSMLUG00000002526	Un	-	SNU13 homolog, small nuclear ribonucleoprotein (U4/U6.U5)	protein-coding	-	-	-	NHP2-like protein 1|NHP2 non-histone chromosome protein 2-like 1	20170201
 59463	102425790	RBM42	-	-	Ensembl:ENSMLUG00000011334	Un	-	RNA binding motif protein 42	protein-coding	-	-	-	RNA-binding protein 42	20170201
@@ -10915,7 +10915,7 @@
 59463	102428489	LOC102428489	-	-	Ensembl:ENSMLUG00000027737	Un	-	cytochrome P450 4V2-like	protein-coding	-	-	-	cytochrome P450 4V2-like	20170201
 59463	102428490	ENDOD1	-	-	-	Un	-	endonuclease domain containing 1	protein-coding	-	-	-	endonuclease domain-containing 1 protein	20170201
 59463	102428491	LOC102428491	-	-	-	Un	-	RNA-binding motif protein, X chromosome-like	pseudo	-	-	-	-	20151115
-59463	102428492	SPG21	-	-	Ensembl:ENSMLUG00000016404	Un	-	spastic paraplegia 21 (autosomal recessive, Mast syndrome)	protein-coding	-	-	-	maspardin	20170201
+59463	102428492	SPG21	-	-	Ensembl:ENSMLUG00000016404	Un	-	SPG21, maspardin	protein-coding	-	-	-	maspardin|spastic paraplegia 21 (autosomal recessive, Mast syndrome)	20170205
 59463	102428493	LOC102428493	-	-	-	Un	-	40S ribosomal protein S8 pseudogene	pseudo	-	-	-	-	20151115
 59463	102428494	HDAC1	-	-	Ensembl:ENSMLUG00000013837	Un	-	histone deacetylase 1	protein-coding	-	-	-	histone deacetylase 1	20170201
 59463	102428495	CXCL8	-	IL8	Ensembl:ENSMLUG00000004871	Un	-	C-X-C motif chemokine ligand 8	protein-coding	-	-	-	interleukin-8|interleukin 8	20170201
@@ -16527,7 +16527,7 @@
 59463	102434481	CNOT4	-	-	Ensembl:ENSMLUG00000008260	Un	-	CCR4-NOT transcription complex subunit 4	protein-coding	-	-	-	CCR4-NOT transcription complex subunit 4	20170201
 59463	102434482	LOC102434482	-	-	-	Un	-	claudin-34-like	protein-coding	-	-	-	claudin-34-like	20170201
 59463	102434483	PYCRL	-	-	Ensembl:ENSMLUG00000008482	Un	-	pyrroline-5-carboxylate reductase-like	protein-coding	-	-	-	pyrroline-5-carboxylate reductase 3	20170201
-59463	102434484	FAM188B	-	-	Ensembl:ENSMLUG00000017758	Un	-	family with sequence similarity 188 member B	protein-coding	-	-	-	protein FAM188B	20170201
+59463	102434484	MINDY4	-	FAM188B	Ensembl:ENSMLUG00000017758	Un	-	MINDY lysine 48 deubiquitinase 4	protein-coding	-	-	-	protein FAM188B|family with sequence similarity 188 member B	20170203
 59463	102434485	PPARA	-	-	-	Un	-	peroxisome proliferator activated receptor alpha	protein-coding	-	-	-	peroxisome proliferator-activated receptor alpha	20170201
 59463	102434487	GLUL	-	-	Ensembl:ENSMLUG00000025919	Un	-	glutamate-ammonia ligase	protein-coding	-	-	-	glutamine synthetase	20170201
 59463	102434488	LOC102434488	-	-	-	Un	-	zinc finger protein 551-like	protein-coding	-	-	-	zinc finger protein 551-like	20170201
@@ -18834,7 +18834,7 @@
 59463	102436951	HDAC3	-	-	Ensembl:ENSMLUG00000008662	Un	-	histone deacetylase 3	protein-coding	-	-	-	histone deacetylase 3	20170201
 59463	102436952	PAIP2	-	-	Ensembl:ENSMLUG00000003002	Un	-	poly(A) binding protein interacting protein 2	protein-coding	-	-	-	polyadenylate-binding protein-interacting protein 2	20170201
 59463	102436953	ARIH2	-	-	Ensembl:ENSMLUG00000013946	Un	-	ariadne RBR E3 ubiquitin protein ligase 2	protein-coding	-	-	-	E3 ubiquitin-protein ligase ARIH2	20170201
-59463	102436954	FAM150B	-	-	Ensembl:ENSMLUG00000017708	Un	-	family with sequence similarity 150 member B	protein-coding	-	-	-	protein FAM150B	20170201
+59463	102436954	ALKAL2	-	FAM150B	Ensembl:ENSMLUG00000017708	Un	-	ALK and LTK ligand 2	protein-coding	-	-	-	protein FAM150B|family with sequence similarity 150 member B	20170205
 59463	102436955	LOC102436955	-	-	-	Un	-	leukocyte immunoglobulin-like receptor subfamily A member 6	protein-coding	-	-	-	leukocyte immunoglobulin-like receptor subfamily A member 6	20170201
 59463	102436956	LOC102436956	-	-	-	Un	-	uncharacterized LOC102436956	ncRNA	-	-	-	-	20151115
 59463	102436957	TPPP2	-	-	Ensembl:ENSMLUG00000024693	Un	-	tubulin polymerization promoting protein family member 2	protein-coding	-	-	-	tubulin polymerization-promoting protein family member 2	20170201
@@ -20272,7 +20272,7 @@
 59463	102438523	ELMO2	-	-	Ensembl:ENSMLUG00000008785	Un	-	engulfment and cell motility 2	protein-coding	-	-	-	engulfment and cell motility protein 2	20170201
 59463	102438524	LOC102438524	-	-	-	Un	-	olfactory receptor 4C11-like	protein-coding	-	-	-	olfactory receptor 4C11-like	20170201
 59463	102438525	LOC102438525	-	-	Ensembl:ENSMLUG00000011646	Un	-	chromosome unknown open reading frame, human C2orf42	protein-coding	-	-	-	uncharacterized protein C2orf42 homolog	20170201
-59463	102438526	SPG11	-	-	Ensembl:ENSMLUG00000005361	Un	-	spastic paraplegia 11 (autosomal recessive)	protein-coding	-	-	-	spatacsin	20170201
+59463	102438526	SPG11	-	-	Ensembl:ENSMLUG00000005361	Un	-	SPG11, spatacsin vesicle trafficking associated	protein-coding	-	-	-	spatacsin|spastic paraplegia 11 (autosomal recessive)	20170203
 59463	102438527	CELF2	-	-	Ensembl:ENSMLUG00000005791	Un	-	CUGBP Elav-like family member 2	protein-coding	-	-	-	LOW QUALITY PROTEIN: CUGBP Elav-like family member 2	20170201
 59463	102438528	ZMYM4	-	-	Ensembl:ENSMLUG00000004018	Un	-	zinc finger MYM-type containing 4	protein-coding	-	-	-	zinc finger MYM-type protein 4	20170201
 59463	102438529	LOC102438529	-	-	-	Un	-	histone chaperone ASF1A pseudogene	pseudo	-	-	-	-	20151115
@@ -22347,7 +22347,7 @@
 59463	102440768	LOC102440768	-	-	-	Un	-	barrier-to-autointegration factor pseudogene	pseudo	-	-	-	-	20151115
 59463	102440769	LOC102440769	-	-	-	Un	-	28S ribosomal protein S7, mitochondrial-like	pseudo	-	-	-	-	20151115
 59463	102440770	LOC102440770	-	-	-	Un	-	40S ribosomal protein S3 pseudogene	pseudo	-	-	-	-	20151115
-59463	102440773	CECR5	-	-	Ensembl:ENSMLUG00000015245	Un	-	cat eye syndrome chromosome region, candidate 5	protein-coding	-	-	-	cat eye syndrome critical region protein 5	20170201
+59463	102440773	HDHD5	-	CECR5	Ensembl:ENSMLUG00000015245	Un	-	haloacid dehalogenase like hydrolase domain containing 5	protein-coding	-	-	-	cat eye syndrome critical region protein 5|cat eye syndrome chromosome region, candidate 5	20170205
 59463	102440774	ZNF596	-	-	-	Un	-	zinc finger protein 596	protein-coding	-	-	-	zinc finger protein 596	20170201
 59463	102440775	LOC102440775	-	-	-	Un	-	ER membrane protein complex subunit 2 pseudogene	pseudo	-	-	-	-	20151115
 59463	102440776	FAM214A	-	-	Ensembl:ENSMLUG00000014562	Un	-	family with sequence similarity 214 member A	protein-coding	-	-	-	protein FAM214A	20170201
@@ -23206,7 +23206,7 @@
 59463	102441692	PLA2G3	-	-	Ensembl:ENSMLUG00000009462	Un	-	phospholipase A2 group III	protein-coding	-	-	-	LOW QUALITY PROTEIN: group 3 secretory phospholipase A2	20170201
 59463	102441693	LOC102441693	-	-	-	Un	-	glioma tumor suppressor candidate region gene 2 protein pseudogene	pseudo	-	-	-	-	20151115
 59463	102441694	HSD17B8	-	-	Ensembl:ENSMLUG00000027777	Un	-	hydroxysteroid 17-beta dehydrogenase 8	protein-coding	-	-	-	estradiol 17-beta-dehydrogenase 8	20170201
-59463	102441695	FAM63B	-	-	Ensembl:ENSMLUG00000000733	Un	-	family with sequence similarity 63 member B	protein-coding	-	-	-	protein FAM63B	20170201
+59463	102441695	MINDY2	-	FAM63B	Ensembl:ENSMLUG00000000733	Un	-	MINDY lysine 48 deubiquitinase 2	protein-coding	-	-	-	protein FAM63B|family with sequence similarity 63 member B	20170203
 59463	102441696	LOC102441696	-	-	-	Un	-	actin-related protein 2/3 complex subunit 2-like	pseudo	-	-	-	-	20151115
 59463	102441697	LOC102441697	-	TRIM7	-	Un	-	tripartite motif-containing protein 7	protein-coding	-	-	-	tripartite motif-containing protein 7|tripartite motif containing 7	20170201
 59463	102441698	LOC102441698	-	-	Ensembl:ENSMLUG00000027787	Un	-	histone H2B type 1	protein-coding	-	-	-	histone H2B type 1	20170201
@@ -24216,7 +24216,7 @@
 59463	102442790	LOC102442790	-	-	-	Un	-	glyceraldehyde-3-phosphate dehydrogenase-like	pseudo	-	-	-	-	20151115
 59463	102442791	LOC102442791	-	-	-	Un	-	putative olfactory receptor 52P1	protein-coding	-	-	-	putative olfactory receptor 52P1	20170201
 59463	102442792	IL20	-	-	Ensembl:ENSMLUG00000017717	Un	-	interleukin 20	protein-coding	-	-	-	interleukin-20	20170201
-59463	102442793	FAM63A	-	-	Ensembl:ENSMLUG00000010567	Un	-	family with sequence similarity 63 member A	protein-coding	-	-	-	protein FAM63A	20170201
+59463	102442793	MINDY1	-	FAM63A	Ensembl:ENSMLUG00000010567	Un	-	MINDY lysine 48 deubiquitinase 1	protein-coding	-	-	-	protein FAM63A|family with sequence similarity 63 member A	20170203
 59463	102442794	RORC	-	-	Ensembl:ENSMLUG00000029229	Un	-	RAR related orphan receptor C	protein-coding	-	-	-	nuclear receptor ROR-gamma	20170201
 59463	102442795	CEBPG	-	-	Ensembl:ENSMLUG00000005181	Un	-	CCAAT/enhancer binding protein gamma	protein-coding	-	-	-	CCAAT/enhancer-binding protein gamma	20170201
 59463	102442796	DCAF8	-	-	-	Un	-	DDB1 and CUL4 associated factor 8	protein-coding	-	-	-	DDB1- and CUL4-associated factor 8	20170201

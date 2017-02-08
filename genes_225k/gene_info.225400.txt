@@ -297,7 +297,7 @@
 225400	102751492	DGKI	MDA_GLEAN10007725	-	-	Un	-	diacylglycerol kinase iota	protein-coding	-	-	-	diacylglycerol kinase iota	20170125
 225400	102751493	NRXN3	-	-	-	Un	-	neurexin 3	protein-coding	-	-	-	neurexin 3	20170125
 225400	102751494	LOC102751494	-	-	-	Un	-	40S ribosomal protein S26-like	pseudo	-	-	-	-	20160211
-225400	102751495	FAM150B	-	-	-	Un	-	family with sequence similarity 150 member B	protein-coding	-	-	-	protein FAM150B	20170125
+225400	102751495	ALKAL2	-	FAM150B	-	Un	-	ALK and LTK ligand 2	protein-coding	-	-	-	protein FAM150B|family with sequence similarity 150 member B	20170205
 225400	102751496	HS2ST1	MDA_GLEAN10011173	-	-	Un	-	heparan sulfate 2-O-sulfotransferase 1	protein-coding	-	-	-	heparan sulfate 2-O-sulfotransferase 1	20170125
 225400	102751497	LTB4R2	MDA_GLEAN10004083	-	-	Un	-	leukotriene B4 receptor 2	protein-coding	-	-	-	leukotriene B4 receptor 2	20170125
 225400	102751498	NUMA1	MDA_GLEAN10005199	-	-	Un	-	nuclear mitotic apparatus protein 1	protein-coding	-	-	-	nuclear mitotic apparatus protein 1	20170125
@@ -459,7 +459,7 @@
 225400	102751663	LOC102751663	-	-	-	Un	-	cytochrome b-c1 complex subunit 9 pseudogene	pseudo	-	-	-	-	20160211
 225400	102751664	PIGK	-	-	-	Un	-	phosphatidylinositol glycan anchor biosynthesis class K	protein-coding	-	-	-	GPI-anchor transamidase	20170125
 225400	102751665	LOC102751665	-	-	-	Un	-	disintegrin and metalloproteinase domain-containing protein 25-like	protein-coding	-	-	-	disintegrin and metalloproteinase domain-containing protein 25-like	20170125
-225400	102751666	FAM63A	MDA_GLEAN10009672	-	-	Un	-	family with sequence similarity 63 member A	protein-coding	-	-	-	protein FAM63A|Protein FAM63A	20170125
+225400	102751666	MINDY1	MDA_GLEAN10009672	FAM63A	-	Un	-	MINDY lysine 48 deubiquitinase 1	protein-coding	-	-	-	protein FAM63A|Protein FAM63A|family with sequence similarity 63 member A	20170203
 225400	102751667	LOC102751667	-	-	-	Un	-	ubiquitin-conjugating enzyme E2 R2 pseudogene	pseudo	-	-	-	-	20160211
 225400	102751668	CHEK1	-	-	-	Un	-	checkpoint kinase 1	protein-coding	-	-	-	serine/threonine-protein kinase Chk1	20170125
 225400	102751669	ZNF696	-	-	-	Un	-	zinc finger protein 696	protein-coding	-	-	-	zinc finger protein 696	20170125
@@ -612,7 +612,7 @@
 225400	102751823	TECR	MDA_GLEAN10004124	-	-	Un	-	trans-2,3-enoyl-CoA reductase	protein-coding	-	-	-	very-long-chain enoyl-CoA reductase	20170125
 225400	102751824	HSP90B1	-	-	-	Un	-	heat shock protein 90 beta family member 1	protein-coding	-	-	-	endoplasmin|heat shock protein 90kDa beta (Grp94), member 1	20170125
 225400	102751826	EOGT	MDA_GLEAN10017367	-	-	Un	-	EGF domain specific O-linked N-acetylglucosamine transferase	protein-coding	-	-	-	EGF domain-specific O-linked N-acetylglucosamine transferase	20170125
-225400	102751827	SPG21	MDA_GLEAN10015310	Maspardin	-	Un	-	spastic paraplegia 21 (autosomal recessive, Mast syndrome)	protein-coding	-	-	-	maspardin	20170125
+225400	102751827	SPG21	MDA_GLEAN10015310	Maspardin	-	Un	-	SPG21, maspardin	protein-coding	-	-	-	maspardin|spastic paraplegia 21 (autosomal recessive, Mast syndrome)	20170205
 225400	102751828	NINJ2	MDA_GLEAN10009462	Ninjurin-2	-	Un	-	ninjurin 2	protein-coding	-	-	-	ninjurin-2	20170125
 225400	102751829	NAA40	-	-	-	Un	-	N(alpha)-acetyltransferase 40, NatD catalytic subunit	protein-coding	-	-	-	N-alpha-acetyltransferase 40	20170125
 225400	102751830	BBS4	MDA_GLEAN10002146	-	-	Un	-	Bardet-Biedl syndrome 4	protein-coding	-	-	-	Bardet-Biedl syndrome 4 protein	20170125
@@ -2463,7 +2463,7 @@
 225400	102753777	HCN2	MDA_GLEAN10011466	-	-	Un	-	hyperpolarization activated cyclic nucleotide gated potassium channel 2	protein-coding	-	-	-	potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2|Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2	20170125
 225400	102753778	LOC102753778	MDA_GLEAN10001571	-	-	Un	-	arachidonate 12-lipoxygenase, 12S-type	protein-coding	-	-	-	arachidonate 12-lipoxygenase, 12S-type	20170125
 225400	102753779	SBSN	MDA_GLEAN10008224	-	-	Un	-	suprabasin	protein-coding	-	-	-	suprabasin	20170125
-225400	102753780	FAM63B	MDA_GLEAN10012026	-	-	Un	-	family with sequence similarity 63 member B	protein-coding	-	-	-	protein FAM63B|Protein FAM63B	20170125
+225400	102753780	MINDY2	MDA_GLEAN10012026	FAM63B	-	Un	-	MINDY lysine 48 deubiquitinase 2	protein-coding	-	-	-	protein FAM63B|Protein FAM63B|family with sequence similarity 63 member B	20170203
 225400	102753781	LOC102753781	-	-	-	Un	-	UPF0472 protein C16orf72	protein-coding	-	-	-	UPF0472 protein C16orf72	20170125
 225400	102753782	LOC102753782	-	-	-	Un	-	hepatitis A virus cellular receptor 1-like	protein-coding	-	-	-	LOW QUALITY PROTEIN: hepatitis A virus cellular receptor 1-like	20170125
 225400	102753783	DSG4	-	-	-	Un	-	desmoglein 4	protein-coding	-	-	-	LOW QUALITY PROTEIN: desmoglein-4	20170125
@@ -4098,7 +4098,7 @@
 225400	102755517	LOC102755517	-	-	-	Un	-	uncharacterized LOC102755517	ncRNA	-	-	-	-	20160211
 225400	102755518	HMGA1	MDA_GLEAN10005157	-	-	Un	-	high mobility group AT-hook 1	protein-coding	-	-	-	high mobility group protein HMG-I/HMG-Y|High mobility group protein HMG-I/HMG-Y	20170125
 225400	102755519	TMOD4	MDA_GLEAN10009682	-	-	Un	-	tropomodulin 4	protein-coding	-	-	-	tropomodulin-4|Tropomodulin-4|tropomodulin 4 (muscle)	20170125
-225400	102755520	FAM188B	-	-	-	Un	-	family with sequence similarity 188 member B	protein-coding	-	-	-	protein FAM188B	20170125
+225400	102755520	MINDY4	-	FAM188B	-	Un	-	MINDY lysine 48 deubiquitinase 4	protein-coding	-	-	-	protein FAM188B|family with sequence similarity 188 member B	20170203
 225400	102755521	RASGEF1C	-	-	-	Un	-	RasGEF domain family member 1C	protein-coding	-	-	-	LOW QUALITY PROTEIN: ras-GEF domain-containing family member 1C	20170125
 225400	102755522	QRICH2	MDA_GLEAN10013646	-	-	Un	-	glutamine rich 2	protein-coding	-	-	-	glutamine-rich protein 2|Glutamine-rich protein 2|RING finger protein 157	20170128
 225400	102755523	LOC102755523	-	-	-	Un	-	transcription factor AP-2 gamma pseudogene	pseudo	-	-	-	-	20160211
@@ -7247,7 +7247,7 @@
 225400	102758874	LOC102758874	-	-	-	Un	-	short transient receptor potential channel 5-like	protein-coding	-	-	-	short transient receptor potential channel 5-like	20170125
 225400	102758875	ST6GALNAC5	-	-	-	Un	-	ST6 N-acetylgalactosaminide alpha-2,6-sialyltransferase 5	protein-coding	-	-	-	alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase 5	20170125
 225400	102758877	ARL6	-	-	-	Un	-	ADP ribosylation factor like GTPase 6	protein-coding	-	-	-	ADP-ribosylation factor-like protein 6|ADP-ribosylation factor-like 6	20170125
-225400	102758878	FAM188A	MDA_GLEAN10008107	-	-	Un	-	family with sequence similarity 188 member A	protein-coding	-	-	-	protein FAM188A|Protein FAM188A	20170125
+225400	102758878	MINDY3	MDA_GLEAN10008107	FAM188A	-	Un	-	MINDY lysine 48 deubiquitinase 3	protein-coding	-	-	-	protein FAM188A|Protein FAM188A|family with sequence similarity 188 member A	20170203
 225400	102758879	SUMO1	MDA_GLEAN10008492	-	-	Un	-	small ubiquitin-like modifier 1	protein-coding	-	-	-	small ubiquitin-related modifier 1|Small ubiquitin-related modifier 1	20170125
 225400	102758880	LOC102758880	-	-	-	Un	-	SLAM family member 7-like	protein-coding	-	-	-	SLAM family member 7-like	20170125
 225400	102758881	JMY	-	-	-	Un	-	junction mediating and regulatory protein, p53 cofactor	protein-coding	-	-	-	LOW QUALITY PROTEIN: junction-mediating and -regulatory protein	20170125
@@ -16886,7 +16886,7 @@
 225400	102769129	SMIM20	MDA_GLEAN10016545	-	-	Un	-	small integral membrane protein 20	protein-coding	-	-	-	small integral membrane protein 20	20170125
 225400	102769130	SELENOO	MDA_GLEAN10009226	-	-	Un	-	selenoprotein O	protein-coding	-	-	-	selenoprotein O	20170125
 225400	102769131	WDR31	MDA_GLEAN10018182	-	-	Un	-	WD repeat domain 31	protein-coding	-	-	-	WD repeat-containing protein 31	20170125
-225400	102769132	CECR5	MDA_GLEAN10001235	-	-	Un	-	cat eye syndrome chromosome region, candidate 5	protein-coding	-	-	-	cat eye syndrome critical region protein 5|Cat eye syndrome critical region protein 5	20170125
+225400	102769132	HDHD5	MDA_GLEAN10001235	CECR5	-	Un	-	haloacid dehalogenase like hydrolase domain containing 5	protein-coding	-	-	-	cat eye syndrome critical region protein 5|Cat eye syndrome critical region protein 5|cat eye syndrome chromosome region, candidate 5	20170205
 225400	102769133	FEZF1	MDA_GLEAN10006413	-	-	Un	-	FEZ family zinc finger 1	protein-coding	-	-	-	LOW QUALITY PROTEIN: fez family zinc finger protein 1|Fez family zinc finger protein 1	20170125
 225400	102769134	SHQ1	MDA_GLEAN10003392	-	-	Un	-	SHQ1, H/ACA ribonucleoprotein assembly factor	protein-coding	-	-	-	protein SHQ1 homolog|Protein SHQ1 like protein	20170125
 225400	102769135	SUN2	-	-	-	Un	-	Sad1 and UNC84 domain containing 2	protein-coding	-	-	-	SUN domain-containing protein 2	20170125
@@ -18955,7 +18955,7 @@
 225400	102771338	LOC102771338	-	-	-	Un	-	ran-specific GTPase-activating protein-like	pseudo	-	-	-	-	20160211
 225400	102771339	LOC102771339	-	-	-	Un	-	uncharacterized LOC102771339	ncRNA	-	-	-	-	20160211
 225400	102771340	LOC102771340	MDA_GLEAN10025772	SERF1A	-	Un	-	small EDRK-rich factor 1	protein-coding	-	-	-	small EDRK-rich factor 1|small EDRK-rich factor 1A (telomeric)	20170125
-225400	102771341	VTCN1	MDA_GLEAN10024834	-	-	Un	-	V-set domain containing T cell activation inhibitor 1	protein-coding	-	-	-	V-set domain-containing T-cell activation inhibitor 1	20170125
+225400	102771341	VTCN1	MDA_GLEAN10024834	-	-	Un	-	V-set domain containing T-cell activation inhibitor 1	protein-coding	-	-	-	V-set domain-containing T-cell activation inhibitor 1	20170205
 225400	102771342	LOC102771342	-	-	-	Un	-	polyubiquitin-D-like	protein-coding	-	-	-	polyubiquitin-D-like	20170125
 225400	102771343	TLR8	MDA_GLEAN10014538	-	-	Un	-	toll like receptor 8	protein-coding	-	-	-	toll-like receptor 8	20170125
 225400	102771344	LOC102771344	-	-	-	Un	-	TCF3 fusion partner pseudogene	pseudo	-	-	-	-	20160211
@@ -20701,7 +20701,7 @@
 225400	102773217	TRIM25	-	-	-	Un	-	tripartite motif containing 25	protein-coding	-	-	-	E3 ubiquitin/ISG15 ligase TRIM25	20170125
 225400	102773218	LOC102773218	-	-	-	Un	-	mitochondrial import receptor subunit TOM40 homolog pseudogene	pseudo	-	-	-	-	20160211
 225400	102773219	PSMD10	MDA_GLEAN10003844	-	-	Un	-	proteasome 26S subunit, non-ATPase 10	protein-coding	-	-	-	26S proteasome non-ATPase regulatory subunit 10|proteasome (prosome, macropain) 26S subunit, non-ATPase, 10	20170125
-225400	102773220	SPG11	-	-	-	Un	-	spastic paraplegia 11 (autosomal recessive)	protein-coding	-	-	-	spatacsin	20170125
+225400	102773220	SPG11	-	-	-	Un	-	SPG11, spatacsin vesicle trafficking associated	protein-coding	-	-	-	spatacsin|spastic paraplegia 11 (autosomal recessive)	20170203
 225400	102773221	ZNF283	-	-	-	Un	-	zinc finger protein 283	protein-coding	-	-	-	zinc finger protein 283	20170125
 225400	102773222	LOC102773222	-	-	-	Un	-	40S ribosomal protein S6 pseudogene	pseudo	-	-	-	-	20160211
 225400	102773223	CNGA1	MDA_GLEAN10013179	-	-	Un	-	cyclic nucleotide gated channel alpha 1	protein-coding	-	-	-	cGMP-gated cation channel alpha-1|Cyclic nucleotide-gated channel rod photoreceptor subunit alpha	20170125

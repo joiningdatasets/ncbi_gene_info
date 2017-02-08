@@ -553,7 +553,7 @@
 132908	105288704	FBXL2	-	-	-	Un	-	F-box and leucine rich repeat protein 2	protein-coding	-	-	-	F-box/LRR-repeat protein 2	20170128
 132908	105288705	CASC4	-	-	-	Un	-	cancer susceptibility 4	protein-coding	-	-	-	protein CASC4|cancer susceptibility candidate 4	20170128
 132908	105288706	CTDSPL2	-	-	-	Un	-	CTD small phosphatase like 2	protein-coding	-	-	-	CTD small phosphatase-like protein 2	20170128
-132908	105288707	SPG11	-	-	-	Un	-	spastic paraplegia 11 (autosomal recessive)	protein-coding	-	-	-	spatacsin	20170128
+132908	105288707	SPG11	-	-	-	Un	-	SPG11, spatacsin vesicle trafficking associated	protein-coding	-	-	-	spatacsin|spastic paraplegia 11 (autosomal recessive)	20170203
 132908	105288708	LOC105288708	-	-	-	Un	-	uncharacterized LOC105288708	pseudo	-	-	-	-	20151115
 132908	105288709	EIF3J	-	-	-	Un	-	eukaryotic translation initiation factor 3 subunit J	protein-coding	-	-	-	eukaryotic translation initiation factor 3 subunit J	20170128
 132908	105288710	PATL2	-	-	-	Un	-	PAT1 homolog 2	protein-coding	-	-	-	protein PAT1 homolog 2	20170128
@@ -3267,7 +3267,7 @@
 132908	105291418	CHD7	-	-	-	Un	-	chromodomain helicase DNA binding protein 7	protein-coding	-	-	-	chromodomain-helicase-DNA-binding protein 7	20170128
 132908	105291419	CLVS1	-	-	-	Un	-	clavesin 1	protein-coding	-	-	-	clavesin-1	20170128
 132908	105291420	LOC105291420	-	-	-	Un	-	splicing regulatory glutamine/lysine-rich protein 1-like	protein-coding	-	-	-	splicing regulatory glutamine/lysine-rich protein 1-like	20170128
-132908	105291421	FAM150A	-	-	-	Un	-	family with sequence similarity 150 member A	protein-coding	-	-	-	LOW QUALITY PROTEIN: protein FAM150A	20170128
+132908	105291421	ALKAL1	-	FAM150A	-	Un	-	ALK and LTK ligand 1	protein-coding	-	-	-	LOW QUALITY PROTEIN: protein FAM150A|family with sequence similarity 150 member A	20170205
 132908	105291422	RB1CC1	-	-	-	Un	-	RB1 inducible coiled-coil 1	protein-coding	-	-	-	RB1-inducible coiled-coil protein 1	20170128
 132908	105291423	LOC105291423	-	-	-	Un	-	meiotic nuclear division protein 1 homolog pseudogene	pseudo	-	-	-	-	20151115
 132908	105291424	LOC105291424	-	-	-	Un	-	endogenous retrovirus group K member 11 Pol protein-like	protein-coding	-	-	-	endogenous retrovirus group K member 11 Pol protein-like	20170128
@@ -6082,7 +6082,7 @@
 132908	105294233	KBTBD13	-	-	-	Un	-	kelch repeat and BTB domain containing 13	protein-coding	-	-	-	kelch repeat and BTB domain-containing protein 13	20170128
 132908	105294234	SLC51B	-	-	-	Un	-	solute carrier family 51 beta subunit	protein-coding	-	-	-	organic solute transporter subunit beta	20170128
 132908	105294235	RASL12	-	-	-	Un	-	RAS like family 12	protein-coding	-	-	-	ras-like protein family member 12	20170128
-132908	105294236	SPG21	-	-	-	Un	-	spastic paraplegia 21 (autosomal recessive, Mast syndrome)	protein-coding	-	-	-	maspardin	20170128
+132908	105294236	SPG21	-	-	-	Un	-	SPG21, maspardin	protein-coding	-	-	-	maspardin|spastic paraplegia 21 (autosomal recessive, Mast syndrome)	20170205
 132908	105294237	PLEKHO2	-	-	-	Un	-	pleckstrin homology domain containing O2	protein-coding	-	-	-	pleckstrin homology domain-containing family O member 2	20170128
 132908	105294238	PIF1	-	-	-	Un	-	PIF1 5'-to-3' DNA helicase	protein-coding	-	-	-	ATP-dependent DNA helicase PIF1	20170128
 132908	105294239	DYNC1I1	-	-	-	Un	-	dynein cytoplasmic 1 intermediate chain 1	protein-coding	-	-	-	cytoplasmic dynein 1 intermediate chain 1	20170128
@@ -6124,7 +6124,7 @@
 132908	105294275	SLTM	-	-	-	Un	-	SAFB like transcription modulator	protein-coding	-	-	-	SAFB-like transcription modulator	20170128
 132908	105294276	LOC105294276	-	-	-	Un	-	GTP-binding nuclear protein Ran-like	pseudo	-	-	-	-	20151115
 132908	105294277	LOC105294277	-	-	-	Un	-	60S ribosomal protein L36 pseudogene	pseudo	-	-	-	-	20151115
-132908	105294278	FAM63B	-	-	-	Un	-	family with sequence similarity 63 member B	protein-coding	-	-	-	protein FAM63B	20170128
+132908	105294278	MINDY2	-	FAM63B	-	Un	-	MINDY lysine 48 deubiquitinase 2	protein-coding	-	-	-	protein FAM63B|family with sequence similarity 63 member B	20170203
 132908	105294279	LOC105294279	-	-	-	Un	-	syntenin-1 pseudogene	pseudo	-	-	-	-	20151115
 132908	105294280	ADAM10	-	-	-	Un	-	ADAM metallopeptidase domain 10	protein-coding	-	-	-	disintegrin and metalloproteinase domain-containing protein 10	20170128
 132908	105294281	LIPC	-	-	-	Un	-	lipase C, hepatic type	protein-coding	-	-	-	hepatic triacylglycerol lipase	20170128
@@ -9093,7 +9093,7 @@
 132908	105297244	CECR2	-	-	-	Un	-	cat eye syndrome chromosome region, candidate 2	protein-coding	-	-	-	cat eye syndrome critical region protein 2	20170128
 132908	105297245	LOC105297245	-	-	-	Un	-	transcription factor BTF3 pseudogene	pseudo	-	-	-	-	20151115
 132908	105297246	CECR1	-	-	-	Un	-	cat eye syndrome chromosome region, candidate 1	protein-coding	-	-	-	adenosine deaminase CECR1	20170128
-132908	105297247	CECR5	-	-	-	Un	-	cat eye syndrome chromosome region, candidate 5	protein-coding	-	-	-	cat eye syndrome critical region protein 5	20170128
+132908	105297247	HDHD5	-	CECR5	-	Un	-	haloacid dehalogenase like hydrolase domain containing 5	protein-coding	-	-	-	cat eye syndrome critical region protein 5|cat eye syndrome chromosome region, candidate 5	20170205
 132908	105297248	CECR6	-	-	-	Un	-	cat eye syndrome chromosome region, candidate 6	protein-coding	-	-	-	cat eye syndrome critical region protein 6	20170128
 132908	105297249	IL17RA	-	-	-	Un	-	interleukin 17 receptor A	protein-coding	-	-	-	interleukin-17 receptor A	20170128
 132908	105297250	LOC105297250	-	-	-	Un	-	uncharacterized LOC105297250	protein-coding	-	-	-	uncharacterized protein LOC105297250	20170128
@@ -9714,7 +9714,7 @@
 132908	105297865	EHD1	-	-	-	Un	-	EH domain containing 1	protein-coding	-	-	-	EH domain-containing protein 1	20170128
 132908	105297866	PPP2R5B	-	-	-	Un	-	protein phosphatase 2 regulatory subunit B'beta	protein-coding	-	-	-	serine/threonine-protein phosphatase 2A 56 kDa regulatory subunit beta isoform	20170128
 132908	105297867	GPHA2	-	-	-	Un	-	glycoprotein hormone alpha 2	protein-coding	-	-	-	glycoprotein hormone alpha-2	20170128
-132908	105297868	VTCN1	-	-	-	Un	-	V-set domain containing T cell activation inhibitor 1	protein-coding	-	-	-	V-set domain-containing T-cell activation inhibitor 1	20170128
+132908	105297868	VTCN1	-	-	-	Un	-	V-set domain containing T-cell activation inhibitor 1	protein-coding	-	-	-	V-set domain-containing T-cell activation inhibitor 1	20170205
 132908	105297869	BATF2	-	-	-	Un	-	basic leucine zipper ATF-like transcription factor 2	protein-coding	-	-	-	basic leucine zipper transcriptional factor ATF-like 2	20170128
 132908	105297870	ARL2	-	-	-	Un	-	ADP ribosylation factor like GTPase 2	protein-coding	-	-	-	ADP-ribosylation factor-like protein 2	20170128
 132908	105297871	SNX15	-	-	-	Un	-	sorting nexin 15	protein-coding	-	-	-	sorting nexin-15	20170128
@@ -15672,7 +15672,7 @@
 132908	105303823	CERS2	-	-	-	Un	-	ceramide synthase 2	protein-coding	-	-	-	ceramide synthase 2	20170128
 132908	105303824	BNIPL	-	-	-	Un	-	BCL2 interacting protein like	protein-coding	-	-	-	bcl-2/adenovirus E1B 19 kDa-interacting protein 2-like protein	20170128
 132908	105303825	PRUNE1	-	-	-	Un	-	prune exopolyphosphatase	protein-coding	-	-	-	protein prune homolog	20170128
-132908	105303826	FAM63A	-	-	-	Un	-	family with sequence similarity 63 member A	protein-coding	-	-	-	protein FAM63A	20170128
+132908	105303826	MINDY1	-	FAM63A	-	Un	-	MINDY lysine 48 deubiquitinase 1	protein-coding	-	-	-	protein FAM63A|family with sequence similarity 63 member A	20170203
 132908	105303827	LOC105303827	-	-	-	Un	-	chromosome unknown open reading frame, human C1orf56	protein-coding	-	-	-	protein MENT	20170128
 132908	105303828	CDC42SE1	-	-	-	Un	-	CDC42 small effector 1	protein-coding	-	-	-	CDC42 small effector protein 1	20170128
 132908	105303829	SSBP2	-	-	-	Un	-	single stranded DNA binding protein 2	protein-coding	-	-	-	single-stranded DNA-binding protein 2	20170128
@@ -16862,7 +16862,7 @@
 132908	105305013	LOC105305013	-	-	-	Un	-	ubiquitin carboxyl-terminal hydrolase 32	protein-coding	-	-	-	ubiquitin carboxyl-terminal hydrolase 32	20170128
 132908	105305014	FAM171A1	-	-	-	Un	-	family with sequence similarity 171 member A1	protein-coding	-	-	-	protein FAM171A1	20170128
 132908	105305015	ITGA8	-	-	-	Un	-	integrin subunit alpha 8	protein-coding	-	-	-	integrin alpha-8	20170128
-132908	105305016	FAM188A	-	-	-	Un	-	family with sequence similarity 188 member A	protein-coding	-	-	-	protein FAM188A	20170128
+132908	105305016	MINDY3	-	FAM188A	-	Un	-	MINDY lysine 48 deubiquitinase 3	protein-coding	-	-	-	protein FAM188A|family with sequence similarity 188 member A	20170203
 132908	105305017	ASTE1	-	-	-	Un	-	asteroid homolog 1 (Drosophila)	protein-coding	-	-	-	protein asteroid homolog 1	20170128
 132908	105305018	BOC	-	-	-	Un	-	BOC cell adhesion associated, oncogene regulated	protein-coding	-	-	-	brother of CDO	20170128
 132908	105305019	PTER	-	-	-	Un	-	phosphotriesterase related	protein-coding	-	-	-	phosphotriesterase-related protein	20170128
@@ -23130,7 +23130,7 @@
 132908	105311281	LOC105311281	-	-	-	Un	-	ferritin heavy chain pseudogene	pseudo	-	-	-	-	20151115
 132908	105311282	LOC105311282	-	-	-	Un	-	ferritin heavy chain pseudogene	pseudo	-	-	-	-	20151115
 132908	105311283	LOC105311283	-	-	-	Un	-	uncharacterized LOC105311283	ncRNA	-	-	-	-	20151115
-132908	105311284	FAM150B	-	-	-	Un	-	family with sequence similarity 150 member B	protein-coding	-	-	-	protein FAM150B	20170128
+132908	105311284	ALKAL2	-	FAM150B	-	Un	-	ALK and LTK ligand 2	protein-coding	-	-	-	protein FAM150B|family with sequence similarity 150 member B	20170205
 132908	105311285	LOC105311285	-	-	-	Un	-	nicotinate phosphoribosyltransferase-like	protein-coding	-	-	-	nicotinate phosphoribosyltransferase-like	20170128
 132908	105311286	LOC105311286	-	-	-	Un	-	elongation factor 1-delta	protein-coding	-	-	-	elongation factor 1-delta	20170128
 132908	105311287	LOC105311287	-	-	-	Un	-	pyruvate dehydrogenase phosphatase regulatory subunit, mitochondrial-like	protein-coding	-	-	-	pyruvate dehydrogenase phosphatase regulatory subunit, mitochondrial-like	20170128

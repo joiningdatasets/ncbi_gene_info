@@ -1346,7 +1346,7 @@
 89399	109435025	LOC109435025	-	-	-	Un	-	heterogeneous nuclear ribonucleoprotein H3 pseudogene	pseudo	-	-	-	-	20161230
 89399	109435026	LOC109435026	-	-	-	Un	-	RNA-binding protein FUS pseudogene	pseudo	-	-	-	-	20161230
 89399	109435027	NPBWR1	-	-	-	Un	-	neuropeptides B/W receptor 1	protein-coding	-	-	-	neuropeptides B/W receptor type 1	20170131
-89399	109435028	FAM150A	-	-	-	Un	-	family with sequence similarity 150 member A	protein-coding	-	-	-	LOW QUALITY PROTEIN: protein FAM150A	20170131
+89399	109435028	ALKAL1	-	FAM150A	-	Un	-	ALK and LTK ligand 1	protein-coding	-	-	-	LOW QUALITY PROTEIN: protein FAM150A|family with sequence similarity 150 member A	20170205
 89399	109435029	RB1CC1	-	-	-	Un	-	RB1 inducible coiled-coil 1	protein-coding	-	-	-	RB1-inducible coiled-coil protein 1	20170131
 89399	109435030	LOC109435030	-	-	-	Un	-	uncharacterized LOC109435030	ncRNA	-	-	-	-	20161230
 89399	109435031	PCMTD1	-	-	-	Un	-	protein-L-isoaspartate (D-aspartate) O-methyltransferase domain containing 1	protein-coding	-	-	-	protein-L-isoaspartate O-methyltransferase domain-containing protein 1	20170131
@@ -10470,7 +10470,7 @@
 89399	109444149	LOC109444149	-	-	-	Un	-	E3 ubiquitin-protein ligase RNF4 pseudogene	pseudo	-	-	-	-	20161230
 89399	109444150	TCF24	-	-	-	Un	-	transcription factor 24	protein-coding	-	-	-	transcription factor 24	20170131
 89399	109444151	B2M	-	-	-	Un	-	beta-2-microglobulin	protein-coding	-	-	-	beta-2-microglobulin	20170131
-89399	109444152	SPG11	-	-	-	Un	-	spastic paraplegia 11 (autosomal recessive)	protein-coding	-	-	-	spatacsin	20170131
+89399	109444152	SPG11	-	-	-	Un	-	SPG11, spatacsin vesicle trafficking associated	protein-coding	-	-	-	spatacsin|spastic paraplegia 11 (autosomal recessive)	20170203
 89399	109444153	EIF3J	-	-	-	Un	-	eukaryotic translation initiation factor 3 subunit J	protein-coding	-	-	-	eukaryotic translation initiation factor 3 subunit J	20170131
 89399	109444154	CTDSPL2	-	-	-	Un	-	CTD small phosphatase like 2	protein-coding	-	-	-	CTD small phosphatase-like protein 2	20170131
 89399	109444155	CASC4	-	-	-	Un	-	cancer susceptibility 4	protein-coding	-	-	-	protein CASC4|cancer susceptibility candidate 4	20170131
@@ -10990,7 +10990,7 @@
 89399	109444669	LOC109444669	-	-	-	Un	-	kallikrein-1-like	pseudo	-	-	-	-	20161230
 89399	109444670	WIPF3	-	-	-	Un	-	WAS/WASL interacting protein family member 3	protein-coding	-	-	-	WAS/WASL-interacting protein family member 3	20170131
 89399	109444671	GGCT	-	-	-	Un	-	gamma-glutamylcyclotransferase	protein-coding	-	-	-	gamma-glutamylcyclotransferase	20170131
-89399	109444672	FAM188B	-	-	-	Un	-	family with sequence similarity 188 member B	protein-coding	-	-	-	probable ubiquitin carboxyl-terminal hydrolase FAM188B	20170131
+89399	109444672	MINDY4	-	FAM188B	-	Un	-	MINDY lysine 48 deubiquitinase 4	protein-coding	-	-	-	probable ubiquitin carboxyl-terminal hydrolase FAM188B|family with sequence similarity 188 member B	20170203
 89399	109444673	NPY	-	-	-	Un	-	neuropeptide Y	protein-coding	-	-	-	pro-neuropeptide Y	20170131
 89399	109444674	NPVF	-	-	-	Un	-	neuropeptide VF precursor	protein-coding	-	-	-	pro-FMRFamide-related neuropeptide VF	20170131
 89399	109444675	HOXA11	-	-	-	Un	-	homeobox A11	protein-coding	-	-	-	homeobox protein Hox-A11	20170131
@@ -13122,7 +13122,7 @@
 89399	109446801	LOC109446801	-	-	-	Un	-	uncharacterized LOC109446801	ncRNA	-	-	-	-	20161230
 89399	109446802	LOC109446802	-	-	-	Un	-	chymosin	protein-coding	-	-	-	chymosin	20170131
 89399	109446803	KCNA10	-	-	-	Un	-	potassium voltage-gated channel subfamily A member 10	protein-coding	-	-	-	potassium voltage-gated channel subfamily A member 10	20170131
-89399	109446804	VTCN1	-	-	-	Un	-	V-set domain containing T cell activation inhibitor 1	protein-coding	-	-	-	V-set domain-containing T-cell activation inhibitor 1	20170131
+89399	109446804	VTCN1	-	-	-	Un	-	V-set domain containing T-cell activation inhibitor 1	protein-coding	-	-	-	V-set domain-containing T-cell activation inhibitor 1	20170205
 89399	109446805	LOC109446805	-	-	-	Un	-	uncharacterized LOC109446805	ncRNA	-	-	-	-	20161230
 89399	109446806	LOC109446806	-	-	-	Un	-	uncharacterized LOC109446806	ncRNA	-	-	-	-	20161230
 89399	109446807	EPS8L3	-	-	-	Un	-	EPS8 like 3	protein-coding	-	-	-	epidermal growth factor receptor kinase substrate 8-like protein 3	20170131
@@ -13980,7 +13980,7 @@
 89399	109447659	BNIP2	-	-	-	Un	-	BCL2 interacting protein 2	protein-coding	-	-	-	BCL2/adenovirus E1B 19 kDa protein-interacting protein 2	20170131
 89399	109447660	GTF2A2	-	-	-	Un	-	general transcription factor IIA subunit 2	protein-coding	-	-	-	transcription initiation factor IIA subunit 2	20170131
 89399	109447661	SLTM	-	-	-	Un	-	SAFB like transcription modulator	protein-coding	-	-	-	SAFB-like transcription modulator	20170131
-89399	109447662	FAM63B	-	-	-	Un	-	family with sequence similarity 63 member B	protein-coding	-	-	-	ubiquitin carboxyl-terminal hydrolase MINDY-2	20170131
+89399	109447662	MINDY2	-	FAM63B	-	Un	-	MINDY lysine 48 deubiquitinase 2	protein-coding	-	-	-	ubiquitin carboxyl-terminal hydrolase MINDY-2|family with sequence similarity 63 member B	20170203
 89399	109447663	ADAM10	-	-	-	Un	-	ADAM metallopeptidase domain 10	protein-coding	-	-	-	disintegrin and metalloproteinase domain-containing protein 10	20170131
 89399	109447664	MYZAP	-	-	-	Un	-	myocardial zonula adherens protein	protein-coding	-	-	-	myocardial zonula adherens protein	20170131
 89399	109447665	POLR2M	-	-	-	Un	-	RNA polymerase II subunit M	protein-coding	-	-	-	protein GRINL1A	20170131
@@ -17925,7 +17925,7 @@
 89399	109451604	PI4KB	-	-	-	Un	-	phosphatidylinositol 4-kinase beta	protein-coding	-	-	-	phosphatidylinositol 4-kinase beta	20170131
 89399	109451605	ADAMTSL4	-	-	-	Un	-	ADAMTS like 4	protein-coding	-	-	-	ADAMTS-like protein 4	20170131
 89399	109451606	MCL1	-	-	-	Un	-	BCL2 family apoptosis regulator	protein-coding	-	-	-	induced myeloid leukemia cell differentiation protein Mcl-1	20170131
-89399	109451607	FAM63A	-	-	-	Un	-	family with sequence similarity 63 member A	protein-coding	-	-	-	ubiquitin carboxyl-terminal hydrolase MINDY-1	20170131
+89399	109451607	MINDY1	-	FAM63A	-	Un	-	MINDY lysine 48 deubiquitinase 1	protein-coding	-	-	-	ubiquitin carboxyl-terminal hydrolase MINDY-1|family with sequence similarity 63 member A	20170203
 89399	109451608	PRUNE1	-	-	-	Un	-	prune exopolyphosphatase	protein-coding	-	-	-	protein prune homolog	20170131
 89399	109451609	CUNH1orf56	-	-	-	Un	-	chromosome unknown C1orf56 homolog	protein-coding	-	-	-	protein MENT	20170131
 89399	109451610	BNIPL	-	-	-	Un	-	BCL2 interacting protein like	protein-coding	-	-	-	bcl-2/adenovirus E1B 19 kDa-interacting protein 2-like protein	20170131
@@ -21219,7 +21219,7 @@
 89399	109454898	LOC109454898	-	-	-	Un	-	elongation factor 1-alpha 1 pseudogene	pseudo	-	-	-	-	20161230
 89399	109454899	LOC109454899	-	-	-	Un	-	phosducin-like protein 3	pseudo	-	-	-	-	20161230
 89399	109454900	LOC109454900	-	-	-	Un	-	60S ribosomal protein L18 pseudogene	pseudo	-	-	-	-	20161230
-89399	109454901	FAM188A	-	-	-	Un	-	family with sequence similarity 188 member A	protein-coding	-	-	-	ubiquitin carboxyl-terminal hydrolase FAM188A	20170131
+89399	109454901	MINDY3	-	FAM188A	-	Un	-	MINDY lysine 48 deubiquitinase 3	protein-coding	-	-	-	ubiquitin carboxyl-terminal hydrolase FAM188A|family with sequence similarity 188 member A	20170203
 89399	109454902	TRDMT1	-	-	-	Un	-	tRNA aspartic acid methyltransferase 1	protein-coding	-	-	-	tRNA (cytosine(38)-C(5))-methyltransferase	20170131
 89399	109454903	SERPINA3	-	-	-	Un	-	serpin family A member 3	protein-coding	-	-	-	alpha-1-antichymotrypsin	20170131
 89399	109454904	LOC109454904	-	-	-	Un	-	ATP synthase subunit O, mitochondrial-like	protein-coding	-	-	-	LOW QUALITY PROTEIN: ATP synthase subunit O, mitochondrial-like	20170131
@@ -22733,7 +22733,7 @@
 89399	109456412	SLC51B	-	-	-	Un	-	solute carrier family 51 beta subunit	protein-coding	-	-	-	organic solute transporter subunit beta	20170131
 89399	109456413	PDCD7	-	-	-	Un	-	programmed cell death 7	protein-coding	-	-	-	programmed cell death protein 7	20170131
 89399	109456414	UBAP1L	-	-	-	Un	-	ubiquitin associated protein 1 like	protein-coding	-	-	-	ubiquitin-associated protein 1-like	20170131
-89399	109456415	SPG21	-	-	-	Un	-	spastic paraplegia 21 (autosomal recessive, Mast syndrome)	protein-coding	-	-	-	maspardin	20170131
+89399	109456415	SPG21	-	-	-	Un	-	SPG21, maspardin	protein-coding	-	-	-	maspardin|spastic paraplegia 21 (autosomal recessive, Mast syndrome)	20170205
 89399	109456416	OSER1	-	-	-	Un	-	oxidative stress responsive serine rich 1	protein-coding	-	-	-	oxidative stress-responsive serine-rich protein 1	20170131
 89399	109456417	MTFMT	-	-	-	Un	-	mitochondrial methionyl-tRNA formyltransferase	protein-coding	-	-	-	methionyl-tRNA formyltransferase, mitochondrial	20170131
 89399	109456418	TRIP4	-	-	-	Un	-	thyroid hormone receptor interactor 4	protein-coding	-	-	-	activating signal cointegrator 1	20170131
@@ -22812,7 +22812,7 @@
 89399	109456491	LOC109456491	-	-	-	Un	-	glyceraldehyde-3-phosphate dehydrogenase-like	pseudo	-	-	-	-	20161230
 89399	109456492	LOC109456492	-	-	-	Un	-	40S ribosomal protein SA pseudogene	pseudo	-	-	-	-	20161230
 89399	109456493	LOC109456493	-	-	-	Un	-	elongation factor 1-alpha 1 pseudogene	pseudo	-	-	-	-	20161230
-89399	109456494	FAM188B2	-	-	-	Un	-	family with sequence similarity 188 member B2	protein-coding	-	-	-	protein FAM188B2	20170131
+89399	109456494	MINDY4B	-	FAM188B2	-	Un	-	MINDY family member 4B	protein-coding	-	-	-	protein FAM188B2|family with sequence similarity 188 member B2	20170203
 89399	109456495	LOC109456495	-	-	-	Un	-	uncharacterized LOC109456495	ncRNA	-	-	-	-	20161230
 89399	109456496	LOC109456496	-	-	-	Un	-	lysosomal-associated transmembrane protein 4A-like	pseudo	-	-	-	-	20161230
 89399	109456497	LOC109456497	-	-	-	Un	-	ceruloplasmin-like	protein-coding	-	-	-	ceruloplasmin-like	20170131
@@ -24715,7 +24715,7 @@
 89399	109458394	TRAPPC12	-	-	-	Un	-	trafficking protein particle complex 12	protein-coding	-	-	-	trafficking protein particle complex subunit 12	20170131
 89399	109458395	SH3YL1	-	-	-	Un	-	SH3 and SYLF domain containing 1	protein-coding	-	-	-	SH3 domain-containing YSC84-like protein 1	20170131
 89399	109458396	ACP1	-	-	-	Un	-	acid phosphatase 1, soluble	protein-coding	-	-	-	low molecular weight phosphotyrosine protein phosphatase	20170131
-89399	109458397	FAM150B	-	-	-	Un	-	family with sequence similarity 150 member B	protein-coding	-	-	-	protein FAM150B	20170131
+89399	109458397	ALKAL2	-	FAM150B	-	Un	-	ALK and LTK ligand 2	protein-coding	-	-	-	protein FAM150B|family with sequence similarity 150 member B	20170205
 89399	109458398	RNASEH1	-	-	-	Un	-	ribonuclease H1	protein-coding	-	-	-	ribonuclease H1	20170131
 89399	109458399	RPS7	-	-	-	Un	-	ribosomal protein S7	protein-coding	-	-	-	40S ribosomal protein S7	20170131
 89399	109458400	MYT1L	-	-	-	Un	-	myelin transcription factor 1 like	protein-coding	-	-	-	myelin transcription factor 1-like protein	20170131
@@ -27532,7 +27532,7 @@
 89399	109461211	LOC109461211	-	-	-	Un	-	UPF0568 protein C14orf166 pseudogene	pseudo	-	-	-	-	20161230
 89399	109461212	IL17RA	-	-	-	Un	-	interleukin 17 receptor A	protein-coding	-	-	-	interleukin-17 receptor A	20170131
 89399	109461213	CECR6	-	-	-	Un	-	cat eye syndrome chromosome region, candidate 6	protein-coding	-	-	-	LOW QUALITY PROTEIN: cat eye syndrome critical region protein 6	20170131
-89399	109461214	CECR5	-	-	-	Un	-	cat eye syndrome chromosome region, candidate 5	protein-coding	-	-	-	cat eye syndrome critical region protein 5	20170131
+89399	109461214	HDHD5	-	CECR5	-	Un	-	haloacid dehalogenase like hydrolase domain containing 5	protein-coding	-	-	-	cat eye syndrome critical region protein 5|cat eye syndrome chromosome region, candidate 5	20170205
 89399	109461215	BCL2L13	-	-	-	Un	-	BCL2 like 13	protein-coding	-	-	-	bcl-2-like protein 13	20170131
 89399	109461216	LOC109461216	-	-	-	Un	-	uncharacterized LOC109461216	ncRNA	-	-	-	-	20161230
 89399	109461217	PEX26	-	-	-	Un	-	peroxisomal biogenesis factor 26	protein-coding	-	-	-	peroxisome assembly protein 26	20170131

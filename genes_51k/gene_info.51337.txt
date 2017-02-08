@@ -2562,7 +2562,7 @@
 51337	101595969	LOC101595969	-	-	-	Un	-	procollagen C-endopeptidase enhancer 2 pseudogene	pseudo	-	-	-	-	20151115
 51337	101595970	Rps25	-	-	-	Un	-	ribosomal protein S25	protein-coding	-	-	-	40S ribosomal protein S25	20170201
 51337	101595971	LOC101595971	-	Crisp3	-	Un	-	cysteine-rich secretory protein 3	protein-coding	-	-	-	cysteine-rich secretory protein 3	20170201
-51337	101595972	Vtcn1	-	-	-	Un	-	V-set domain containing T cell activation inhibitor 1	protein-coding	-	-	-	V-set domain-containing T-cell activation inhibitor 1	20170201
+51337	101595972	Vtcn1	-	-	-	Un	-	V-set domain containing T-cell activation inhibitor 1	protein-coding	-	-	-	V-set domain-containing T-cell activation inhibitor 1	20170205
 51337	101595973	Arg2	-	-	-	Un	-	arginase 2	protein-coding	-	-	-	arginase-2, mitochondrial	20170201
 51337	101595974	Krt2	-	-	-	Un	-	keratin 2	protein-coding	-	-	-	keratin, type II cytoskeletal 2 epidermal	20170201
 51337	101595975	Sox12	-	-	-	Un	-	SRY-box 12	protein-coding	-	-	-	transcription factor SOX-12	20170201
@@ -3321,7 +3321,7 @@
 51337	101596767	Tulp4	-	-	-	Un	-	tubby like protein 4	protein-coding	-	-	-	tubby-related protein 4	20170201
 51337	101596768	Drc3	-	-	-	Un	-	dynein regulatory complex subunit 3	protein-coding	-	-	-	leucine-rich repeat-containing protein 48	20170201
 51337	101596769	Tcf21	-	-	-	Un	-	transcription factor 21	protein-coding	-	-	-	transcription factor 21	20170201
-51337	101596770	Cecr5	-	-	-	Un	-	cat eye syndrome chromosome region, candidate 5	protein-coding	-	-	-	cat eye syndrome critical region protein 5|cat eye syndrome critical region protein 5 homolog	20170201
+51337	101596770	Hdhd5	-	Cecr5	-	Un	-	haloacid dehalogenase like hydrolase domain containing 5	protein-coding	-	-	-	cat eye syndrome critical region protein 5|cat eye syndrome chromosome region, candidate 5|cat eye syndrome critical region protein 5 homolog	20170205
 51337	101596771	LOC101596771	-	-	-	Un	-	zinc finger protein 354B pseudogene	pseudo	-	-	-	-	20151115
 51337	101596772	LOC101596772	-	-	-	Un	-	rhomboid-related protein 2-like	pseudo	-	-	-	-	20151115
 51337	101596773	LOC101596773	-	-	-	Un	-	chromosome unknown open reading frame, human C21orf33	protein-coding	-	-	-	ES1 protein homolog, mitochondrial	20170201
@@ -3566,7 +3566,7 @@
 51337	101597026	Btbd3	-	-	-	Un	-	BTB domain containing 3	protein-coding	-	-	-	BTB/POZ domain-containing protein 3	20170201
 51337	101597027	LOC101597027	-	-	-	Un	-	chromosome unknown open reading frame, human C1orf141	protein-coding	-	-	-	uncharacterized protein C1orf141 homolog	20170201
 51337	101597028	Vps4a	-	-	-	Un	-	vacuolar protein sorting 4 homolog A	protein-coding	-	-	-	vacuolar protein sorting-associated protein 4A	20170201
-51337	101597029	Fam63b	-	-	-	Un	-	family with sequence similarity 63 member B	protein-coding	-	-	-	LOW QUALITY PROTEIN: protein FAM63B	20170201
+51337	101597029	Mindy2	-	Fam63b	-	Un	-	MINDY lysine 48 deubiquitinase 2	protein-coding	-	-	-	LOW QUALITY PROTEIN: protein FAM63B|family with sequence similarity 63 member B	20170203
 51337	101597030	LOC101597030	-	-	-	Un	-	60S ribosomal protein L27 pseudogene	pseudo	-	-	-	-	20151115
 51337	101597031	LOC101597031	-	-	-	Un	-	T-complex protein 1 subunit beta pseudogene	pseudo	-	-	-	-	20151115
 51337	101597032	Bdh2	-	-	-	Un	-	3-hydroxybutyrate dehydrogenase 2	protein-coding	-	-	-	LOW QUALITY PROTEIN: 3-hydroxybutyrate dehydrogenase type 2|3-hydroxybutyrate dehydrogenase, type 2	20170201
@@ -6603,7 +6603,7 @@
 51337	101600251	LOC101600251	-	-	-	Un	-	toll-interacting protein-like	protein-coding	-	-	-	toll-interacting protein-like	20170201
 51337	101600252	LOC101600252	-	-	-	Un	-	lipopolysaccharide-induced tumor necrosis factor-alpha factor homolog pseudogene	pseudo	-	-	-	-	20151115
 51337	101600253	LOC101600253	-	-	-	Un	-	neurofilament light polypeptide-like	protein-coding	-	-	-	neurofilament light polypeptide-like	20170201
-51337	101600254	Fam188a	-	-	-	Un	-	family with sequence similarity 188 member A	protein-coding	-	-	-	protein FAM188A	20170201
+51337	101600254	Mindy3	-	Fam188a	-	Un	-	MINDY lysine 48 deubiquitinase 3	protein-coding	-	-	-	protein FAM188A|family with sequence similarity 188 member A	20170203
 51337	101600255	Slc31a1	-	-	-	Un	-	solute carrier family 31 member 1	protein-coding	-	-	-	high affinity copper uptake protein 1|solute carrier family 31 (copper transporters), member 1	20170201
 51337	101600256	Megf9	-	-	-	Un	-	multiple EGF like domains 9	protein-coding	-	-	-	multiple epidermal growth factor-like domains protein 9	20170201
 51337	101600257	LOC101600257	-	-	-	Un	-	nuclear ubiquitous casein and cyclin-dependent kinase substrate 1 pseudogene	pseudo	-	-	-	-	20151115
@@ -8369,7 +8369,7 @@
 51337	101602103	Plekhb1	-	-	-	Un	-	pleckstrin homology domain containing B1	protein-coding	-	-	-	pleckstrin homology domain-containing family B member 1	20170201
 51337	101602104	LOC101602104	-	-	-	Un	-	PRELI domain-containing protein 1, mitochondrial pseudogene	pseudo	-	-	-	-	20151115
 51337	101602105	Oplah	-	-	-	Un	-	5-oxoprolinase (ATP-hydrolysing)	protein-coding	-	-	-	5-oxoprolinase	20170201
-51337	101602106	Fam150b	-	-	-	Un	-	family with sequence similarity 150 member B	protein-coding	-	-	-	protein FAM150B	20170201
+51337	101602106	Alkal2	-	Fam150b	-	Un	-	ALK and LTK ligand 2	protein-coding	-	-	-	protein FAM150B|family with sequence similarity 150 member B	20170205
 51337	101602107	Plcb3	-	-	-	Un	-	phospholipase C beta 3	protein-coding	-	-	-	1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta-3	20170201
 51337	101602108	Mbd1	-	-	-	Un	-	methyl-CpG binding domain protein 1	protein-coding	-	-	-	methyl-CpG-binding domain protein 1	20170201
 51337	101602109	Ptdss1	-	-	-	Un	-	phosphatidylserine synthase 1	protein-coding	-	-	-	phosphatidylserine synthase 1	20170201
@@ -13882,7 +13882,7 @@
 51337	101607943	Atrn	-	-	-	Un	-	attractin	protein-coding	-	-	-	attractin	20170201
 51337	101607944	Adh6	-	-	-	Un	-	alcohol dehydrogenase 6 (class V)	protein-coding	-	-	-	LOW QUALITY PROTEIN: alcohol dehydrogenase 6	20170201
 51337	101607945	Agrp	-	-	-	Un	-	agouti related neuropeptide	protein-coding	-	-	-	agouti-related protein|agouti related protein homolog	20170201
-51337	101607946	Spg21	-	-	-	Un	-	spastic paraplegia 21 (autosomal recessive, Mast syndrome)	protein-coding	-	-	-	maspardin	20170201
+51337	101607946	Spg21	-	-	-	Un	-	SPG21, maspardin	protein-coding	-	-	-	maspardin|spastic paraplegia 21 (autosomal recessive, Mast syndrome)	20170205
 51337	101607947	Ptgs1	-	-	-	Un	-	prostaglandin-endoperoxide synthase 1	protein-coding	-	-	-	prostaglandin G/H synthase 1	20170201
 51337	101607948	Zswim7	-	-	-	Un	-	zinc finger SWIM-type containing 7	protein-coding	-	-	-	zinc finger SWIM domain-containing protein 7	20170201
 51337	101607949	LOC101607949	-	-	-	Un	-	zinc finger protein OZF-like	protein-coding	-	-	-	LOW QUALITY PROTEIN: zinc finger protein OZF-like	20170201
@@ -16040,7 +16040,7 @@
 51337	101610206	Tufm	-	-	-	Un	-	Tu translation elongation factor, mitochondrial	protein-coding	-	-	-	elongation factor Tu, mitochondrial	20170201
 51337	101610207	Tars	-	-	-	Un	-	threonyl-tRNA synthetase	protein-coding	-	-	-	threonine--tRNA ligase, cytoplasmic	20170201
 51337	101610208	Ankrd33b	-	-	-	Un	-	ankyrin repeat domain 33B	protein-coding	-	-	-	ankyrin repeat domain-containing protein 33B	20170201
-51337	101610209	Fam188b	-	-	-	Un	-	family with sequence similarity 188 member B	protein-coding	-	-	-	protein FAM188B	20170201
+51337	101610209	Mindy4	-	Fam188b	-	Un	-	MINDY lysine 48 deubiquitinase 4	protein-coding	-	-	-	protein FAM188B|family with sequence similarity 188 member B	20170203
 51337	101610210	Nmrk1	-	-	-	Un	-	nicotinamide riboside kinase 1	protein-coding	-	-	-	nicotinamide riboside kinase 1	20170201
 51337	101610211	LOC101610211	-	-	-	Un	-	snake venom 5'-nucleotidase-like	protein-coding	-	-	-	LOW QUALITY PROTEIN: snake venom 5'-nucleotidase-like	20170201
 51337	101610212	Oprk1	-	-	-	Un	-	opioid receptor kappa 1	protein-coding	-	-	-	kappa-type opioid receptor	20170201
@@ -17309,7 +17309,7 @@
 51337	101611549	Hells	-	-	-	Un	-	helicase, lymphoid-specific	protein-coding	-	-	-	lymphoid-specific helicase	20170201
 51337	101611550	LOC101611550	-	-	-	Un	-	heterogeneous nuclear ribonucleoproteins C1/C2-like	pseudo	-	-	-	-	20151115
 51337	101611551	Ptpru	-	-	-	Un	-	protein tyrosine phosphatase, receptor type U	protein-coding	-	-	-	receptor-type tyrosine-protein phosphatase U	20170201
-51337	101611552	Fam150a	-	-	-	Un	-	family with sequence similarity 150 member A	protein-coding	-	-	-	protein FAM150A	20170201
+51337	101611552	Alkal1	-	Fam150a	-	Un	-	ALK and LTK ligand 1	protein-coding	-	-	-	protein FAM150A|family with sequence similarity 150 member A	20170205
 51337	101611553	Bmp2k	-	-	-	Un	-	BMP2 inducible kinase	protein-coding	-	-	-	BMP-2-inducible protein kinase	20170201
 51337	101611554	Nit2	-	-	-	Un	-	nitrilase family member 2	protein-coding	-	-	-	omega-amidase NIT2	20170201
 51337	101611555	Nlrp5	-	-	-	Un	-	NLR family pyrin domain containing 5	protein-coding	-	-	-	NACHT, LRR and PYD domains-containing protein 5	20170201
@@ -19456,7 +19456,7 @@
 51337	101613812	Itga6	-	-	-	Un	-	integrin subunit alpha 6	protein-coding	-	-	-	integrin alpha-6	20170201
 51337	101613813	Hoxd9	-	-	-	Un	-	homeobox D9	protein-coding	-	-	-	homeobox protein Hox-D9	20170201
 51337	101613814	LOC101613814	-	-	-	Un	-	transcription elongation factor B polypeptide 1 pseudogene	pseudo	-	-	-	-	20151115
-51337	101613815	Spg11	-	-	-	Un	-	spastic paraplegia 11 (autosomal recessive)	protein-coding	-	-	-	spatacsin	20170201
+51337	101613815	Spg11	-	-	-	Un	-	SPG11, spatacsin vesicle trafficking associated	protein-coding	-	-	-	spatacsin|spastic paraplegia 11 (autosomal recessive)	20170203
 51337	101613816	LOC101613816	-	-	-	Un	-	small nuclear ribonucleoprotein G pseudogene	pseudo	-	-	-	-	20151115
 51337	101613817	Ebag9	-	-	-	Un	-	estrogen receptor binding site associated, antigen, 9	protein-coding	-	-	-	receptor-binding cancer antigen expressed on SiSo cells	20170201
 51337	101613818	Siglec1	-	-	-	Un	-	sialic acid binding Ig like lectin 1	protein-coding	-	-	-	sialoadhesin	20170201
@@ -22817,7 +22817,7 @@
 51337	101617348	Ubl7	-	-	-	Un	-	ubiquitin like 7	protein-coding	-	-	-	ubiquitin-like protein 7|ubiquitin-like 7 (bone marrow stromal cell-derived)	20170201
 51337	101617349	LOC101617349	-	-	-	Un	-	60S ribosomal protein L39-like	protein-coding	-	-	-	60S ribosomal protein L39-like	20170201
 51337	101617350	LOC101617350	-	-	-	Un	-	heat shock cognate 71 kDa protein pseudogene	pseudo	-	-	-	-	20151115
-51337	101617351	Fam63a	-	-	-	Un	-	family with sequence similarity 63 member A	protein-coding	-	-	-	protein FAM63A	20170201
+51337	101617351	Mindy1	-	Fam63a	-	Un	-	MINDY lysine 48 deubiquitinase 1	protein-coding	-	-	-	protein FAM63A|family with sequence similarity 63 member A	20170203
 51337	101617352	Adgrf4	-	Gpr115	-	Un	-	adhesion G protein-coupled receptor F4	protein-coding	-	-	-	probable G-protein coupled receptor 115|G protein-coupled receptor 115	20170201
 51337	101617353	Daam2	-	-	-	Un	-	dishevelled associated activator of morphogenesis 2	protein-coding	-	-	-	disheveled-associated activator of morphogenesis 2	20170201
 51337	101617354	Esr2	-	-	-	Un	-	estrogen receptor 2	protein-coding	-	-	-	estrogen receptor beta	20170201

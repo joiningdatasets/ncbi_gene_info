@@ -3821,7 +3821,7 @@
 59538	102318573	LOC102318573	-	-	-	Un	-	monocarboxylate transporter 11-like	protein-coding	-	-	-	monocarboxylate transporter 11-like	20170201
 59538	102318574	CLIP1	-	-	-	Un	-	CAP-Gly domain containing linker protein 1	protein-coding	-	-	-	CAP-Gly domain-containing linker protein 1	20170201
 59538	102318575	CA11	-	-	-	Un	-	carbonic anhydrase 11	protein-coding	-	-	-	carbonic anhydrase-related protein 11	20170201
-59538	102318576	FAM188A	-	-	-	Un	-	family with sequence similarity 188 member A	protein-coding	-	-	-	protein FAM188A	20170201
+59538	102318576	MINDY3	-	FAM188A	-	Un	-	MINDY lysine 48 deubiquitinase 3	protein-coding	-	-	-	protein FAM188A|family with sequence similarity 188 member A	20170203
 59538	102318577	ATRN	-	-	-	Un	-	attractin	protein-coding	-	-	-	attractin	20170201
 59538	102318578	LOC102318578	-	-	-	Un	-	NADP-specific glutamate dehydrogenase-like	protein-coding	-	-	-	NADP-specific glutamate dehydrogenase-like	20170201
 59538	102318579	RPL32	-	-	-	Un	-	ribosomal protein L32	protein-coding	-	-	-	60S ribosomal protein L32	20170201
@@ -7732,7 +7732,7 @@
 59538	102322484	STK25	-	-	-	Un	-	serine/threonine kinase 25	protein-coding	-	-	-	serine/threonine-protein kinase 25	20170201
 59538	102322485	LOC102322485	-	-	-	Un	-	succinate dehydrogenase cytochrome b560 subunit, mitochondrial-like	protein-coding	-	-	-	succinate dehydrogenase cytochrome b560 subunit, mitochondrial-like	20170201
 59538	102322486	LOC102322486	-	-	-	Un	-	E2F transcription factor 6 pseudogene	pseudo	-	-	-	-	20151115
-59538	102322487	SPG21	-	-	-	Un	-	spastic paraplegia 21 (autosomal recessive, Mast syndrome)	protein-coding	-	-	-	maspardin	20170201
+59538	102322487	SPG21	-	-	-	Un	-	SPG21, maspardin	protein-coding	-	-	-	maspardin|spastic paraplegia 21 (autosomal recessive, Mast syndrome)	20170205
 59538	102322488	FAM89B	-	-	-	Un	-	family with sequence similarity 89 member B	protein-coding	-	-	-	protein FAM89B	20170201
 59538	102322489	LOC102322489	-	-	-	Un	-	probable enoyl-CoA hydratase, mitochondrial-like	protein-coding	-	-	-	probable enoyl-CoA hydratase, mitochondrial-like	20170201
 59538	102322490	LOC102322490	-	-	-	Un	-	putative olfactory receptor 52P1-like	pseudo	-	-	-	-	20151115
@@ -9580,7 +9580,7 @@
 59538	102324332	CASP7	-	-	-	Un	-	caspase 7	protein-coding	-	-	-	caspase-7	20170201
 59538	102324333	LOC102324333	-	-	-	Un	-	bis(5'-adenosyl)-triphosphatase enpp4-like	protein-coding	-	-	-	bis(5'-adenosyl)-triphosphatase enpp4-like	20170201
 59538	102324334	LOC102324334	-	-	-	Un	-	cadmium/zinc-transporting ATPase HMA2-like	protein-coding	-	-	-	cadmium/zinc-transporting ATPase HMA2-like	20170201
-59538	102324335	FAM150B	-	-	-	Un	-	family with sequence similarity 150 member B	protein-coding	-	-	-	protein FAM150B	20170201
+59538	102324335	ALKAL2	-	FAM150B	-	Un	-	ALK and LTK ligand 2	protein-coding	-	-	-	protein FAM150B|family with sequence similarity 150 member B	20170205
 59538	102324336	LOC102324336	-	-	-	Un	-	versicolorin reductase-like	protein-coding	-	-	-	versicolorin reductase-like	20170201
 59538	102324337	KIAA0895L	-	-	-	Un	-	KIAA0895 like	protein-coding	-	-	-	uncharacterized protein KIAA0895-like homolog	20170201
 59538	102324338	LOC102324338	-	-	-	Un	-	60S ribosomal protein L35a-like	protein-coding	-	-	-	60S ribosomal protein L35a-like	20170201
@@ -10520,7 +10520,7 @@
 59538	102325272	HELZ	-	-	-	Un	-	helicase with zinc finger	protein-coding	-	-	-	probable helicase with zinc finger domain	20170201
 59538	102325273	LOC102325273	-	-	-	Un	-	17-beta-hydroxysteroid dehydrogenase 14-like	protein-coding	-	-	-	17-beta-hydroxysteroid dehydrogenase 14-like	20170201
 59538	102325274	UTRN	-	-	-	Un	-	utrophin	protein-coding	-	-	-	utrophin	20170201
-59538	102325275	TARM1	-	-	-	Un	-	T cell-interacting, activating receptor on myeloid cells 1	protein-coding	-	-	-	T-cell-interacting, activating receptor on myeloid cells protein 1	20170201
+59538	102325275	TARM1	-	-	-	Un	-	T-cell-interacting, activating receptor on myeloid cells 1	protein-coding	-	-	-	T-cell-interacting, activating receptor on myeloid cells protein 1	20170205
 59538	102325276	LOC102325276	-	-	-	Un	-	metalloendopeptidase OMA1, mitochondrial-like	pseudo	-	-	-	-	20151115
 59538	102325277	LOC102325277	-	-	-	Un	-	olfactory receptor 11H7-like	protein-coding	-	-	-	olfactory receptor 11H7-like	20170201
 59538	102325278	PDZD9	-	-	-	Un	-	PDZ domain containing 9	protein-coding	-	-	-	PDZ domain-containing protein 9	20170201
@@ -12555,7 +12555,7 @@
 59538	102327307	LOC102327307	-	-	-	Un	-	charged multivesicular body protein 4b-like	protein-coding	-	-	-	charged multivesicular body protein 4b-like	20170201
 59538	102327308	G6PC2	-	-	-	Un	-	glucose-6-phosphatase catalytic subunit 2	protein-coding	-	-	-	glucose-6-phosphatase 2	20170201
 59538	102327309	HCFC1	-	-	-	Un	-	host cell factor C1	protein-coding	-	-	-	host cell factor 1	20170201
-59538	102327310	FAM63B	-	-	-	Un	-	family with sequence similarity 63 member B	protein-coding	-	-	-	protein FAM63B	20170201
+59538	102327310	MINDY2	-	FAM63B	-	Un	-	MINDY lysine 48 deubiquitinase 2	protein-coding	-	-	-	protein FAM63B|family with sequence similarity 63 member B	20170203
 59538	102327311	PLA2G10	-	-	-	Un	-	phospholipase A2 group X	protein-coding	-	-	-	group 10 secretory phospholipase A2	20170201
 59538	102327312	KCNH8	-	-	-	Un	-	potassium voltage-gated channel subfamily H member 8	protein-coding	-	-	-	potassium voltage-gated channel subfamily H member 8	20170201
 59538	102327313	LOC102327313	-	-	-	Un	-	zinc finger protein 850-like	protein-coding	-	-	-	zinc finger protein 850-like	20170201
@@ -14562,7 +14562,7 @@
 59538	102329314	CD37	-	-	-	Un	-	CD37 molecule	protein-coding	-	-	-	leukocyte antigen CD37	20170201
 59538	102329315	ALDH16A1	-	-	-	Un	-	aldehyde dehydrogenase 16 family member A1	protein-coding	-	-	-	aldehyde dehydrogenase family 16 member A1	20170201
 59538	102329316	OPRL1	-	-	-	Un	-	opioid related nociceptin receptor 1	protein-coding	-	-	-	nociceptin receptor	20170201
-59538	102329317	CECR5	-	-	-	Un	-	cat eye syndrome chromosome region, candidate 5	protein-coding	-	-	-	cat eye syndrome critical region protein 5	20170201
+59538	102329317	HDHD5	-	CECR5	-	Un	-	haloacid dehalogenase like hydrolase domain containing 5	protein-coding	-	-	-	cat eye syndrome critical region protein 5|cat eye syndrome chromosome region, candidate 5	20170205
 59538	102329318	LOC102329318	-	-	-	Un	-	zinc finger protein 474-like	protein-coding	-	-	-	zinc finger protein 474-like	20170201
 59538	102329319	LOC102329319	-	-	-	Un	-	uncharacterized LOC102329319	protein-coding	-	-	-	uncharacterized protein LOC102329319	20170201
 59538	102329320	CBR3	-	-	-	Un	-	carbonyl reductase 3	protein-coding	-	-	-	carbonyl reductase [NADPH] 3	20170201
@@ -16704,7 +16704,7 @@
 59538	102331456	GNB1	-	-	-	Un	-	G protein subunit beta 1	protein-coding	-	-	-	guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-1	20170201
 59538	102331457	SLC25A51	-	-	-	Un	-	solute carrier family 25 member 51	protein-coding	-	-	-	solute carrier family 25 member 51	20170201
 59538	102331458	IGFBPL1	-	-	-	Un	-	insulin like growth factor binding protein like 1	protein-coding	-	-	-	insulin-like growth factor-binding protein-like 1	20170201
-59538	102331459	FAM63A	-	-	-	Un	-	family with sequence similarity 63 member A	protein-coding	-	-	-	protein FAM63A	20170201
+59538	102331459	MINDY1	-	FAM63A	-	Un	-	MINDY lysine 48 deubiquitinase 1	protein-coding	-	-	-	protein FAM63A|family with sequence similarity 63 member A	20170203
 59538	102331460	LOC102331460	-	-	-	Un	-	ribose-phosphate pyrophosphokinase A-like	protein-coding	-	-	-	ribose-phosphate pyrophosphokinase A-like	20170201
 59538	102331461	LOC102331461	-	-	-	Un	-	olfactory receptor 12-like	pseudo	-	-	-	-	20151115
 59538	102331462	LOC102331462	-	-	-	Un	-	kelch-like family member 8 pseudogene	pseudo	-	-	-	-	20151115
@@ -23694,7 +23694,7 @@
 59538	102338447	LOC102338447	-	-	-	Un	-	serine/threonine-protein phosphatase PP1-gamma catalytic subunit-like	pseudo	-	-	-	-	20151115
 59538	102338448	LOC102338448	-	-	-	Un	-	glutamyl-tRNA(Gln) amidotransferase subunit B, organellar chromatophore-like	protein-coding	-	-	-	glutamyl-tRNA(Gln) amidotransferase subunit B, organellar chromatophore-like	20170201
 59538	102338449	PTH1R	-	-	-	Un	-	parathyroid hormone 1 receptor	protein-coding	-	-	-	parathyroid hormone/parathyroid hormone-related peptide receptor	20170201
-59538	102338450	VTCN1	-	-	-	Un	-	V-set domain containing T cell activation inhibitor 1	protein-coding	-	-	-	V-set domain-containing T-cell activation inhibitor 1	20170201
+59538	102338450	VTCN1	-	-	-	Un	-	V-set domain containing T-cell activation inhibitor 1	protein-coding	-	-	-	V-set domain-containing T-cell activation inhibitor 1	20170205
 59538	102338451	TMEM184B	-	-	-	Un	-	transmembrane protein 184B	protein-coding	-	-	-	transmembrane protein 184B	20170201
 59538	102338452	LOC102338452	-	-	-	Un	-	trans-L-3-hydroxyproline dehydratase-like	protein-coding	-	-	-	trans-L-3-hydroxyproline dehydratase-like	20170201
 59538	102338453	UBAP1L	-	-	-	Un	-	ubiquitin associated protein 1 like	protein-coding	-	-	-	ubiquitin-associated protein 1-like	20170201
@@ -26252,7 +26252,7 @@
 59538	102341005	DUSP22	-	-	-	Un	-	dual specificity phosphatase 22	protein-coding	-	-	-	dual specificity protein phosphatase 22	20170201
 59538	102341006	LOC102341006	-	-	-	Un	-	histone H2A-Bbd type 2/3-like	pseudo	-	-	-	-	20151115
 59538	102341007	RPLP0	-	-	-	Un	-	ribosomal protein lateral stalk subunit P0	protein-coding	-	-	-	60S acidic ribosomal protein P0|60S acidic ribosomal protein P0-like	20170201
-59538	102341008	FAM188B	-	-	-	Un	-	family with sequence similarity 188 member B	protein-coding	-	-	-	protein FAM188B	20170201
+59538	102341008	MINDY4	-	FAM188B	-	Un	-	MINDY lysine 48 deubiquitinase 4	protein-coding	-	-	-	protein FAM188B|family with sequence similarity 188 member B	20170203
 59538	102341009	TRMT11	-	-	-	Un	-	tRNA methyltransferase 11 homolog	protein-coding	-	-	-	tRNA (guanine(10)-N2)-methyltransferase homolog	20170201
 59538	102341010	LOC102341010	-	-	-	Un	-	cytochrome c-like	protein-coding	-	-	-	cytochrome c-like	20170201
 59538	102341011	AKAP14	-	-	-	Un	-	A-kinase anchoring protein 14	protein-coding	-	-	-	A-kinase anchor protein 14	20170201
@@ -27114,7 +27114,7 @@
 59538	102341867	LOC102341867	-	-	-	Un	-	probable cytokinin riboside 5'-monophosphate phosphoribohydrolase LOGL3-like	protein-coding	-	-	-	probable cytokinin riboside 5'-monophosphate phosphoribohydrolase LOGL3-like	20170201
 59538	102341868	TTC13	-	-	-	Un	-	tetratricopeptide repeat domain 13	protein-coding	-	-	-	tetratricopeptide repeat protein 13	20170201
 59538	102341869	VAPB	-	-	-	Un	-	VAMP associated protein B and C	protein-coding	-	-	-	vesicle-associated membrane protein-associated protein B	20170201
-59538	102341870	FAM150A	-	-	-	Un	-	family with sequence similarity 150 member A	protein-coding	-	-	-	protein FAM150A	20170201
+59538	102341870	ALKAL1	-	FAM150A	-	Un	-	ALK and LTK ligand 1	protein-coding	-	-	-	protein FAM150A|family with sequence similarity 150 member A	20170205
 59538	102341871	LOC102341871	-	-	-	Un	-	3-ketoacyl-CoA thiolase 2, peroxisomal-like	protein-coding	-	-	-	3-ketoacyl-CoA thiolase 2, peroxisomal-like	20170201
 59538	102341872	CTCFL	-	-	-	Un	-	CCCTC-binding factor like	protein-coding	-	-	-	transcriptional repressor CTCFL	20170201
 59538	102341873	LOC102341873	-	-	-	Un	-	olfactory receptor 8G2-like	pseudo	-	-	-	-	20151115
@@ -30300,7 +30300,7 @@
 59538	102345053	IL7	-	-	-	Un	-	interleukin 7	protein-coding	-	-	-	interleukin-7	20170201
 59538	102345054	LOC102345054	-	-	-	Un	-	propionyl-CoA carboxylase beta chain, mitochondrial-like	protein-coding	-	-	-	propionyl-CoA carboxylase beta chain, mitochondrial-like	20170201
 59538	102345055	LOC102345055	-	-	-	Un	-	putative olfactory receptor 10D3-like	protein-coding	-	-	-	putative olfactory receptor 10D3-like	20170201
-59538	102345056	SPG11	-	-	-	Un	-	spastic paraplegia 11 (autosomal recessive)	protein-coding	-	-	-	spatacsin	20170201
+59538	102345056	SPG11	-	-	-	Un	-	SPG11, spatacsin vesicle trafficking associated	protein-coding	-	-	-	spatacsin|spastic paraplegia 11 (autosomal recessive)	20170203
 59538	102345057	LGR4	-	-	-	Un	-	leucine rich repeat containing G protein-coupled receptor 4	protein-coding	-	-	-	leucine-rich repeat-containing G-protein coupled receptor 4	20170201
 59538	102345058	LOC102345058	-	-	-	Un	-	60S ribosomal protein L10a-like	pseudo	-	-	-	-	20151115
 59538	102345059	MROH8	-	-	-	Un	-	maestro heat like repeat family member 8	protein-coding	-	-	-	protein MROH8	20170201

@@ -980,7 +980,7 @@
 72004	102265254	LOC102265254	M91_13087	-	-	Un	-	chromosome unknown open reading frame, human C11orf53	protein-coding	-	-	-	uncharacterized protein C11orf53 homolog	20170131
 72004	102265255	TAC3	-	-	-	Un	-	tachykinin 3	protein-coding	-	-	-	tachykinin-3|Tachykinin-3	20170131
 72004	102265256	LOC102265256	-	-	-	Un	-	olfactory receptor 2J3-like	pseudo	-	-	-	-	20160130
-72004	102265257	VTCN1	M91_20792	-	-	Un	-	V-set domain containing T cell activation inhibitor 1	protein-coding	-	-	-	V-set domain-containing T-cell activation inhibitor 1	20170131
+72004	102265257	VTCN1	M91_20792	-	-	Un	-	V-set domain containing T-cell activation inhibitor 1	protein-coding	-	-	-	V-set domain-containing T-cell activation inhibitor 1	20170205
 72004	102265258	LEKR1	M91_20230	-	-	Un	-	leucine, glutamate and lysine rich 1	protein-coding	-	-	-	leucine-, glutamate- and lysine-rich protein 1|Leucine-, glutamate- and lysine-rich protein 1	20170131
 72004	102265259	LOC102265259	-	-	-	Un	-	NEDD8-conjugating enzyme UBE2F pseudogene	pseudo	-	-	-	-	20160130
 72004	102265260	LOC102265260	-	-	-	Un	-	uncharacterized LOC102265260	ncRNA	-	-	-	-	20160130
@@ -1136,7 +1136,7 @@
 72004	102265412	ANKFN1	M91_02366	-	-	Un	-	ankyrin repeat and fibronectin type III domain containing 1	protein-coding	-	-	-	ankyrin repeat and fibronectin type-III domain-containing protein 1|Ankyrin repeat and fibronectin type-III domain-containing protein 1	20170131
 72004	102265414	NRXN2	M91_15976	-	-	Un	-	neurexin 2	protein-coding	-	-	-	neurexin-2-beta|Neurexin-2-alpha	20170131
 72004	102265415	LOC102265415	-	-	-	Un	-	taste receptor type 2 member 42-like	pseudo	-	-	-	-	20160130
-72004	102265416	FAM63A	M91_14459	-	-	Un	-	family with sequence similarity 63 member A	protein-coding	-	-	-	protein FAM63A|Protein FAM63A	20170131
+72004	102265416	MINDY1	M91_14459	FAM63A	-	Un	-	MINDY lysine 48 deubiquitinase 1	protein-coding	-	-	-	protein FAM63A|Protein FAM63A|family with sequence similarity 63 member A	20170203
 72004	102265417	SAG	M91_15689	S-arrestin	-	Un	-	S-antigen visual arrestin	protein-coding	-	-	-	S-arrestin|S-antigen; retina and pineal gland (arrestin)	20170131
 72004	102265418	RASIP1	-	-	-	Un	-	Ras interacting protein 1	protein-coding	-	-	-	ras-interacting protein 1	20170131
 72004	102265419	LOC102265419	-	-	-	Un	-	chromosome unknown open reading frame, human CXorf57	protein-coding	-	-	-	uncharacterized protein CXorf57 homolog	20170131
@@ -5662,7 +5662,7 @@
 72004	102270066	SLC35B3	M91_00020	-	-	Un	-	solute carrier family 35 member B3	protein-coding	-	-	-	adenosine 3'-phospho 5'-phosphosulfate transporter 2|Adenosine 3'-phospho 5'-phosphosulfate transporter 2	20170131
 72004	102270067	AQP1	M91_19650	-	-	Un	-	aquaporin 1 (Colton blood group)	protein-coding	-	-	-	aquaporin-1|Aquaporin-1	20170131
 72004	102270068	LOC102270068	-	-	-	Un	-	coatomer subunit alpha-like	protein-coding	-	-	-	LOW QUALITY PROTEIN: coatomer subunit alpha-like	20170131
-72004	102270069	FAM150B	M91_19298	-	-	Un	-	family with sequence similarity 150 member B	protein-coding	-	-	-	protein FAM150B|Protein FAM150B	20170131
+72004	102270069	ALKAL2	M91_19298	FAM150B	-	Un	-	ALK and LTK ligand 2	protein-coding	-	-	-	protein FAM150B|Protein FAM150B|family with sequence similarity 150 member B	20170205
 72004	102270070	CRAT	M91_13522	-	-	Un	-	carnitine O-acetyltransferase	protein-coding	-	-	-	carnitine O-acetyltransferase	20170131
 72004	102270071	ARPC2	-	-	-	Un	-	actin related protein 2/3 complex subunit 2	protein-coding	-	-	-	LOW QUALITY PROTEIN: actin-related protein 2/3 complex subunit 2	20170131
 72004	102270072	LOC102270072	M91_09306	-	-	Un	-	olfactory receptor 4Q2	protein-coding	-	-	-	olfactory receptor 4Q2	20170131
@@ -5928,7 +5928,7 @@
 72004	102270341	LOC102270341	-	-	-	Un	-	40S ribosomal protein S12	protein-coding	-	-	-	40S ribosomal protein S12	20170131
 72004	102270342	LOC102270342	-	-	-	Un	-	60S ribosomal protein L17-like	pseudo	-	-	-	-	20160130
 72004	102270343	BMP6	M91_00016	-	-	Un	-	bone morphogenetic protein 6	protein-coding	-	-	-	LOW QUALITY PROTEIN: bone morphogenetic protein 6	20170131
-72004	102270344	FAM188B	M91_19651	-	-	Un	-	family with sequence similarity 188 member B	protein-coding	-	-	-	protein FAM188B|Protein FAM188B	20170131
+72004	102270344	MINDY4	M91_19651	FAM188B	-	Un	-	MINDY lysine 48 deubiquitinase 4	protein-coding	-	-	-	protein FAM188B|Protein FAM188B|family with sequence similarity 188 member B	20170203
 72004	102270345	LOC102270345	M91_19302	-	-	-	-	uncharacterized LOC102270345	protein-coding	-	-	-	-	20161031
 72004	102270346	LOC102270346	-	-	-	Un	-	uncharacterized LOC102270346	ncRNA	-	-	-	-	20160130
 72004	102270347	IER5L	M91_13524	-	-	Un	-	immediate early response 5 like	protein-coding	-	-	-	immediate early response gene 5-like protein|Immediate early response 5-like protein	20170131
@@ -10232,7 +10232,7 @@
 72004	102274758	WDR33	-	-	-	Un	-	WD repeat domain 33	protein-coding	-	-	-	pre-mRNA 3' end processing protein WDR33|WD repeat-containing protein 33	20170131
 72004	102274759	PDCD6	M91_19562	-	-	Un	-	programmed cell death 6	protein-coding	-	-	-	programmed cell death protein 6|Programmed cell death protein 6	20170131
 72004	102274760	SATB2	M91_14978	-	-	Un	-	SATB homeobox 2	protein-coding	-	-	-	DNA-binding protein SATB2	20170131
-72004	102274761	CECR5	M91_15132	-	-	Un	-	cat eye syndrome chromosome region, candidate 5	protein-coding	-	-	-	cat eye syndrome critical region protein 5|Cat eye syndrome critical region protein 5	20170131
+72004	102274761	HDHD5	M91_15132	CECR5	-	Un	-	haloacid dehalogenase like hydrolase domain containing 5	protein-coding	-	-	-	cat eye syndrome critical region protein 5|Cat eye syndrome critical region protein 5|cat eye syndrome chromosome region, candidate 5	20170205
 72004	102274762	TBX3	-	-	-	Un	-	T-box 3	protein-coding	-	-	-	T-box transcription factor TBX3	20170131
 72004	102274763	LOC102274763	-	-	-	Un	-	chromosome unknown open reading frame, human C11orf63	protein-coding	-	-	-	uncharacterized protein C11orf63 homolog	20170131
 72004	102274764	FAIM2	M91_03124	-	-	Un	-	Fas apoptotic inhibitory molecule 2	protein-coding	-	-	-	protein lifeguard 2	20170131
@@ -10304,7 +10304,7 @@
 72004	102274830	RPS28	-	-	-	Un	-	ribosomal protein S28	protein-coding	-	-	-	40S ribosomal protein S28	20170131
 72004	102274831	N4BP2L2	M91_09943	-	-	Un	-	NEDD4 binding protein 2 like 2	protein-coding	-	-	-	NEDD4-binding protein 2-like 2	20170131
 72004	102274832	GAS2	-	-	-	Un	-	growth arrest specific 2	protein-coding	-	-	-	growth arrest-specific protein 2|Growth arrest-specific protein 2	20170131
-72004	102274833	FAM188A	-	-	-	Un	-	family with sequence similarity 188 member A	protein-coding	-	-	-	protein FAM188A|Protein FAM188A	20170131
+72004	102274833	MINDY3	-	FAM188A	-	Un	-	MINDY lysine 48 deubiquitinase 3	protein-coding	-	-	-	protein FAM188A|Protein FAM188A|family with sequence similarity 188 member A	20170203
 72004	102274834	LOC102274834	-	-	-	Un	-	BTB/POZ domain-containing protein KCTD3 pseudogene	pseudo	-	-	-	-	20160130
 72004	102274835	CD207	M91_04554	-	-	Un	-	CD207 molecule	protein-coding	-	-	-	C-type lectin domain family 4 member K	20170131
 72004	102274836	INSM2	M91_01755	-	-	Un	-	INSM transcriptional repressor 2	protein-coding	-	-	-	insulinoma-associated protein 2|Insulinoma-associated protein 2	20170131
@@ -18433,7 +18433,7 @@
 72004	102283167	LOC102283167	-	-	-	Un	-	anaphase-promoting complex subunit 13 pseudogene	pseudo	-	-	-	-	20160130
 72004	102283168	CHD7	-	-	-	Un	-	chromodomain helicase DNA binding protein 7	protein-coding	-	-	-	LOW QUALITY PROTEIN: chromodomain-helicase-DNA-binding protein 7	20170131
 72004	102283169	SNN	-	-	-	Un	-	stannin	protein-coding	-	-	-	stannin	20170131
-72004	102283170	FAM63B	-	-	-	Un	-	family with sequence similarity 63 member B	protein-coding	-	-	-	protein FAM63B|Protein FAM63B	20170131
+72004	102283170	MINDY2	-	FAM63B	-	Un	-	MINDY lysine 48 deubiquitinase 2	protein-coding	-	-	-	protein FAM63B|Protein FAM63B|family with sequence similarity 63 member B	20170203
 72004	102283171	IL37	M91_19274	-	-	Un	-	interleukin 37	protein-coding	-	-	-	interleukin-37|Interleukin-1 family member 7	20170131
 72004	102283172	ENTPD4	M91_09201	-	-	Un	-	ectonucleoside triphosphate diphosphohydrolase 4	protein-coding	-	-	-	ectonucleoside triphosphate diphosphohydrolase 4	20170131
 72004	102283173	LOC102283173	M91_06687	-	-	Un	-	Ig heavy chain V region PJ14	protein-coding	-	-	-	Ig heavy chain V region PJ14|Ig heavy chain V region MC101	20170131
@@ -18699,7 +18699,7 @@
 72004	102283437	SYNM	M91_14555	-	-	Un	-	synemin	protein-coding	-	-	-	synemin	20170131
 72004	102283438	PHF8	M91_16683	-	-	Un	-	PHD finger protein 8	protein-coding	-	-	-	histone lysine demethylase PHF8|Histone lysine demethylase PHF8	20170131
 72004	102283439	LOC102283439	-	-	-	Un	-	oligosaccharyltransferase complex subunit OSTC pseudogene	pseudo	-	-	-	-	20160130
-72004	102283440	SPG11	-	-	-	Un	-	spastic paraplegia 11 (autosomal recessive)	protein-coding	-	-	-	spatacsin	20170131
+72004	102283440	SPG11	-	-	-	Un	-	SPG11, spatacsin vesicle trafficking associated	protein-coding	-	-	-	spatacsin|spastic paraplegia 11 (autosomal recessive)	20170203
 72004	102283441	ARID1B	M91_05819	-	-	Un	-	AT-rich interaction domain 1B	protein-coding	-	-	-	AT-rich interactive domain-containing protein 1B	20170131
 72004	102283442	LOC102283442	-	-	-	Un	-	olfactory receptor 4A47-like	pseudo	-	-	-	-	20160130
 72004	102283443	MMEL1	M91_10892	-	-	Un	-	membrane metalloendopeptidase like 1	protein-coding	-	-	-	membrane metallo-endopeptidase-like 1	20170131
@@ -21844,7 +21844,7 @@
 72004	102286669	LOC102286669	-	-	-	Un	-	cyclin-C pseudogene	pseudo	-	-	-	-	20160130
 72004	102286670	LOC102286670	-	-	-	Un	-	monocarboxylate transporter 10 pseudogene	pseudo	-	-	-	-	20160130
 72004	102286671	MANBA	-	-	-	Un	-	mannosidase beta	protein-coding	-	-	-	beta-mannosidase|Beta-mannosidase	20170131
-72004	102286672	SPG21	-	Maspardin	-	Un	-	spastic paraplegia 21 (autosomal recessive, Mast syndrome)	protein-coding	-	-	-	maspardin	20170131
+72004	102286672	SPG21	-	Maspardin	-	Un	-	SPG21, maspardin	protein-coding	-	-	-	maspardin|spastic paraplegia 21 (autosomal recessive, Mast syndrome)	20170205
 72004	102286673	PHF20	-	-	-	Un	-	PHD finger protein 20	protein-coding	-	-	-	PHD finger protein 20	20170131
 72004	102286674	PPP1R37	M91_05715	-	-	Un	-	protein phosphatase 1 regulatory subunit 37	protein-coding	-	-	-	protein phosphatase 1 regulatory subunit 37|Leucine-rich repeat-containing protein 68	20170131
 72004	102286675	MMP24	M91_20155	-	-	Un	-	matrix metallopeptidase 24	protein-coding	-	-	-	matrix metalloproteinase-24|Matrix metalloproteinase-24	20170131

@@ -1814,7 +1814,7 @@
 230844	102904579	LOC102904579	-	-	-	Un	-	60 kDa heat shock protein, mitochondrial pseudogene	pseudo	-	-	-	-	20160323
 230844	102904580	LOC102904580	-	-	-	Un	-	TGF-beta receptor type-1 pseudogene	pseudo	-	-	-	-	20160323
 230844	102904581	Loxl2	-	-	-	Un	-	lysyl oxidase like 2	protein-coding	-	-	-	lysyl oxidase homolog 2	20170125
-230844	102904583	Fam188b	-	-	-	Un	-	family with sequence similarity 188 member B	protein-coding	-	-	-	protein FAM188B	20170125
+230844	102904583	Mindy4	-	Fam188b	-	Un	-	MINDY lysine 48 deubiquitinase 4	protein-coding	-	-	-	protein FAM188B|family with sequence similarity 188 member B	20170203
 230844	102904584	LOC102904584	-	-	-	Un	-	dehydrogenase/reductase SDR family member 2, mitochondrial-like	protein-coding	-	-	-	dehydrogenase/reductase SDR family member 2, mitochondrial-like	20170125
 230844	102904585	LOC102904585	-	-	-	Un	-	histone H1.5	protein-coding	-	-	-	histone H1.5	20170125
 230844	102904586	Fam135b	-	-	-	Un	-	family with sequence similarity 135 member B	protein-coding	-	-	-	protein FAM135B	20170125
@@ -2204,7 +2204,7 @@
 230844	102904990	LOC102904990	-	-	-	Un	-	UDP-glucuronosyltransferase 1-7C-like	protein-coding	-	-	-	UDP-glucuronosyltransferase 1-7C-like	20170125
 230844	102904991	Agtrap	-	-	-	Un	-	angiotensin II receptor associated protein	protein-coding	-	-	-	type-1 angiotensin II receptor-associated protein	20170125
 230844	102904992	Pnpla8	-	-	-	Un	-	patatin like phospholipase domain containing 8	protein-coding	-	-	-	calcium-independent phospholipase A2-gamma	20170125
-230844	102904993	Fam150b	-	-	-	Un	-	family with sequence similarity 150 member B	protein-coding	-	-	-	protein FAM150B	20170125
+230844	102904993	Alkal2	-	Fam150b	-	Un	-	ALK and LTK ligand 2	protein-coding	-	-	-	protein FAM150B|family with sequence similarity 150 member B	20170205
 230844	102904994	LOC102904994	-	-	-	Un	-	cofilin-1 pseudogene	pseudo	-	-	-	-	20160323
 230844	102904995	Afmid	-	-	-	Un	-	arylformamidase	protein-coding	-	-	-	kynurenine formamidase	20170125
 230844	102904998	Dcx	-	-	-	Un	-	doublecortin	protein-coding	-	-	-	neuronal migration protein doublecortin	20170125
@@ -5389,7 +5389,7 @@
 230844	102908353	Col17a1	-	-	-	Un	-	collagen type XVII alpha 1 chain	protein-coding	-	-	-	collagen alpha-1(XVII) chain|collagen, type XVII, alpha 1	20170125
 230844	102908354	LOC102908354	-	-	-	Un	-	heterogeneous nuclear ribonucleoprotein M-like	pseudo	-	-	-	-	20160323
 230844	102908355	Itgb6	-	-	-	Un	-	integrin subunit beta 6	protein-coding	-	-	-	integrin beta-6|integrin, beta 6	20170125
-230844	102908356	LOC102908356	-	-	-	Un	-	chromosome unknown open reading frame, human C16orf96	protein-coding	-	-	-	uncharacterized protein C16orf96 homolog|putative uncharacterized protein C16orf96 homolog	20170125
+230844	102908356	LOC102908356	-	-	-	Un	-	chromosome unknown open reading frame, human C16orf96	protein-coding	-	-	-	uncharacterized protein C16orf96 homolog	20170205
 230844	102908357	LOC102908357	-	-	-	Un	-	tubulin-specific chaperone A pseudogene	pseudo	-	-	-	-	20160323
 230844	102908358	LOC102908358	-	-	-	Un	-	olfactory receptor 2A5	protein-coding	-	-	-	olfactory receptor 2A5	20170125
 230844	102908359	Abhd12b	-	-	-	Un	-	abhydrolase domain containing 12B	protein-coding	-	-	-	protein ABHD12B	20170125
@@ -9431,7 +9431,7 @@
 230844	102912670	LOC102912670	-	-	-	Un	-	putative olfactory receptor 52P1	protein-coding	-	-	-	putative olfactory receptor 52P1	20170125
 230844	102912671	LOC102912671	-	-	-	Un	-	uncharacterized LOC102912671	ncRNA	-	-	-	-	20160323
 230844	102912672	Ino80	-	-	-	Un	-	INO80 complex subunit	protein-coding	-	-	-	DNA helicase INO80	20170125
-230844	102912673	Fam63b	-	-	-	Un	-	family with sequence similarity 63 member B	protein-coding	-	-	-	protein FAM63B	20170125
+230844	102912673	Mindy2	-	Fam63b	-	Un	-	MINDY lysine 48 deubiquitinase 2	protein-coding	-	-	-	protein FAM63B|family with sequence similarity 63 member B	20170203
 230844	102912674	LOC102912674	-	-	-	Un	-	microtubule-associated proteins 1A/1B light chain 3B pseudogene	pseudo	-	-	-	-	20160323
 230844	102912675	Nnmt	-	-	-	Un	-	nicotinamide N-methyltransferase	protein-coding	-	-	-	nicotinamide N-methyltransferase	20170125
 230844	102912676	LOC102912676	-	-	-	Un	-	poly(rC)-binding protein 1	protein-coding	-	-	-	poly(rC)-binding protein 1	20170125
@@ -11470,7 +11470,7 @@
 230844	102914796	Chchd4	-	-	-	Un	-	coiled-coil-helix-coiled-coil-helix domain containing 4	protein-coding	-	-	-	mitochondrial intermembrane space import and assembly protein 40	20170125
 230844	102914797	Ttc36	-	-	-	Un	-	tetratricopeptide repeat domain 36	protein-coding	-	-	-	tetratricopeptide repeat protein 36	20170125
 230844	102914798	Plekhh1	-	-	-	Un	-	pleckstrin homology, MyTH4 and FERM domain containing H1	protein-coding	-	-	-	pleckstrin homology domain-containing family H member 1|pleckstrin homology domain containing, family H (with MyTH4 domain) member 1	20170125
-230844	102914799	Fam150a	-	-	-	Un	-	family with sequence similarity 150 member A	protein-coding	-	-	-	protein FAM150A	20170125
+230844	102914799	Alkal1	-	Fam150a	-	Un	-	ALK and LTK ligand 1	protein-coding	-	-	-	protein FAM150A|family with sequence similarity 150 member A	20170205
 230844	102914800	LOC102914800	-	-	-	Un	-	C-X-C motif chemokine 3-like	protein-coding	-	-	-	C-X-C motif chemokine 3-like	20170125
 230844	102914801	LOC102914801	-	-	-	Un	-	60S ribosomal protein L21 pseudogene	pseudo	-	-	-	-	20160323
 230844	102914802	Gnb5	-	-	-	Un	-	G protein subunit beta 5	protein-coding	-	-	-	guanine nucleotide-binding protein subunit beta-5|guanine nucleotide binding protein (G protein), beta 5	20170125
@@ -11939,7 +11939,7 @@
 230844	102915291	Kndc1	-	-	-	Un	-	kinase non-catalytic C-lobe domain containing 1	protein-coding	-	-	-	protein very KIND	20170125
 230844	102915292	Sirt7	-	-	-	Un	-	sirtuin 7	protein-coding	-	-	-	NAD-dependent protein deacetylase sirtuin-7	20170125
 230844	102915293	LOC102915293	-	-	-	Un	-	aldo-keto reductase family 1 member C21-like	protein-coding	-	-	-	aldo-keto reductase family 1 member C21-like	20170125
-230844	102915294	Tarm1	-	-	-	Un	-	T cell-interacting, activating receptor on myeloid cells 1	protein-coding	-	-	-	T-cell-interacting, activating receptor on myeloid cells protein 1	20170125
+230844	102915294	Tarm1	-	-	-	Un	-	T-cell-interacting, activating receptor on myeloid cells 1	protein-coding	-	-	-	T-cell-interacting, activating receptor on myeloid cells protein 1	20170205
 230844	102915295	C7	-	-	-	Un	-	complement C7	protein-coding	-	-	-	complement component C7	20170125
 230844	102915296	Upf1	-	-	-	Un	-	UPF1, RNA helicase and ATPase	protein-coding	-	-	-	regulator of nonsense transcripts 1|UPF1 regulator of nonsense transcripts homolog	20170125
 230844	102915297	Asb17	-	-	-	Un	-	ankyrin repeat and SOCS box containing 17	protein-coding	-	-	-	ankyrin repeat and SOCS box protein 17	20170125
@@ -12734,7 +12734,7 @@
 230844	102916135	Ran	-	-	-	Un	-	RAN, member RAS oncogene family	protein-coding	-	-	-	GTP-binding nuclear protein Ran	20170125
 230844	102916136	Chst2	-	-	-	Un	-	carbohydrate sulfotransferase 2	protein-coding	-	-	-	carbohydrate sulfotransferase 2	20170125
 230844	102916137	Hmmr	-	-	-	Un	-	hyaluronan mediated motility receptor	protein-coding	-	-	-	hyaluronan mediated motility receptor|hyaluronan-mediated motility receptor (RHAMM)	20170125
-230844	102916139	Cecr5	-	-	-	Un	-	cat eye syndrome chromosome region, candidate 5	protein-coding	-	-	-	cat eye syndrome critical region protein 5	20170125
+230844	102916139	Hdhd5	-	Cecr5	-	Un	-	haloacid dehalogenase like hydrolase domain containing 5	protein-coding	-	-	-	cat eye syndrome critical region protein 5|cat eye syndrome chromosome region, candidate 5	20170205
 230844	102916140	Acsf2	-	-	-	Un	-	acyl-CoA synthetase family member 2	protein-coding	-	-	-	acyl-CoA synthetase family member 2, mitochondrial	20170125
 230844	102916142	LOC102916142	-	-	-	Un	-	uncharacterized LOC102916142	ncRNA	-	-	-	-	20160323
 230844	102916143	LOC102916143	-	-	-	Un	-	Hermansky-Pudlak syndrome 5 protein homolog	protein-coding	-	-	-	Hermansky-Pudlak syndrome 5 protein homolog	20170125
@@ -16634,7 +16634,7 @@
 230844	102920230	Krt1	-	-	-	Un	-	keratin 1	protein-coding	-	-	-	keratin, type II cytoskeletal 1	20170125
 230844	102920231	Fut1	-	-	-	Un	-	fucosyltransferase 1 (H blood group)	protein-coding	-	-	-	galactoside 2-alpha-L-fucosyltransferase 1|fucosyltransferase 1 (galactoside 2-alpha-L-fucosyltransferase, H blood group)	20170125
 230844	102920232	LOC102920232	-	-	-	Un	-	60S acidic ribosomal protein P0	protein-coding	-	-	-	60S acidic ribosomal protein P0	20170125
-230844	102920233	Fam63a	-	-	-	Un	-	family with sequence similarity 63 member A	protein-coding	-	-	-	protein FAM63A	20170125
+230844	102920233	Mindy1	-	Fam63a	-	Un	-	MINDY lysine 48 deubiquitinase 1	protein-coding	-	-	-	protein FAM63A|family with sequence similarity 63 member A	20170203
 230844	102920234	LOC102920234	-	Ocm2	-	Un	-	putative oncomodulin-2	protein-coding	-	-	-	putative oncomodulin-2|oncomodulin 2	20170125
 230844	102920235	Mlh3	-	-	-	Un	-	mutL homolog 3	protein-coding	-	-	-	DNA mismatch repair protein Mlh3	20170125
 230844	102920236	Thap1	-	-	-	Un	-	THAP domain containing 1	protein-coding	-	-	-	THAP domain-containing protein 1	20170125
@@ -16660,7 +16660,7 @@
 230844	102920257	Map3k7cl	-	-	-	Un	-	MAP3K7 C-terminal like	protein-coding	-	-	-	MAP3K7 C-terminal-like protein	20170125
 230844	102920258	Shcbp1	-	-	-	Un	-	SHC binding and spindle associated 1	protein-coding	-	-	-	SHC SH2 domain-binding protein 1	20170125
 230844	102920259	Ndufa5	-	-	-	Un	-	NADH:ubiquinone oxidoreductase subunit A5	protein-coding	-	-	-	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 5	20170125
-230844	102920260	Vtcn1	-	-	-	Un	-	V-set domain containing T cell activation inhibitor 1	protein-coding	-	-	-	V-set domain-containing T-cell activation inhibitor 1	20170125
+230844	102920260	Vtcn1	-	-	-	Un	-	V-set domain containing T-cell activation inhibitor 1	protein-coding	-	-	-	V-set domain-containing T-cell activation inhibitor 1	20170205
 230844	102920261	Hbp1	-	-	-	Un	-	HMG-box transcription factor 1	protein-coding	-	-	-	HMG box-containing protein 1	20170125
 230844	102920262	Tmem132e	-	-	-	Un	-	transmembrane protein 132E	protein-coding	-	-	-	transmembrane protein 132E	20170125
 230844	102920263	LOC102920263	-	-	-	Un	-	serine protease 40-like	protein-coding	-	-	-	serine protease 40-like	20170125
@@ -16838,7 +16838,7 @@
 230844	102920440	Lrp3	-	-	-	Un	-	LDL receptor related protein 3	protein-coding	-	-	-	low-density lipoprotein receptor-related protein 3|low density lipoprotein receptor-related protein 3	20170125
 230844	102920441	Abhd17b	-	-	-	Un	-	abhydrolase domain containing 17B	protein-coding	-	-	-	protein ABHD17B	20170125
 230844	102920442	LOC102920442	-	-	-	Un	-	uncharacterized LOC102920442	pseudo	-	-	-	-	20160323
-230844	102920443	Fam188a	-	-	-	Un	-	family with sequence similarity 188 member A	protein-coding	-	-	-	protein FAM188A	20170125
+230844	102920443	Mindy3	-	Fam188a	-	Un	-	MINDY lysine 48 deubiquitinase 3	protein-coding	-	-	-	protein FAM188A|family with sequence similarity 188 member A	20170203
 230844	102920444	Tead2	-	-	-	Un	-	TEA domain transcription factor 2	protein-coding	-	-	-	transcriptional enhancer factor TEF-4|TEA domain family member 2	20170125
 230844	102920445	LOC102920445	-	-	-	Un	-	60S ribosomal protein L27a pseudogene	pseudo	-	-	-	-	20160323
 230844	102920446	LOC102920446	-	-	-	Un	-	immunity-related GTPase family M protein 1-like	protein-coding	-	-	-	immunity-related GTPase family M protein 1-like	20170125
@@ -24895,7 +24895,7 @@
 230844	102929019	Rnaseh2a	-	-	-	Un	-	ribonuclease H2 subunit A	protein-coding	-	-	-	ribonuclease H2 subunit A	20170125
 230844	102929020	LOC102929020	-	-	-	Un	-	acidic leucine-rich nuclear phosphoprotein 32 family member B pseudogene	pseudo	-	-	-	-	20160323
 230844	102929021	LOC102929021	-	-	-	Un	-	eukaryotic translation initiation factor 5A-1-like	pseudo	-	-	-	-	20160323
-230844	102929022	Spg21	-	-	-	Un	-	spastic paraplegia 21 (autosomal recessive, Mast syndrome)	protein-coding	-	-	-	maspardin	20170125
+230844	102929022	Spg21	-	-	-	Un	-	SPG21, maspardin	protein-coding	-	-	-	maspardin|spastic paraplegia 21 (autosomal recessive, Mast syndrome)	20170205
 230844	102929023	LOC102929023	-	-	-	Un	-	cysteine-rich secretory protein 2-like	protein-coding	-	-	-	cysteine-rich secretory protein 2-like	20170125
 230844	102929024	Gnat2	-	-	-	Un	-	G protein subunit alpha transducin 2	protein-coding	-	-	-	guanine nucleotide-binding protein G(t) subunit alpha-2|guanine nucleotide binding protein (G protein), alpha transducing activity polypeptide 2	20170125
 230844	102929025	LOC102929025	-	-	-	Un	-	fumarate hydratase, mitochondrial-like	protein-coding	-	-	-	fumarate hydratase, mitochondrial-like	20170125

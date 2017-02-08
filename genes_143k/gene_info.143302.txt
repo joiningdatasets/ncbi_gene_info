@@ -1097,7 +1097,7 @@
 143302	101619317	BABAM1	-	-	-	Un	-	BRISC and BRCA1 A complex member 1	protein-coding	-	-	-	BRISC and BRCA1-A complex member 1	20170128
 143302	101619318	IL18	-	-	-	Un	-	interleukin 18	protein-coding	-	-	-	interleukin-18|interleukin 18 (interferon-gamma-inducing factor)	20170128
 143302	101619319	C1QTNF5	-	-	-	Un	-	C1q and tumor necrosis factor related protein 5	protein-coding	-	-	-	complement C1q tumor necrosis factor-related protein 5	20170128
-143302	101619321	VTCN1	-	-	-	Un	-	V-set domain containing T cell activation inhibitor 1	protein-coding	-	-	-	V-set domain-containing T-cell activation inhibitor 1	20170128
+143302	101619321	VTCN1	-	-	-	Un	-	V-set domain containing T-cell activation inhibitor 1	protein-coding	-	-	-	V-set domain-containing T-cell activation inhibitor 1	20170205
 143302	101619322	GPR61	-	-	-	Un	-	G protein-coupled receptor 61	protein-coding	-	-	-	probable G-protein coupled receptor 61	20170128
 143302	101619324	USP9X	-	-	-	Un	-	ubiquitin specific peptidase 9, X-linked	protein-coding	-	-	-	probable ubiquitin carboxyl-terminal hydrolase FAF-X	20170128
 143302	101619325	TIMM50	-	-	-	Un	-	translocase of inner mitochondrial membrane 50	protein-coding	-	-	-	mitochondrial import inner membrane translocase subunit TIM50	20170128
@@ -5998,7 +5998,7 @@
 143302	101624650	BUB1	-	-	-	Un	-	BUB1 mitotic checkpoint serine/threonine kinase	protein-coding	-	-	-	mitotic checkpoint serine/threonine-protein kinase BUB1	20170128
 143302	101624651	ANK2	-	-	-	Un	-	ankyrin 2	protein-coding	-	-	-	ankyrin-2	20170128
 143302	101624652	NEUROG2	-	-	-	Un	-	neurogenin 2	protein-coding	-	-	-	neurogenin-2	20170128
-143302	101624654	SPG11	-	-	-	Un	-	spastic paraplegia 11 (autosomal recessive)	protein-coding	-	-	-	spatacsin	20170128
+143302	101624654	SPG11	-	-	-	Un	-	SPG11, spatacsin vesicle trafficking associated	protein-coding	-	-	-	spatacsin|spastic paraplegia 11 (autosomal recessive)	20170203
 143302	101624655	GALK2	-	-	-	Un	-	galactokinase 2	protein-coding	-	-	-	N-acetylgalactosamine kinase	20170128
 143302	101624656	LOC101624656	-	-	-	Un	-	olfactory receptor 6K6	protein-coding	-	-	-	olfactory receptor 6K6	20170128
 143302	101624657	TRIM50	-	-	-	Un	-	tripartite motif containing 50	protein-coding	-	-	-	E3 ubiquitin-protein ligase TRIM50	20170128
@@ -9274,7 +9274,7 @@
 143302	101628184	CENPN	-	-	-	Un	-	centromere protein N	protein-coding	-	-	-	centromere protein N	20170128
 143302	101628185	ACADS	-	-	-	Un	-	acyl-CoA dehydrogenase, C-2 to C-3 short chain	protein-coding	-	-	-	short-chain specific acyl-CoA dehydrogenase, mitochondrial	20170128
 143302	101628186	LYST	-	-	-	Un	-	lysosomal trafficking regulator	protein-coding	-	-	-	lysosomal-trafficking regulator	20170128
-143302	101628187	FAM188A	-	-	-	Un	-	family with sequence similarity 188 member A	protein-coding	-	-	-	protein FAM188A	20170128
+143302	101628187	MINDY3	-	FAM188A	-	Un	-	MINDY lysine 48 deubiquitinase 3	protein-coding	-	-	-	protein FAM188A|family with sequence similarity 188 member A	20170203
 143302	101628188	GKN1	-	-	-	Un	-	gastrokine 1	protein-coding	-	-	-	gastrokine-1	20170128
 143302	101628189	SMYD1	-	-	-	Un	-	SET and MYND domain containing 1	protein-coding	-	-	-	histone-lysine N-methyltransferase SMYD1	20170128
 143302	101628191	RNF216	-	-	-	Un	-	ring finger protein 216	protein-coding	-	-	-	E3 ubiquitin-protein ligase RNF216	20170128
@@ -11106,7 +11106,7 @@
 143302	101630154	XRN2	-	-	-	Un	-	5'-3' exoribonuclease 2	protein-coding	-	-	-	5'-3' exoribonuclease 2	20170128
 143302	101630155	PHF20	-	-	-	Un	-	PHD finger protein 20	protein-coding	-	-	-	PHD finger protein 20	20170128
 143302	101630156	PLCB2	-	-	-	Un	-	phospholipase C beta 2	protein-coding	-	-	-	1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta-2	20170128
-143302	101630157	FAM63B	-	-	-	Un	-	family with sequence similarity 63 member B	protein-coding	-	-	-	protein FAM63B	20170128
+143302	101630157	MINDY2	-	FAM63B	-	Un	-	MINDY lysine 48 deubiquitinase 2	protein-coding	-	-	-	protein FAM63B|family with sequence similarity 63 member B	20170203
 143302	101630158	CD244	-	-	-	Un	-	CD244 molecule	protein-coding	-	-	-	natural killer cell receptor 2B4	20170128
 143302	101630159	WBSCR17	-	-	-	Un	-	Williams-Beuren syndrome chromosome region 17	protein-coding	-	-	-	putative polypeptide N-acetylgalactosaminyltransferase-like protein 3	20170128
 143302	101630160	NR1I3	-	-	-	Un	-	nuclear receptor subfamily 1 group I member 3	protein-coding	-	-	-	LOW QUALITY PROTEIN: nuclear receptor subfamily 1 group I member 3	20170128
@@ -11402,7 +11402,7 @@
 143302	101630468	TESC	-	-	-	Un	-	tescalcin	protein-coding	-	-	-	calcineurin B homologous protein 3	20170128
 143302	101630469	ZNF638	-	-	-	Un	-	zinc finger protein 638	protein-coding	-	-	-	zinc finger protein 638	20170128
 143302	101630470	CCT4	-	-	-	Un	-	chaperonin containing TCP1 subunit 4	protein-coding	-	-	-	T-complex protein 1 subunit delta	20170128
-143302	101630471	CECR5	-	-	-	Un	-	cat eye syndrome chromosome region, candidate 5	protein-coding	-	-	-	cat eye syndrome critical region protein 5	20170128
+143302	101630471	HDHD5	-	CECR5	-	Un	-	haloacid dehalogenase like hydrolase domain containing 5	protein-coding	-	-	-	cat eye syndrome critical region protein 5|cat eye syndrome chromosome region, candidate 5	20170205
 143302	101630472	AEN	-	-	-	Un	-	apoptosis enhancing nuclease	protein-coding	-	-	-	apoptosis-enhancing nuclease	20170128
 143302	101630473	LOC101630473	-	-	-	Un	-	chromosome unknown open reading frame, human C12orf60	protein-coding	-	-	-	uncharacterized protein C12orf60 homolog	20170128
 143302	101630474	GFOD1	-	-	-	Un	-	glucose-fructose oxidoreductase domain containing 1	protein-coding	-	-	-	glucose-fructose oxidoreductase domain-containing protein 1	20170128
@@ -15398,7 +15398,7 @@
 143302	101634741	GPR148	-	-	-	Un	-	G protein-coupled receptor 148	protein-coding	-	-	-	probable G-protein coupled receptor 148	20170128
 143302	101634744	TNNC1	-	-	-	Un	-	troponin C1, slow skeletal and cardiac type	protein-coding	-	-	-	troponin C, slow skeletal and cardiac muscles	20170128
 143302	101634746	IQCF1	-	-	-	Un	-	IQ motif containing F1	protein-coding	-	-	-	IQ domain-containing protein F1	20170128
-143302	101634747	FAM188B	-	-	-	Un	-	family with sequence similarity 188 member B	protein-coding	-	-	-	protein FAM188B	20170128
+143302	101634747	MINDY4	-	FAM188B	-	Un	-	MINDY lysine 48 deubiquitinase 4	protein-coding	-	-	-	protein FAM188B|family with sequence similarity 188 member B	20170203
 143302	101634748	DOCK8	-	-	-	Un	-	dedicator of cytokinesis 8	protein-coding	-	-	-	dedicator of cytokinesis protein 8	20170128
 143302	101634749	RNF208	-	-	-	Un	-	ring finger protein 208	protein-coding	-	-	-	RING finger protein 208	20170128
 143302	101634750	LOC101634750	-	-	-	Un	-	60S ribosomal protein L15-like	pseudo	-	-	-	-	20151115
@@ -17391,7 +17391,7 @@
 143302	101636922	ZHX3	-	-	-	Un	-	zinc fingers and homeoboxes 3	protein-coding	-	-	-	zinc fingers and homeoboxes protein 3	20170128
 143302	101636923	TP53INP2	-	-	-	Un	-	tumor protein p53 inducible nuclear protein 2	protein-coding	-	-	-	tumor protein p53-inducible nuclear protein 2	20170128
 143302	101636924	SLC4A11	-	-	-	Un	-	solute carrier family 4 member 11	protein-coding	-	-	-	sodium bicarbonate transporter-like protein 11	20170128
-143302	101636925	SPG21	-	-	-	Un	-	spastic paraplegia 21 (autosomal recessive, Mast syndrome)	protein-coding	-	-	-	maspardin	20170128
+143302	101636925	SPG21	-	-	-	Un	-	SPG21, maspardin	protein-coding	-	-	-	maspardin|spastic paraplegia 21 (autosomal recessive, Mast syndrome)	20170205
 143302	101636926	ARPP19	-	-	-	Un	-	cAMP regulated phosphoprotein 19	protein-coding	-	-	-	cAMP-regulated phosphoprotein 19	20170128
 143302	101636927	MAP1S	-	-	-	Un	-	microtubule associated protein 1S	protein-coding	-	-	-	microtubule-associated protein 1S	20170128
 143302	101636928	INTS1	-	-	-	Un	-	integrator complex subunit 1	protein-coding	-	-	-	integrator complex subunit 1	20170128
@@ -17976,7 +17976,7 @@
 143302	101637548	DNAAF5	-	HEATR2	-	Un	-	dynein axonemal assembly factor 5	protein-coding	-	-	-	dynein assembly factor 5, axonemal|HEAT repeat containing 2	20170128
 143302	101637549	TRIM56	-	-	-	Un	-	tripartite motif containing 56	protein-coding	-	-	-	E3 ubiquitin-protein ligase TRIM56	20170128
 143302	101637550	LOC101637550	-	-	-	Un	-	chromosome unknown open reading frame, human C11orf71	protein-coding	-	-	-	uncharacterized protein C11orf71 homolog	20170128
-143302	101637551	FAM63A	-	-	-	Un	-	family with sequence similarity 63 member A	protein-coding	-	-	-	protein FAM63A	20170128
+143302	101637551	MINDY1	-	FAM63A	-	Un	-	MINDY lysine 48 deubiquitinase 1	protein-coding	-	-	-	protein FAM63A|family with sequence similarity 63 member A	20170203
 143302	101637552	WARS2	-	-	-	Un	-	tryptophanyl tRNA synthetase 2, mitochondrial	protein-coding	-	-	-	tryptophan--tRNA ligase, mitochondrial	20170128
 143302	101637553	LOC101637553	-	-	-	Un	-	glutathione S-transferase Mu 2-like	protein-coding	-	-	-	glutathione S-transferase Mu 2-like	20170128
 143302	101637554	GPM6B	-	-	-	Un	-	glycoprotein M6B	protein-coding	-	-	-	neuronal membrane glycoprotein M6-b	20170128
@@ -19596,7 +19596,7 @@
 143302	105854456	LOC105854456	-	-	-	Un	-	soluble scavenger receptor cysteine-rich domain-containing protein SSC5D-like	protein-coding	-	-	-	soluble scavenger receptor cysteine-rich domain-containing protein SSC5D-like	20170128
 143302	105854457	B3GNT5	-	-	-	Un	-	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 5	protein-coding	-	-	-	lactosylceramide 1,3-N-acetyl-beta-D-glucosaminyltransferase	20170128
 143302	105854458	LOC105854458	-	-	-	Un	-	uncharacterized LOC105854458	protein-coding	-	-	-	uncharacterized protein LOC105854458	20170128
-143302	105854459	TARM1	-	-	-	Un	-	T cell-interacting, activating receptor on myeloid cells 1	protein-coding	-	-	-	T-cell-interacting, activating receptor on myeloid cells protein 1	20170128
+143302	105854459	TARM1	-	-	-	Un	-	T-cell-interacting, activating receptor on myeloid cells 1	protein-coding	-	-	-	T-cell-interacting, activating receptor on myeloid cells protein 1	20170205
 143302	105854460	ZNF432	-	-	-	Un	-	zinc finger protein 432	protein-coding	-	-	-	LOW QUALITY PROTEIN: zinc finger protein 432	20170128
 143302	105854461	LOC105854461	-	-	-	Un	-	gastrula zinc finger protein XlCGF17.1-like	protein-coding	-	-	-	gastrula zinc finger protein XlCGF17.1-like	20170128
 143302	105854462	KLK12	-	-	-	Un	-	kallikrein related peptidase 12	protein-coding	-	-	-	kallikrein-12	20170128

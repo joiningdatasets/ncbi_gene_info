@@ -2259,7 +2259,7 @@
 89462	102391074	COL13A1	-	-	-	Un	-	collagen type XIII alpha 1 chain	protein-coding	-	-	-	collagen alpha-1(XIII) chain	20170131
 89462	102391075	TMEM267	-	-	-	Un	-	transmembrane protein 267	protein-coding	-	-	-	transmembrane protein C5orf28 homolog	20170131
 89462	102391076	LOC102391076	-	-	-	Un	-	iron-sulfur protein NUBPL-like	protein-coding	-	-	-	iron-sulfur protein NUBPL-like	20170131
-89462	102391077	FAM63B	-	-	-	Un	-	family with sequence similarity 63 member B	protein-coding	-	-	-	protein FAM63B	20170131
+89462	102391077	MINDY2	-	FAM63B	-	Un	-	MINDY lysine 48 deubiquitinase 2	protein-coding	-	-	-	protein FAM63B|family with sequence similarity 63 member B	20170203
 89462	102391078	LOC102391078	-	-	-	Un	-	uncharacterized LOC102391078	protein-coding	-	-	-	uncharacterized protein LOC102391078	20170131
 89462	102391079	EIF4H	-	-	-	Un	-	eukaryotic translation initiation factor 4H	protein-coding	-	-	-	eukaryotic translation initiation factor 4H	20170131
 89462	102391080	LOC102391080	-	-	-	Un	-	chromosome unknown open reading frame, human C2orf76	protein-coding	-	-	-	UPF0538 protein C2orf76 homolog	20170131
@@ -9050,7 +9050,7 @@
 89462	102397866	LOC102397866	-	-	-	Un	-	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 1-like	protein-coding	-	-	-	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 1-like	20170131
 89462	102397867	LOC102397867	-	-	-	Un	-	protein capicua homolog	protein-coding	-	-	-	protein capicua homolog	20170131
 89462	102397868	ARPC1A	-	-	-	Un	-	actin related protein 2/3 complex subunit 1A	protein-coding	-	-	-	actin-related protein 2/3 complex subunit 1A	20170131
-89462	102397869	FAM150B	-	-	-	Un	-	family with sequence similarity 150 member B	protein-coding	-	-	-	protein FAM150B	20170131
+89462	102397869	ALKAL2	-	FAM150B	-	Un	-	ALK and LTK ligand 2	protein-coding	-	-	-	protein FAM150B|family with sequence similarity 150 member B	20170205
 89462	102397870	EIF4A1	-	-	-	Un	-	eukaryotic translation initiation factor 4A1	protein-coding	-	-	-	eukaryotic initiation factor 4A-I	20170131
 89462	102397871	LOC102397871	-	-	-	Un	-	lactate dehydrogenase A pseudogene	pseudo	-	-	-	-	20151115
 89462	102397872	OGN	-	-	-	Un	-	osteoglycin	protein-coding	-	-	-	mimecan	20170131
@@ -13310,7 +13310,7 @@
 89462	102402126	LOC102402126	-	-	-	Un	-	ADP-ribosylation factor-like protein 4A-like	protein-coding	-	-	-	ADP-ribosylation factor-like protein 4A-like	20170131
 89462	102402127	LOC102402127	-	-	-	Un	-	histone-lysine N-methyltransferase SETMAR-like	pseudo	-	-	-	-	20151115
 89462	102402128	PIF1	-	-	-	Un	-	PIF1 5'-to-3' DNA helicase	protein-coding	-	-	-	ATP-dependent DNA helicase PIF1	20170131
-89462	102402129	SPG11	-	-	-	Un	-	spastic paraplegia 11 (autosomal recessive)	protein-coding	-	-	-	spatacsin	20170131
+89462	102402129	SPG11	-	-	-	Un	-	SPG11, spatacsin vesicle trafficking associated	protein-coding	-	-	-	spatacsin|spastic paraplegia 11 (autosomal recessive)	20170203
 89462	102402130	LOC102402130	-	-	-	Un	-	carcinoembryonic antigen-related cell adhesion molecule 20-like	protein-coding	-	-	-	carcinoembryonic antigen-related cell adhesion molecule 20-like	20170131
 89462	102402131	LOC102402131	-	-	-	Un	-	histone H2A.J-like	protein-coding	-	-	-	histone H2A.J-like	20170131
 89462	102402132	VWA8	-	-	-	Un	-	von Willebrand factor A domain containing 8	protein-coding	-	-	-	von Willebrand factor A domain-containing protein 8	20170131
@@ -14156,7 +14156,7 @@
 89462	102402972	CPED1	-	-	-	Un	-	cadherin like and PC-esterase domain containing 1	protein-coding	-	-	-	cadherin-like and PC-esterase domain-containing protein 1	20170131
 89462	102402973	INPP5A	-	-	-	Un	-	inositol polyphosphate-5-phosphatase A	protein-coding	-	-	-	type I inositol 1,4,5-trisphosphate 5-phosphatase	20170131
 89462	102402974	LOC102402974	-	-	-	Un	-	uncharacterized LOC102402974	ncRNA	-	-	-	-	20151115
-89462	102402975	CECR5	-	-	-	Un	-	cat eye syndrome chromosome region, candidate 5	protein-coding	-	-	-	cat eye syndrome critical region protein 5	20170131
+89462	102402975	HDHD5	-	CECR5	-	Un	-	haloacid dehalogenase like hydrolase domain containing 5	protein-coding	-	-	-	cat eye syndrome critical region protein 5|cat eye syndrome chromosome region, candidate 5	20170205
 89462	102402976	IQCH	-	-	-	Un	-	IQ motif containing H	protein-coding	-	-	-	IQ domain-containing protein H	20170131
 89462	102402977	ACSL4	-	-	-	Un	-	acyl-CoA synthetase long-chain family member 4	protein-coding	-	-	-	long-chain-fatty-acid--CoA ligase 4	20170131
 89462	102402978	LOC102402978	-	-	-	Un	-	olfactory receptor 2A12-like	protein-coding	-	-	-	olfactory receptor 2A12-like	20170131
@@ -18913,7 +18913,7 @@
 89462	102407729	PLPP1	-	-	-	Un	-	phospholipid phosphatase 1	protein-coding	-	-	-	lipid phosphate phosphohydrolase 1	20170131
 89462	102407730	MST1	-	-	-	Un	-	macrophage stimulating 1	protein-coding	-	-	-	hepatocyte growth factor-like protein	20170131
 89462	102407731	COL28A1	-	-	-	Un	-	collagen type XXVIII alpha 1 chain	protein-coding	-	-	-	collagen alpha-1(XXVIII) chain	20170131
-89462	102407732	TARM1	-	-	-	Un	-	T cell-interacting, activating receptor on myeloid cells 1	protein-coding	-	-	-	T-cell-interacting, activating receptor on myeloid cells protein 1	20170131
+89462	102407732	TARM1	-	-	-	Un	-	T-cell-interacting, activating receptor on myeloid cells 1	protein-coding	-	-	-	T-cell-interacting, activating receptor on myeloid cells protein 1	20170205
 89462	102407733	FABP1	-	-	-	Un	-	fatty acid binding protein 1	protein-coding	-	-	-	fatty acid-binding protein, liver	20170131
 89462	102407734	TTYH3	-	-	-	Un	-	tweety family member 3	protein-coding	-	-	-	protein tweety homolog 3	20170131
 89462	102407735	LOC102407735	-	-	-	Un	-	dihydropyrimidine dehydrogenase [NADP(+)]-like	pseudo	-	-	-	-	20151115
@@ -22678,7 +22678,7 @@
 89462	102411494	LOC102411494	-	-	-	Un	-	zinc finger protein 850-like	pseudo	-	-	-	-	20151115
 89462	102411495	LOC102411495	-	-	-	Un	-	olfactory receptor 8A1-like	protein-coding	-	-	-	olfactory receptor 8A1-like	20170131
 89462	102411496	LOC102411496	-	-	-	Un	-	ankyrin repeat domain-containing protein 26-like	pseudo	-	-	-	-	20151115
-89462	102411497	FAM63A	-	-	-	Un	-	family with sequence similarity 63 member A	protein-coding	-	-	-	protein FAM63A	20170131
+89462	102411497	MINDY1	-	FAM63A	-	Un	-	MINDY lysine 48 deubiquitinase 1	protein-coding	-	-	-	protein FAM63A|family with sequence similarity 63 member A	20170203
 89462	102411498	LOC102411498	-	-	-	Un	-	methyltransferase-like protein 7A-like	pseudo	-	-	-	-	20151115
 89462	102411499	LOC102411499	-	-	-	Un	-	T-cell receptor alpha chain V region CTL-F3-like	other	-	-	-	-	20151115
 89462	102411500	RPL26L1	-	-	-	Un	-	ribosomal protein L26 like 1	protein-coding	-	-	-	60S ribosomal protein L26-like 1	20170131
@@ -22754,7 +22754,7 @@
 89462	102411570	LOC102411570	-	-	-	Un	-	argininosuccinate lyase-like	protein-coding	-	-	-	argininosuccinate lyase-like	20170131
 89462	102411571	LOC102411571	-	-	-	Un	-	serine/arginine repetitive matrix protein 3-like	protein-coding	-	-	-	serine/arginine repetitive matrix protein 3-like	20170131
 89462	102411572	COL11A1	-	-	-	Un	-	collagen, type XI, alpha 1	protein-coding	-	-	-	collagen alpha-1(XI) chain-like	20170131
-89462	102411573	SPG21	-	-	-	Un	-	spastic paraplegia 21 (autosomal recessive, Mast syndrome)	protein-coding	-	-	-	maspardin	20170131
+89462	102411573	SPG21	-	-	-	Un	-	SPG21, maspardin	protein-coding	-	-	-	maspardin|spastic paraplegia 21 (autosomal recessive, Mast syndrome)	20170205
 89462	102411574	LOC102411574	-	-	-	Un	-	uncharacterized LOC102411574	pseudo	-	-	-	-	20151115
 89462	102411575	DAZAP1	-	-	-	Un	-	DAZ associated protein 1	protein-coding	-	-	-	DAZ-associated protein 1	20170131
 89462	102411576	LOC102411576	-	-	-	Un	-	myeloid-associated differentiation marker-like	pseudo	-	-	-	-	20151115
@@ -23681,7 +23681,7 @@
 89462	102412497	CRNKL1	-	-	-	Un	-	crooked neck pre-mRNA splicing factor 1	protein-coding	-	-	-	crooked neck-like protein 1	20170131
 89462	102412498	OBSCN	-	-	-	Un	-	obscurin, cytoskeletal calmodulin and titin-interacting RhoGEF	protein-coding	-	-	-	obscurin	20170131
 89462	102412499	ANO5	-	-	-	Un	-	anoctamin 5	protein-coding	-	-	-	anoctamin-5	20170131
-89462	102412500	FAM150A	-	-	-	Un	-	family with sequence similarity 150 member A	protein-coding	-	-	-	protein FAM150A	20170131
+89462	102412500	ALKAL1	-	FAM150A	-	Un	-	ALK and LTK ligand 1	protein-coding	-	-	-	protein FAM150A|family with sequence similarity 150 member A	20170205
 89462	102412501	PRPF38A	-	-	-	Un	-	pre-mRNA processing factor 38A	protein-coding	-	-	-	pre-mRNA-splicing factor 38A	20170131
 89462	102412502	LOC102412502	-	-	-	Un	-	uncharacterized LOC102412502	protein-coding	-	-	-	uncharacterized protein CXorf40 homolog	20170131
 89462	102412503	LOC102412503	-	-	-	Un	-	cysteine-rich protein 1 (intestinal) pseudogene	pseudo	-	-	-	-	20151115
@@ -25385,7 +25385,7 @@
 89462	102414201	SLC5A9	-	-	-	Un	-	solute carrier family 5 member 9	protein-coding	-	-	-	sodium/glucose cotransporter 4	20170131
 89462	102414202	LOC102414202	-	-	-	Un	-	poly(A) binding protein, cytoplasmic 4 (inducible form) pseudogene	pseudo	-	-	-	-	20151115
 89462	102414203	LOC102414203	-	-	-	Un	-	prolyl 4-hydroxylase subunit alpha-2-like	protein-coding	-	-	-	prolyl 4-hydroxylase subunit alpha-2-like	20170131
-89462	102414204	VTCN1	-	-	-	Un	-	V-set domain containing T cell activation inhibitor 1	protein-coding	-	-	-	V-set domain-containing T-cell activation inhibitor 1	20170131
+89462	102414204	VTCN1	-	-	-	Un	-	V-set domain containing T-cell activation inhibitor 1	protein-coding	-	-	-	V-set domain-containing T-cell activation inhibitor 1	20170205
 89462	102414205	PCDH19	-	-	-	Un	-	protocadherin 19	protein-coding	-	-	-	protocadherin-19-like	20170131
 89462	102414206	LOC102414206	-	-	-	Un	-	phytanoyl-CoA hydroxylase-interacting protein-like	pseudo	-	-	-	-	20151115
 89462	102414207	LOC102414207	-	-	-	Un	-	tigger transposable element-derived protein 1-like	pseudo	-	-	-	-	20151115
@@ -26180,7 +26180,7 @@
 89462	102414996	PLAGL1	-	-	-	Un	-	PLAG1 like zinc finger 1	protein-coding	-	-	-	zinc finger protein PLAGL1	20170131
 89462	102414997	SLC14A1	-	-	-	Un	-	solute carrier family 14 member 1 (Kidd blood group)	protein-coding	-	-	-	urea transporter 1	20170131
 89462	102414998	LOC102414998	-	-	-	Un	-	translin-like	pseudo	-	-	-	-	20151115
-89462	102414999	FAM188A	-	-	-	Un	-	family with sequence similarity 188 member A	protein-coding	-	-	-	protein FAM188A	20170131
+89462	102414999	MINDY3	-	FAM188A	-	Un	-	MINDY lysine 48 deubiquitinase 3	protein-coding	-	-	-	protein FAM188A|family with sequence similarity 188 member A	20170203
 89462	102415000	UNC5A	-	-	-	Un	-	unc-5 netrin receptor A	protein-coding	-	-	-	netrin receptor UNC5A	20170131
 89462	102415001	QRSL1	-	-	-	Un	-	glutaminyl-tRNA synthase (glutamine-hydrolyzing)-like 1	protein-coding	-	-	-	glutamyl-tRNA(Gln) amidotransferase subunit A, mitochondrial	20170131
 89462	102415002	LOC102415002	-	-	-	Un	-	signal peptidase complex subunit 1 homolog (S. cerevisiae) pseudogene	pseudo	-	-	-	-	20151115

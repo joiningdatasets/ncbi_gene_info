@@ -9862,7 +9862,7 @@
 185453	102820279	MATR3	-	-	-	Un	-	matrin 3	protein-coding	-	-	-	matrin-3-like	20170126
 185453	102820280	PCBD2	-	-	-	Un	-	pterin-4 alpha-carbinolamine dehydratase 2	protein-coding	-	-	-	pterin-4-alpha-carbinolamine dehydratase 2	20170126
 185453	102820281	LOC102820281	-	-	-	Un	-	single-strand-selective monofunctional uracil-DNA glycosylase 1 pseudogene	pseudo	-	-	-	-	20151115
-185453	102820282	FAM150B	-	-	-	Un	-	family with sequence similarity 150 member B	protein-coding	-	-	-	protein FAM150B	20170126
+185453	102820282	ALKAL2	-	FAM150B	-	Un	-	ALK and LTK ligand 2	protein-coding	-	-	-	protein FAM150B|family with sequence similarity 150 member B	20170205
 185453	102820283	LOC102820283	-	-	-	Un	-	glycosaminoglycan xylosylkinase-like	pseudo	-	-	-	-	20151115
 185453	102820284	LOC102820284	-	-	-	Un	-	WD repeat domain 76 pseudogene	pseudo	-	-	-	-	20151115
 185453	102820285	ZNF260	-	-	-	Un	-	zinc finger protein 260	protein-coding	-	-	-	zinc finger protein 260	20170126
@@ -12632,7 +12632,7 @@
 185453	102823049	LIMK1	-	-	-	Un	-	LIM domain kinase 1	protein-coding	-	-	-	LIM domain kinase 1	20170126
 185453	102823050	ELFN1	-	-	-	Un	-	extracellular leucine rich repeat and fibronectin type III domain containing 1	protein-coding	-	-	-	protein ELFN1	20170126
 185453	102823051	GUSB	-	-	-	Un	-	glucuronidase beta	protein-coding	-	-	-	beta-glucuronidase	20170126
-185453	102823052	VTCN1	-	-	-	Un	-	V-set domain containing T cell activation inhibitor 1	protein-coding	-	-	-	V-set domain-containing T-cell activation inhibitor 1	20170126
+185453	102823052	VTCN1	-	-	-	Un	-	V-set domain containing T-cell activation inhibitor 1	protein-coding	-	-	-	V-set domain-containing T-cell activation inhibitor 1	20170205
 185453	102823053	LOC102823053	-	-	-	Un	-	melanoma-associated antigen B4-like	protein-coding	-	-	-	melanoma-associated antigen B4-like	20170126
 185453	102823054	RAB3D	-	-	-	Un	-	RAB3D, member RAS oncogene family	protein-coding	-	-	-	ras-related protein Rab-3D	20170126
 185453	102823055	LOC102823055	-	-	-	Un	-	zinc finger Ran-binding domain-containing protein 2-like	pseudo	-	-	-	-	20151115
@@ -12954,7 +12954,7 @@
 185453	102823371	LOC102823371	-	-	-	Un	-	ATPase Asna1-like	pseudo	-	-	-	-	20151115
 185453	102823372	CPN1	-	-	-	Un	-	carboxypeptidase N subunit 1	protein-coding	-	-	-	carboxypeptidase N catalytic chain	20170126
 185453	102823373	TIPIN	-	-	-	Un	-	TIMELESS interacting protein	protein-coding	-	-	-	TIMELESS-interacting protein	20170126
-185453	102823374	FAM63B	-	-	-	Un	-	family with sequence similarity 63 member B	protein-coding	-	-	-	protein FAM63B	20170126
+185453	102823374	MINDY2	-	FAM63B	-	Un	-	MINDY lysine 48 deubiquitinase 2	protein-coding	-	-	-	protein FAM63B|family with sequence similarity 63 member B	20170203
 185453	102823375	CHST14	-	-	-	Un	-	carbohydrate sulfotransferase 14	protein-coding	-	-	-	carbohydrate sulfotransferase 14	20170126
 185453	102823376	LOC102823376	-	-	-	Un	-	transcription initiation factor TFIID subunit 9-like	pseudo	-	-	-	-	20151115
 185453	102823377	MLLT10	-	-	-	Un	-	myeloid/lymphoid or mixed-lineage leukemia; translocated to, 10	protein-coding	-	-	-	protein AF-10	20170126
@@ -14417,7 +14417,7 @@
 185453	102824834	GMEB1	-	-	-	Un	-	glucocorticoid modulatory element binding protein 1	protein-coding	-	-	-	glucocorticoid modulatory element-binding protein 1	20170126
 185453	102824835	PGGHG	-	-	-	Un	-	protein-glucosylgalactosylhydroxylysine glucosidase	protein-coding	-	-	-	acid trehalase-like protein 1	20170126
 185453	102824836	LOC102824836	-	-	-	Un	-	olfactory receptor 11H12-like	protein-coding	-	-	-	olfactory receptor 11H12-like	20170126
-185453	102824837	CECR5	-	-	-	Un	-	cat eye syndrome chromosome region, candidate 5	protein-coding	-	-	-	cat eye syndrome critical region protein 5	20170126
+185453	102824837	HDHD5	-	CECR5	-	Un	-	haloacid dehalogenase like hydrolase domain containing 5	protein-coding	-	-	-	cat eye syndrome critical region protein 5|cat eye syndrome chromosome region, candidate 5	20170205
 185453	102824838	LOC102824838	-	-	-	Un	-	zinc finger protein 737-like	protein-coding	-	-	-	zinc finger protein 737-like	20170126
 185453	102824839	LOC102824839	-	-	-	Un	-	olfactory receptor 7A17-like	protein-coding	-	-	-	olfactory receptor 7A17-like	20170126
 185453	102824840	LOC102824840	-	-	-	Un	-	Ig kappa chain V-III region VG-like	other	-	-	-	-	20151115
@@ -17626,7 +17626,7 @@
 185453	102828043	P2RY12	-	-	-	Un	-	purinergic receptor P2Y12	protein-coding	-	-	-	P2Y purinoceptor 12	20170126
 185453	102828044	LOC102828044	-	-	-	Un	-	transcription factor A, mitochondrial-like	pseudo	-	-	-	-	20151115
 185453	102828045	GRWD1	-	-	-	Un	-	glutamate rich WD repeat containing 1	protein-coding	-	-	-	glutamate-rich WD repeat-containing protein 1	20170126
-185453	102828046	TARM1	-	-	-	Un	-	T cell-interacting, activating receptor on myeloid cells 1	protein-coding	-	-	-	T-cell-interacting, activating receptor on myeloid cells protein 1	20170126
+185453	102828046	TARM1	-	-	-	Un	-	T-cell-interacting, activating receptor on myeloid cells 1	protein-coding	-	-	-	T-cell-interacting, activating receptor on myeloid cells protein 1	20170205
 185453	102828047	TULP4	-	-	-	Un	-	tubby like protein 4	protein-coding	-	-	-	tubby-related protein 4	20170126
 185453	102828048	LOC102828048	-	-	-	Un	-	GTPase NRas-like	pseudo	-	-	-	-	20151115
 185453	102828049	LOC102828049	-	-	-	Un	-	ubiquitin-conjugating enzyme E2N pseudogene	pseudo	-	-	-	-	20151115
@@ -17676,7 +17676,7 @@
 185453	102828093	LOC102828093	-	-	-	Un	-	tropomyosin 1 (alpha) pseudogene	pseudo	-	-	-	-	20151115
 185453	102828094	VPS35	-	-	-	Un	-	VPS35, retromer complex component	protein-coding	-	-	-	vacuolar protein sorting-associated protein 35	20170126
 185453	102828095	LOC102828095	-	-	-	Un	-	olfactory receptor 5AU1-like	protein-coding	-	-	-	olfactory receptor 5AU1-like	20170126
-185453	102828096	FAM188A	-	-	-	Un	-	family with sequence similarity 188 member A	protein-coding	-	-	-	protein FAM188A	20170126
+185453	102828096	MINDY3	-	FAM188A	-	Un	-	MINDY lysine 48 deubiquitinase 3	protein-coding	-	-	-	protein FAM188A|family with sequence similarity 188 member A	20170203
 185453	102828097	LOC102828097	-	-	-	Un	-	tetraspanin-6-like	pseudo	-	-	-	-	20151115
 185453	102828098	TPR	-	-	-	Un	-	translocated promoter region, nuclear basket protein	protein-coding	-	-	-	nucleoprotein TPR	20170126
 185453	102828099	FANCB	-	-	-	Un	-	Fanconi anemia complementation group B	protein-coding	-	-	-	Fanconi anemia group B protein	20170126
@@ -18276,7 +18276,7 @@
 185453	102828693	LOC102828693	-	-	-	Un	-	uncharacterized LOC102828693	pseudo	-	-	-	-	20151115
 185453	102828694	LOC102828694	-	-	-	Un	-	mortality factor 4-like protein 2-like	pseudo	-	-	-	-	20151115
 185453	102828695	TEX9	-	-	-	Un	-	testis expressed 9	protein-coding	-	-	-	testis-expressed sequence 9 protein	20170126
-185453	102828696	SPG11	-	-	-	Un	-	spastic paraplegia 11 (autosomal recessive)	protein-coding	-	-	-	spatacsin	20170126
+185453	102828696	SPG11	-	-	-	Un	-	SPG11, spatacsin vesicle trafficking associated	protein-coding	-	-	-	spatacsin|spastic paraplegia 11 (autosomal recessive)	20170203
 185453	102828697	LOC102828697	-	-	-	Un	-	protein LTV1 homolog	pseudo	-	-	-	-	20151115
 185453	102828698	LOC102828698	-	-	-	Un	-	ubiquitin-conjugating enzyme E2 J2-like	pseudo	-	-	-	-	20151115
 185453	102828699	SLC46A3	-	-	-	Un	-	solute carrier family 46 member 3	protein-coding	-	-	-	solute carrier family 46 member 3	20170126
@@ -18937,7 +18937,7 @@
 185453	102829354	LOC102829354	-	-	-	Un	-	DEAD (Asp-Glu-Ala-Asp) box polypeptide 18 pseudogene	pseudo	-	-	-	-	20151115
 185453	102829355	LOC102829355	-	-	-	Un	-	SLIT and NTRK-like protein 5-like	protein-coding	-	-	-	SLIT and NTRK-like protein 5-like	20170126
 185453	102829356	OGDH	-	-	-	Un	-	oxoglutarate dehydrogenase	protein-coding	-	-	-	2-oxoglutarate dehydrogenase, mitochondrial	20170126
-185453	102829357	FAM188B	-	-	-	Un	-	family with sequence similarity 188 member B	protein-coding	-	-	-	protein FAM188B	20170126
+185453	102829357	MINDY4	-	FAM188B	-	Un	-	MINDY lysine 48 deubiquitinase 4	protein-coding	-	-	-	protein FAM188B|family with sequence similarity 188 member B	20170203
 185453	102829358	PRKCDBP	-	-	-	Un	-	protein kinase C delta binding protein	protein-coding	-	-	-	protein kinase C delta-binding protein	20170126
 185453	102829359	PSME3	-	-	-	Un	-	proteasome activator subunit 3	protein-coding	-	-	-	proteasome activator complex subunit 3	20170126
 185453	102829360	LOC102829360	-	-	-	Un	-	heat shock cognate 71 kDa protein-like	pseudo	-	-	-	-	20151115
@@ -20461,7 +20461,7 @@
 185453	102830878	SGMS1	-	-	-	Un	-	sphingomyelin synthase 1	protein-coding	-	-	-	phosphatidylcholine:ceramide cholinephosphotransferase 1	20170126
 185453	102830879	ELOVL3	-	-	-	Un	-	ELOVL fatty acid elongase 3	protein-coding	-	-	-	elongation of very long chain fatty acids protein 3	20170126
 185453	102830880	EXOC7	-	-	-	Un	-	exocyst complex component 7	protein-coding	-	-	-	exocyst complex component 7	20170126
-185453	102830881	SPG21	-	-	-	Un	-	spastic paraplegia 21 (autosomal recessive, Mast syndrome)	protein-coding	-	-	-	maspardin	20170126
+185453	102830881	SPG21	-	-	-	Un	-	SPG21, maspardin	protein-coding	-	-	-	maspardin|spastic paraplegia 21 (autosomal recessive, Mast syndrome)	20170205
 185453	102830882	PRTG	-	-	-	Un	-	protogenin	protein-coding	-	-	-	protogenin	20170126
 185453	102830883	RASGRP1	-	-	-	Un	-	RAS guanyl releasing protein 1	protein-coding	-	-	-	RAS guanyl-releasing protein 1	20170126
 185453	102830884	EPB42	-	-	-	Un	-	erythrocyte membrane protein band 4.2	protein-coding	-	-	-	erythrocyte membrane protein band 4.2	20170126
@@ -28016,7 +28016,7 @@
 185453	102838433	OVOL2	-	-	-	Un	-	ovo like zinc finger 2	protein-coding	-	-	-	transcription factor Ovo-like 2	20170126
 185453	102838434	UFD1L	-	-	-	Un	-	ubiquitin fusion degradation 1 like (yeast)	protein-coding	-	-	-	ubiquitin fusion degradation protein 1 homolog	20170126
 185453	102838435	LOC102838435	-	-	-	Un	-	olfactory receptor-like protein OLF3-like	protein-coding	-	-	-	olfactory receptor-like protein OLF3-like	20170126
-185453	102838436	FAM63A	-	-	-	Un	-	family with sequence similarity 63 member A	protein-coding	-	-	-	protein FAM63A	20170126
+185453	102838436	MINDY1	-	FAM63A	-	Un	-	MINDY lysine 48 deubiquitinase 1	protein-coding	-	-	-	protein FAM63A|family with sequence similarity 63 member A	20170203
 185453	102838437	LOC102838437	-	-	-	Un	-	coiled-coil domain containing 25 pseudogene	pseudo	-	-	-	-	20151115
 185453	102838438	ZBED4	-	-	-	Un	-	zinc finger BED-type containing 4	protein-coding	-	-	-	zinc finger BED domain-containing protein 4	20170126
 185453	102838439	LOC102838439	-	-	-	Un	-	DNA polymerase delta subunit 3-like	pseudo	-	-	-	-	20151115

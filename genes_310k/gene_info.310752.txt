@@ -5605,7 +5605,7 @@
 310752	103002669	TENM1	-	-	-	Un	-	teneurin transmembrane protein 1	protein-coding	-	-	-	teneurin-1-like	20170125
 310752	103002670	HID1	-	-	-	Un	-	HID1 domain containing	protein-coding	-	-	-	protein HID1	20170125
 310752	103002671	TCP11L2	-	-	-	Un	-	t-complex 11 like 2	protein-coding	-	-	-	T-complex protein 11-like protein 2	20170125
-310752	103002672	SPG21	-	-	-	Un	-	spastic paraplegia 21 (autosomal recessive, Mast syndrome)	protein-coding	-	-	-	maspardin	20170125
+310752	103002672	SPG21	-	-	-	Un	-	SPG21, maspardin	protein-coding	-	-	-	maspardin|spastic paraplegia 21 (autosomal recessive, Mast syndrome)	20170205
 310752	103002673	ISX	-	-	-	Un	-	intestine specific homeobox	protein-coding	-	-	-	intestine-specific homeobox	20170125
 310752	103002674	SFT2D1	-	-	-	Un	-	SFT2 domain containing 1	protein-coding	-	-	-	vesicle transport protein SFT2A	20170125
 310752	103002675	WRAP73	-	-	-	Un	-	WD repeat containing, antisense to TP73	protein-coding	-	-	-	WD repeat-containing protein WRAP73	20170125
@@ -8982,7 +8982,7 @@
 310752	103006046	DCSTAMP	-	-	-	Un	-	dendrocyte expressed seven transmembrane protein	protein-coding	-	-	-	dendritic cell-specific transmembrane protein	20170125
 310752	103006047	LOC103006047	-	-	-	Un	-	thioredoxin pseudogene	pseudo	-	-	-	-	20151115
 310752	103006048	SLC10A7	-	-	-	Un	-	solute carrier family 10 member 7	protein-coding	-	-	-	sodium/bile acid cotransporter 7	20170125
-310752	103006049	VTCN1	-	-	-	Un	-	V-set domain containing T cell activation inhibitor 1	protein-coding	-	-	-	V-set domain-containing T-cell activation inhibitor 1	20170125
+310752	103006049	VTCN1	-	-	-	Un	-	V-set domain containing T-cell activation inhibitor 1	protein-coding	-	-	-	V-set domain-containing T-cell activation inhibitor 1	20170205
 310752	103006050	MORN3	-	-	-	Un	-	MORN repeat containing 3	protein-coding	-	-	-	MORN repeat-containing protein 3	20170125
 310752	103006051	FZD10	-	-	-	Un	-	frizzled class receptor 10	protein-coding	-	-	-	frizzled class receptor 10	20170125
 310752	103006052	ANTXR1	-	-	-	Un	-	anthrax toxin receptor 1	protein-coding	-	-	-	anthrax toxin receptor 1	20170125
@@ -14790,7 +14790,7 @@
 310752	103011854	ABCA5	-	-	-	Un	-	ATP binding cassette subfamily A member 5	protein-coding	-	-	-	ATP-binding cassette sub-family A member 5	20170125
 310752	103011855	USP44	-	-	-	Un	-	ubiquitin specific peptidase 44	protein-coding	-	-	-	ubiquitin carboxyl-terminal hydrolase 44	20170125
 310752	103011856	PPFIA4	-	-	-	Un	-	PTPRF interacting protein alpha 4	protein-coding	-	-	-	liprin-alpha-4	20170125
-310752	103011857	FAM63B	-	-	-	Un	-	family with sequence similarity 63 member B	protein-coding	-	-	-	protein FAM63B	20170125
+310752	103011857	MINDY2	-	FAM63B	-	Un	-	MINDY lysine 48 deubiquitinase 2	protein-coding	-	-	-	protein FAM63B|family with sequence similarity 63 member B	20170203
 310752	103011858	LOC103011858	-	-	-	Un	-	uncharacterized LOC103011858	ncRNA	-	-	-	-	20151115
 310752	103011859	LOC103011859	-	-	-	Un	-	family with sequence similarity 60, member A pseudogene	pseudo	-	-	-	-	20151115
 310752	103011860	MVP	-	-	-	Un	-	major vault protein	protein-coding	-	-	-	major vault protein	20170125
@@ -15151,7 +15151,7 @@
 310752	103012215	EMC6	-	-	-	Un	-	ER membrane protein complex subunit 6	protein-coding	-	-	-	ER membrane protein complex subunit 6	20170125
 310752	103012216	LOC103012216	-	-	-	Un	-	zinc finger protein 385C-like	protein-coding	-	-	-	zinc finger protein 385C-like	20170125
 310752	103012217	LOC103012217	-	-	-	Un	-	heat shock protein beta-9-like	protein-coding	-	-	-	heat shock protein beta-9-like	20170125
-310752	103012218	FAM63A	-	-	-	Un	-	family with sequence similarity 63 member A	protein-coding	-	-	-	protein FAM63A	20170125
+310752	103012218	MINDY1	-	FAM63A	-	Un	-	MINDY lysine 48 deubiquitinase 1	protein-coding	-	-	-	protein FAM63A|family with sequence similarity 63 member A	20170203
 310752	103012219	S100A16	-	-	-	Un	-	S100 calcium binding protein A16	protein-coding	-	-	-	protein S100-A16	20170125
 310752	103012220	LOC103012220	-	-	-	Un	-	CKLF-like MARVEL transmembrane domain-containing protein 2-like	protein-coding	-	-	-	CKLF-like MARVEL transmembrane domain-containing protein 2-like	20170125
 310752	103012221	LOC103012221	-	-	-	Un	-	uncharacterized LOC103012221	ncRNA	-	-	-	-	20151115
@@ -16604,7 +16604,7 @@
 310752	103013668	PHIP	-	-	-	Un	-	pleckstrin homology domain interacting protein	protein-coding	-	-	-	PH-interacting protein-like	20170125
 310752	103013669	ZCCHC10	-	-	-	Un	-	zinc finger CCHC-type containing 10	protein-coding	-	-	-	zinc finger CCHC domain-containing protein 10	20170125
 310752	103013670	CCDC51	-	-	-	Un	-	coiled-coil domain containing 51	protein-coding	-	-	-	coiled-coil domain-containing protein 51	20170125
-310752	103013671	SPG11	-	-	-	Un	-	spastic paraplegia 11 (autosomal recessive)	protein-coding	-	-	-	spatacsin	20170125
+310752	103013671	SPG11	-	-	-	Un	-	SPG11, spatacsin vesicle trafficking associated	protein-coding	-	-	-	spatacsin|spastic paraplegia 11 (autosomal recessive)	20170203
 310752	103013672	ZCCHC8	-	-	-	Un	-	zinc finger CCHC-type containing 8	protein-coding	-	-	-	zinc finger CCHC domain-containing protein 8	20170125
 310752	103013673	MED17	-	-	-	Un	-	mediator complex subunit 17	protein-coding	-	-	-	mediator of RNA polymerase II transcription subunit 17	20170125
 310752	103013674	MAK16	-	-	-	Un	-	MAK16 homolog	protein-coding	-	-	-	protein MAK16 homolog	20170125
@@ -16736,7 +16736,7 @@
 310752	103013800	UNC13A	-	-	-	Un	-	unc-13 homolog A	protein-coding	-	-	-	protein unc-13 homolog A	20170125
 310752	103013801	LOC103013801	-	-	-	Un	-	ADP-ribosylation factor-like protein 6-interacting protein 1-like	pseudo	-	-	-	-	20151115
 310752	103013802	CRHR1	-	-	-	Un	-	corticotropin releasing hormone receptor 1	protein-coding	-	-	-	corticotropin-releasing factor receptor 1	20170125
-310752	103013803	FAM150B	-	-	-	Un	-	family with sequence similarity 150 member B	protein-coding	-	-	-	protein FAM150B	20170125
+310752	103013803	ALKAL2	-	FAM150B	-	Un	-	ALK and LTK ligand 2	protein-coding	-	-	-	protein FAM150B|family with sequence similarity 150 member B	20170205
 310752	103013804	LOC103013804	-	-	-	Un	-	uncharacterized LOC103013804	ncRNA	-	-	-	-	20151115
 310752	103013805	LOC103013805	-	-	-	Un	-	ELAV-like protein 2-like	protein-coding	-	-	-	ELAV-like protein 2-like	20170125
 310752	103013806	TRAPPC4	-	-	-	Un	-	trafficking protein particle complex 4	protein-coding	-	-	-	trafficking protein particle complex subunit 4	20170125
@@ -21517,7 +21517,7 @@
 310752	103018581	NAE1	-	-	-	Un	-	NEDD8 activating enzyme E1 subunit 1	protein-coding	-	-	-	NEDD8-activating enzyme E1 regulatory subunit	20170125
 310752	103018582	ADAR	-	-	-	Un	-	adenosine deaminase, RNA specific	protein-coding	-	-	-	double-stranded RNA-specific adenosine deaminase	20170125
 310752	103018583	SF3B3	-	-	-	Un	-	splicing factor 3b subunit 3	protein-coding	-	-	-	splicing factor 3B subunit 3	20170125
-310752	103018584	CECR5	-	-	-	Un	-	cat eye syndrome chromosome region, candidate 5	protein-coding	-	-	-	cat eye syndrome critical region protein 5	20170125
+310752	103018584	HDHD5	-	CECR5	-	Un	-	haloacid dehalogenase like hydrolase domain containing 5	protein-coding	-	-	-	cat eye syndrome critical region protein 5|cat eye syndrome chromosome region, candidate 5	20170205
 310752	103018585	TRIM31	-	-	-	Un	-	tripartite motif containing 31	protein-coding	-	-	-	E3 ubiquitin-protein ligase TRIM31	20170125
 310752	103018586	RHEBL1	-	-	-	Un	-	Ras homolog enriched in brain like 1	protein-coding	-	-	-	GTPase RhebL1	20170125
 310752	103018587	ANKRD33	-	-	-	Un	-	ankyrin repeat domain 33	protein-coding	-	-	-	ankyrin repeat domain-containing protein 33	20170125
@@ -21936,7 +21936,7 @@
 310752	103019000	LOC103019000	-	-	-	Un	-	uncharacterized LOC103019000	ncRNA	-	-	-	-	20151115
 310752	103019001	LOC103019001	-	-	-	Un	-	peptidyl-prolyl cis-trans isomerase A-like	pseudo	-	-	-	-	20151115
 310752	103019002	LOC103019002	-	-	-	Un	-	uncharacterized LOC103019002	ncRNA	-	-	-	-	20151115
-310752	103019003	FAM188B	-	-	-	Un	-	family with sequence similarity 188 member B	protein-coding	-	-	-	protein FAM188B	20170125
+310752	103019003	MINDY4	-	FAM188B	-	Un	-	MINDY lysine 48 deubiquitinase 4	protein-coding	-	-	-	protein FAM188B|family with sequence similarity 188 member B	20170203
 310752	103019004	RAP1B	-	-	-	Un	-	RAP1B, member of RAS oncogene family	protein-coding	-	-	-	ras-related protein Rap-1b	20170125
 310752	103019005	LOC103019005	-	-	-	Un	-	thymosin beta-4-like	pseudo	-	-	-	-	20151115
 310752	103019006	HSPB3	-	-	-	Un	-	heat shock protein family B (small) member 3	protein-coding	-	-	-	heat shock protein beta-3	20170125
@@ -22407,7 +22407,7 @@
 310752	103019471	LOC103019471	-	-	-	Un	-	tubulin alpha-3 chain-like	protein-coding	-	-	-	tubulin alpha-3 chain-like	20170125
 310752	103019472	LOC103019472	-	-	-	Un	-	inner centromere protein-like	protein-coding	-	-	-	inner centromere protein-like	20170125
 310752	103019473	HCN2	-	-	-	Un	-	hyperpolarization activated cyclic nucleotide gated potassium channel 2	protein-coding	-	-	-	potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2	20170125
-310752	103019474	FAM188A	-	-	-	Un	-	family with sequence similarity 188 member A	protein-coding	-	-	-	protein FAM188A	20170125
+310752	103019474	MINDY3	-	FAM188A	-	Un	-	MINDY lysine 48 deubiquitinase 3	protein-coding	-	-	-	protein FAM188A|family with sequence similarity 188 member A	20170203
 310752	103019475	LOC103019475	-	-	-	Un	-	ribosomal protein L36a pseudogene	pseudo	-	-	-	-	20151115
 310752	103019476	RASEF	-	-	-	Un	-	RAS and EF-hand domain containing	protein-coding	-	-	-	ras and EF-hand domain-containing protein	20170125
 310752	103019477	ZC3HC1	-	-	-	Un	-	zinc finger C3HC-type containing 1	protein-coding	-	-	-	nuclear-interacting partner of ALK	20170125

@@ -664,7 +664,7 @@
 1230840	103192270	SORD	-	-	-	Un	-	sorbitol dehydrogenase	protein-coding	-	-	-	sorbitol dehydrogenase	20170123
 1230840	103192271	TERB2	-	-	-	Un	-	telomere repeat binding bouquet formation protein 2	protein-coding	-	-	-	uncharacterized protein C15orf43 homolog	20170123
 1230840	103192272	TRIM69	-	-	-	Un	-	tripartite motif containing 69	protein-coding	-	-	-	E3 ubiquitin-protein ligase TRIM69	20170123
-1230840	103192273	SPG11	-	-	-	Un	-	spastic paraplegia 11 (autosomal recessive)	protein-coding	-	-	-	spatacsin	20170123
+1230840	103192273	SPG11	-	-	-	Un	-	SPG11, spatacsin vesicle trafficking associated	protein-coding	-	-	-	spatacsin|spastic paraplegia 11 (autosomal recessive)	20170203
 1230840	103192274	NIF3L1	-	-	-	Un	-	NGG1 interacting factor 3 like 1	protein-coding	-	-	-	putative GTP cyclohydrolase 1 type 2 NIF3L1	20170123
 1230840	103192275	EIF3J	-	-	-	Un	-	eukaryotic translation initiation factor 3 subunit J	protein-coding	-	-	-	eukaryotic translation initiation factor 3 subunit J	20170123
 1230840	103192276	CTDSPL2	-	-	-	Un	-	CTD small phosphatase like 2	protein-coding	-	-	-	CTD small phosphatase-like protein 2	20170123
@@ -2260,7 +2260,7 @@
 1230840	103193866	LOC103193866	-	-	-	Un	-	translocating chain-associated membrane protein 1 pseudogene	pseudo	-	-	-	-	20151115
 1230840	103193867	CECR2	-	-	-	Un	-	cat eye syndrome chromosome region, candidate 2	protein-coding	-	-	-	cat eye syndrome critical region protein 2	20170123
 1230840	103193868	CECR1	-	-	-	Un	-	cat eye syndrome chromosome region, candidate 1	protein-coding	-	-	-	adenosine deaminase CECR1	20170123
-1230840	103193869	CECR5	-	-	-	Un	-	cat eye syndrome chromosome region, candidate 5	protein-coding	-	-	-	cat eye syndrome critical region protein 5	20170123
+1230840	103193869	HDHD5	-	CECR5	-	Un	-	haloacid dehalogenase like hydrolase domain containing 5	protein-coding	-	-	-	cat eye syndrome critical region protein 5|cat eye syndrome chromosome region, candidate 5	20170205
 1230840	103193870	IL17RA	-	-	-	Un	-	interleukin 17 receptor A	protein-coding	-	-	-	interleukin-17 receptor A	20170123
 1230840	103193871	LOC103193871	-	-	-	Un	-	protein SDA1 homolog	pseudo	-	-	-	-	20151115
 1230840	103193872	RAD52	-	-	-	Un	-	RAD52 homolog, DNA repair protein	protein-coding	-	-	-	DNA repair protein RAD52 homolog	20170123
@@ -10036,7 +10036,7 @@
 1230840	103201642	ESD	-	-	-	Un	-	esterase D	protein-coding	-	-	-	S-formylglutathione hydrolase	20170123
 1230840	103201643	LRCH1	-	-	-	Un	-	leucine rich repeats and calponin homology domain containing 1	protein-coding	-	-	-	leucine-rich repeat and calponin homology domain-containing protein 1	20170123
 1230840	103201644	RUBCNL	-	-	-	Un	-	RUN and cysteine rich domain containing beclin 1 interacting protein like	protein-coding	-	-	-	uncharacterized protein KIAA0226-like homolog	20170123
-1230840	103201645	FAM188B	-	-	-	Un	-	family with sequence similarity 188 member B	protein-coding	-	-	-	protein FAM188B	20170123
+1230840	103201645	MINDY4	-	FAM188B	-	Un	-	MINDY lysine 48 deubiquitinase 4	protein-coding	-	-	-	protein FAM188B|family with sequence similarity 188 member B	20170203
 1230840	103201646	LOC103201646	-	-	-	Un	-	ferritin light chain pseudogene	pseudo	-	-	-	-	20151115
 1230840	103201647	EBPL	-	-	-	Un	-	emopamil binding protein like	protein-coding	-	-	-	emopamil-binding protein-like	20170123
 1230840	103201648	MLNR	-	-	-	Un	-	motilin receptor	protein-coding	-	-	-	motilin receptor	20170123
@@ -11955,7 +11955,7 @@
 1230840	103203561	LOC103203561	-	-	-	Un	-	immunoglobulin superfamily DCC subclass member 3-like	pseudo	-	-	-	-	20151115
 1230840	103203562	S100A14	-	-	-	Un	-	S100 calcium binding protein A14	protein-coding	-	-	-	protein S100-A14	20170123
 1230840	103203563	LOC103203563	-	-	-	Un	-	protein S100-A2	protein-coding	-	-	-	protein S100-A2	20170123
-1230840	103203564	VTCN1	-	-	-	Un	-	V-set domain containing T cell activation inhibitor 1	protein-coding	-	-	-	V-set domain-containing T-cell activation inhibitor 1	20170123
+1230840	103203564	VTCN1	-	-	-	Un	-	V-set domain containing T-cell activation inhibitor 1	protein-coding	-	-	-	V-set domain-containing T-cell activation inhibitor 1	20170205
 1230840	103203565	LOC103203565	-	-	-	Un	-	protein S100-A7-like	protein-coding	-	-	-	protein S100-A7-like	20170123
 1230840	103203566	LOC103203566	-	-	-	Un	-	protein S100-A15A-like	protein-coding	-	-	-	protein S100-A15A-like	20170123
 1230840	103203567	LOC103203567	-	-	-	Un	-	protein S100-A12-like	protein-coding	-	-	-	protein S100-A12-like	20170123
@@ -13951,7 +13951,7 @@
 1230840	103205557	LOC103205557	-	-	-	Un	-	chromosome unknown open reading frame, human C1orf56	protein-coding	-	-	-	protein MENT	20170123
 1230840	103205558	BNIPL	-	-	-	Un	-	BCL2 interacting protein like	protein-coding	-	-	-	bcl-2/adenovirus E1B 19 kDa-interacting protein 2-like protein	20170123
 1230840	103205559	PRUNE1	-	-	-	Un	-	prune exopolyphosphatase	protein-coding	-	-	-	protein prune homolog	20170123
-1230840	103205560	FAM63A	-	-	-	Un	-	family with sequence similarity 63 member A	protein-coding	-	-	-	protein FAM63A	20170123
+1230840	103205560	MINDY1	-	FAM63A	-	Un	-	MINDY lysine 48 deubiquitinase 1	protein-coding	-	-	-	protein FAM63A|family with sequence similarity 63 member A	20170203
 1230840	103205561	ANXA9	-	-	-	Un	-	annexin A9	protein-coding	-	-	-	annexin A9	20170123
 1230840	103205562	CERS2	-	-	-	Un	-	ceramide synthase 2	protein-coding	-	-	-	ceramide synthase 2	20170123
 1230840	103205563	LOC103205563	-	-	-	Un	-	40S ribosomal protein SA pseudogene	pseudo	-	-	-	-	20151115
@@ -17279,7 +17279,7 @@
 1230840	103208885	JPH1	-	-	-	Un	-	junctophilin 1	protein-coding	-	-	-	junctophilin-1	20170123
 1230840	103208886	TMEM18	-	-	-	Un	-	transmembrane protein 18	protein-coding	-	-	-	transmembrane protein 18	20170123
 1230840	103208887	LOC103208887	-	-	-	Un	-	regulation of nuclear pre-mRNA domain-containing protein 1A-like	protein-coding	-	-	-	LOW QUALITY PROTEIN: regulation of nuclear pre-mRNA domain-containing protein 1A-like	20170123
-1230840	103208888	FAM150B	-	-	-	Un	-	family with sequence similarity 150 member B	protein-coding	-	-	-	protein FAM150B	20170123
+1230840	103208888	ALKAL2	-	FAM150B	-	Un	-	ALK and LTK ligand 2	protein-coding	-	-	-	protein FAM150B|family with sequence similarity 150 member B	20170205
 1230840	103208889	ACP1	-	-	-	Un	-	acid phosphatase 1, soluble	protein-coding	-	-	-	low molecular weight phosphotyrosine protein phosphatase	20170123
 1230840	103208890	LOC103208890	-	-	-	Un	-	uncharacterized LOC103208890	protein-coding	-	-	-	LOW QUALITY PROTEIN: uncharacterized protein LOC103208890	20170123
 1230840	103208891	LOC103208891	-	-	-	Un	-	olfactory receptor 10A2	protein-coding	-	-	-	olfactory receptor 10A2	20170123
@@ -19437,7 +19437,7 @@
 1230840	103211043	CNOT3	-	-	-	Un	-	CCR4-NOT transcription complex subunit 3	protein-coding	-	-	-	CCR4-NOT transcription complex subunit 3	20170123
 1230840	103211044	TFPT	-	-	-	Un	-	TCF3 fusion partner	protein-coding	-	-	-	TCF3 fusion partner	20170123
 1230840	103211045	OSCAR	-	-	-	Un	-	osteoclast associated, immunoglobulin-like receptor	protein-coding	-	-	-	osteoclast-associated immunoglobulin-like receptor	20170123
-1230840	103211046	TARM1	-	-	-	Un	-	T cell-interacting, activating receptor on myeloid cells 1	protein-coding	-	-	-	T-cell-interacting, activating receptor on myeloid cells protein 1	20170123
+1230840	103211046	TARM1	-	-	-	Un	-	T-cell-interacting, activating receptor on myeloid cells 1	protein-coding	-	-	-	T-cell-interacting, activating receptor on myeloid cells protein 1	20170205
 1230840	103211047	VSTM1	-	-	-	Un	-	V-set and transmembrane domain containing 1	protein-coding	-	-	-	V-set and transmembrane domain-containing protein 1	20170123
 1230840	103211048	CACNG6	-	-	-	Un	-	calcium voltage-gated channel auxiliary subunit gamma 6	protein-coding	-	-	-	voltage-dependent calcium channel gamma-6 subunit	20170123
 1230840	103211049	CACNG8	-	-	-	Un	-	calcium voltage-gated channel auxiliary subunit gamma 8	protein-coding	-	-	-	voltage-dependent calcium channel gamma-8 subunit	20170123
@@ -20179,7 +20179,7 @@
 1230840	103211785	HSD17B1	-	-	-	Un	-	hydroxysteroid 17-beta dehydrogenase 1	protein-coding	-	-	-	estradiol 17-beta-dehydrogenase 1	20170123
 1230840	103211786	NAGLU	-	-	-	Un	-	N-acetyl-alpha-glucosaminidase	protein-coding	-	-	-	alpha-N-acetylglucosaminidase	20170123
 1230840	103211787	LOC103211787	-	-	-	Un	-	leucine-rich repeat-containing protein 37A2-like	protein-coding	-	-	-	LOW QUALITY PROTEIN: leucine-rich repeat-containing protein 37A2-like	20170123
-1230840	103211788	SPG21	-	-	-	Un	-	spastic paraplegia 21 (autosomal recessive, Mast syndrome)	protein-coding	-	-	-	maspardin	20170123
+1230840	103211788	SPG21	-	-	-	Un	-	SPG21, maspardin	protein-coding	-	-	-	maspardin|spastic paraplegia 21 (autosomal recessive, Mast syndrome)	20170205
 1230840	103211789	LOC103211789	-	-	-	Un	-	leucine-rich repeat-containing protein 37B-like	protein-coding	-	-	-	leucine-rich repeat-containing protein 37B-like	20170123
 1230840	103211790	LOC103211790	-	-	-	Un	-	transmembrane 7 superfamily member 3-like	pseudo	-	-	-	-	20151115
 1230840	103211791	LRRTM1	-	-	-	Un	-	leucine rich repeat transmembrane neuronal 1	protein-coding	-	-	-	leucine-rich repeat transmembrane neuronal protein 1	20170123
@@ -20842,7 +20842,7 @@
 1230840	103212448	LOC103212448	-	-	-	Un	-	olfactory receptor 51V1-like	protein-coding	-	-	-	LOW QUALITY PROTEIN: olfactory receptor 51V1-like	20170123
 1230840	103212449	LOC103212449	-	-	-	Un	-	IQ calmodulin-binding motif-containing protein 1 pseudogene	pseudo	-	-	-	-	20151115
 1230840	103212450	LOC103212450	-	-	-	Un	-	IQ calmodulin-binding motif-containing protein 1-like	pseudo	-	-	-	-	20151115
-1230840	103212451	FAM63B	-	-	-	Un	-	family with sequence similarity 63 member B	protein-coding	-	-	-	protein FAM63B	20170123
+1230840	103212451	MINDY2	-	FAM63B	-	Un	-	MINDY lysine 48 deubiquitinase 2	protein-coding	-	-	-	protein FAM63B|family with sequence similarity 63 member B	20170203
 1230840	103212452	LOC103212452	-	-	-	Un	-	IQ calmodulin-binding motif-containing protein 1 pseudogene	pseudo	-	-	-	-	20151115
 1230840	103212453	LAS1L	-	-	-	Un	-	LAS1 like, ribosome biogenesis factor	protein-coding	-	-	-	ribosomal biogenesis protein LAS1L	20170123
 1230840	103212454	ZC3H12B	-	-	-	Un	-	zinc finger CCCH-type containing 12B	protein-coding	-	-	-	probable ribonuclease ZC3H12B	20170123

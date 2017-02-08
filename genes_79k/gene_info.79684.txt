@@ -2859,7 +2859,7 @@
 79684	101981732	Mep1b	-	-	-	18	-	meprin A subunit beta	protein-coding	-	-	-	LOW QUALITY PROTEIN: meprin A subunit beta	20170131
 79684	101981733	Jmy	-	-	-	19	-	junction mediating and regulatory protein, p53 cofactor	protein-coding	-	-	-	LOW QUALITY PROTEIN: junction-mediating and -regulatory protein	20170131
 79684	101981735	Slc6a18	-	-	-	19	-	solute carrier family 6 member 18	protein-coding	-	-	-	sodium-dependent neutral amino acid transporter B(0)AT3	20170131
-79684	101981736	Vtcn1	-	-	-	21	-	V-set domain containing T cell activation inhibitor 1	protein-coding	-	-	-	V-set domain-containing T-cell activation inhibitor 1	20170131
+79684	101981736	Vtcn1	-	-	-	21	-	V-set domain containing T-cell activation inhibitor 1	protein-coding	-	-	-	V-set domain-containing T-cell activation inhibitor 1	20170205
 79684	101981737	C2cd3	-	-	-	22	-	C2 calcium dependent domain containing 3	protein-coding	-	-	-	C2 domain-containing protein 3	20170131
 79684	101981738	LOC101981738	-	-	-	22	-	uncharacterized LOC101981738	ncRNA	-	-	-	-	20160526
 79684	101981739	Uevld	-	-	-	22	-	UEV and lactate/malate dehyrogenase domains	protein-coding	-	-	-	ubiquitin-conjugating enzyme E2 variant 3	20170131
@@ -10631,7 +10631,7 @@
 79684	101989820	Etfa	-	-	-	5	-	electron transfer flavoprotein alpha subunit	protein-coding	-	-	-	electron transfer flavoprotein subunit alpha, mitochondrial	20170131
 79684	101989821	LOC101989821	-	-	-	5	-	olfactory receptor 8D2-like	protein-coding	-	-	-	olfactory receptor 8D2-like	20170131
 79684	101989822	Noc2l	-	-	-	Un	-	NOC2 like nucleolar associated transcriptional repressor	protein-coding	-	-	-	nucleolar complex protein 2 homolog|nucleolar complex associated 2 homolog	20170131
-79684	101989823	Fam63b	-	-	-	5	-	family with sequence similarity 63 member B	protein-coding	-	-	-	protein FAM63B	20170131
+79684	101989823	Mindy2	-	Fam63b	-	5	-	MINDY lysine 48 deubiquitinase 2	protein-coding	-	-	-	protein FAM63B|family with sequence similarity 63 member B	20170203
 79684	101989824	Pde2a	-	-	-	Un	-	phosphodiesterase 2A	protein-coding	-	-	-	cGMP-dependent 3',5'-cyclic phosphodiesterase	20170131
 79684	101989825	Myrip	-	-	-	5	-	myosin VIIA and Rab interacting protein	protein-coding	-	-	-	rab effector MyRIP	20170131
 79684	101989826	Tmem37	-	-	-	6	-	transmembrane protein 37	protein-coding	-	-	-	voltage-dependent calcium channel gamma-like subunit	20170131
@@ -13310,7 +13310,7 @@
 79684	101992594	Ttc33	-	-	-	19	-	tetratricopeptide repeat domain 33	protein-coding	-	-	-	tetratricopeptide repeat protein 33	20170131
 79684	101992595	Ndufs4	-	-	-	19	-	NADH:ubiquinone oxidoreductase subunit S4	protein-coding	-	-	-	NADH dehydrogenase [ubiquinone] iron-sulfur protein 4, mitochondrial	20170131
 79684	101992596	Nes	-	-	-	21	-	nestin	protein-coding	-	-	-	nestin	20170131
-79684	101992597	Fam63a	-	-	-	21	-	family with sequence similarity 63 member A	protein-coding	-	-	-	protein FAM63A	20170131
+79684	101992597	Mindy1	-	Fam63a	-	21	-	MINDY lysine 48 deubiquitinase 1	protein-coding	-	-	-	protein FAM63A|family with sequence similarity 63 member A	20170203
 79684	101992598	Gstcd	-	-	-	21	-	glutathione S-transferase C-terminal domain containing	protein-coding	-	-	-	glutathione S-transferase C-terminal domain-containing protein	20170131
 79684	101992599	Clca2	-	-	-	21	-	chloride channel accessory 2	protein-coding	-	-	-	calcium-activated chloride channel regulator 2	20170131
 79684	101992600	Fpgt	-	-	-	21	-	fucose-1-phosphate guanylyltransferase	protein-coding	-	-	-	LOW QUALITY PROTEIN: fucose-1-phosphate guanylyltransferase	20170131
@@ -16200,7 +16200,7 @@
 79684	101995591	Pax9	-	-	-	1	-	paired box 9	protein-coding	-	-	-	paired box protein Pax-9	20170131
 79684	101995592	Lrriq4	-	-	-	1	-	leucine rich repeats and IQ motif containing 4	protein-coding	-	-	-	leucine-rich repeat and IQ domain-containing protein 4	20170131
 79684	101995593	Hps3	-	-	-	1	-	HPS3, biogenesis of lysosomal organelles complex 2 subunit 1	protein-coding	-	-	-	Hermansky-Pudlak syndrome 3 protein|Hermansky-Pudlak syndrome 3 protein homolog	20170131
-79684	101995594	Cecr5	-	-	-	Un	-	cat eye syndrome chromosome region, candidate 5	protein-coding	-	-	-	cat eye syndrome critical region protein 5|cat eye syndrome critical region protein 5 homolog	20170131
+79684	101995594	Hdhd5	-	Cecr5	-	Un	-	haloacid dehalogenase like hydrolase domain containing 5	protein-coding	-	-	-	cat eye syndrome critical region protein 5|cat eye syndrome chromosome region, candidate 5|cat eye syndrome critical region protein 5 homolog	20170205
 79684	101995595	Noc4l	-	-	-	2	-	nucleolar complex associated 4 homolog	protein-coding	-	-	-	LOW QUALITY PROTEIN: nucleolar complex protein 4 homolog	20170131
 79684	101995596	Mlec	-	-	-	2	-	malectin	protein-coding	-	-	-	malectin	20170131
 79684	101995597	Ndufaf5	-	-	-	Un	-	NADH:ubiquinone oxidoreductase complex assembly factor 5	protein-coding	-	-	-	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex assembly factor 5	20170131
@@ -17855,7 +17855,7 @@
 79684	101997317	Sik2	-	-	-	5	-	salt inducible kinase 2	protein-coding	-	-	-	serine/threonine-protein kinase SIK2	20170131
 79684	101997318	LOC101997318	-	-	-	5	-	olfactory receptor 143-like	protein-coding	-	-	-	LOW QUALITY PROTEIN: olfactory receptor 143-like	20170131
 79684	101997319	LOC101997319	-	-	-	5	-	DNA-directed RNA polymerases II, IV and V subunit 12-like	pseudo	-	-	-	-	20160526
-79684	101997320	Spg21	-	-	-	5	-	spastic paraplegia 21 (autosomal recessive, Mast syndrome)	protein-coding	-	-	-	maspardin	20170131
+79684	101997320	Spg21	-	-	-	5	-	SPG21, maspardin	protein-coding	-	-	-	maspardin|spastic paraplegia 21 (autosomal recessive, Mast syndrome)	20170205
 79684	101997321	LOC101997321	-	-	-	Un	-	leucine-rich repeat-containing protein 37A3-like	protein-coding	-	-	-	LOW QUALITY PROTEIN: leucine-rich repeat-containing protein 37A3-like	20170131
 79684	101997322	LOC101997322	-	-	-	5	-	solute carrier family 22 member 13-like	protein-coding	-	-	-	solute carrier family 22 member 13-like	20170131
 79684	101997323	Znf580	-	-	-	Un	-	zinc finger protein 580	protein-coding	-	-	-	zinc finger protein 580	20170131
@@ -19732,7 +19732,7 @@
 79684	101999270	Sel1l3	-	-	-	LG1	-	SEL1L family member 3	protein-coding	-	-	-	protein sel-1 homolog 3	20170131
 79684	101999271	Alb	-	-	-	LG1	-	albumin	protein-coding	-	-	-	serum albumin	20170131
 79684	101999272	Lhfpl5	-	-	-	LG2	-	lipoma HMGIC fusion partner-like 5	protein-coding	-	-	-	tetraspan membrane protein of hair cell stereocilia	20170131
-79684	101999273	Fam150b	-	-	-	LG3	-	family with sequence similarity 150 member B	protein-coding	-	-	-	protein FAM150B	20170131
+79684	101999273	Alkal2	-	Fam150b	-	LG3	-	ALK and LTK ligand 2	protein-coding	-	-	-	protein FAM150B|family with sequence similarity 150 member B	20170205
 79684	101999275	LOC101999275	-	-	-	LG3	-	WW domain-containing adapter protein with coiled-coil pseudogene	pseudo	-	-	-	-	20160526
 79684	101999276	Thap8	-	-	-	LG4	-	THAP domain containing 8	protein-coding	-	-	-	-	20160402
 79684	101999277	Pm20d2	-	-	-	LG5	-	peptidase M20 domain containing 2	protein-coding	-	-	-	peptidase M20 domain-containing protein 2	20170131
@@ -19980,7 +19980,7 @@
 79684	101999534	Afp	-	-	-	LG1	-	alpha fetoprotein	protein-coding	-	-	-	alpha-fetoprotein	20170131
 79684	101999535	LOC101999535	-	Clps	-	LG2	-	colipase	protein-coding	-	-	-	colipase|colipase, pancreatic	20170131
 79684	101999536	Acp1	-	-	-	LG3	-	acid phosphatase 1, soluble	protein-coding	-	-	-	low molecular weight phosphotyrosine protein phosphatase	20170131
-79684	101999537	Fam188b	-	-	-	LG3	-	family with sequence similarity 188 member B	protein-coding	-	-	-	protein FAM188B	20170131
+79684	101999537	Mindy4	-	Fam188b	-	LG3	-	MINDY lysine 48 deubiquitinase 4	protein-coding	-	-	-	protein FAM188B|family with sequence similarity 188 member B	20170203
 79684	101999538	Hadha	-	-	-	LG3	-	hydroxyacyl-CoA dehydrogenase/3-ketoacyl-CoA thiolase/enoyl-CoA hydratase (trifunctional protein), alpha subunit	protein-coding	-	-	-	trifunctional enzyme subunit alpha, mitochondrial	20170131
 79684	101999539	Sae1	-	-	-	LG4	-	SUMO1 activating enzyme subunit 1	protein-coding	-	-	-	SUMO-activating enzyme subunit 1	20170131
 79684	101999540	Wdr62	-	-	-	LG4	-	WD repeat domain 62	protein-coding	-	-	-	WD repeat-containing protein 62	20170131
@@ -20488,7 +20488,7 @@
 79684	102000056	Errfi1	-	-	-	10	-	ERBB receptor feedback inhibitor 1	protein-coding	-	-	-	ERBB receptor feedback inhibitor 1	20170131
 79684	102000057	Fam227a	-	-	-	15	-	family with sequence similarity 227 member A	protein-coding	-	-	-	protein FAM227A	20170131
 79684	102000058	Ccdc134	-	-	-	15	-	coiled-coil domain containing 134	protein-coding	-	-	-	coiled-coil domain-containing protein 134	20170131
-79684	102000059	Fam188a	-	-	-	16	-	family with sequence similarity 188 member A	protein-coding	-	-	-	protein FAM188A	20170131
+79684	102000059	Mindy3	-	Fam188a	-	16	-	MINDY lysine 48 deubiquitinase 3	protein-coding	-	-	-	protein FAM188A|family with sequence similarity 188 member A	20170203
 79684	102000060	Celf2	-	-	-	16	-	CUGBP Elav-like family member 2	protein-coding	-	-	-	CUGBP Elav-like family member 2	20170131
 79684	102000061	Psmg4	-	-	-	16	-	proteasome assembly chaperone 4	protein-coding	-	-	-	proteasome assembly chaperone 4	20170131
 79684	102000062	LOC102000062	-	-	-	16	-	nucleoside diphosphate kinase B pseudogene	pseudo	-	-	-	-	20160526
@@ -20828,7 +20828,7 @@
 79684	102000410	Prop1	-	-	-	7	-	PROP paired-like homeobox 1	protein-coding	-	-	-	homeobox protein prophet of Pit-1	20170131
 79684	102000411	Slit3	-	-	-	7	-	slit guidance ligand 3	protein-coding	-	-	-	slit homolog 3 protein|slit homolog 3	20170131
 79684	102000412	LOC102000412	-	-	-	Un	-	chromosome unknown open reading frame, human C2orf70	protein-coding	-	-	-	UPF0573 protein C2orf70 homolog	20170131
-79684	102000413	Tarm1	-	-	-	Un	-	T cell-interacting, activating receptor on myeloid cells 1	protein-coding	-	-	-	T-cell-interacting, activating receptor on myeloid cells protein 1	20170131
+79684	102000413	Tarm1	-	-	-	Un	-	T-cell-interacting, activating receptor on myeloid cells 1	protein-coding	-	-	-	T-cell-interacting, activating receptor on myeloid cells protein 1	20170205
 79684	102000414	Hsd17b3	-	-	-	Un	-	hydroxysteroid 17-beta dehydrogenase 3	protein-coding	-	-	-	testosterone 17-beta-dehydrogenase 3	20170131
 79684	102000415	LOC102000415	-	-	-	8	-	olfactory receptor 493-like	pseudo	-	-	-	-	20160526
 79684	102000416	Atp12a	-	-	-	Un	-	ATPase H+/K+ transporting non-gastric alpha2 subunit	protein-coding	-	-	-	potassium-transporting ATPase alpha chain 2	20170131
@@ -22718,7 +22718,7 @@
 79684	102002390	Igfbp5	-	-	-	LG4	-	insulin like growth factor binding protein 5	protein-coding	-	-	-	insulin-like growth factor-binding protein 5	20170131
 79684	102002391	Arfgef1	-	-	-	LG5	-	ADP ribosylation factor guanine nucleotide exchange factor 1	protein-coding	-	-	-	brefeldin A-inhibited guanine nucleotide-exchange protein 1	20170131
 79684	102002392	Sec61b	-	-	-	LG5	-	Sec61 translocon beta subunit	protein-coding	-	-	-	protein transport protein Sec61 subunit beta|Sec61 beta subunit	20170131
-79684	102002393	Fam150a	-	-	-	LG5	-	family with sequence similarity 150 member A	protein-coding	-	-	-	protein FAM150A	20170131
+79684	102002393	Alkal1	-	Fam150a	-	LG5	-	ALK and LTK ligand 1	protein-coding	-	-	-	protein FAM150A|family with sequence similarity 150 member A	20170205
 79684	102002394	LOC102002394	-	-	-	LG5	-	heterogeneous nuclear ribonucleoprotein A1-like	pseudo	-	-	-	-	20160526
 79684	102002395	Star	-	-	-	LG7_11	-	steroidogenic acute regulatory protein	protein-coding	-	-	-	steroidogenic acute regulatory protein, mitochondrial	20170131
 79684	102002396	LOC102002396	-	-	-	LG7_11	-	disintegrin and metalloproteinase domain-containing protein 26A-like	protein-coding	-	-	-	disintegrin and metalloproteinase domain-containing protein 26A-like	20170131
@@ -22824,7 +22824,7 @@
 79684	102002500	Cdc40	-	-	-	LG9	-	cell division cycle 40	protein-coding	-	-	-	pre-mRNA-processing factor 17	20170131
 79684	102002501	Dlx5	-	-	-	LG10	-	distal-less homeobox 5	protein-coding	-	-	-	homeobox protein DLX-5	20170131
 79684	102002502	Timm9	-	-	-	1	-	translocase of inner mitochondrial membrane 9	protein-coding	-	-	-	mitochondrial import inner membrane translocase subunit Tim9	20170131
-79684	102002503	Spg11	-	-	-	14	-	spastic paraplegia 11 (autosomal recessive)	protein-coding	-	-	-	spatacsin	20170131
+79684	102002503	Spg11	-	-	-	14	-	SPG11, spatacsin vesicle trafficking associated	protein-coding	-	-	-	spatacsin|spastic paraplegia 11 (autosomal recessive)	20170203
 79684	102002504	Slc39a9	-	-	-	1	-	solute carrier family 39 member 9	protein-coding	-	-	-	zinc transporter ZIP9	20170131
 79684	102002505	Fam234b	-	-	-	14	-	family with sequence similarity 234 member B	protein-coding	-	-	-	uncharacterized protein KIAA1467 homolog	20170131
 79684	102002506	LOC102002506	-	-	-	1	-	histone H3.3-like	protein-coding	-	-	-	histone H3.3-like	20170131

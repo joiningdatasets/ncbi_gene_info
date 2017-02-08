@@ -2511,7 +2511,7 @@
 61622	104655932	ATXN7L2	-	-	-	Un	-	ataxin 7 like 2	protein-coding	-	-	-	ataxin-7-like protein 2	20170201
 61622	104655933	PLEKHO2	-	-	-	Un	-	pleckstrin homology domain containing O2	protein-coding	-	-	-	pleckstrin homology domain-containing family O member 2	20170201
 61622	104655934	ANKDD1A	-	-	-	Un	-	ankyrin repeat and death domain containing 1A	protein-coding	-	-	-	ankyrin repeat and death domain-containing protein 1A	20170201
-61622	104655935	SPG21	-	-	-	Un	-	spastic paraplegia 21 (autosomal recessive, Mast syndrome)	protein-coding	-	-	-	maspardin	20170201
+61622	104655935	SPG21	-	-	-	Un	-	SPG21, maspardin	protein-coding	-	-	-	maspardin|spastic paraplegia 21 (autosomal recessive, Mast syndrome)	20170205
 61622	104655936	LOC104655936	-	-	-	Un	-	transmembrane protein 126A pseudogene	pseudo	-	-	-	-	20151115
 61622	104655937	MTFMT	-	-	-	Un	-	mitochondrial methionyl-tRNA formyltransferase	protein-coding	-	-	-	methionyl-tRNA formyltransferase, mitochondrial	20170201
 61622	104655938	SLC51B	-	-	-	Un	-	solute carrier family 51 beta subunit	protein-coding	-	-	-	organic solute transporter subunit beta	20170201
@@ -10314,7 +10314,7 @@
 61622	104663735	UHMK1	-	-	-	Un	-	U2AF homology motif kinase 1	protein-coding	-	-	-	serine/threonine-protein kinase Kist	20170201
 61622	104663736	LOC104663736	-	-	-	Un	-	solute carrier family 15 member 5	protein-coding	-	-	-	solute carrier family 15 member 5	20170201
 61622	104663737	INMT	-	-	-	Un	-	indolethylamine N-methyltransferase	protein-coding	-	-	-	LOW QUALITY PROTEIN: indolethylamine N-methyltransferase	20170201
-61622	104663738	FAM188B	-	-	-	Un	-	family with sequence similarity 188 member B	protein-coding	-	-	-	protein FAM188B	20170201
+61622	104663738	MINDY4	-	FAM188B	-	Un	-	MINDY lysine 48 deubiquitinase 4	protein-coding	-	-	-	protein FAM188B|family with sequence similarity 188 member B	20170203
 61622	104663739	AQP1	-	-	-	Un	-	aquaporin 1 (Colton blood group)	protein-coding	-	-	-	aquaporin-1	20170201
 61622	104663740	GHRHR	-	-	-	Un	-	growth hormone releasing hormone receptor	protein-coding	-	-	-	growth hormone-releasing hormone receptor	20170201
 61622	104663741	ADCYAP1R1	-	-	-	Un	-	ADCYAP receptor type I	protein-coding	-	-	-	pituitary adenylate cyclase-activating polypeptide type I receptor	20170201
@@ -12495,7 +12495,7 @@
 61622	104665916	PLXNA4	-	-	-	Un	-	plexin A4	protein-coding	-	-	-	plexin-A4	20170201
 61622	104665917	LOC104665917	-	-	-	Un	-	uncharacterized LOC104665917	ncRNA	-	-	-	-	20151115
 61622	104665918	LOC104665918	-	-	-	Un	-	MICOS complex subunit MIC19-like	protein-coding	-	-	-	MICOS complex subunit MIC19-like	20170201
-61622	104665919	VTCN1	-	-	-	Un	-	V-set domain containing T cell activation inhibitor 1	protein-coding	-	-	-	V-set domain-containing T-cell activation inhibitor 1	20170201
+61622	104665919	VTCN1	-	-	-	Un	-	V-set domain containing T-cell activation inhibitor 1	protein-coding	-	-	-	V-set domain-containing T-cell activation inhibitor 1	20170205
 61622	104665920	LOC104665920	-	-	-	Un	-	uncharacterized LOC104665920	protein-coding	-	-	-	LOW QUALITY PROTEIN: uncharacterized protein LOC104665920	20170201
 61622	104665921	TRIM45	-	-	-	Un	-	tripartite motif containing 45	protein-coding	-	-	-	tripartite motif-containing protein 45	20170201
 61622	104665922	TTF2	-	-	-	Un	-	transcription termination factor 2	protein-coding	-	-	-	transcription termination factor 2	20170201
@@ -13344,7 +13344,7 @@
 61622	104666765	LOC104666765	-	-	-	Un	-	uncharacterized LOC104666765	protein-coding	-	-	-	uncharacterized protein LOC104666765	20170201
 61622	104666766	IL17RA	-	-	-	Un	-	interleukin 17 receptor A	protein-coding	-	-	-	interleukin-17 receptor A	20170201
 61622	104666767	CECR6	-	-	-	Un	-	cat eye syndrome chromosome region, candidate 6	protein-coding	-	-	-	cat eye syndrome critical region protein 6	20170201
-61622	104666768	CECR5	-	-	-	Un	-	cat eye syndrome chromosome region, candidate 5	protein-coding	-	-	-	cat eye syndrome critical region protein 5	20170201
+61622	104666768	HDHD5	-	CECR5	-	Un	-	haloacid dehalogenase like hydrolase domain containing 5	protein-coding	-	-	-	cat eye syndrome critical region protein 5|cat eye syndrome chromosome region, candidate 5	20170205
 61622	104666769	CECR1	-	-	-	Un	-	cat eye syndrome chromosome region, candidate 1	protein-coding	-	-	-	adenosine deaminase CECR1	20170201
 61622	104666770	LOC104666770	-	-	-	Un	-	glycosylphosphatidylinositol anchor attachment 1 protein pseudogene	pseudo	-	-	-	-	20151115
 61622	104666771	LOC104666771	-	-	-	Un	-	60S ribosomal protein L38	protein-coding	-	-	-	60S ribosomal protein L38	20170201
@@ -13549,7 +13549,7 @@
 61622	104666970	LOC104666970	-	-	-	Un	-	transcriptional repressor protein YY1 pseudogene	pseudo	-	-	-	-	20151115
 61622	104666971	NPBWR1	-	-	-	Un	-	neuropeptides B and W receptor 1	protein-coding	-	-	-	neuropeptides B/W receptor type 1|neuropeptides B/W receptor 1	20170201
 61622	104666972	LOC104666972	-	-	-	Un	-	uncharacterized LOC104666972	protein-coding	-	-	-	uncharacterized protein LOC104666972	20170201
-61622	104666973	FAM150A	-	-	-	Un	-	family with sequence similarity 150 member A	protein-coding	-	-	-	protein FAM150A	20170201
+61622	104666973	ALKAL1	-	FAM150A	-	Un	-	ALK and LTK ligand 1	protein-coding	-	-	-	protein FAM150A|family with sequence similarity 150 member A	20170205
 61622	104666974	LOC104666974	-	-	-	Un	-	uncharacterized LOC104666974	ncRNA	-	-	-	-	20151115
 61622	104666975	ST18	-	-	-	Un	-	ST18, C2H2C-type zinc finger	protein-coding	-	-	-	suppression of tumorigenicity 18 protein	20170201
 61622	104666976	PCMTD1	-	-	-	Un	-	protein-L-isoaspartate (D-aspartate) O-methyltransferase domain containing 1	protein-coding	-	-	-	protein-L-isoaspartate O-methyltransferase domain-containing protein 1	20170201
@@ -17470,7 +17470,7 @@
 61622	104670891	RNF111	-	-	-	Un	-	ring finger protein 111	protein-coding	-	-	-	E3 ubiquitin-protein ligase Arkadia	20170201
 61622	104670892	LOC104670892	-	-	-	Un	-	histone H2B type 1-N	protein-coding	-	-	-	histone H2B type 1-N	20170201
 61622	104670893	SLTM	-	-	-	Un	-	SAFB like transcription modulator	protein-coding	-	-	-	SAFB-like transcription modulator	20170201
-61622	104670894	FAM63B	-	-	-	Un	-	family with sequence similarity 63 member B	protein-coding	-	-	-	protein FAM63B	20170201
+61622	104670894	MINDY2	-	FAM63B	-	Un	-	MINDY lysine 48 deubiquitinase 2	protein-coding	-	-	-	protein FAM63B|family with sequence similarity 63 member B	20170203
 61622	104670895	LOC104670895	-	-	-	Un	-	uncharacterized LOC104670895	ncRNA	-	-	-	-	20151115
 61622	104670896	ADAM10	-	-	-	Un	-	ADAM metallopeptidase domain 10	protein-coding	-	-	-	disintegrin and metalloproteinase domain-containing protein 10	20170201
 61622	104670897	LOC104670897	-	-	-	Un	-	uncharacterized LOC104670897	ncRNA	-	-	-	-	20151115
@@ -22596,7 +22596,7 @@
 61622	104676018	TFPT	-	-	-	Un	-	TCF3 fusion partner	protein-coding	-	-	-	TCF3 fusion partner	20170201
 61622	104676019	PRPF31	-	-	-	Un	-	pre-mRNA processing factor 31	protein-coding	-	-	-	U4/U6 small nuclear ribonucleoprotein Prp31	20170201
 61622	104676020	NDUFA3	-	-	-	Un	-	NADH:ubiquinone oxidoreductase subunit A3	protein-coding	-	-	-	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 3	20170201
-61622	104676021	TARM1	-	-	-	Un	-	T cell-interacting, activating receptor on myeloid cells 1	protein-coding	-	-	-	LOW QUALITY PROTEIN: T-cell-interacting, activating receptor on myeloid cells protein 1	20170201
+61622	104676021	TARM1	-	-	-	Un	-	T-cell-interacting, activating receptor on myeloid cells 1	protein-coding	-	-	-	LOW QUALITY PROTEIN: T-cell-interacting, activating receptor on myeloid cells protein 1	20170205
 61622	104676022	OSCAR	-	-	-	Un	-	osteoclast associated, immunoglobulin-like receptor	protein-coding	-	-	-	osteoclast-associated immunoglobulin-like receptor	20170201
 61622	104676023	VSTM1	-	-	-	Un	-	V-set and transmembrane domain containing 1	protein-coding	-	-	-	V-set and transmembrane domain-containing protein 1	20170201
 61622	104676024	LOC104676024	-	-	-	Un	-	DDB1- and CUL4-associated factor 13 pseudogene	pseudo	-	-	-	-	20151115
@@ -26187,7 +26187,7 @@
 61622	104679610	PATL2	-	-	-	Un	-	PAT1 homolog 2	protein-coding	-	-	-	protein PAT1 homolog 2	20170201
 61622	104679611	RSPO3	-	-	-	Un	-	R-spondin 3	protein-coding	-	-	-	R-spondin-3	20170201
 61622	104679612	EIF3J	-	-	-	Un	-	eukaryotic translation initiation factor 3 subunit J	protein-coding	-	-	-	eukaryotic translation initiation factor 3 subunit J	20170201
-61622	104679613	SPG11	-	-	-	Un	-	spastic paraplegia 11 (autosomal recessive)	protein-coding	-	-	-	spatacsin	20170201
+61622	104679613	SPG11	-	-	-	Un	-	SPG11, spatacsin vesicle trafficking associated	protein-coding	-	-	-	spatacsin|spastic paraplegia 11 (autosomal recessive)	20170203
 61622	104679614	LOC104679614	-	-	-	Un	-	uncharacterized LOC104679614	ncRNA	-	-	-	-	20151115
 61622	104679615	LOC104679615	-	-	-	Un	-	60S ribosomal protein L7 pseudogene	pseudo	-	-	-	-	20151115
 61622	104679616	CTDSPL2	-	-	-	Un	-	CTD small phosphatase like 2	protein-coding	-	-	-	CTD small phosphatase-like protein 2	20170201
@@ -26820,7 +26820,7 @@
 61622	104680243	TPO	-	-	-	Un	-	thyroid peroxidase	protein-coding	-	-	-	thyroid peroxidase	20170201
 61622	104680244	MYT1L	-	-	-	Un	-	myelin transcription factor 1 like	protein-coding	-	-	-	myelin transcription factor 1-like protein	20170201
 61622	104680245	HSD17B1	-	-	-	Un	-	hydroxysteroid 17-beta dehydrogenase 1	protein-coding	-	-	-	estradiol 17-beta-dehydrogenase 1	20170201
-61622	104680246	FAM150B	-	-	-	Un	-	family with sequence similarity 150 member B	protein-coding	-	-	-	protein FAM150B	20170201
+61622	104680246	ALKAL2	-	FAM150B	-	Un	-	ALK and LTK ligand 2	protein-coding	-	-	-	protein FAM150B|family with sequence similarity 150 member B	20170205
 61622	104680247	SNTG2	-	-	-	Un	-	syntrophin gamma 2	protein-coding	-	-	-	gamma-2-syntrophin	20170201
 61622	104680248	PXDN	-	-	-	Un	-	peroxidasin	protein-coding	-	-	-	peroxidasin homolog	20170201
 61622	104680249	FSCB	-	-	-	Un	-	fibrous sheath CABYR binding protein	protein-coding	-	-	-	fibrous sheath CABYR-binding protein	20170201
@@ -27634,7 +27634,7 @@
 61622	104681058	BNIPL	-	-	-	Un	-	BCL2 interacting protein like	protein-coding	-	-	-	bcl-2/adenovirus E1B 19 kDa-interacting protein 2-like protein	20170201
 61622	104681059	CD1B	-	-	-	Un	-	CD1b molecule	protein-coding	-	-	-	T-cell surface glycoprotein CD1b	20170201
 61622	104681060	PRUNE1	-	-	-	Un	-	prune exopolyphosphatase	protein-coding	-	-	-	protein prune homolog	20170201
-61622	104681061	FAM63A	-	-	-	Un	-	family with sequence similarity 63 member A	protein-coding	-	-	-	protein FAM63A	20170201
+61622	104681061	MINDY1	-	FAM63A	-	Un	-	MINDY lysine 48 deubiquitinase 1	protein-coding	-	-	-	protein FAM63A|family with sequence similarity 63 member A	20170203
 61622	104681062	ANXA9	-	-	-	Un	-	annexin A9	protein-coding	-	-	-	annexin A9	20170201
 61622	104681063	CERS2	-	-	-	Un	-	ceramide synthase 2	protein-coding	-	-	-	ceramide synthase 2	20170201
 61622	104681064	SETDB1	-	-	-	Un	-	SET domain bifurcated 1	protein-coding	-	-	-	histone-lysine N-methyltransferase SETDB1	20170201

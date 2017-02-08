@@ -256,7 +256,7 @@
 61853	100579479	LOC100579479	-	-	-	7b	-	U6 snRNA-associated Sm-like protein LSm3 pseudogene	pseudo	-	-	-	-	20160822
 61853	100579482	CERS4	-	-	-	10	-	ceramide synthase 4	protein-coding	-	-	-	LOW QUALITY PROTEIN: ceramide synthase 4	20170201
 61853	100579483	PINLYP	-	-	-	17	-	phospholipase A2 inhibitor and LY6/PLAUR domain containing	protein-coding	-	-	-	phospholipase A2 inhibitor and Ly6/PLAUR domain-containing protein	20170201
-61853	100579484	EIF2AK2	-	-	-	19	-	eukaryotic translation initiation factor 2 alpha kinase 2	protein-coding	-	-	-	interferon-induced, double-stranded RNA-activated protein kinase	20170201
+61853	100579484	EIF2AK2	-	-	-	19	-	eukaryotic translation initiation factor 2 alpha kinase 2	protein-coding	-	-	-	interferon-induced, double-stranded RNA-activated protein kinase	20170205
 61853	100579485	TAF4	-	-	-	13	-	TATA-box binding protein associated factor 4	protein-coding	-	-	-	transcription initiation factor TFIID subunit 4	20170201
 61853	100579486	LOC100579486	-	-	-	6	-	60S ribosomal protein L30-like	pseudo	-	-	-	-	20160822
 61853	100579487	RGL4	-	-	-	7b	-	ral guanine nucleotide dissociation stimulator like 4	protein-coding	-	-	-	LOW QUALITY PROTEIN: ral-GDS-related protein	20170201
@@ -305,7 +305,7 @@
 61853	100579539	LOC100579539	-	-	-	4	-	60S ribosomal protein L38 pseudogene	pseudo	-	-	-	-	20160822
 61853	100579540	LOC100579540	-	-	-	5	-	serine/threonine-protein kinase RIO3 pseudogene	pseudo	-	-	-	-	20160822
 61853	100579541	MARK3	-	-	-	22a	-	microtubule affinity regulating kinase 3	protein-coding	-	-	-	MAP/microtubule affinity-regulating kinase 3	20170201
-61853	100579542	DCLRE1C	-	artemis	-	9	-	DNA cross-link repair 1C	protein-coding	-	-	-	protein artemis	20170201
+61853	100579542	DCLRE1C	-	artemis	-	9	-	DNA cross-link repair 1C	protein-coding	-	-	-	protein artemis	20170205
 61853	100579543	SAP30L	-	-	-	2	-	SAP30 like	protein-coding	-	-	-	histone deacetylase complex subunit SAP30L	20170201
 61853	100579544	CBR4	-	-	-	7b	-	carbonyl reductase 4	protein-coding	-	-	-	carbonyl reductase family member 4	20170201
 61853	100579545	CUX1	-	-	-	17	-	cut like homeobox 1	protein-coding	-	-	-	LOW QUALITY PROTEIN: protein CASP	20170201
@@ -2700,7 +2700,7 @@
 61853	100582444	CRP	-	-	-	12	-	C-reactive protein	protein-coding	-	-	-	C-reactive protein	20170201
 61853	100582445	C25H21orf2	-	-	-	25	-	chromosome 25 C21orf2 homolog	protein-coding	-	-	-	LOW QUALITY PROTEIN: protein C21orf2	20170201
 61853	100582446	HIF3A	-	-	-	17	-	hypoxia inducible factor 3 alpha subunit	protein-coding	-	-	-	hypoxia-inducible factor 3-alpha	20170201
-61853	100582447	FAM63A	-	-	-	12	-	family with sequence similarity 63 member A	protein-coding	-	-	-	protein FAM63A	20170201
+61853	100582447	MINDY1	-	FAM63A	-	12	-	MINDY lysine 48 deubiquitinase 1	protein-coding	-	-	-	protein FAM63A|family with sequence similarity 63 member A	20170203
 61853	100582448	MNT	-	-	-	19	-	MAX network transcriptional repressor	protein-coding	-	-	-	LOW QUALITY PROTEIN: max-binding protein MNT|MNT, MAX dimerization protein	20170201
 61853	100582449	ADAM33	-	-	-	13	-	ADAM metallopeptidase domain 33	protein-coding	-	-	-	LOW QUALITY PROTEIN: disintegrin and metalloproteinase domain-containing protein 33	20170201
 61853	100582450	BCAN	-	-	-	12	-	brevican	protein-coding	-	-	-	brevican core protein	20170201
@@ -5844,7 +5844,7 @@
 61853	100586315	LOC100586315	-	-	-	4	-	uncharacterized LOC100586315	ncRNA	-	-	-	-	20160822
 61853	100586317	WISP3	-	-	-	3	-	WNT1 inducible signaling pathway protein 3	protein-coding	-	-	-	WNT1-inducible-signaling pathway protein 3	20170201
 61853	100586318	LOC100586318	-	-	-	10	-	60S ribosomal protein L12 pseudogene	pseudo	-	-	-	-	20160822
-61853	100586319	FAM150A	-	-	-	16	-	family with sequence similarity 150 member A	protein-coding	-	-	-	protein FAM150A	20170201
+61853	100586319	ALKAL1	-	FAM150A	-	16	-	ALK and LTK ligand 1	protein-coding	-	-	-	protein FAM150A|family with sequence similarity 150 member A	20170205
 61853	100586320	RAI14	-	-	-	6	-	retinoic acid induced 14	protein-coding	-	-	-	ankycorbin	20170201
 61853	100586321	NSMCE2	-	-	-	16	-	NSE2/MMS21 homolog, SMC5-SMC6 complex SUMO ligase	protein-coding	-	-	-	E3 SUMO-protein ligase NSE2	20170201
 61853	100586323	LOC100586323	-	-	-	5	-	histone H3.1	protein-coding	-	-	-	histone H3.1	20170201
@@ -8546,7 +8546,7 @@
 61853	100589618	DDX47	-	-	-	23	-	DEAD-box helicase 47	protein-coding	-	-	-	probable ATP-dependent RNA helicase DDX47	20170201
 61853	100589619	LOC100589619	-	-	-	23	-	uncharacterized LOC100589619	ncRNA	-	-	-	-	20160822
 61853	100589621	LOC100589621	-	-	-	6	-	proteasome subunit beta type-3 pseudogene	pseudo	-	-	-	-	20160822
-61853	100589622	SPG11	-	-	-	6	-	spastic paraplegia 11 (autosomal recessive)	protein-coding	-	-	-	spatacsin	20170201
+61853	100589622	SPG11	-	-	-	6	-	SPG11, spatacsin vesicle trafficking associated	protein-coding	-	-	-	spatacsin|spastic paraplegia 11 (autosomal recessive)	20170203
 61853	100589624	GGPS1	-	-	-	5	-	geranylgeranyl diphosphate synthase 1	protein-coding	-	-	-	geranylgeranyl pyrophosphate synthase	20170201
 61853	100589625	LOC100589625	-	-	-	1a	-	spermatogenesis-associated protein 31C1-like	protein-coding	-	-	-	LOW QUALITY PROTEIN: spermatogenesis-associated protein 31C1-like	20170201
 61853	100589626	LOC100589626	-	-	-	12	-	bile acid receptor-like	protein-coding	-	-	-	bile acid receptor-like	20170201
@@ -11080,7 +11080,7 @@
 61853	100592725	GLIPR1	-	-	-	10	-	GLI pathogenesis related 1	protein-coding	-	-	-	glioma pathogenesis-related protein 1	20170201
 61853	100592726	GPR179	-	-	-	19	-	G protein-coupled receptor 179	protein-coding	-	-	-	probable G-protein coupled receptor 179	20170201
 61853	100592727	LOC100592727	-	-	-	19	-	keratin-associated protein 2-1-like	protein-coding	-	-	-	keratin-associated protein 2-1-like	20170201
-61853	100592728	CECR5	-	-	-	7b	-	cat eye syndrome chromosome region, candidate 5	protein-coding	-	-	-	cat eye syndrome critical region protein 5	20170201
+61853	100592728	HDHD5	-	CECR5	-	7b	-	haloacid dehalogenase like hydrolase domain containing 5	protein-coding	-	-	-	cat eye syndrome critical region protein 5|cat eye syndrome chromosome region, candidate 5	20170205
 61853	100592729	LOC100592729	-	-	-	10	-	microtubule-associated proteins 1A/1B light chain 3B pseudogene	pseudo	-	-	-	-	20160822
 61853	100592730	PHAX	-	-	-	2	-	phosphorylated adaptor for RNA export	protein-coding	-	-	-	LOW QUALITY PROTEIN: phosphorylated adapter RNA export protein	20170201
 61853	100592731	TMEM125	-	-	-	12	-	transmembrane protein 125	protein-coding	-	-	-	transmembrane protein 125	20170201
@@ -15541,7 +15541,7 @@
 61853	100598259	TMEM181	-	-	-	3	-	transmembrane protein 181	protein-coding	-	-	-	transmembrane protein 181	20170201
 61853	100598260	LOC100598260	-	-	-	15	-	lysine-specific demethylase 4E	protein-coding	-	-	-	lysine-specific demethylase 4E	20170201
 61853	100598261	PATE1	-	-	-	15	-	prostate and testis expressed 1	protein-coding	-	-	-	prostate and testis expressed protein 1	20170201
-61853	100598263	SAMHD1	-	-	-	13	-	SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1	protein-coding	-	-	-	deoxynucleoside triphosphate triphosphohydrolase SAMHD1|SAM domain and HD domain-containing protein 1	20170201
+61853	100598263	SAMHD1	-	-	-	13	-	SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1	protein-coding	-	-	-	deoxynucleoside triphosphate triphosphohydrolase SAMHD1|SAM domain and HD domain-containing protein 1	20170205
 61853	100598264	LOC100598264	-	CXCR1	-	22a	-	C-X-C chemokine receptor type 1	protein-coding	-	-	-	LOW QUALITY PROTEIN: C-X-C chemokine receptor type 1|chemokine (C-X-C motif) receptor 1	20170201
 61853	100598265	LOC100598265	-	-	-	X	-	putative SNURF-like protein	protein-coding	-	-	-	putative SNURF-like protein	20170201
 61853	100598267	PTCHD4	-	-	-	22a	-	patched domain containing 4	protein-coding	-	-	-	patched domain-containing protein 4|patched domain-containing protein C6orf138 homolog	20170201
@@ -18322,7 +18322,7 @@
 61853	100601609	ATP2C1	-	-	-	8	-	ATPase secretory pathway Ca2+ transporting 1	protein-coding	-	-	-	calcium-transporting ATPase type 2C member 1	20170201
 61853	100601610	KLHDC3	-	-	-	17	-	kelch domain containing 3	protein-coding	-	-	-	kelch domain-containing protein 3	20170201
 61853	100601611	SAR1B	-	-	-	2	-	secretion associated Ras related GTPase 1B	protein-coding	-	-	-	GTP-binding protein SAR1b|SAR1 homolog B	20170201
-61853	100601613	SPG21	-	-	-	6	-	spastic paraplegia 21 (autosomal recessive, Mast syndrome)	protein-coding	-	-	-	maspardin	20170201
+61853	100601613	SPG21	-	-	-	6	-	SPG21, maspardin	protein-coding	-	-	-	maspardin|spastic paraplegia 21 (autosomal recessive, Mast syndrome)	20170205
 61853	100601614	LOC100601614	-	-	-	12	-	hsc70-interacting protein-like	pseudo	-	-	-	-	20160822
 61853	100601615	ATP5F1	-	-	-	12	-	ATP synthase, H+ transporting, mitochondrial Fo complex subunit B1	protein-coding	-	-	-	ATP synthase F(0) complex subunit B1, mitochondrial	20170201
 61853	100601616	LOC100601616	-	-	-	12	-	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 5 pseudogene	pseudo	-	-	-	-	20160822
@@ -18794,7 +18794,7 @@
 61853	100602194	SLC35A4	-	-	-	2	-	solute carrier family 35 member A4	protein-coding	-	-	-	probable UDP-sugar transporter protein SLC35A4	20170201
 61853	100602197	BECN2	-	-	-	5	-	beclin 2	protein-coding	-	-	-	beclin-2	20170201
 61853	100602198	LOC100602198	-	-	-	5	-	52 kDa repressor of the inhibitor of the protein kinase pseudogene	pseudo	-	-	-	-	20160822
-61853	100602199	VTCN1	-	-	-	12	-	V-set domain containing T cell activation inhibitor 1	protein-coding	-	-	-	V-set domain-containing T-cell activation inhibitor 1	20170201
+61853	100602199	VTCN1	-	-	-	12	-	V-set domain containing T-cell activation inhibitor 1	protein-coding	-	-	-	V-set domain-containing T-cell activation inhibitor 1	20170205
 61853	100602200	CCNE2	-	-	-	16	-	cyclin E2	protein-coding	-	-	-	G1/S-specific cyclin-E2	20170201
 61853	100602201	THG1L	-	-	-	2	-	tRNA-histidine guanylyltransferase 1 like	protein-coding	-	-	-	probable tRNA(His) guanylyltransferase	20170201
 61853	100602203	PPL	-	-	-	18	-	periplakin	protein-coding	-	-	-	periplakin	20170201
@@ -19719,7 +19719,7 @@
 61853	100603322	GFER	-	-	-	18	-	growth factor, augmenter of liver regeneration	protein-coding	-	-	-	FAD-linked sulfhydryl oxidase ALR	20170201
 61853	100603323	LOC100603323	-	-	-	16	-	solute carrier family 25 member 51-like	pseudo	-	-	-	-	20160822
 61853	100603325	CCDC70	-	-	-	5	-	coiled-coil domain containing 70	protein-coding	-	-	-	coiled-coil domain-containing protein 70	20170201
-61853	100603326	FAM188B	-	-	-	17	-	family with sequence similarity 188 member B	protein-coding	-	-	-	protein FAM188B	20170201
+61853	100603326	MINDY4	-	FAM188B	-	17	-	MINDY lysine 48 deubiquitinase 4	protein-coding	-	-	-	protein FAM188B|family with sequence similarity 188 member B	20170203
 61853	100603327	ATRAID	-	-	-	19	-	all-trans retinoic acid induced differentiation factor	protein-coding	-	-	-	all-trans retinoic acid-induced differentiation factor	20170201
 61853	100603328	UXT	-	-	-	X	-	ubiquitously expressed prefoldin like chaperone	protein-coding	-	-	-	protein UXT	20170201
 61853	100603329	HNRNPF	-	-	-	18	-	heterogeneous nuclear ribonucleoprotein F	protein-coding	-	-	-	heterogeneous nuclear ribonucleoprotein F	20170201
@@ -19967,7 +19967,7 @@
 61853	100603618	LOC100603618	-	PILRA	-	17	-	paired immunoglobulin-like type 2 receptor alpha	protein-coding	-	-	-	paired immunoglobulin-like type 2 receptor alpha|paired immunoglobin-like type 2 receptor alpha	20170201
 61853	100603619	CCT2	-	-	-	10	-	chaperonin containing TCP1 subunit 2	protein-coding	-	-	-	T-complex protein 1 subunit beta	20170201
 61853	100603620	LOC100603620	-	-	-	20	-	fatty acyl-CoA reductase 2-like	protein-coding	-	-	-	LOW QUALITY PROTEIN: fatty acyl-CoA reductase 2-like	20170201
-61853	100603621	FAM150B	-	-	-	19	-	family with sequence similarity 150 member B	protein-coding	-	-	-	protein FAM150B	20170201
+61853	100603621	ALKAL2	-	FAM150B	-	19	-	ALK and LTK ligand 2	protein-coding	-	-	-	protein FAM150B|family with sequence similarity 150 member B	20170205
 61853	100603622	LOC100603622	-	-	-	1a	-	olfactory receptor 13C4	protein-coding	-	-	-	olfactory receptor 13C4	20170201
 61853	100603623	DAPK1	-	-	-	1a	-	death associated protein kinase 1	protein-coding	-	-	-	death-associated protein kinase 1	20170201
 61853	100603624	HID1	-	-	-	14	-	HID1 domain containing	protein-coding	-	-	-	protein HID1	20170201
@@ -20322,7 +20322,7 @@
 61853	100604045	ARRDC2	-	-	-	10	-	arrestin domain containing 2	protein-coding	-	-	-	arrestin domain-containing protein 2	20170201
 61853	100604046	FAM3D	-	-	-	4	-	family with sequence similarity 3 member D	protein-coding	-	-	-	protein FAM3D	20170201
 61853	100604047	LOC100604047	-	-	-	5	-	eukaryotic initiation factor 4A-I-like	pseudo	-	-	-	-	20160822
-61853	100604049	FAM188A	-	-	-	9	-	family with sequence similarity 188 member A	protein-coding	-	-	-	protein FAM188A	20170201
+61853	100604049	MINDY3	-	FAM188A	-	9	-	MINDY lysine 48 deubiquitinase 3	protein-coding	-	-	-	protein FAM188A|family with sequence similarity 188 member A	20170203
 61853	100604050	ABCE1	-	-	-	7b	-	ATP binding cassette subfamily E member 1	protein-coding	-	-	-	ATP-binding cassette sub-family E member 1	20170201
 61853	100604051	KIAA0922	-	-	-	7b	-	KIAA0922 ortholog	protein-coding	-	-	-	transmembrane protein 131-like	20170201
 61853	100604052	GYPA	-	-	-	7b	-	glycophorin A (MNS blood group)	protein-coding	-	-	-	glycophorin-A	20170201
@@ -20532,7 +20532,7 @@
 61853	100604308	LOC100604308	-	POLG2	-	19	-	DNA polymerase subunit gamma-2, mitochondrial	protein-coding	-	-	-	DNA polymerase subunit gamma-2, mitochondrial|polymerase (DNA directed), gamma 2, accessory subunit	20170201
 61853	100604309	LRRC56	-	-	-	21	-	leucine rich repeat containing 56	protein-coding	-	-	-	leucine-rich repeat-containing protein 56	20170201
 61853	100604311	PPIL2	-	-	-	7b	-	peptidylprolyl isomerase like 2	protein-coding	-	-	-	peptidyl-prolyl cis-trans isomerase-like 2	20170201
-61853	100604312	WWP2	-	-	-	2	-	WW domain containing E3 ubiquitin protein ligase 2	protein-coding	-	-	-	NEDD4-like E3 ubiquitin-protein ligase WWP2	20170201
+61853	100604312	WWP2	-	-	-	2	-	WW domain containing E3 ubiquitin protein ligase 2	protein-coding	-	-	-	NEDD4-like E3 ubiquitin-protein ligase WWP2	20170205
 61853	100604313	CENPT	-	-	-	2	-	centromere protein T	protein-coding	-	-	-	centromere protein T	20170201
 61853	100604314	LOC100604314	-	-	-	2	-	metallothionein-1E-like	protein-coding	-	-	-	metallothionein-1E-like	20170201
 61853	100604315	TMEM104	-	-	-	14	-	transmembrane protein 104	protein-coding	-	-	-	transmembrane protein 104	20170201
@@ -20789,7 +20789,7 @@
 61853	100604621	LOC100604621	-	-	-	12	-	late cornified envelope protein 2D-like	protein-coding	-	-	-	late cornified envelope protein 2D-like	20170201
 61853	100604622	FRMPD2	-	-	-	18	-	FERM and PDZ domain containing 2	protein-coding	-	-	-	FERM and PDZ domain-containing protein 2	20170201
 61853	100604623	CRADD	-	-	-	10	-	CASP2 and RIPK1 domain containing adaptor with death domain	protein-coding	-	-	-	death domain-containing protein CRADD	20170201
-61853	100604624	TARM1	-	-	-	10	-	T cell-interacting, activating receptor on myeloid cells 1	protein-coding	-	-	-	LOW QUALITY PROTEIN: T-cell-interacting, activating receptor on myeloid cells protein 1	20170201
+61853	100604624	TARM1	-	-	-	10	-	T-cell-interacting, activating receptor on myeloid cells 1	protein-coding	-	-	-	LOW QUALITY PROTEIN: T-cell-interacting, activating receptor on myeloid cells protein 1	20170205
 61853	100604625	GINS1	-	-	-	13	-	GINS complex subunit 1	protein-coding	-	-	-	DNA replication complex GINS protein PSF1	20170201
 61853	100604626	LOC100604626	-	-	-	12	-	E3 ubiquitin-protein ligase CCNB1IP1 pseudogene	pseudo	-	-	-	-	20160822
 61853	100604627	LOC100604627	-	-	-	1a	-	40S ribosomal protein S10	protein-coding	-	-	-	40S ribosomal protein S10	20170201
@@ -23338,7 +23338,7 @@
 61853	100607696	GUCA1A	-	-	-	17	-	guanylate cyclase activator 1A	protein-coding	-	-	-	guanylyl cyclase-activating protein 1	20170201
 61853	100607697	SLC25A48	-	-	-	2	-	solute carrier family 25 member 48	protein-coding	-	-	-	solute carrier family 25 member 48	20170201
 61853	100607698	TP53BP1	-	-	-	6	-	tumor protein p53 binding protein 1	protein-coding	-	-	-	tumor suppressor p53-binding protein 1	20170201
-61853	100607699	FAM63B	-	-	-	6	-	family with sequence similarity 63 member B	protein-coding	-	-	-	protein FAM63B	20170201
+61853	100607699	MINDY2	-	FAM63B	-	6	-	MINDY lysine 48 deubiquitinase 2	protein-coding	-	-	-	protein FAM63B|family with sequence similarity 63 member B	20170203
 61853	100607700	NAA35	-	-	-	1a	-	N(alpha)-acetyltransferase 35, NatC auxiliary subunit	protein-coding	-	-	-	N-alpha-acetyltransferase 35, NatC auxiliary subunit	20170201
 61853	100607701	LRP1B	-	-	-	20	-	LDL receptor related protein 1B	protein-coding	-	-	-	LOW QUALITY PROTEIN: low-density lipoprotein receptor-related protein 1B	20170201
 61853	100607702	CCDC175	-	-	-	1a	-	coiled-coil domain containing 175	protein-coding	-	-	-	coiled-coil domain-containing protein 175	20170201
