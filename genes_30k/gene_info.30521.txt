@@ -1,13 +1,13 @@
-30521	3119741	COX3	-	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20160827
-30521	3119742	ATP6	-	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20151027
-30521	3119743	ND4L	-	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20151027
-30521	3119744	ATP8	-	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20160325
-30521	3119745	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20160917
-30521	3119746	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20151027
-30521	3119747	ND3	-	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20160325
-30521	3119748	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20151027
-30521	3119751	COX2	-	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20160917
-30521	3119752	COX1	-	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20160917
-30521	3119753	ND2	-	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20160917
-30521	3126313	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20160917
-30521	3126314	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20151027
+30521	3119741	COX3	-	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20181102	-
+30521	3119742	ATP6	-	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20181102	-
+30521	3119743	ND4L	-	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20181102	-
+30521	3119744	ATP8	-	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20181102	-
+30521	3119745	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20181102	-
+30521	3119746	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20181102	-
+30521	3119747	ND3	-	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20181102	-
+30521	3119748	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20181102	-
+30521	3119751	COX2	-	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20181102	-
+30521	3119752	COX1	-	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20181102	-
+30521	3119753	ND2	-	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20181102	-
+30521	3126313	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20181102	-
+30521	3126314	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20181102	-

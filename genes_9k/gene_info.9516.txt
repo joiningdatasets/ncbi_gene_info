@@ -1,1 +1,1 @@
-9516	28340554	NEWENTRY	-	-	-	-	-	Record to support submission of GeneRIFs for a gene not in Gene (white-faced capuchin; white-faced sapajou; white-throated capuchin).	other	-	-	-	-	20160721
+9516	28340554	NEWENTRY	-	-	-	-	-	Record to support submission of GeneRIFs for a gene not in Gene (white-faced capuchin; white-faced sapajou; white-throated capuchin).	other	-	-	-	-	20160721	-

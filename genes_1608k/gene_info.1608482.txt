@@ -1,37 +1,37 @@
-1608482	26129847	ASR42_gt04	ASR42_gt04	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
-1608482	26129848	ASR42_gt07	ASR42_gt07	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
-1608482	26129849	ASR42_gt12	ASR42_gt12	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
-1608482	26129850	ASR42_gt14	ASR42_gt14	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
-1608482	26129851	ATP6	ASR42_gp08	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20160309
-1608482	26129852	COX3	ASR42_gp07	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20160716
-1608482	26129853	ASR42_gt15	ASR42_gt15	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
-1608482	26129854	ASR42_gt16	ASR42_gt16	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
-1608482	26129855	ND4	ASR42_gp04	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20160716
-1608482	26129856	ASR42_gt17	ASR42_gt17	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
-1608482	26129857	ND6	ASR42_gp02	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20160309
-1608482	26129858	ASR42_gt20	ASR42_gt20	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
-1608482	26129859	ASR42_gt21	ASR42_gt21	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
-1608482	26129860	ASR42_gr02	ASR42_gr02	-	-	MT	-	12S ribosomal RNA	rRNA	-	-	-	-	20151106
-1608482	26129861	ASR42_gt02	ASR42_gt02	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
-1608482	26129862	ASR42_gr01	ASR42_gr01	-	-	MT	-	16S ribosomal RNA	rRNA	-	-	-	-	20151106
-1608482	26129863	ASR42_gt03	ASR42_gt03	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
-1608482	26129864	ND1	ASR42_gp13	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20160309
-1608482	26129865	ASR42_gt05	ASR42_gt05	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
-1608482	26129866	ASR42_gt06	ASR42_gt06	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
-1608482	26129867	ND2	ASR42_gp12	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20160716
-1608482	26129868	ASR42_gt08	ASR42_gt08	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
-1608482	26129869	ASR42_gt09	ASR42_gt09	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
-1608482	26129870	ASR42_gt10	ASR42_gt10	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
-1608482	26129871	ASR42_gt11	ASR42_gt11	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
-1608482	26129872	COX1	ASR42_gp11	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20160716
-1608482	26129873	ASR42_gt13	ASR42_gt13	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
-1608482	26129874	COX2	ASR42_gp10	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20160716
-1608482	26129875	ATP8	ASR42_gp09	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20160309
-1608482	26129876	ND3	ASR42_gp06	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20160309
-1608482	26129877	ND4L	ASR42_gp05	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20160309
-1608482	26129878	ASR42_gt18	ASR42_gt18	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
-1608482	26129879	ASR42_gt19	ASR42_gt19	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
-1608482	26129880	ND5	ASR42_gp03	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20160716
-1608482	26129881	CYTB	ASR42_gp01	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20160309
-1608482	26129882	ASR42_gt22	ASR42_gt22	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
-1608482	26129883	ASR42_gt01	ASR42_gt01	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106
+1608482	26129847	ASR42_gt04	ASR42_gt04	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106	-
+1608482	26129848	ASR42_gt07	ASR42_gt07	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106	-
+1608482	26129849	ASR42_gt12	ASR42_gt12	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106	-
+1608482	26129850	ASR42_gt14	ASR42_gt14	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106	-
+1608482	26129851	ATP6	ASR42_gp08	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20160309	-
+1608482	26129852	COX3	ASR42_gp07	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20160716	-
+1608482	26129853	ASR42_gt15	ASR42_gt15	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106	-
+1608482	26129854	ASR42_gt16	ASR42_gt16	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106	-
+1608482	26129855	ND4	ASR42_gp04	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20160716	-
+1608482	26129856	ASR42_gt17	ASR42_gt17	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106	-
+1608482	26129857	ND6	ASR42_gp02	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20160309	-
+1608482	26129858	ASR42_gt20	ASR42_gt20	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106	-
+1608482	26129859	ASR42_gt21	ASR42_gt21	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106	-
+1608482	26129860	ASR42_gr02	ASR42_gr02	-	-	MT	-	12S ribosomal RNA	rRNA	-	-	-	-	20151106	-
+1608482	26129861	ASR42_gt02	ASR42_gt02	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106	-
+1608482	26129862	ASR42_gr01	ASR42_gr01	-	-	MT	-	16S ribosomal RNA	rRNA	-	-	-	-	20151106	-
+1608482	26129863	ASR42_gt03	ASR42_gt03	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106	-
+1608482	26129864	ND1	ASR42_gp13	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20160309	-
+1608482	26129865	ASR42_gt05	ASR42_gt05	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106	-
+1608482	26129866	ASR42_gt06	ASR42_gt06	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106	-
+1608482	26129867	ND2	ASR42_gp12	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20160716	-
+1608482	26129868	ASR42_gt08	ASR42_gt08	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106	-
+1608482	26129869	ASR42_gt09	ASR42_gt09	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106	-
+1608482	26129870	ASR42_gt10	ASR42_gt10	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106	-
+1608482	26129871	ASR42_gt11	ASR42_gt11	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106	-
+1608482	26129872	COX1	ASR42_gp11	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20160716	-
+1608482	26129873	ASR42_gt13	ASR42_gt13	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106	-
+1608482	26129874	COX2	ASR42_gp10	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20160716	-
+1608482	26129875	ATP8	ASR42_gp09	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20160309	-
+1608482	26129876	ND3	ASR42_gp06	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20160309	-
+1608482	26129877	ND4L	ASR42_gp05	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20160309	-
+1608482	26129878	ASR42_gt18	ASR42_gt18	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106	-
+1608482	26129879	ASR42_gt19	ASR42_gt19	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106	-
+1608482	26129880	ND5	ASR42_gp03	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20160716	-
+1608482	26129881	CYTB	ASR42_gp01	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20160309	-
+1608482	26129882	ASR42_gt22	ASR42_gt22	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106	-
+1608482	26129883	ASR42_gt01	ASR42_gt01	-	-	MT	-	tRNA	tRNA	-	-	-	-	20151106	-

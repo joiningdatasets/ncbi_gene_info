@@ -1,0 +1,37 @@
+35658	34682985	Rnr1	CRD43_mgr02	-	-	MT	-	12S ribosomal RNA	rRNA	-	-	-	-	20171008	-
+35658	34682986	TrnV	CRD43_mgt02	-	-	MT	-	tRNA	tRNA	-	-	-	-	20171008	-
+35658	34682987	Rnr2	CRD43_mgr01	-	-	MT	-	16S ribosomal RNA	rRNA	-	-	-	-	20171008	-
+35658	34682988	TrnL1	CRD43_mgt03	-	-	MT	-	tRNA	tRNA	-	-	-	-	20171008	-
+35658	34682989	ND1	CRD43_mgp13	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20171014	-
+35658	34682990	TrnI	CRD43_mgt04	-	-	MT	-	tRNA	tRNA	-	-	-	-	20171008	-
+35658	34682991	TrnQ	CRD43_mgt05	-	-	MT	-	tRNA	tRNA	-	-	-	-	20171008	-
+35658	34682992	TrnM	CRD43_mgt06	-	-	MT	-	tRNA	tRNA	-	-	-	-	20171008	-
+35658	34682993	ND2	CRD43_mgp12	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20171014	-
+35658	34682994	TrnW	CRD43_mgt07	-	-	MT	-	tRNA	tRNA	-	-	-	-	20171008	-
+35658	34682995	TrnA	CRD43_mgt08	-	-	MT	-	tRNA	tRNA	-	-	-	-	20171008	-
+35658	34682996	TrnN	CRD43_mgt09	-	-	MT	-	tRNA	tRNA	-	-	-	-	20171008	-
+35658	34682997	TrnC	CRD43_mgt10	-	-	MT	-	tRNA	tRNA	-	-	-	-	20171008	-
+35658	34682998	TrnY	CRD43_mgt11	-	-	MT	-	tRNA	tRNA	-	-	-	-	20171008	-
+35658	34682999	COX1	CRD43_mgp11	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20171014	-
+35658	34683000	TrnS1	CRD43_mgt12	-	-	MT	-	tRNA	tRNA	-	-	-	-	20171008	-
+35658	34683001	TrnD	CRD43_mgt13	-	-	MT	-	tRNA	tRNA	-	-	-	-	20171008	-
+35658	34683002	COX2	CRD43_mgp10	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20171014	-
+35658	34683003	TrnK	CRD43_mgt14	-	-	MT	-	tRNA	tRNA	-	-	-	-	20171008	-
+35658	34683004	ATP8	CRD43_mgp09	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20171014	-
+35658	34683005	ATP6	CRD43_mgp08	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20171014	-
+35658	34683006	COX3	CRD43_mgp07	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20171014	-
+35658	34683007	TrnG	CRD43_mgt15	-	-	MT	-	tRNA	tRNA	-	-	-	-	20171008	-
+35658	34683008	ND3	CRD43_mgp06	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20171014	-
+35658	34683009	TrnR	CRD43_mgt16	-	-	MT	-	tRNA	tRNA	-	-	-	-	20171008	-
+35658	34683010	ND4L	CRD43_mgp05	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20171014	-
+35658	34683011	ND4	CRD43_mgp04	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20171014	-
+35658	34683012	TrnH	CRD43_mgt17	-	-	MT	-	tRNA	tRNA	-	-	-	-	20171008	-
+35658	34683013	TrnS2	CRD43_mgt18	-	-	MT	-	tRNA	tRNA	-	-	-	-	20171008	-
+35658	34683014	TrnL2	CRD43_mgt19	-	-	MT	-	tRNA	tRNA	-	-	-	-	20171008	-
+35658	34683015	ND5	CRD43_mgp03	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20171014	-
+35658	34683016	ND6	CRD43_mgp02	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20171014	-
+35658	34683017	TrnE	CRD43_mgt20	-	-	MT	-	tRNA	tRNA	-	-	-	-	20171008	-
+35658	34683018	CYTB	CRD43_mgp01	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20171014	-
+35658	34683019	TrnT	CRD43_mgt21	-	-	MT	-	tRNA	tRNA	-	-	-	-	20171008	-
+35658	34683020	TrnP	CRD43_mgt22	-	-	MT	-	tRNA	tRNA	-	-	-	-	20171008	-
+35658	34683021	TrnF	CRD43_mgt01	-	-	MT	-	tRNA	tRNA	-	-	-	-	20171008	-

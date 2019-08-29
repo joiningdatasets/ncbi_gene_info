@@ -1,37 +1,37 @@
-1922215	30684031	BVA42_gt04	BVA42_gt04	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228
-1922215	30684032	BVA42_gt07	BVA42_gt07	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228
-1922215	30684033	BVA42_gt12	BVA42_gt12	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228
-1922215	30684034	BVA42_gt14	BVA42_gt14	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228
-1922215	30684035	ATP6	BVA42_gp08	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20170106
-1922215	30684036	COX3	BVA42_gp07	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20170106
-1922215	30684037	BVA42_gt15	BVA42_gt15	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228
-1922215	30684038	BVA42_gt16	BVA42_gt16	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228
-1922215	30684039	ND4	BVA42_gp04	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20170106
-1922215	30684040	BVA42_gt17	BVA42_gt17	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228
-1922215	30684041	ND6	BVA42_gp02	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20170106
-1922215	30684042	BVA42_gt20	BVA42_gt20	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228
-1922215	30684043	BVA42_gt21	BVA42_gt21	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228
-1922215	30684044	BVA42_gt01	BVA42_gt01	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228
-1922215	30684045	BVA42_gr02	BVA42_gr02	-	-	MT	-	12S ribosomal RNA	rRNA	-	-	-	-	20161228
-1922215	30684046	BVA42_gt02	BVA42_gt02	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228
-1922215	30684047	BVA42_gr01	BVA42_gr01	-	-	MT	-	16S ribosomal RNA	rRNA	-	-	-	-	20161228
-1922215	30684048	BVA42_gt03	BVA42_gt03	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228
-1922215	30684049	ND1	BVA42_gp13	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20170106
-1922215	30684050	BVA42_gt05	BVA42_gt05	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228
-1922215	30684051	BVA42_gt06	BVA42_gt06	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228
-1922215	30684052	ND2	BVA42_gp12	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20170106
-1922215	30684053	BVA42_gt08	BVA42_gt08	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228
-1922215	30684054	BVA42_gt09	BVA42_gt09	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228
-1922215	30684055	BVA42_gt10	BVA42_gt10	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228
-1922215	30684056	BVA42_gt11	BVA42_gt11	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228
-1922215	30684057	COX1	BVA42_gp11	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20170106
-1922215	30684058	BVA42_gt13	BVA42_gt13	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228
-1922215	30684059	COX2	BVA42_gp10	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20170106
-1922215	30684060	ATP8	BVA42_gp09	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20170106
-1922215	30684061	ND3	BVA42_gp06	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20170106
-1922215	30684062	ND4L	BVA42_gp05	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20170106
-1922215	30684063	BVA42_gt18	BVA42_gt18	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228
-1922215	30684064	BVA42_gt19	BVA42_gt19	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228
-1922215	30684065	ND5	BVA42_gp03	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20170106
-1922215	30684066	CYTB	BVA42_gp01	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20170106
-1922215	30684067	BVA42_gt22	BVA42_gt22	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228
+1922215	30684031	BVA42_gt04	BVA42_gt04	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228	-
+1922215	30684032	BVA42_gt07	BVA42_gt07	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228	-
+1922215	30684033	BVA42_gt12	BVA42_gt12	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228	-
+1922215	30684034	BVA42_gt14	BVA42_gt14	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228	-
+1922215	30684035	ATP6	BVA42_gp08	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20170106	-
+1922215	30684036	COX3	BVA42_gp07	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20170106	-
+1922215	30684037	BVA42_gt15	BVA42_gt15	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228	-
+1922215	30684038	BVA42_gt16	BVA42_gt16	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228	-
+1922215	30684039	ND4	BVA42_gp04	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20170106	-
+1922215	30684040	BVA42_gt17	BVA42_gt17	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228	-
+1922215	30684041	ND6	BVA42_gp02	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20170106	-
+1922215	30684042	BVA42_gt20	BVA42_gt20	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228	-
+1922215	30684043	BVA42_gt21	BVA42_gt21	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228	-
+1922215	30684044	BVA42_gt01	BVA42_gt01	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228	-
+1922215	30684045	BVA42_gr02	BVA42_gr02	-	-	MT	-	12S ribosomal RNA	rRNA	-	-	-	-	20161228	-
+1922215	30684046	BVA42_gt02	BVA42_gt02	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228	-
+1922215	30684047	BVA42_gr01	BVA42_gr01	-	-	MT	-	16S ribosomal RNA	rRNA	-	-	-	-	20161228	-
+1922215	30684048	BVA42_gt03	BVA42_gt03	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228	-
+1922215	30684049	ND1	BVA42_gp13	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20170106	-
+1922215	30684050	BVA42_gt05	BVA42_gt05	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228	-
+1922215	30684051	BVA42_gt06	BVA42_gt06	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228	-
+1922215	30684052	ND2	BVA42_gp12	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20170106	-
+1922215	30684053	BVA42_gt08	BVA42_gt08	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228	-
+1922215	30684054	BVA42_gt09	BVA42_gt09	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228	-
+1922215	30684055	BVA42_gt10	BVA42_gt10	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228	-
+1922215	30684056	BVA42_gt11	BVA42_gt11	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228	-
+1922215	30684057	COX1	BVA42_gp11	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20170106	-
+1922215	30684058	BVA42_gt13	BVA42_gt13	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228	-
+1922215	30684059	COX2	BVA42_gp10	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20170106	-
+1922215	30684060	ATP8	BVA42_gp09	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20170106	-
+1922215	30684061	ND3	BVA42_gp06	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20170106	-
+1922215	30684062	ND4L	BVA42_gp05	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20181103	-
+1922215	30684063	BVA42_gt18	BVA42_gt18	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228	-
+1922215	30684064	BVA42_gt19	BVA42_gt19	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228	-
+1922215	30684065	ND5	BVA42_gp03	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20170106	-
+1922215	30684066	CYTB	BVA42_gp01	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20170106	-
+1922215	30684067	BVA42_gt22	BVA42_gt22	-	-	MT	-	tRNA	tRNA	-	-	-	-	20161228	-

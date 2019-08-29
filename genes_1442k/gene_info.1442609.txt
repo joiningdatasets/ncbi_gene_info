@@ -1,0 +1,37 @@
+1442609	34949860	CVD99_mgt04	CVD99_mgt04	-	-	MT	-	tRNA	tRNA	-	-	-	-	20180211	-
+1442609	34949861	CVD99_mgt07	CVD99_mgt07	-	-	MT	-	tRNA	tRNA	-	-	-	-	20180211	-
+1442609	34949862	CVD99_mgt12	CVD99_mgt12	-	-	MT	-	tRNA	tRNA	-	-	-	-	20180211	-
+1442609	34949863	CVD99_mgt14	CVD99_mgt14	-	-	MT	-	tRNA	tRNA	-	-	-	-	20180211	-
+1442609	34949864	ATP6	CVD99_mgp08	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20180212	-
+1442609	34949865	COX3	CVD99_mgp07	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20180212	-
+1442609	34949866	CVD99_mgt15	CVD99_mgt15	-	-	MT	-	tRNA	tRNA	-	-	-	-	20180211	-
+1442609	34949867	CVD99_mgt16	CVD99_mgt16	-	-	MT	-	tRNA	tRNA	-	-	-	-	20180211	-
+1442609	34949868	ND4	CVD99_mgp04	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20180212	-
+1442609	34949869	CVD99_mgt17	CVD99_mgt17	-	-	MT	-	tRNA	tRNA	-	-	-	-	20180211	-
+1442609	34949870	ND6	CVD99_mgp02	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20180212	-
+1442609	34949871	CVD99_mgt20	CVD99_mgt20	-	-	MT	-	tRNA	tRNA	-	-	-	-	20180211	-
+1442609	34949872	CVD99_mgt21	CVD99_mgt21	-	-	MT	-	tRNA	tRNA	-	-	-	-	20180211	-
+1442609	34949873	CVD99_mgt01	CVD99_mgt01	-	-	MT	-	tRNA	tRNA	-	-	-	-	20180211	-
+1442609	34949874	CVD99_mgr02	CVD99_mgr02	-	-	MT	-	12S ribosomal RNA	rRNA	-	-	-	-	20180211	-
+1442609	34949875	CVD99_mgt02	CVD99_mgt02	-	-	MT	-	tRNA	tRNA	-	-	-	-	20180211	-
+1442609	34949876	CVD99_mgr01	CVD99_mgr01	-	-	MT	-	16S ribosomal RNA	rRNA	-	-	-	-	20180211	-
+1442609	34949877	CVD99_mgt03	CVD99_mgt03	-	-	MT	-	tRNA	tRNA	-	-	-	-	20180211	-
+1442609	34949878	ND1	CVD99_mgp13	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20180212	-
+1442609	34949879	CVD99_mgt05	CVD99_mgt05	-	-	MT	-	tRNA	tRNA	-	-	-	-	20180211	-
+1442609	34949880	CVD99_mgt06	CVD99_mgt06	-	-	MT	-	tRNA	tRNA	-	-	-	-	20180211	-
+1442609	34949881	ND2	CVD99_mgp12	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20180212	-
+1442609	34949882	CVD99_mgt08	CVD99_mgt08	-	-	MT	-	tRNA	tRNA	-	-	-	-	20180211	-
+1442609	34949883	CVD99_mgt09	CVD99_mgt09	-	-	MT	-	tRNA	tRNA	-	-	-	-	20180211	-
+1442609	34949884	CVD99_mgt10	CVD99_mgt10	-	-	MT	-	tRNA	tRNA	-	-	-	-	20180211	-
+1442609	34949885	CVD99_mgt11	CVD99_mgt11	-	-	MT	-	tRNA	tRNA	-	-	-	-	20180211	-
+1442609	34949886	COX1	CVD99_mgp11	-	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20180212	-
+1442609	34949887	CVD99_mgt13	CVD99_mgt13	-	-	MT	-	tRNA	tRNA	-	-	-	-	20180211	-
+1442609	34949888	COX2	CVD99_mgp10	-	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20180212	-
+1442609	34949889	ATP8	CVD99_mgp09	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20180212	-
+1442609	34949890	ND3	CVD99_mgp06	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20180212	-
+1442609	34949891	ND4L	CVD99_mgp05	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20180212	-
+1442609	34949892	CVD99_mgt18	CVD99_mgt18	-	-	MT	-	tRNA	tRNA	-	-	-	-	20180211	-
+1442609	34949893	CVD99_mgt19	CVD99_mgt19	-	-	MT	-	tRNA	tRNA	-	-	-	-	20180211	-
+1442609	34949894	ND5	CVD99_mgp03	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20180212	-
+1442609	34949895	CYTB	CVD99_mgp01	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20180212	-
+1442609	34949896	CVD99_mgt22	CVD99_mgt22	-	-	MT	-	tRNA	tRNA	-	-	-	-	20180211	-

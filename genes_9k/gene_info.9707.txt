@@ -1,1 +1,1 @@
-9707	15089043	NEWENTRY	-	-	-	-	-	Record to support submission of GeneRIFs for a gene not in Gene (walrus).	other	-	-	-	-	20130404
+9707	15089043	NEWENTRY	-	-	-	-	-	Record to support submission of GeneRIFs for a gene not in Gene (walrus).	other	-	-	-	-	20130404	-

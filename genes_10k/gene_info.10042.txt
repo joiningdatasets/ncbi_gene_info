@@ -1,1 +1,1 @@
-10042	18585600	NEWENTRY	-	-	-	-	-	Record to support submission of GeneRIFs for a gene not in Gene (North American deer mouse; Peromyscus maniculatis).	other	-	-	-	-	20140311
+10042	18585600	NEWENTRY	-	-	-	-	-	Record to support submission of GeneRIFs for a gene not in Gene (North American deer mouse).	other	-	-	-	-	20181022	-

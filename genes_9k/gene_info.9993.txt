@@ -1,1 +1,1 @@
-9993	26780644	NEWENTRY	-	-	-	-	-	Record to support submission of GeneRIFs for a gene not in Gene (European marmot).	other	-	-	-	-	20160202
+9993	26780644	NEWENTRY	-	-	-	-	-	Record to support submission of GeneRIFs for a gene not in Gene (European marmot).	other	-	-	-	-	20170302	-

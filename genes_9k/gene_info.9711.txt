@@ -1,13 +1,13 @@
-9711	807746	COX3	-	COIII	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20160730
-9711	807747	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20160325
-9711	807748	ND4L	-	NADH4L	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20150626
-9711	807749	ND3	-	NADH3	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20150626
-9711	807750	ND6	-	NADH6	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20160325
-9711	807751	ND5	-	NADH5	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20160827
-9711	807752	ND4	-	NADH4	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20160806
-9711	807753	ND1	-	NADH1	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20150626
-9711	807754	COX2	-	COII	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20160813
-9711	807755	ATP8	-	ATPase8	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20150626
-9711	807756	ND2	-	NADH2	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20160924
-9711	807757	ATP6	-	ATPase6	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20150626
-9711	807758	COX1	-	COI	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20160820
+9711	807746	COX3	-	COIII	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20160730	-
+9711	807747	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20160325	-
+9711	807748	ND4L	-	NADH4L	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20150626	-
+9711	807749	ND3	-	NADH3	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20150626	-
+9711	807750	ND6	-	NADH6	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20160325	-
+9711	807751	ND5	-	NADH5	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20160827	-
+9711	807752	ND4	-	NADH4	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20160806	-
+9711	807753	ND1	-	NADH1	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20150626	-
+9711	807754	COX2	-	COII	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20160813	-
+9711	807755	ATP8	-	ATPase8	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20150626	-
+9711	807756	ND2	-	NADH2	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20160924	-
+9711	807757	ATP6	-	ATPase6	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20150626	-
+9711	807758	COX1	-	COI	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20160820	-

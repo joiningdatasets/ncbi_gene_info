@@ -1,13 +1,13 @@
-9417	808333	COX2	-	COII	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20160806
-9417	808334	ATP6	-	ATPase6	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20150626
-9417	808335	ND3	-	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20150626
-9417	808336	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20150626
-9417	808337	ND2	-	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20160813
-9417	808338	ND4L	-	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20150626
-9417	808339	CYTB	-	Cytb	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20150626
-9417	808340	COX1	-	COI	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20160924
-9417	808341	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20160716
-9417	808342	COX3	-	COIII	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20160820
-9417	808343	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20160806
-9417	808344	ATP8	-	ATPase8	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20150626
-9417	808345	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20150626
+9417	808333	COX2	-	COII	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20160806	-
+9417	808334	ATP6	-	ATPase6	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20150626	-
+9417	808335	ND3	-	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20150626	-
+9417	808336	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20150626	-
+9417	808337	ND2	-	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20160813	-
+9417	808338	ND4L	-	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20150626	-
+9417	808339	CYTB	-	Cytb	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20150626	-
+9417	808340	COX1	-	COI	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20160924	-
+9417	808341	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20160716	-
+9417	808342	COX3	-	COIII	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20160820	-
+9417	808343	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20160806	-
+9417	808344	ATP8	-	ATPase8	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20150626	-
+9417	808345	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20150626	-

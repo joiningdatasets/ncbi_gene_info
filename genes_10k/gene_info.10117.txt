@@ -1,13 +1,13 @@
-10117	7751799	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20150626
-10117	7751800	ND2	-	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20160924
-10117	7751801	COX1	-	COI	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20160924
-10117	7751802	COX2	-	COII	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20160716
-10117	7751803	ATP8	-	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20150626
-10117	7751804	ATP6	-	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20150626
-10117	7751805	COX3	-	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20160924
-10117	7751806	ND3	-	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20150626
-10117	7751807	ND4L	-	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20150626
-10117	7751808	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20160924
-10117	7751809	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20150626
-10117	7751810	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20160325
-10117	7751811	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20160924
+10117	7751799	ND1	-	-	-	MT	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20180205	-
+10117	7751800	ND2	-	-	-	MT	-	NADH dehydrogenase subunit 2	protein-coding	-	-	-	-	20180205	-
+10117	7751801	COX1	-	COI	-	MT	-	cytochrome c oxidase subunit I	protein-coding	-	-	-	-	20190525	-
+10117	7751802	COX2	-	COII	-	MT	-	cytochrome c oxidase subunit II	protein-coding	-	-	-	-	20180205	-
+10117	7751803	ATP8	-	-	-	MT	-	ATP synthase F0 subunit 8	protein-coding	-	-	-	-	20180205	-
+10117	7751804	ATP6	-	-	-	MT	-	ATP synthase F0 subunit 6	protein-coding	-	-	-	-	20180205	-
+10117	7751805	COX3	-	-	-	MT	-	cytochrome c oxidase subunit III	protein-coding	-	-	-	-	20180205	-
+10117	7751806	ND3	-	-	-	MT	-	NADH dehydrogenase subunit 3	protein-coding	-	-	-	-	20180205	-
+10117	7751807	ND4L	-	-	-	MT	-	NADH dehydrogenase subunit 4L	protein-coding	-	-	-	-	20180205	-
+10117	7751808	ND5	-	-	-	MT	-	NADH dehydrogenase subunit 5	protein-coding	-	-	-	-	20180205	-
+10117	7751809	ND6	-	-	-	MT	-	NADH dehydrogenase subunit 6	protein-coding	-	-	-	-	20180205	-
+10117	7751810	CYTB	-	-	-	MT	-	cytochrome b	protein-coding	-	-	-	-	20180205	-
+10117	7751811	ND4	-	-	-	MT	-	NADH dehydrogenase subunit 4	protein-coding	-	-	-	-	20180205	-

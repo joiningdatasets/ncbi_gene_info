@@ -1,1 +1,1 @@
-54131	24072687	NEWENTRY	-	-	-	-	-	Record to support submission of GeneRIFs for a gene not in Gene (Angola colobus; Angolan colobus).	other	-	-	-	-	20150407
+54131	24072687	NEWENTRY	-	-	-	-	-	Record to support submission of GeneRIFs for a gene not in Gene (Angola colobus; Angolan colobus).	other	-	-	-	-	20150407	-
